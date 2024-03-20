@@ -1,0 +1,8 @@
+# files
+.env
+
+
+# folders
+__pycache__/
+results/
+bin/
