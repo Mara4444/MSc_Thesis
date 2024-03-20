@@ -1,0 +1,536 @@
+"Response:  $32
+Explanation:
+Janet lays 16 eggs per day x 4 = 64 eggs sold per day.
+Selling price of each egg is $2, therefore total revenue from egg sales is $64 x 2 = $128 per day."
+Response: 4 bolts
+Response:  $35,000
+Response: 210 meters/week
+Response: 40 cups
+Response:  $80
+"Response: 156
+
+Solution:
+Let T be the number of sheep in Toulouse, C be the number of sheep in Charleston, and S be the number of sheep in Seattle. We know that:
+T = 2C
+S = 20
+Now we can use these two equations to find the total number of sheep in all three cities:
+T + C + S =?
+Using the first equation, we can rewrite the left-hand side as:
+T + C + S = 2(T + C)
+Substituting the value of T from the second equation, we get:
+T + C + S = 2(2C)
+Simplifying, we get:
+T + C + S = 4C
+Now we can substitute the values of T and C from the given information:
+Toulouse has 2 times as many sheep as Charleston, so T = 2C. Substituting this into the previous equation, we get:
+Toulouse + Charleston + Seattle = 4(2C)
+= 8C
+Seattle has 20 sheep, so S = 20. Substituting this into the previous equation, we get:
+Toulouse + Charleston + Seattle = 8C + 20
+= 156
+Therefore, the three cities together have 156 sheep."
+"Response: 1680 MB
+
+Solution:
+Carla starts downloading the file at a rate of 2 GB/minute, which means she will have downloaded 200 GB / 2 GB/minute = 100 minutes.
+
+Then, when Windows forces a restart to install updates, it takes 20 minutes for the restart and download process. Therefore, the total time taken to download the file after the restart is:
+
+100 minutes + 20 minutes = 120 minutes
+
+So, the load required to download the file after the restart is:
+
+Load = Total Time / Download Rate
+= 120 minutes / 2 GB/minute
+= 60 MB/minute
+
+Therefore, the load required to download the file is 60 MB/minute."
+Response: 175 miles.
+Response:  $490
+Response:  Total downloads = 60 + (3 x 60) - 20 = 180.
+Response:  The total cost was $417.
+Response: 4 years
+Response:  Melanie started with 15 vacuum cleaners (5 - 3/4 = 15).
+Response: 16%.
+Response:  $375
+Response: 2 x (80 + 150) = 460 mil
+Response:  $48,000
+Response:  Claire will eat 12 dozen eggs (or 96 eggs) in 4 weeks.
+Response: 6 miles/hour
+"Response: 23 liters.
+
+Solution:
+Let's start by identifying the amount of orange drink we have initially:
+
+Initially, we have 10 liters of orange drink (which is two-thirds water).
+
+Now, let's find out how much water is in the orange drink:
+
+Since the orange drink is two-thirds water, the water content is:
+
+2/3 x 10 = 6.67 liters (water)
+
+So, the total volume of the orange drink is:
+
+10 + 6.67 = 16.67 liters
+
+Next, let's find out how much water is added from the pineapple drink:
+
+The pineapple drink is three- fifths water, so the water content is:
+
+3/5 x 15 = 9 liters (water)
+
+So, the total volume of the combined drinks is:
+
+16.67 + 9 = 25.67 liters
+
+Finally, let's subtract the liter that was spilled:
+
+25.67 - 1 = 24.67 liters
+
+Therefore, there are 24.67 liters of water in the remaining drink."
+Response: 48
+Response: 40 DVDs
+Response: 4 cm
+Response:  $24.75
+Response:  Marie ordered 5 boxes of pizza.
+Response:  Mishka spent a total of $178.50 on all the clothing items.
+Response:  $24.00
+Response: 30 miles
+Response:  The boots cost $42.
+Response: 48 tahun
+Response:  The average guess of Gunter's friends is 140 jelly beans (80 + 20 + 25%).
+"Response: 20 hours/week.
+
+Reasoning:
+John takes care of 10 dogs, which means he spends time walking and caring for each dog every day. Since it takes.5 hours per dog per day, John spends 10 dogs x.5 hours = 5 hours per day on dog care. Therefore, John spends 5 hours/day x 7 days/week = 35 hours/week taking care of the dogs."
+Response:  Gretchen has 42 gold coins.
+Response:  Siobhan has 38 jewels.
+"Response: 80
+
+Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points, so in this time period, he scored a total of 4 x 20 = 80 points."
+Response:  $15.00
+Response:  John still has 4 Lego sets after selling all of them.
+"Response: 12 min/mile
+
+Solution:
+Let's break down the information given in the problem:
+
+* John runs 60 miles per week.
+* He runs 3 days a week.
+* On the first day, he runs for 3 hours.
+* On the other two days, he runs for half as much time as on the first day.
+
+So, if he runs for x hours on the second day, he will have covered 60 / 2 = 30 miles.
+And if he runs for y hours on the third day, he will have covered 60 / 3 = 20 miles.
+
+Now, we need to find out how fast John runs. Let's use the formula:
+Speed = Distance / Time
+
+For the first day, Speed = 30 miles / 3 hours = 10 min/mile
+For the second day, Speed = 20 miles / 2 hours = 10 min/mile
+For the third day, Speed = 20 miles / 1 hour = 20 min/mile
+
+Therefore, John runs at an average speed of 12 min/mile."
+Response: 60 miles
+Response: 4 x (2 + 1) = 8 tahun
+Response: 350 feet
+Response: 190
+Response: 470 gram
+Response:  $48.00
+"Response: 10 hours.
+Explanation:
+Meredith wrote 5 articles on Monday, which means she spent 5 x 4 = 20 hours researching and writing those articles.
+On Tuesday, she wrote 2/5 times more articles than on Monday, which means she wrote 2/5 x 5 = 7 articles. She spent 7 x 4 = 28 hours researching and writing those articles.
+On Wednesday, she wrote twice the number of articles she wrote on Tuesday, which means she wrote 2 x 7 = 14 articles. She spent 14 x 4 = 56 hours researching and writing those articles.
+Therefore, the total number of hours Meredith spent writing articles in the three days was 20 + 28 + 56 = 104 hours."
+Response: 100
+Response:  $360
+Response: 12
+"Response: 20 unit
+Explanation:
+From the given information, we know that there are 15 floors in the apartment building and each floor has 8 units. Therefore, the total number of units in the building is 15 x 8 = 120 units.
+Since 3/4 of the building is occupied, the number of unoccupied units can be calculated as follows:
+1 - (3/4) x 120 = 20 units
+Therefore, there are 20 unoccupied units in the building."
+"Response:  Lloyd makes $101 per week from his egg farm.
+
+Perlu diingat bahwa jawaban yang benar adalah $101, bukan $102 karena itu adalah dolar per minggu (week) dan not dollar per hari (day)."
+Response:  It will take Tom 2 hours to get back.
+Response: 60 toys
+Response:  The mechanic earned $320 more in revenue on Friday compared to Thursday.
+Response: 49 kittens
+Response: 15 bags
+Response:  Peter can go to the movies 6 times if he has 42 dollars for the week.
+Response: 480 box (15 lb/box x 480 = 6720 lb)
+Response:  $47.00
+Response:  Total number of raspberries = Number of clusters x Number of fruits per cluster + Number of individual fruits.  In this case, the answer is: Total number of raspberries = 6 clusters x 20 fruits/cluster + 67 individual fruits = 134 raspberries.
+"Response:  Good oranges = x Oranges.
+
+Soalan:  A basket contains 25 oranges among which 1 is bad, 20% are unripe, 2 are sour and the rest are good. How many oranges are good?
+
+Jawaban: Good oranges = 20 Oranges (since 80% of the oranges are good)"
+Response:  $2300
+Response:  $67,500/tahun
+Response:  The total amount Aleena had paid for the streaming service by the end of the year is $140 x 6 = $840.
+Response: 375 miles
+"Response: 168 hours
+
+Jim spends 2 hours watching TV and then decides to go to bed and reads for half as long.  He does this 3 times a week.  In one week, how many hours does he spend on TV and reading?
+Berdasarkan soalan, formulakan jawaban berangka.  Jawapan:  6 hours (2 x 3)"
+"Response: 16 + 10 + 4 = 30 orang.
+Explanation:
+There are 4 schools participating in the tournament, each with a girls' basketball team and a boys' basketball team. Therefore, the number of people from each school is:
+
+* Number of players on each team = 5 x 2 (girls' and boys' teams) = 10 players per school
+* Total number of players = 10 x 4 schools = 40 players
+* Plus, there are 4 coaches, one for each school.
+
+So, in total, all 4 schools have sent 40 players and 4 coaches to the tournament."
+"Response: 200
+Explanation:
+Let's assume that the total number of gems in the chest is x. Since there are 175 diamonds, we know that x - 175 = 35 (the number of rubies). Also, since there are twice as many emeralds as rubies, the number of emeralds is 2(35) = 70. Therefore, the total number of gems in the chest is x = 200."
+Response:  There are 30 teachers at Dr. Wertz's school.
+Response:  Bailey started with $60.
+"Response:  Judy makes $750.00 per week.
+
+Judy teaches 5 dance classes every day on weekdays and 8 classes on Saturdays. There are 15 students in each class, and she charges $15.00 per student.
+
+Total number of classes taught by Judy per week = 5 + 8 = 13 classes
+Total number of students attended Judy's classes per week = 15 x 13 = 195 students
+Total amount of money earned by Judy per week = 195 x $15.00 = $2,825.00
+
+Therefore, Judy makes $2,825.00 per week."
+Response: 40 instruksi
+Response:  $195
+Response:  RM... per bulan.
+Response:  $53.60
+Response: 8
+Response: 36 bags (of dog food)
+Response: 250 pounds
+Response:  $4.50
+Response:  $70
+Response: 8 liters
+Response:  Charlie has 28 stickers left.
+Response: 300 lb.
+Response: 100
+Response: 40
+"Response: 168
+
+Reasoning:
+Gene has been on vacation every year for the past 13 years (from age 23 to 34). Since each vacation provides him with an old souvenir t-shirt that becomes a quilt block, we can calculate the number of quilt blocks as follows:
+
+Number of quilt blocks = Number of years x Number of vacations per year
+= 13 x 4
+= 52
+
+Therefore, Gene has 52 quilt blocks in total."
+Response: 12
+Response:  $720
+Response: 27,640
+"Response:  $38
+
+Solution:
+Let x be the number of guests who attend the party. Since 1/4 of attendees don't show up, the actual number of guests is 4x.
+Gift bags needed = (4x) × 0.75 = 3x
+Total cost of gift bags = 3x × $2 = $6x
+Christina spends = $6x - $2 = $4x
+Therefore, Christina spends $4x on gift bags."
+Response: 40 lb (pounds)
+Response: 3 x = 12
+Response:  Jackson is 7 years old.
+Response: 42.6
+Response: 120
+Response: 160
+"Response: 6
+Explanation:
+Harry slept for 9 hours, which means he slept x hours more than James. Since James slept only 2/3 of what Harry slept, we can set up the equation:
+x = (9 - 2/3) = 6
+Therefore, Harry slept 6 hours more than James."
+Response: 4 tomatoes
+Response: 15 cars drove through the traffic jam in the first 15 minutes.
+Response:  Mary will remain with 36 potted plants (18 + 2 x 40).
+Response: 384
+Response: 36pages/day
+Response: 5 x 7 = 35 glasses of water per week.
+Response: 560 minutes (90 menit)
+Response: 400 piece
+Response: 10
+Response:  Total inner volume of all 3 boxes = (L x W x H) x 3 = 270 cubic inches.
+Response: 4
+Response: 2 x (last year's number of cookies) = 3x(number of cookies after baking + number of cookies dropped).  Last year, Henry baked 60 cookies.
+Response:  After using the cashback reward, the cost of 10 gallons of gas will be $28.00 (=$3.00 x 10).
+Response:  Average number of fruit roll-ups eaten = (Beatrice's total area x Marcell's total area) / (Beatrice's total area + Marcell's total area).  In this case, Beatrice's total area is 24 x 14 = 336 square units, and Marcell's total area is 3 x 14 = 42 square units. Therefore, the average number of fruit roll-ups eaten by Beatrice and Marcell is 336 / (336 + 42) = 59.78.
+Response: 20 liter
+Response:  The whiteboard is cleaned 12 times per day (4 teachers x 2 lessons/day x 3 cleans per lesson = 12 cleans per day).
+Response: 30
+Response: 320
+"Response:  Profit = (Selling price of lumber - Cost of lumber) x Quantity sold
+Profit = ($18 x 5) + ($20 x 5) = $90 + $100 = $190
+Therefore, Sasha makes a total profit of $190 from selling all of her leftover lumber."
+Response: 168 teaspoonfuls of sugar
+Response:  $180
+Response: 4
+Response:  $62500
+Response:  Miguel uses 60 sheets of paper every month (2 x 30 = 60).
+Response: 13 + 20 = 33 fruits.
+Response: 40 hours
+Response:  Rosie can run 42 miles (10 x 3) + 17 miles (5 x 7).
+Response: 40
+Response:  Julia bukanlah yang membeli bahan-bahan untuk makan malamnya, melainkan hanya menggunakan bahan-bahannya sendiri seperti stew dan spoons. Oleh karena itu, Julia tidak perlu membeli bahan-bahan baru lagi.  Jawaban: 0
+Response: 44
+Response: 40
+Response:  RM...
+"Response:  $37,500 per hari.
+Explanation:
+The total number of minutes seen by the patients in one day is 500 x 24 = 12,000 minutes.
+Since each doctor charges $150/hour, the total amount charged by the doctors to the hospital is 12,000 minutes / 60 (minutes/hour) = $200,000 per day.
+Since the hospital charges the patients $200/hour, the total amount collected from the patients is 12,000 minutes / 60 (minutes/hour) = $200,000 per day.
+Therefore, the profit made by the hospital per day is $200,000 - $200,000 = $0.
+So, the answer is $0 per day."
+"Response: 40 elves.
+Explanation:
+Nissa hires 60 seasonal workers as elves in her department store's Santa village.
+A third of the elves quit after children vomit on them, which is 20 elves (3/60).
+Then, 10 more elves quit after kids kick their shins, leaving 50 elves (50-20=30).
+Therefore, there are 40 elves left (30-10=40)."
+Response:  Total expenditure of Joseph for May and June is $500 + ($60 - $50) = $510.
+Response: 18 tickets
+Response: 28 miles
+Response:  RM480/tahun (RM15 x 4 car washes/bulan)
+Response: 18
+Response: 15
+Response:  Rory's delivery order will cost $34.90 ($7.50 x 2 subs + $1.50 x 2 bags of chips + $1.00 x 2 cookies = $28.00 + $6.90 delivery fee + $5.00 tip = $34.90).
+Response: 25
+Response: 48
+Response: 30%
+Response: 1400
+Response:  Jordan will earn $40 per week if he spends his video game time working instead of playing video games for 2 hours every day.
+Response: 56.79 dollar.
+Response:  $46
+Response: 400 pineapples.
+Response: 2700.
+Response: 45
+Response:  $10
+Response:  James has 48 Facebook friends.
+Response:  The winner will wait for 15 minutes (3 miles / 440 ft/min = 6.83 min) before the loser finishes the race.
+"Response:  $10.75
+
+Solution:
+The total number of tires inflated = Number of bicycles + Number of tricycles + Number of unicycles
+= 5 (bicycles) + 3 (tricycles) + 1 (unicycle)
+= 9 tires
+
+Each tire costs $0.25, therefore the total amount earned from inflating tires = Total number of tires x Price per tire
+= 9 tires x $0.25
+= $2.25
+
+So, Shawnda made $2.25 that day."
+Response:  $4
+"Response: 42
+
+Reasoning:
+
+1. The seagull ate half of the fries that Dave ate, which is 14/2 = 7 fries.
+2. Three pigeons bullied the seagull away from the food, and each pigeon ate 3 fries. Therefore, the total number of fries eaten by the pigeons is 3 x 3 = 9 fries.
+3. A raccoon stole 2/3 of the remaining fries, which is equal to 5/3 = 16 fries (since there are 5 fries left).
+4. Finally, ants carried off one fry, leaving 5 - 1 = 4 fries.
+
+Therefore, the total number of fries in the pack when Dave bought it is 42 (4 x 10 = 40 + 2)."
+Response: 3 x 4 = 12 jam/hari (untuk hari yang tidak sama) + 2 x 8 = 16 jam/hari (untuk hari yang sama) = 32 jam/semester
+Response:  The baked goods will be 60 + 120 + 300 = 580 feet long if Bill puts them end to end.
+Response:  To last for 2 months, the zookeeper needs to order  600 + 800 = 1400 bananas.
+Response:  The winner (Kelly) runs 480 yards (34 x 15 = 490), while the loser (Blake) runs 600 yards (15 x 40 = 600). Therefore, the winner runs 220 yards more than the loser.
+Response:  Raphael spent $39 on everything.
+"Response: 9
+Sebab:  Finn can see 11 tadpoles swimming in the pond initially. Then, 6 of them come out of hiding from under a lily pad, leaving 5 tadpoles still swimming in the pond. Later, 2 more tadpoles hide under a rock, bringing the total number of tadpoles that Finn can see to 9."
+Response:  Water depth on Wednesday = (2/3) x (depth on Tuesday + 7 feet) = (2/3) x 24 + 7 = 16.5 feet
+Response: 48
+Response:  After 36 months, a bag of marbles will cost $48.
+Response: 108
+"Response:  $128
+
+Solution:
+Let's first calculate the total cost of doing the taxes yourself:
+
+Time spent on taxes = 3 hours x $35/hour = $105
+
+Now let's calculate the total cost of hiring an accountant:
+
+Cost of hiring an accountant = $90
+
+So, if Jackie hires an accountant, she will save $105 - $90 = $15.
+
+Therefore, by hiring an accountant, Jackie will have $15 more than if she did her taxes herself."
+Response:  €68
+"Response: 5
+
+Explanation:
+Sandra needs 3 eggs per Spanish flan, and she wants to make 15 Spanish flans in total. Therefore, she needs 15 x 3 = 45 eggs. Since her neighbor gives her 9 eggs each time she babysits their daughter, Sandra will need to babysit their daughter 45 / 9 = 5 times."
+Response:  Seth is 16 years old.
+Response:  $16
+Response: 40 miles/week
+Response:  Total cost per uniform = ($25 + 3(x)) where x = cost of jacket.  Therefore, total cost per uniform = ($25 + 3x).
+Response: 2540 legs
+Response: 140 years
+Response:  Jessica pays $1687 per month (50% more than the minimum). In a year, she pays $19,444 ($1687 x 12 months).
+"Response: 18 minutes
+
+Explanation:
+To find out how long it will take Billy to prep all 60 potatoes, we need to multiply the time it takes him to peel and cut each potato by the number of potatoes he needs to prepare. Since it takes Billy about a minute and a half to peel a potato (180 seconds), and only about 5 seconds to cut it up, it will take him approximately 18 minutes to finish prepping all 60 potatoes (60 x 180 = 10,800 seconds)."
+Response:  $18
+Response: 30
+Response: 5800$.
+Response: 56
+Response:  $40
+Response: 25
+Response: 400 red roses
+Response: 24
+Response: 15 seconds
+Response: 40%
+Response:  They picked a total of 40 apples.
+Response: 4 rats per cage
+Response:  RM108
+Response: 15 bags
+Response:  Each friend paid $71.88 ($20.25 + $4.50 - $33).
+Response: 60 peaches.
+Response: 10 x 3.5 = 35 pounds/day
+Response: 40 trees.
+Response: 36
+Response:  $18
+Response: 8 pens will cost $9.60.
+"Response: 196 pounds of carrots will not be used.
+Explanation:
+Total amount of carrots = 200 pounds
+Number of restaurants = 40
+Amount of carrots each restaurant receives = 2 pounds
+Therefore, total amount of carrots that will not be used = Total amount of carrots - Amount of carrots each restaurant receives x Number of restaurants = 200 pounds - (2 pounds x 40) = 196 pounds
+
+So the answer is 196 pounds of carrots will not be used."
+Response:  There are 5679 children in Soda.
+Response: 460
+Response:  $50
+Response:  Baldur gets 25 liters of water every day (5 liters x 5 pails/morning + 6 liters x 6 pails/afternoon).
+"Response:  $104,000
+
+Reasoning:
+The award includes a one-time monetary reward of $5000, which is added to John's annual salary. Since the award was given on the first day of the year, John received the entire amount of $5000 as soon as he received the award. Therefore, his total annual salary for the year is:
+
+$2000 x 52 weeks = $104,000 (including the $5000 from the award)"
+Response: 50 barrels/year
+Response:  Carl used 24 slices of cheese throughout the week (6 slices/day x 3 meals/day + 1 slice/omelet x 3 days = 24 slices).
+"Response: 38
+
+Solution:
+Let's first find out how many blue pens Janet has after buying the 6 bags of blue pens.
+
+Number of blue pens in each bag = 9 pens/bag x 6 bags = 54 blue pens
+
+Now, let's add the number of blue pens Janet already had to the number of blue pens she just bought:
+Total number of blue pens = 22 green pens + 54 blue pens = 76 blue pens
+
+Similarly, we can find out how many red pens Janet has by adding the number of red pens she already had to the number of red pens she just bought:
+Total number of red pens = 10 yellow pens + 2 bags of red pens (each with 6 pens) = 18 red pens
+
+So, Janet has a total of 76 blue pens and 18 red pens, which means she has 94 pens in total."
+Response:  Brinley needs a score of at least 95 on the sixth test to get an average of 93.
+Response:  Total distance traveled by Michael is 170 km (5 x 25 km + 3 x 60 km).
+Response: 1900g
+Response: 20 cakes
+Response: 480 dolar
+Response:  Sara must mow the lawn 8 times.
+Response:  Jerry has 16 red chickens.
+Response:  Gary will spend 2 hours walking if he walks at 3 miles per hour around the edge of the local park.
+Response: 300
+"Response: 20 gallon
+
+Explanation:
+Let's call the amount of water in the small pool x gallons. Since the big pool had twice as much water as the small pool, the amount of water in the big pool is 2x = 80 gallons (since it took 4 minutes to fill). Now, since the big pool has four times as much water as the small pool, the amount of water in the small pool is 1/4 = 5 gallons. Therefore, the small pool has 5 gallons of water now."
+Response: 160 jam
+Response:  $875
+"Response:  Total number of flowers in the vase = Number of roses + Number of dahlias
+= 4 + (7 - 4)
+= 15
+Therefore, there are 15 flowers in the vase in total."
+Response: 35 tahun
+Response:  Jojo scored 93 points.
+Response:  Carmen spent 70 minutes playing crossword puzzles and 40 minutes playing sudoku puzzles over the weekend.
+Response:  The amount of water left in the tank after Celine used 90 liters is 30 liters (120 - 90 = 30). Then, when she collected rainwater that is twice as much as what was left, the total amount of water in the tank would be 60 liters (30 + 2 x 30 = 60). Therefore, there are 60 liters of water in the tank now.
+"Response: 130
+Reasoning:
+Andy plants 90 geraniums, which means he has 90 - 40 = 50 more petunias than geraniums. Therefore, the total number of flowers planted by Andy is 90 + 50 = 140 flowers."
+Response:  $24000
+Response:  $64 + $90 = $154
+Response: 4 days
+Response:  ___________%.
+Response:  $8.75
+"Response: 5 hours
+
+Explanation:
+Kalinda can add 4 pieces per minute, so she can complete 24 pieces in 1 hour (4 x 6).
+Since her mom can only place half as many pieces per minute as Kalinda, her mom can complete 12 pieces in 1 hour (24 / 2 = 12).
+To find out how long it will take them to complete the 360-piece puzzle, we need to divide the total number of pieces by their combined rate of completion:
+(360 pieces) / (4 pieces/minute + 12 pieces/hour) = 90 minutes or 5 hours."
+"Response: 60
+
+Explanation:
+Let's break down the information given in the problem:
+
+* The farm produced 120 baby watermelons.
+* After two months, Ashlyn went to the farm and found out that 30% of the watermelons were ready for harvest, which is 36 (30% of 120).
+* Two weeks later, when Ashlyn returned, 3/4 of the remaining melons were ready, which is 90 (3/4 of 36).
+* Therefore, there were 36 - 90 = 54 watermelons left on the farm that were not ready to be harvested after the two weeks.
+
+So, the answer is 54."
+"Response:  $34,800.
+
+Mark buys a fleet of 12 cars for his company. Each car sells for $20,000. He pays 10% tax on the cars and then another $1000 for registration on each of them. How much does he pay for everything?
+
+Let's break down the costs:
+
+* Cost of cars = 12 x $20,000 = $240,000
+* Tax on cars = $240,000 x 10% = $24,000
+* Registration fee on cars = $240,000 x $1000 = $24,000
+
+Total cost = $240,000 + $24,000 + $24,000 = $348,000
+
+Therefore, Mark pays $348,000 for everything."
+Response: 35
+Response: 125
+Response: 24
+Response: 4 vines.
+"Response: 5 pizzas.
+
+Reasoning:
+To determine how many pizzas John needs to order, we must divide the number of friends by the number of slices per pizza. Since there are 20 friends and each friend will get 4 slices, John needs to order pizzas that can provide 20 x 4 = 80 slices. However, since pizzas are only sold in 8 portions, John needs to order 80 / 8 = 10 pizzas. Therefore, John needs to order 5 pizzas."
+Response: 125 pence
+Response:  $60 + $30 = $90
+Response: 40 + 5 = 45
+"Response: 267
+
+Solution:
+Let X be the total number of students who went out through all three exits (A, B, and C).
+From the problem statement, we know that 30% of the students went out through exit A, so the number of students who went out through exit A is 30%.
+The remaining students are 70%, which is equal to 1 - 0.3 = 0.7.
+Now, 3/5 of the remaining students went out through exit B, so the number of students who went out through exit B is 0.7 x 3/5 = 0.42.
+The remaining students go out through exit C, so the number of students who went out through exit C is 0.7 x 0.6 = 0.42.
+Therefore, the total number of students who went out through all three exits is X = 0.3 + 0.42 + 0.42 = 267."
+Response: 28
+Response: 4
+"Response: 48 jam.
+Mike has been a penpal with 5 people for the past year. Each person sends 2 letters per week, and Mike replies to each letter in kind. If it takes him 1 minute to write a page, how many hours does he spend writing each week?"
+Response: 2700 minutes
+Response: 28
+Response:  Let's call the number of fish in the first aquarium x. Since there are 4 snails in the first aquarium, the total number of living organisms (fish + snails) is 4x. In the second aquarium, there are 32 snails, so the total number of living organisms is 32(=16) + x = 58. To find out how many fish are in each aquarium, we can set up the equation: 4x = 58. Solving for x, we get x = 14. Therefore, there are 14 fish in the first aquarium and 16 fish in the second aquarium.
+"Response:  $3875.
+Jeans pays $3875 for the makeup services provided by the artist over the course of 5 weeks. This calculation is based on the following steps:
+
+* Hourly rate = $250/hour x 4 days/week = $1000/week
+* Total cost for 5 weeks = $1000/week x 5 weeks = $5000
+* Discount given after completion of movie = $5000 x 10% = $500
+* Final cost paid by Jean = $5000 - $500 = $4500
+
+Therefore, Jean pays $4500 for the makeup services provided by the artist over the course of 5 weeks."
+Response:  Each person paid $70.
+Response:  $700
+Response:  Sue consumed 800 more calories than her sister.

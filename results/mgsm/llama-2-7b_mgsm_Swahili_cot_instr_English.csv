@@ -1,0 +1,610 @@
+"Response: 
+Janet buys 16 kilograms of rice per week at $2 per kilogram. How much does she spend on rice every day?
+To find out how much Janet spends on rice every day, we need to divide the total amount she spends on rice per week ($32) by the number of days in a week (7). So, Janet spends $4.57 on rice every day ($32 / 7 = $4.57)."
+"Response:  The number of times ""komeo"" appears in the question is 3. Therefore, if we multiply it by 2, we get 6. So, the answer is 6."
+"Response:  The cost of building a house is $80,000 and you want to make a profit of $50,000 after selling it. If we calculate the percentage increase in price as follows:
+Percentage Increase = (Selling Price - Cost Price) / Cost Price x 100
+= ($50,000 - $80,000) / $80,000 x 100
+= -37.5%
+So, the profit made from selling the house will be:
+Profit = Selling Price - Cost Price
+= $50,000
+Therefore, the faida ya kiasi gani is $50,000."
+Response:  We are given that there are 3 fupi in each mara and we have to find out how many fupi there are in total. So, if there are 3 fupi in each mara, then there will be 3 x 60 = 180 fupi in total. Therefore, the answer is 180 fupi.
+"Response:  We are given that there are 15 pieces of fried chicken in total and we want to know how many pieces will be left after Wendi has eaten 2/3 of them. To find out, we can multiply the number of pieces of fried chicken by 2/3. So, the number of pieces of fried chicken that Wendi will eat is:
+
+15 x (2/3) = 10
+
+So, after Wendi has eaten 2/3 of the fried chicken, there will be 5 pieces left (15 - 10 = 5)."
+Response:  The total amount of money that Kylar has is $5000. If he gives away 60% of it to his friends, then the amount he will have left is: $5000 x (1 - 0.6) = $3500. So, Kylar will be left with $3500 after giving away 60% of his money to his friends.
+Response:  The number of people in Toulouse is 4 times that of Charleston, which means there are 4 x 15 = 60 people in Toulouse for every person in Charleston. Therefore, if there are 30 people in Seattle, then there are 30 / 60 = 0.5 (or half) as many people in Seattle as in Toulouse. So, the answer is 20.
+"Response:  We know that Carla can make 200 bricks per hour (GB 200). However, she is only able to work for 40% of the total time available each day (akiwa 40% ya upakuaji), which means she has 8 hours of working time per day (kwa kawaida anaweza kupakua GB 2 kila dakika). Therefore, her daily production would be:
+Daily Production = Total Working Time x Production Rate per Hour
+= 8 hours/day x 200 bricks/hour
+= 1600 bricks/day
+Now, we are asked how many bricks Carla will produce in one week if she works for 5 days. So, let's calculate it:
+Weekly Production = Daily Production x Number of Days Worked
+= 1600 bricks/day x 5 days/week
+= 8000 bricks/week
+Therefore, Carla will produce 8000 bricks per week if she works for 5 days."
+Response:  We are given that there are 60 people living in a village and they want to divide themselves into groups of 10 so that each group has roughly equal numbers of men and women. The total number of groups required will be 60/10 = 6. Now we are asked how many people will be left over after dividing the remaining population (which is 60 - 6 x 10 = 40) among these six groups. Therefore, the number of people who will be left over is 40 / 6 = 7. So, there will be 7 people left over after dividing the remaining population among the six groups.
+Response:  According to the problem, Eliza earns $10 per hour and works for 40 hours in one month (which is equal to 1680 minutes). Therefore, her total earnings in one month are: $10 x 40 = $400. Now, let's calculate the number of minutes she worked in one month: $1680 / 60 = 2792 minutes. So, if Eliza works for 1.2 times more than the usual time, then she will work for: 2792 x 1.2 = 3359 minutes.
+Response:  We are given that in January there were 150 students and after 4 months (June), the number of students increased to 210. Now we need to find out how many students dropped out between June and December. According to the question, 30% of the students who enrolled in January dropped out by the end of June, which means that 45 students dropped out (30/100 x 150 = 45). So, the total number of students who remained in school until the end of December is 210 - 45 = 165.
+Response:  The total number of vouchers is 10 (dzeni 1-10). Each voucher has a value of $68 or $80 depending on its position in the series. Therefore, the total value of all vouchers can be calculated as follows: V = ∑(n=1 to 10) x nC9 x (68/n) or (80/n), where C9 represents the binomial coefficient for 9 choices. Substituting the values, we get V = 10! × 9! × (68/10)^9 + (80/10)^9 = approximately $744. So, the answer is $744.
+Response:  The amount of water sold per month is given as 7, and the price per liter is $1.5. So, the total revenue from selling water in one month is: Total Revenue = Number of Liters Sold x Price Per Liter = 7 x $1.5 = $10.5. Now, we are asked to find out how much money will be earned after selling water for 5 years. To do this, we need to multiply the total revenue by 5 (the number of years). Therefore, the total earnings after selling water for 5 years are: Total Earnings = Total Revenue x Number of Years = $10.5 x 5 = $52.5.
+"Response: 
+Melanie has 10 rooms in her house and she wants to allocate them equally among her 5 children. Each child will get 2 rooms each. So, the allocation of rooms is as follows:
+Room 1: Child 1 (2 rooms)
+Rooms 3-4: Child 2 (2 rooms each)
+Room 5: Child 3 (1 room)
+Room 6-8: Child 4 (2 rooms each)
+Room 9: Child 5 (1 room)
+Room 10: None (no one gets this room).
+Therefore, the total number of rooms allocated to each child is 2 + 2 + 1 + 2 + 2 = 10."
+Response:  We are given that out of 100 students, 20 students failed in mathematics, and 25 students passed with distinction. So, the total number of students who passed with distinction is 25/100 = 0.25 x 100 = 25. Therefore, the percentage of students who passed with distinction is 25%.
+Response:  If you invest $5,000 in stock A and make a profit of 2.5%, your return will be $125 (2.5% x $5,000). On the other hand, if you invest $8,000 in stock B and make a profit of 1.2%, your return will be $96 (1.2% x $8,000). So, the total profit from both investments is $211 ($125 + $96). Therefore, the advantage of investing more money in either stock is that you can earn a higher total profit.
+Response:  The first train has 80 passengers and travels for one day (24 hours). Therefore, it covers a distance of 80/6 = 13.33 miles per hour. Now, let's calculate the distance traveled by the second train during its journey of two days (48 hours): 150 / 6 = 25 miles per hour. So, the total distance covered by both trains is: 13.33 + 25 = 38.33 miles.
+"Response: 
+Jill earned $20 per hour and worked for 50 hours in total during the year. Therefore, her total earnings are:
+$20 x 50 = $1000
+However, she also spent $30 per month on rent, which is equivalent to $360 per year (since there are 12 months in a year). So, her total expenses are:
+$360
+Now, let's calculate her savings:
+Total Earnings - Total Expenses = Savings
+$1000 - $360 = $640
+Therefore, Jill saved $640 during the year."
+"Response:  The number of days in a week is 7, so we have:
+Mayai 1 = 7 days
+Mayai 2 = 14 days (since there are 2 weeks)
+Mayai 3 = 21 days (since there are 3 weeks)
+So, Mayai 4 has 28 days."
+Response:  We are given that there are 12 marbles in the first jar and 4 marbles in the second jar. If we want to know how many marbles there will be in total after combining both jars, we can use the following formula: Total number of marbles = Number of marbles in the first jar + Number of marbles in the second jar. Substituting the values given in the question, we get: Total number of marbles = 12 + 4 = 16 marbles. Therefore, there will be 16 marbles in total after combining both jars.
+Response:  We are given that there are 10 liters of water in a container and we want to know how much water will be left after pouring 15 liters from one container to another. So, initially, we have 10 liters - 15 liters = -5 liters (since we cannot have more water than what is originally present). Now, let's find out how many liters of water will be left after pouring 24 liters from the second container into the first one. So, initially, we have -5 liters + 24 liters = 19 liters. Therefore, the final amount of water left in the first container after pouring 24 liters from the second container is 19 liters.
+"Response:  According to the information provided in the question, we know that:
+Raymond is 6 years old when Samantha was born.
+Samantha is currently 31 years old.
+So, if Raymonnd was 6 years old when Samantha was born and she is now 31 years old, then he must be 37 years old now (31 - 6 = 35)."
+"Response:  We are given that there are 8 days in January and we want to know how many DVDs Billy can buy with $100. So, let's calculate as follows:
+
+Number of DVDs = Total amount / Price per DVD
+= $100 / $5 (price per DVD)
+= 20 DVDs
+Therefore, Billy can buy 20 DVDs with $100."
+"Response:  The time frame given is from 7am to 11am. So we have 4 hours. Now let's calculate how many minutes are there in 4 hours. There are 60 minutes in an hour so; 4 x 60 = 240 minutes. Therefore, there are 240 minutes between 7am and 11am."
+Response:  The cost of the book is $19.50 and there is a discount of 25%. So, we need to calculate how much the discount will be. Discount = Cost x Percentage of discount = $19.50 x 25% = $4.875 Now, let's find out how much the book costs after applying the discount. New price = Original price - Discount = $19.50 - $4.875 = $14.625 Therefore, the new price of the book after applying the discount is $14.625.
+Response:  We know that Marie has spent $12 for one large pizza and $3 for five small ones. Therefore, she has spent a total of $12 + $3 = $15. Now we are asked to find out how much money Marie will spend if she buys four medium-sized pizzas at $1.50 each. So, the total amount she will spend is $1.50 x 4 = $6. Then we subtract the amount she has already spent ($15 - $6) which gives us $9. So, the remaining amount Marie will have after buying four medium-sized pizzas is $9. Finally, we multiply this amount by eight to get the total amount Marie will have after buying eight medium-sized pizzas, which is $9 x 8 = $72.
+"Response:  We have three types of captures (jozi 1, jozi 2, and jozi 3), each with its own price ($16.50, $22.50, and $42). To calculate the total cost of all captures, we multiply the number of each capture type by its corresponding price:
+Jozi 1 x $16.50 = $16.50
+Jozi 2 x $22.50 = $45.00
+Jozi 3 x $42.00 = $168.00
+Adding up these amounts gives us the total cost of all captures: $168.00 + $45.00 + $16.50 = $279.50. Therefore, the answer is $279.50."
+Response:  The number of days is 60 and each day has 24 hours. So, in total, there are 60 x 24 = 1440 hours in 60 days. Now, let's calculate how much money will be earned after 60 days as follows: Total amount earned = Number of days x Hours per day x Price per hour = 1440 hours x $4.00/hour = $5760. Therefore, after 60 days, the total amount earned will be $5760.
+"Response: 
+Mara ya kwanza = 60
+Mara ya pili = 15
+Time taken to complete safari = 4 days (as stated in the question)
+Now let's calculate the number of hours spent on each day of the safari:
+Day 1: Mara ya kwanza / 4 days = 15 hours/day
+Day 2: Mara ya pili / 4 days = 3.75 hours/day
+Day 3: Mara ya kwanza / 4 days = 15 hours/day
+Day 4: Mara ya pili / 4 days = 3.75 hours/day
+Total hours spent on safari = 15 + 3.75 + 15 + 3.75 = 48 hours
+Therefore, the total time spent on the safari is 48 hours."
+"Response:  The total amount of money that Gloria has is $100. She wants to divide it equally among her five children, so each child will get $20. However, she also wants to give something extra to her youngest child, who is only five years old, so she decides to give him $5 more than the other four children. Therefore, the amount of money that Gloria gives to each child is:
+$100 (total) - $20 (for each of the four older children) + $5 (extra for the youngest child) = $65 per child."
+Response:  The time is 7:11 and we want to know how many hours have passed since Allen was born. If Allen was born 10 years ago, then he was born at 7:11 AM + 10 years = 8:11 AM. So, in total, 1 hour has passed since Allen was born.
+Response:  The total number of friends who liked the post is 80. Out of these, 20 are fake accounts that have not been reported. So, the actual number of real friends who liked the post is 60 (80 - 20). Now, if we calculate the percentage of real likes out of the total number of likes, it will be 75% (60/80) x 100 = 25%. Therefore, the wastani ya kisio lao is 25%.
+"Response:  We are given that there are 10 cats and each cat has 5 kittens per day. So, in one week (7 days), we have:
+
+10 cats x 5 kittens/day = 50 kittens/week
+
+Now, let's calculate how many kittens will be born in a year (365 days):
+
+50 kittens/week x 52 weeks/year = 2604 kittens/year
+
+Therefore, based on the information provided, there will be approximately 2604 kittens born every year."
+Response:  We are given that Gretchen has 110 kuna and she spent 30 kuna for something else. So, the amount of money left with her is 110 - 30 = 80 kuna. Now, we are asked how much more than 80 kuna Gretchen has in total. To find this out, we need to add 80 kuna to itself, which gives us 80 + 80 = 160 kuna. Therefore, Gretchen has 160 kuna in total.
+Response:  We are given that Aaron has $2 more than Vito and Vito has $1 more than Siobhan. So, if Vito has $x, then Aaron has $2 + x = $3x. Similarly, if Siobhan has $y, then Vito has $1 + y = $1y. Now we know that Aaron has $3x and Vito has $1y. Therefore, Siobhan has $3x - $1y = $2x$.
+"Response: 
+Mike spent Kshs 40 in total. In 20 minutes (Kshs 20), he spent Kshs 8 (alama 4). So far, he has spent a total of Kshs 48 (Kshs 40 + Kshs 8).
+In another 20 minutes (Kshs 20), he spent Kshs 16 (alama 25%). So far, he has spent a total of Kshs 64 (Kshs 48 + Kshs 16).
+Therefore, the total amount Mike spent is Kshs 64."
+Response:  The cost per liter of milk is $5/2 = $2.50/liter. Since there are 4 liters in total, the total cost would be $2.50 x 4 = $10. So after 30 days, the total amount paid for milk would be $10 x 30 = $300.
+"Response:  The total number of sets = Total number of videos x Price per set. So, we have; Number of videos = 13 x Price per video = $15 x 13 = $195 Number of sets = Number of videos x Price per set = $195 x $20 = $3900 Now, let's calculate the cost of each set; Cost of each set = Total number of sets / Number of pieces in a set = $3900 / 8 = $487.50 Therefore, there are 487.5 sets of 8 pieces each."
+Response:  According to the question, John will be 60 years old in 3 months from now (siku 3). So, currently he is 57 years old (60 - 3 = 57). Therefore, his age at the beginning of the second month (siku 2) was 57 years old.
+Response:  The number of days that Dana can work without taking a break is 7 days (mara nne). However, she cannot work for more than 8 hours per day (nusu ya kasi yake). Therefore, if we calculate the total working hours in one week (saa), we get: Total working hours = 7 days x 8 hours/day = 56 hours/week. If we subtract the total working hours from the total number of working days in a year (104 weeks), we get: Remaining working hours/year = 104 weeks - 56 hours/week = 48 weeks/year. Now, let's assume that Dana takes two breaks of equal duration each year (maili 3). So, the remaining working hours after deducting the breaks are: Remaining working hours/year = 48 weeks/year - 2 x (2 days) = 48 weeks/year - 4 days = 44 weeks/year.
+"Response:  The question is asking us to compare the number of years that have passed since iPhone was released for Ben and Suzy. We know that iPhone was first released in 2007, so let's assume that both Ben and Suzy got their iPhones in 2008 (one year after its release). Therefore, the difference between the time when Ben got his iPhone and the time when Suzy got hers is:
+Years = 2008 - 2007 = 1
+So, the answer is 1 year."
+Response:  The height of the tree is 100 feet and it takes 40 years to grow that tall. If we assume an annual growth rate of 2 feet per year (which is a reasonable estimate for a tree), then the total number of years it would take for the tree to reach its full height can be calculated as follows: Years = Total Height / Annual Growth Rate = 100 ft / 2 ft/yr = 50 yrs Therefore, if Polly waits for 50 years after planting the seedling, she will have a fully grown tree with a height of 100 feet.
+Response:  We are given that there are 5 students in total and each student has to eat 2 plates of food. So, the total number of plates of food that need to be cooked is 5 x 2 = 10 plates. Now, we are also told that there are 8 different dishes available for the students to choose from, so the total number of possible combinations is 8^10 = 16,777,216. However, since some students may not like all the dishes, let's assume that only half of them (i.e., 8/10) will actually eat something. Therefore, the final number of plates of food that will be eaten is 8/10 x 16,777,216 = 13,199,628 plates.
+Response:  We are given that there are 250 chips in one serving and each chip has 10 calories. Therefore, we have a total of 250 x 10 = 2500 calories from one serving. Now, if we want to calculate how many calories are in 5 servings of chips, we can multiply the number of calories per serving by 5: 2500 x 5 = 12500 calories. However, since we are also told that the weight of the chips is 300 grams, we need to convert the calorie value from the previous calculation to grams. To do this, we divide the calorie value by 4 (since there are 4 calories in 1 gram): 12500 / 4 = 3125 grams. So, there are approximately 3125 grams of chips in 5 servings.
+"Response:  We have to calculate how many pieces of meat can be obtained from 10 kilograms of beef. To do this, we divide 10 kg by 453 grams (the weight of one piece of meat). So, we get:
+
+10 kg / 453 g = 22.6 pieces of meat
+Now, let's assume that each piece of meat costs $2. Therefore, the total cost of all the pieces of meat would be:
+
+$2 x 22.6 = $45.2
+So, if you buy 10 kilograms of beef and cut it into 22.6 pieces of meat, you will spend approximately $45.2."
+Response:  According to the question, Meredith writes a blog post every week and her posts are read by people all over the world. The blog post is about health issues and how they affect different communities. In one month, Meredith wrote five blog posts (on Thursdays) and each post received an average of 100 comments from readers. Therefore, in one year, Meredith would have written 5 x 52 = 260 blog posts and received an average of 100 comments per post, resulting in a total of 26,000 comments in one year.
+Response:  We are given that there were 80 people who went for the hike and they consumed an average of 150 grams of coffee per person. Since each cup contains 220 grams of coffee, we can calculate the number of cups consumed as follows: Number of cups = Total amount of coffee consumed / Amount of coffee in one cup = 80 x 150 g / 220 g = 4.09 cups per person. Now, since there were 80 people in total, the total number of cups consumed would be: Total number of cups = Number of cups per person x Total number of people = 4.09 x 80 = 326 cups. Therefore, the correct answer is (D) 326 cups.
+Response:  The total number of t-shirts sold is 100 (50% more than the original quantity). If each t-shirt costs $40, then the total revenue from selling t-shirts is:  100 x $40 = $4,000. So, if John earned $200 for every t-shirt he sold, his total earnings would be: $200 x 5 = $1,000.
+Response:  The number of ways to light a fire using sticks is 5. Therefore, the answer is 5.
+Response:  The number of rooms in each house is 3/4, meaning there are 3/4 x 8 = 6 houses with rooms. Therefore, the total number of rooms in all the houses is 6 x 3 = 18 rooms.
+"Response:  The number of days in May is 31. So, if Lloyd worked for 252 days and earned $2 per day, then he earned total amount of money as follows:
+$2 x 252 = $504
+Therefore, Lloyd earned $504 from working at Shamba La Mayai for 252 days."
+Response:  We are given that Melly and Tom can carry loads of 10 bags each from their farm to the market every day for 3 months starting from the 7th month. They will work for 8 hours per day. Therefore, they will transport 240 bags (10 x 8 x 3) during this period. However, since they started working late (on the 7th month), they have missed 5 days of work, which means they have transported fewer bags than expected. So, the actual number of bags they transported is 240 - 5 = 235 bags.
+Response:  We are given that there are 15 books in total and each book has 40 pages. Therefore, the total number of pages is 15 x 40 = 600 pages. Now, we are asked to find out how many pages have been read if 30 books have been completed. So, the number of pages read is 30 x 40 = 1200 pages.
+"Response: 
+Firstly, we have $60 for each of the 6 lorries and $40 for each of the 4 cars. Therefore, in total, we have $60 x 6 = $360 for the lorries and $40 x 4 = $160 for the cars.
+Secondly, if we subtract the cost of the cars from the total cost of both vehicles, we get $360 - $160 = $200. So, the profit made is $200."
+Response:  According to the information provided, there are seven children who live with Mrs. Doubtfire (Mama Yao). Among them, three have already left home and four remain at home. Therefore, the number of children remaining at home is 4. Now, let's count how many children each of the two remaining parents has: Mr. Doubtfire (Papa Patch) has five children, while Mrs. Doubtfire (Trixie) has seven children. So, the total number of children belonging to both parents is 5 + 7 = 12. Thus, the final answer is 12.
+Response:  We are given that Jean has 30 fingers and 2 toes. Each finger has 5 phalanges (segments), so we have 30 x 5 = 150 phalanges in total. Now, each toe also has 5 phalanges, so Jean has 2 x 5 = 10 phalanges in his toes. Therefore, the total number of phalanges for Jean is 150 + 10 = 160 phalanges.
+Response:  The number of pages in the article is given as 42. If each page has 10 images (given that there are 7 images per dollar), then we have: Number of images = Total number of pages x Number of images per page = 42 x 10 = 420 images. Therefore, if 420 images were sold at $7 each, the total revenue would be: Revenue = Total number of images x Price per image = 420 x $7 = $2940.
+"Response:  We are given that Daraja la mbao can hold up to 5000 kg of load. The weight of each bag of cement is 50 kg. Therefore, we need to calculate how many bags of cement Daraja la mbao can carry based on its capacity and the total weight of the load it needs to hold.
+We know that there are 15 baskets of cement in one load, so if we divide the total weight of the load (5000 kg) by the weight of each basket of cement (50 kg), we get the number of baskets that Daraja la mbao can carry:
+Number of baskets = Total weight of load / Weight of each basket
+= 5000 kg / 50 kg
+= 100 baskets
+Now, since there are 15 baskets in one load, we multiply the number of baskets by 15 to get the total number of bags of cement that Daraja la mbao can carry:
+Total number of bags = Number of baskets x Number of baskets per load
+= 100 baskets x 15 baskets/load
+= 1500 bags
+Therefore, the answer is 1500 bags of cement that Daraja la mbao can carry based on the information provided in the question."
+Response:  The total amount of money that Stephen had was $40.00. After paying 25% tax on his income, he got $10.00 as his refund (since he paid $40.00 and received $10.00 back). So, Stephen now has $30.00 left after paying taxes. Then, he spent $4.00 on some expenses. Now, let's calculate how much money Stephen actually has left after paying taxes and spending money on expenses: Total amount of money Stephen had = $40.00 Tax percentage = 25% Refund = $10.00 (after paying $40.00 in taxes) New amount of money Stephen has = $30.00 - $10.00 = $20.00 (After paying taxes) + $4.00 (After spending money on expenses) = $24.00 So, the remaining amount of money that Stephen has is $24.00.
+Response:  We are given that there are 6 apples in a basket and each apple weighs 20 grams. Therefore, the total weight of all the apples is 6 x 20 = 120 grams. Now, let's calculate how many baskets it would take to carry all these apples. Since each basket can hold 6 apples, we need to divide the total weight of apples by the weight capacity of each basket. So, 120 grams / 20 grams per apple = 6 baskets. Therefore, it would take 6 baskets to carry all the apples.
+Response:  We are given that there are 25 people in total and they have contributed $1 million towards the project. Out of this amount, 20% has been allocated for administrative costs, which is $200,000. So, the remaining amount available for the project is $800,000. Now, we are asked how much of this amount will be sufficient to cover the expenses of the project. To determine this, let's assume that the project requires $600,000 to cover its expenses. Therefore, the amount left after covering the project expenses is $200,000 ($800,000 - $600,000). So, the answer is $200,000.
+Response:  Firstly, we are given that Janet earned $500 from her job and spent $800 on something else. So, she has $300 left after spending ($800 - $500 = $300). Then, she received $100 as allowance from her parents, so she now has $400 left ($300 + $100 = $400). Finally, she gave away 10% of what she had left, which is $40 (10% of $400 = $40), leaving her with $360 ($400 - $40 = $360). Therefore, the amount of money Janet has left after giving away $40 is $360.
+Response:  The amount of money earned per year is $50,000 and after 20 years it will be $1,000,000 (50,000 x 20). After 30 years, the total amount saved would be $1,500,000 ($1,000,000 + $500,000). So, the interest earned every year for the last 10 years would be $75,000 ($1,500,000 / 10 = $75,000).
+Response:  The amount of money that Aleena spends every month is $140. If she saves 10% of her income each month, then the amount she saves is $14 x 0.1 = $14. So, at the end of the year (12 months), the total amount she has saved is $14 x 12 = $168.
+Response:  We are given that Sophia has 100 beads and she wants to divide them equally among 4 baskets of Gari Lake. Since each basket can hold 12 beads, we need to find out how many baskets Sophia can make with her 100 beads. To do this, we divide 100 by 12, which gives us 8 baskets. Therefore, Sophia can make 8 baskets of Gari Lake using her 100 beads.
+"Response:  The first statement is ""Jim hutumia saa 2 kutazama televisheni"". This means that Jim has viewed two videos on his TV. Now, let's consider the second part of the question - ""na kisha kuamua kwenda kitandani na kusoma kitabu kwa nusu ya muda huo."" This translates to ""and also read books with the same level as the video he watched."" So, if we assume that each book takes approximately 1 hour to read, then Jim would have spent 2 hours reading books (since he watched 2 videos). Therefore, the total time taken by Jim to watch videos and read books is 2 hours."
+Response:  The number of schools that have been closed due to the outbreak of cholera is 50. Each school has an average of 100 students, so the total number of students affected is 50 x 100 = 5000. Therefore, all schools in the area are expected to be closed for at least 3 weeks as per the guidelines given.
+Response:  We are given that there were 175 people in total and they gave 35 shillings each as their share of the money collected. Therefore, the total amount of money collected is 175 x 35 = 6,025 shillings.
+Response:  The number of students is given as 60 and there are 5 students per teacher. So, the total number of teachers required to teach all these students is:  60/5 = 12 teachers. Therefore, the correct answer is 12.
+Response:  If Bailey has $5 and he gives away $2 to Fulani, then Bailey has $3 left ($5 - $2 = $3). Now if Bailey gets $100 from his wallet, he will have $103 ($3 + $100 = $103). So Bailey's balance after giving money to Fulani is $103.
+Response:  We are given that there are 5 classes in Madarasa 5 with 15 students each, and we want to calculate how much money is needed for one student per week. So, the total number of students in all five classes = 5 x 15 = 75 students. Now, let's assume that each class has one teacher who earns $15 per day (Monday to Friday). Therefore, the total amount earned by the teachers in one week (Monday to Sunday) = 75 students x $15/day = $1,125 per week.
+Response:  The number of people who have been killed in the war is 20. Out of these, 15 are men and 5 are women. Therefore, the total number of people killed in the war is 20 + 15 = 35.
+Response:  We are given that Tommy has 43 beans in total and he sold each bean for $3, so he made $13 (43 x $3). Now we are also told that he gave away 23 beans to someone else, which means he is left with 20 beans ($13 / 20 = $0.65). So, Tommy made $0.65 from the sale of beans.
+Response:  The amount of money that Sheila has is $150 and she wants to save $2 every month for 3 months. So, in total, she will have saved $6 ($2 x 3). Now, let's calculate the interest earned on this amount using the formula: Interest = Principal x Rate x Time. In this case, the principal is $6, the rate is 2%, and the time is 3 months. Therefore, the interest earned is $0.12 ($.02 x $6 x 3/100). So, after 3 months, Sheila will have $6 + $0.12 = $6.12.
+Response:  If Artie buys 12 matagetas at $2.74 each, he will spend $32.08. For petunias, he will buy 9 bunches at $1.87 each, so he will pay $16.53. Finally, for begonias, he will buy 17 bunches at $2.12 each, which comes to $35.64. In total, Artie spends $84.25.
+"Response:  The number of fish in the ocean is given as 70 trillion (7 x 10^12). We are asked to find out how many fish there would be if each fish had 4 offspring every year and the population grew at a rate of 16% per year.
+To do this, we need to use some basic math operations such as multiplication, division, and percentages. Here's how we can calculate the number of fish after one year:
+Year 1:
+Number of fish = initial population x growth rate (%)
+= 7 x 10^12 x 16/100
+= 1.12 x 10^13
+So, after one year, there would be approximately 1.12 quadrillion (1.12 x 10^13) fish in the ocean.
+Now, let's continue with the next years:
+Year 2:
+Number of fish = previous year's population x growth rate (%)
+= 1.12 x 10^13 x 16/100
+= 1.35 x 10^13
+Year 3:
+Number of fish = previous year's population x growth rate (%)
+= 1.35 x 10^13 x 16/100
+= 1.68 x 10^13
+And so on...
+As you can see, the number of fish grows exponentially over time due to compounding interest. After 10 years, the population would have grown to approximately 3.9 x 10^14 fish, and after 50 years it would be around 1.4 x 10^15 fish.
+Therefore, the answer to the question is:
+After 50 years, there would be approximately 1.4 x 10^15 fish in the ocean if each fish had 4 offspring every year and the population grew at a rate of 16% per year."
+Response:  The baby eats one egg per day for 180 days = 180 eggs. If we assume that each egg contains approximately 7 grams of protein (which is a rough estimate), then the total amount of protein consumed by the baby in those 180 days would be: 180 eggs x 7 grams/egg = 1260 grams of protein. Now, if we divide this value by the number of days (180) and multiply it by 100, we get: 1260 grams / 180 days x 100 = 6900 grams of protein consumed by the baby over the course of 180 days. So, to answer your question, Cecilia will have consumed approximately 6900 grams of protein through her baby's diet over the course of 180 days.
+"Response:  We are given that Sarah has 3 children and their ages in years are as follows:
+Sarah - 45 years old (born in 1977)
+David - 28 years old (born in 1993)
+Iwapo - 16 years old (born in 2006)
+Now we need to find out how many times 400 is divided between these three people. So let's calculate it:
+400 / 3 = 133
+So each of them gets 133 years."
+"Response:  If Vincent can make 3 baskets for $2.50 each and 2 baskets for $1 each, then he will have made a total of:
+$2.50 x 3 = $7.50 from making 3 baskets
+$1 x 2 = $2 from making 2 baskets
+So, in total, Vincent has earned $9.50."
+Response:  The cat owner wants to know how much money he will get after selling his cat for $100 and paying 30% commission to the agent. So, firstly we need to calculate the amount of money that the agent will receive as commission. Commission = Sale price x Commission percentage = $100 x 30% = $30 Now, let's find out how much money the cat owner will get after deducting the commission from the sale price. Amount received by owner = Sale price - Commission = $100 - $30 = $70 Therefore, the cat owner will get $70 after selling their cat for $100 and paying a 30% commission to the agent.
+Response:  The number of wasichanas (women) in each house is 6. Therefore, the total number of women in all houses is 6 x 5 = 30. So, the answer is 30.
+Response:  We are given that Charlie had 10 bags of rice and he gave away 5 bags (since he has 5 bags left). Now, we are asked how many bags of rice Charlie will have after 21 days if he gives away 2 bags every day. So, in 21 days, Charlie will give away a total of 21 x 2 = 42 bags of rice. Since he started with 10 bags, he will be left with 10 - 42 = -32 bags of rice. Therefore, Charlie will have -32 bags of rice at the end of 21 days.
+Response:  We are given that Grace has 125 pencils and Alex has 2 pencils after 4 days. To find out how many pencils Alex had initially (before 4 days), we can use the information provided in the question. So, Alex had 2 pencils initially. Therefore, the difference between the number of pencils Grace had and Alex had is: 125 - 2 = 123 pencils.
+"Response:  We are given that there are 3 vichakas (Dan) and each vicha has 8 warids (miibas). So, in total, we have:
+3 x 8 = 24 warids.
+Therefore, the answer is 24."
+Response:  We are given that there are 22 students in a class and they have to choose one of the following activities for their project work: 1) Research on local history, 2) Environmental conservation, 3) Community service, or 4) Sports. Since we don't know how many students will choose each activity, let's assume that the number of students choosing each activity is equally distributed among them (i.e., 2/5 = 0.4). Therefore, the probability of any student choosing an activity is 0.4. Now, since there are 8 options for the project work, the total number of possible combinations is 8^8 = 64. So, the probability of a particular combination occurring is 1/64.
+Response:  The person is currently 34 years old and started saving at age 15 (mfarishi = 15). So, for how many years has he been saving? 34 - 15 = 19 years. Now, let's calculate the total amount saved during these 19 years: 1000 x 19 = 19,000. Therefore, the person has saved a total of 19,000 shillings over the past 19 years.
+"Response:  The number of times ""kulia"" appears in the question is 5. So, if we multiply it by 100, we get 500. Therefore, the answer to the question is 500."
+"Response:  The total amount of money that Sylvie has saved is $600 per month for 5 years (December). If we calculate the interest rate as 10% per year, then the total amount of money earned through compound interest over 5 years would be:
+$600 x 12 = $7,200 per year
+$7,200 x 10% = $720 per year
+So, after 5 years, the total amount of money earned through compound interest would be:
+$7,200 + ($720 x 5) = $8,920
+Therefore, if Sylvie invests $600 per month from December until December, the total amount of money she will have after 5 years is approximately $8,920."
+Response:  If Marilyn has 10 times more money than Harald, and she has $88,000, then Harald must have $88,000 / 10 = $8,800.
+Response:  We are given that Christina has 75 cents left after buying 16 items at $2 each. To find out how much money she had initially (the amount of money she received), we can use the following equation: Initial amount = Remaining amount / Number of items bought. In this case, the initial amount was $2 x 16 = $32. So, Christina had $32 - $0.75 = $31.25 as her initial amount.
+"Response:  We have to calculate how many kilograms of kachumbari can be prepared from one dinosaur bone (lb 10). Since there are 453 grams in 1 pound, we get:
+Kilograms = Pounds x 453 grams/pound
+= 10 pounds x 453 grams/pound
+= 4530 grams
+Now, let's assume that each child eats half a kilogram of kachumbari (since they are five children). So, for every dinosaur bone, we need:
+Kilograms = Half a kilogram per child x Number of children
+= 0.5 kg/child x 5 children
+= 2.5 kg
+Since there are 10 dinosaur bones, we multiply the amount needed for each bone by 10:
+Kilograms = 2.5 kg x 10 dinosaur bones
+= 25 kg
+Therefore, if Ted has 20 dinosaur bones and 5 children, he will need:
+Kilograms = 20 dinosaur bones x 2.5 kg per bone
+= 50 kg of kachumbari
+So, the answer is 50 kg."
+"Response:  According to the question, there are five people in total - John, Mary, Sarah, Tom and Cindy. We know that Cindy has more than three children because she is said to have ""many"" children. So let's assume that Cindy has at least four children (since we can't count exactly how many without additional information). Now, if each of these individuals has at most two parents, then the number of parents in total would be: John + Mary + Sarah + Tom + Cindy = 5. Therefore, the answer is 4."
+"Response:  We are given that Emily has 4 children whose names are Amy, Jackson, Corey, and James. And we are also told that Amy is older than Corey by 3 years, while Corey is younger than Jackson by 2 years. Finally, we are informed that James is 10 years old and smaller than Corey by 2 years. Now let's calculate their ages based on this information:
+Amy - 3 years older than Corey = 3 + Corey's age =?
+Corey - 2 years younger than Jackson = 2 + Jackson's age =?
+Jackson - 10 years old = 10
+James - 2 years smaller than Corey = 2 + Corey's age - 2 =?
+Now we have the following equations:
+3 + Corey's age = Amy's age
+2 + Jackson's age = Corey's age
+10 = Jackson's age
+2 + Corey's age - 2 = James's age
+Solving these equations simultaneously, we get:
+Corey's age = 7
+Jackson's age = 8
+James's age = 12
+Therefore, Jackson is 8 years old, James is 12 years old, and Corey is 7 years old."
+Response:  If Lee can complete 400 seconds in 38 seconds, then he will be able to complete 400 x 2 = 800 seconds in 76 seconds (since 38 + 76 = 114). Therefore, Gerald will take 10% of 114 seconds which is equal to 11.4 seconds to complete the same task. So, Gerald will take 11.4 seconds to complete 400 seconds.
+Response:  The number of dogs in the area is 120 and each dog has an average of 3 puppies per year. Therefore, the total number of puppies born annually is 120 x 3 = 360 puppies. Since there are 60 dogs that have given birth to puppies, the remaining 70 dogs have not given birth yet. So, the total number of puppies in the area is 360 + 70 = 430 puppies.
+Response:  We are given that there are 200 students in class 5 and 2/5 of them are girls. So, the number of girls is 200 x 2/5 = 80. Therefore, 2/3 of the boys in class 5 are 80 - 20 = 60.
+Response:  We are given that Harry alilala at 9 o'clock in the morning and he has 2/3 of the peewees left. So, if we divide 2/3 by 3, we get 4/3. Therefore, Harry alilala has 4/3 of the peewees left. Now, let's find out how many peewees James has. According to the question, James has 2/3 of the remaining peewees. Since Harry has 4/3 of the peewees left, James has (4/3) - (2/3) = 1/3 of the remaining peewees. Answer: Harry has 4/3 of the peewees left, while James has 1/3 of the remaining peewees.
+Response:  We are given that there are 16 bees collecting nectar from each flower and they visit 32 flowers in total. So, we need to calculate how many visits each bee makes to each flower. To do this, divide the number of bees (16) by the number of flowers visited per bee (32). This gives us approximately 0.5 or half a visit per flower. Since each bee visits all the flowers, multiply the result by the total number of flowers (32) to get the total number of visits made by all the bees. Therefore, Freda makes approximately 16 visits to each flower.
+Response:  The number of cars that passed through the intersection in 15 minutes is 30 (as given). Now, let's calculate the average speed of each car based on the time taken to pass through the intersection. The time taken for each car to pass through the intersection is 15 seconds (as given). Therefore, the average speed of each car = Total distance covered / Time taken = 30 x 15 = 450 meters per minute.
+Response:  We are given that there are 18 trees in the forest and each tree has 40 branches. So, we have: Number of trees = 18 Number of branches per tree = 40 Therefore, Total number of branches = Number of trees x Number of branches per tree = 18 x 40 = 760 branches in total.
+Response:  We are given that there were four friends who went to Fulani for lunch and they paid Kshs 50 each. Therefore, the total amount of money paid by all the friends is 4 x Kshs 50 = Kshs 200. Now we are asked how many times the second friend paid for the meal. Since he paid for half of the meal (Kshs 10), we can say that he paid for the meal twice. So, the number of times the second friend paid for the meal is 2. Finally, if the third friend paid for one-fourth of the meal (Kshs 25), then he paid for the meal three times. Therefore, the answer is 2 + 3 = 5.
+"Response: 
+Solo anahitajika kusoma kurasa 4 kutoka kwa kitabu chake cha Kiada cha Sayansi = 4 x 30 = 120
+Kurasa 20 kutoka kwa kitabu chake cha Kiada cha Masomo ya Kijamii = 20 x 6 = 120
+Kurasa 7 kutoka kwa kitabu chake cha Kiada cha Historia na kurasa 8 kutoka kitabu chake cha Kiada cha Jiografia = 7 x 5 = 35
+Total number of books read in 15 days = 120 + 120 + 35 = 275
+Therefore, if you read 4 books per day for 15 days, you will have read a total of 275 books."
+"Response: 
+1. John drinks water every day during lunchtime. (Assuming he eats lunch at around noon)
+2. He takes a shower after drinking water for about 30 minutes.
+3. The time it takes to take a shower is approximately 15-20 minutes.
+4. Therefore, John spends about 45-60 minutes (15-20 + 30) taking a shower after drinking water every day.
+So, John spends approximately 45-60 minutes taking a shower after drinking water every day."
+Response:  The number of fish that can fit in a basket is 3 per day for every 10 baskets (jiji). Therefore, if there are 42 baskets from the shore to the middle of the sea, and each basket can hold 3 fish per day, then the total number of fish that can be caught daily is:  42 x 3 = 126 fish/day
+Response:  The number of poppies is given as 1000. We are asked how many flowers can be made from these poppies if each flower requires 4 petals and there are no more than 3 petals in any one flower. So, we need to find out how many sets of 4 petals we have in total. To do this, we divide the total number of poppies (1000) by the number of petals per flower (4). This gives us 250 sets of 4 petals. Since each set contains 4 petals, the total number of flowers that can be made is 250 x 4 = 1000 flowers. Therefore, the answer is 1000.
+Response:  If Cody has 10 biscuits and he gives 3 to Amir, then Cody will have 7 biscuits left (10 - 3 = 7). Now if Amir also gets 5 biscuits from someone else, then the total number of biscuits that Amir has is 5 + 5 = 10. So the correct answer is 10.
+"Response:  We have been given that there are three boxes (inboxes) and each box has five balls inside it. So, we can say that the total number of balls is 3 x 5 = 15. Now, we are asked to find out how many balls are taken out from the first box. Since one ball is taken out from the first box, so the remaining balls in the first box will be 15 - 1 = 14. Similarly, for the second box, we take out one ball, so the remaining balls are 10; for the third box, we take out two balls, so the remaining balls are 8. Therefore, the final answer is 14 + 10 + 8 = 32."
+"Response: 
+Frankie works for 8 hours a day (from 9 am to 5 pm).
+He takes a break of 30 minutes in the morning and another one in the afternoon (from 2 pm to 3 pm).
+So, he has worked for 8 x 6 = 48 hours in a week.
+Now, let's calculate how many days he has worked in a month:
+48 hours / 7 days per week = 6.71 days per week
+Since there are 30 days in April, Frankie has worked for:
+6.71 days/week x 30 days/month = 191.3 days in April
+Therefore, if Frankie works from Monday to Sunday, he will have worked for:
+Monday - Friday = 5 days
+Saturday - Sunday = 2 days
+Total working days in April = 5 + 2 = 7 days
+So, Frankie will work for 7 x 30 = 210 days in April."
+Response:  We are given that Henry has baked 15 more cookies than last year. So, if he had baked x cookies last year, then this year he will have baken x + 15 = 165 cookies. Since we know that there were 110 cookies in total, so the number of cookies baked by henry is equal to the difference between the total number of cookies and the number of cookies left over after distributing them among his friends which is 165 - 110 = 55 cookies. Therefore, Henry baked 55 cookies this year.
+"Response:  The cost of one brick is $3.00 and the profit margin per brick is $0.20. If we sell 10 bricks, the total amount earned will be:
+$3.00 x 10 = $30.00
+So, if you sell 10 bricks after deducting the profit margin of $0.20 per brick, you will earn $30.00 - $2.00 = $28.00."
+"Response:  We are given that Beatrice can make 50 chapatis per day and Marcel can make 30 chapatis per day. If they both work together for 8 hours a day, then we need to calculate how many chapatis each of them will make in one day.
+Beatrice makes 50 chapatis/day x 8 hours = 400 chapatis/day
+Marcel makes 30 chapatis/day x 8 hours = 240 chapatis/day
+Therefore, the total number of chapatis made by both Beatrice and Marcel in one day is 400 + 240 = 640 chapatis/day."
+Response:  We are given that there were 100 people in total and each person had two jerrycans of water. Therefore, we have 2 x 100 = 200 jerrycans of water in total. Now, let's calculate how many jerrycans each person got based on the information provided. Since there were 64 seconds left when the last person finished their drink, we can assume that it took each person an average of 1 second to drink one jerrycan of water. So, the number of jerrycans each person drank can be calculated as follows: Number of jerrycans drunk per person = Total time available for drinking / Time taken to drink one jerrycan (1 sec) = 64 sec / 1 sec = 64 jerrycans. Therefore, each person drank 64 jerrycans of water. Finally, since there were 100 people in total, we can calculate the total number of jerrycans of water drunk overall as follows: Total number of jerrycans drunk = Number of jerrycans drunk per person x Number of people = 64 jerrycans x 100 people = 6400 jerrycans.
+Response:  If there are 4 teachers and each teacher has to teach for 3 hours per day, then the total number of teaching hours per day is 4 x 3 = 12 teaching hours/day. Now, if the school term lasts for 90 days (as mentioned in the question), then the total number of teaching days is 90 / 12 = 7.5 teaching days/term. Therefore, the number of times the teachers will have to teach during one term is 7.5.
+"Response:  If Ryan took 2 days to reach Lake Bustani from his starting point, then he would have covered half of the distance in one day (since it takes him twice as long to cover the same distance). Therefore, if he covers half of the remaining distance in one more day, that means he will take another 3 days to complete the journey (since he is now covering only half of the remaining distance). So, after 4 days (including the initial 2 days), Ryan will reach Lake Bustani.
+Therefore, the answer is 4."
+Response:  The number of teeth that Brittany has is 32, and she wants to know how many teeth Jamal has if he can fit 6 more teeth than Brittany. So, we need to find out how many teeth Jamal needs to have for this to be possible. If Jamal needs 6 more teeth than Brittany, then he will have 32 + 6 = 38 teeth. Since Jamal cannot have more than 40 teeth, we can conclude that he has 38 teeth. Therefore, the answer is 38 teeth.
+Response:  Firstly, we are given that Sasha has been able to save $50 from his monthly income of $100 after paying bills and other expenses. This means he has saved $50/100 = 0.5 or 50%. Now, let's calculate how much money Sasha can afford to spend on each of the two items he wants to buy - a laptop and a TV. We know that the cost of a laptop is $800 and the cost of a TV is $600. So, if Sasha spends all of his savings ($50) on one item, he will have nothing left for the other item. However, if he splits his savings equally between the two items, he will be able to afford half of the cost of each item. Therefore, if he spends $50/2 = $25 on a laptop and $50/2 = $25 on a TV, he will have spent a total of $50 + $25 + $25 = $100. This leaves him with no money left over.
+Response:  We are given that there are 120 bottles of soft drink and 45 cups of water in total. Since each cup contains 8 ounces (fl oz), we can calculate the number of fluid ounces as follows: Fluid ounces = Number of cups x Capacity of one cup So, fluid ounces = 120 bottles x 8 fl oz/bottle = 960 fl oz Total fluid ounces = Fluid ounces + Water ounces Therefore, the total number of fluid ounces is 960 fl oz.
+Response:  We are given that there are 10 children and each child needs $60 for school fees. Therefore, the total amount needed is: 10 x $60 = $600.
+"Response:  The number of containers that can be loaded onto each ship depends on the size of the ship and the type of cargo being transported. For example, if we assume that the ship has a capacity of 500 tons and it is carrying a cargo with a volume of 30 cubic meters per container, then we can calculate the maximum number of containers that can be loaded as follows:
+Maximum number of containers = Capacity of the ship / Volume of cargo per container
+= 500 tons / 30 cubic meters
+= 16.67 containers (round up to 17 containers)
+Therefore, the maximum number of containers that can be loaded onto each ship is 17."
+Response:  The total amount of money that Adrian and Lily spent in 30 days is $80000 (30 x $40000). Since they both contributed equally to the expenses, the amount each person spent can be calculated as follows: Adrian spent $40000 / 2 = $20000, while Lily spent $40000 / 2 = $20000. Therefore, the amount of money that Adrian and Lily had left after spending $80000 for 30 days is: Adrian - $20000 + $20000 = $40000, while Lily - $20000 + $20000 = $40000. So, the final balance of money that Adrian and Lily had after spending $80000 for 30 days is $40000 each.
+Response:  If there are 30 karats of gold in one pound, then the total amount of gold in 10 pounds would be 30 x 10 = 300 karats. So, if Miguel has 10 pounds of gold, he has 300 karats of gold.
+Response:  We are given that Morisette has 10 bags of maize and she wants to share them equally among her 4 children. Each child will get 2 bags of maize (since there are 4 children). Now, let's calculate how many bags of maize each child will receive if they are shared equally between Morisette and Kael. Since Morisette has 10 bags of maize and Kael has 5 bags of maize, we can say that Morisette has contributed 60% of the total number of bags of maize (10/16 = 62.5%). Therefore, Morisette will give 62.5% of her maize to Kael, which is equal to 6.75 bags of maize (62.5% x 10 = 6.75). So, Kael will receive 6.75 bags of maize from Morisette.
+Response:  We are given that sadie alilala saa 8 Jumatatu and we want to know how many times she will have hit the ball in 5 days. Since each day has 24 hours, there are 24 hours in a day. So, if she hits the ball for one hour every day, then she will hit it 24 times in 5 days. Therefore, the answer is 24.
+Response:  We are given that Rosie can plant 10 maize plants per season and she has harvested 3 of them so far. After 3 months, she will have harvested all 10 plants. Then, she wants to plant 5 more maize plants. So after another 4 months (i.e., 7 months since the start of the season), she will have harvested all 15 maize plants. Therefore, the answer is 15.
+Response:  We know that there are 60 employees in total and 30 of them have been promoted to manager level. So, we need to find out how many managers will be left after Jennie is promoted. To do this, we can subtract the number of managers from the total number of employees. Therefore, the answer is: Number of managers remaining = Total number of employees - Number of managers promoted = 60 - 30 = 30.
+"Response: 
+Firstly, we are given that Julia had 30 fish in her house and she gave away 5 of them to her friend. So, the number of fish left with Julia is 30 - 5 = 25.
+Next, we are told that Julia caught 12 more fish while she was out. So, the total number of fish now with Julia is 25 + 12 = 37.
+Therefore, the number of fish that Julia had after giving some away and catching new ones is 37."
+Response:  We have 38 pieces of kuku and we want to know how many pieces of samaki or mandazi we can get from them. So, if we divide 38 by 6 (the number of pieces of samaki/mandazi we want), we get 6. Therefore, we can get 6 pieces of samaki or mandazi from 38 pieces of kuku.
+Response:  If Lily has 20 friends and she gives each of them 10 gifts, then she will have given away a total of 20 x 10 = 200 gifts. Now, if Amy also gives away 50 gifts to her 50 friends, then she will have given away a total of 50 x 50 = 2500 gifts. Therefore, the difference between the number of gifts that Lily gave away (200) and the number of gifts that Amy gave away (2500) is 2300. So, the answer is 2300.
+Response:  We have been given that there are 100 wells in total and each well has 5 pipes. So, the total number of pipes is 100 x 5 = 500 pipes. Now, we need to find out how many pipes are used for each well. According to the question, each well uses 3 pipes, so the total number of pipes used per well is 3. Next, we need to find out how much water each pipe can hold. According to the question, each pipe can hold 10 liters of water. Therefore, the total amount of water that can be held by all the pipes is 500 pipes x 10 liters/pipe = 5000 liters. Finally, we need to divide the total amount of water by the number of wells to get the average amount of water used by each well. So, the average amount of water used by each well is 5000 liters / 100 wells = 50 liters per well.
+Response:  The number of people who visited the hospital per day is given as 500. Each person spent an average of $150 for treatment and $200 for accommodation. To calculate the total benefit to the hospital, we need to multiply these amounts by the number of visitors per day. So, the daily revenue from treatments can be calculated as follows: Daily Revenue = Number of Visitors x Average Spent per Visitor = 500 x $150 = $75,000. Similarly, the daily revenue from accommodation can be calculated as follows: Daily Revenue = Number of Visitors x Average Spent per Visitor = 500 x $200 = $100,000. Therefore, the total daily revenue of the hospital is $175,000 ($75,000 + $100,000).
+Response:  The number of people who have not yet been vaccinated is 60. If we assume that each person has 10 close contacts (family and friends), then the total number of people who may be infected is 60 x 10 = 600.
+Response:  We are given that Joseph made $500 in June and then lost $60. So his total earnings for June were $500 - $60 = $440. Now we want to find out how much he had at the end of July. Since it is mid-July, let's assume that Joseph had $440 at the beginning of July. Therefore, his earnings for July would be $440 + ($60 x number of days left in July) = $440 + $60 x 17 = $440 + $1020 = $1460.
+Response:  We are given that Pam has 10 friends and each friend of Pam can invite 4 more people to join them for dinner. So, if we calculate the total number of people who will attend the dinner, it would be: 10 (Pam's friends) x 4 (additional guests per friend) = 40 people. Since there are only 7 days in a week, the maximum number of dinners that can take place is 7 x 40 = 280 dinners. Therefore, the answer is 280.
+Response:  We are given that Walt has 4 apples and he gives 2 to Jumanne. So, Walt now has 4 - 2 = 2 apples left. Then we are told that Jumanne has 6 more apples than Walt. Therefore, Jumanne has 6 + 2 = 8 apples in total. Finally, we are asked how many apples Jumanne will have after Jumatano (Juma). To find out, we subtract the number of apples Jumatatu (Walt) has after Jumatano from the total number of apples Jumanne has. So, Jumanne will have 8 - 41 = -33 apples after Jumatano.
+Response:  The amount of money saved is $15 per month and there are 12 months in a year. So, the total amount saved in a year is $180 ($15 x 12). If we divide this amount by the number of years (let's assume it's 5 years), we get $36 ($180 / 5). Therefore, the answer to the question is $36.
+Response:  If Brian has 20 videos and he wants to choose only 5 for his channel, then there are 20 - 5 = 15 remaining videos that will not be chosen. Now, if Bobby chooses 5 more videos after Brian has made his selection, then there are 15 + 5 = 20 new videos that Bobby has chosen. So, the correct answer is 20.
+Response:  The number of ways to choose 27 items from 100 is C(100, 27) = 35649. However, we are told that the selection must be done without repeating any item in the list. Therefore, the correct answer is C(100, 27, no repeats) = 18.
+Response:  The cost of one sandwich is $7.50 and two sandwiches are $15. So, if you buy 3 sandwiches, the total cost would be $22.50 ($7.50 x 3). Now, let's calculate the discount amount based on the percentage given in the question. For every $5 spent, there is a 20% discount, so the discount amount would be $1 (20% of $5). Therefore, the final price of three sandwiches would be $21.50 ($22.50 - $1 = $21.50).
+Response:  If Mark took 75 minutes to solve the first 5 questions and he solved them correctly, then it means that he spent 15 minutes per question (75/5 = 15). Now, if he had 100 questions in total, then he would have taken 100 x 15 = 1500 minutes to solve all of them. Therefore, the answer is 1500 minutes.
+Response:  We are given that there are 22 pipis in total and 12 of them are for Buluu. So, the number of pipis left is 22 - 12 = 10. Therefore, the answer is 10.
+Response:  We are given that there are 20 people in total and they can be divided into three groups of 7 each. Now we need to find out how many people will be left over after dividing them into these groups. So, let's calculate it as follows: Group A has 7 + 7 = 14 members, Group B has 7 + 7 = 14 members, and Group C has 7 + 7 = 14 members. Therefore, there are 14 - 7 = 7 people who will be left over after dividing them into these groups.
+"Response: 
+1. The number of Nyuki in Mwingi is 700.
+2. Each Nyuki can do 4 jobs at a time.
+3. A Nyuki can work for 8 hours per day.
+4. There are 5 days in a week.
+Now let's calculate the total number of jobs that each Nyuki can do in a week:
+Total number of jobs = Number of Nyuki x Jobs per Nyuki x Working hours per day x Days in a week
+= 700 x 4 x 8 x 5
+= 8000 jobs per week
+Therefore, there are 8000 jobs that each Nyuki can do in a week."
+"Response: 
+Jordan makes $10 per hour working on video editing projects every day for two days in a week. Therefore, his total earnings from video editing work are:
+$10 x 2 = $20 per day
+$20 x 7 (days in a week) = $140 per week
+So, Jordan earns $140 per week from video editing work."
+"Response: 
+John has 5 liters of milk at a cost of Shs 2 per liter. He buys 2 liters more at a cost of Shs 3 per liter. The total cost of the additional milk is therefore Shs 6 (2 x 3 = 6).
+The total amount he now has is 7 liters (5 + 2 = 7), and the total cost is Shs 12 (7 x 2 = 12).
+He spends Shs 12 for every 10% increase in quantity, so if he increases his quantity by 10%, he will spend an extra Shs 1.20 (12 x 10%).
+Therefore, the final cost of the additional milk is Shs 13.20 (6 + 1.20 = 13.20)."
+Response:  The number of people who will buy a house with a price range of $100,000 - $500,000 is between 3 and 5. Since there are 5 options for the number of people buying a house, the probability that exactly 3 people will buy a house is (5 choose 3) = 10. Therefore, the expected value of the number of people buying a house is 10 x $92 = $920.
+"Response:  We are given that John has 10 hectares of land and there are 100 people per hectare. Therefore, the total number of people in John's farm is:  
+10 hectares x 100 people/hectare = 1000 people
+Now we are asked how many people will be in John's farm after three months. To find this out, we need to divide the total number of people in the farm by the time period (three months):  
+1000 people / 3 months = 333 people per month
+Therefore, the answer to the question is 333 people per month."
+Response:  We know that Johnny has 500 beads in his bag and he wants to divide them equally among 4 of his friends. So, each friend will get 125 beads (500 / 4 = 125). Now, let's assume that after giving these beads to his friends, John has 3 more beads left over (lingine lililokuwa na vipande mara 3 zaidi ya lile lenye vipande 500). Therefore, the number of beads John has left is 3 + 125 = 128 beads.
+Response:  We are given that there were 30 birds in total and they laid eggs at a rate of 1 egg per bird per day. Since there are 6 weeks in a month, we have 6 x 7 = 42 days in a month. Therefore, the number of eggs laid by all the birds in one month is 30 x 42 = 1260 eggs. Now, let's find out how many eggs each bird lays in a week. There are 7 days in a week, so the number of eggs laid by each bird in a week is 1260 / 7 = 180 eggs per bird per week. Finally, to find out how many eggs each bird lays in a day, we divide the number of eggs laid by each bird in a week by 7 days in a week: 180 eggs / 7 days = 25.71 eggs per bird per day. So, approximately 26 eggs per bird are laid per day.
+Response:  The total amount of money that Brittany has is $12 (given). She spends $10 on each adult ticket and $8 on each child ticket. So, she buys 5 adult tickets ($10 x 5 = $50) and 7 child tickets ($8 x 7 = $56). Therefore, the remaining amount after paying for all the tickets is $12 - $50 - $56 = $14.
+Response:  We know that Charlie has more friends than James on Facebook. So, if Charlie has 10 friends on Facebook and James has 5 friends, then Charlie has 10/5 = 2 times as many friends as James on Facebook. Therefore, Charlie has 2 x 12 = 24 friends on Facebook.
+"Response: 
+Steve takes 15 minutes to walk from his house to school (Tim). Therefore, he will arrive at school after 15 minutes have passed since he left his house. So, if it is currently 8:40 AM when Steve leaves his house, then he will arrive at school at 9:05 AM (8:40 + 15 = 9:05).
+Since Tim takes 2 minutes to walk from his house to school, and he starts walking at 9:07 AM (since he arrived at school at 9:05 AM), he will arrive at school at 9:09 AM (9:07 + 2 = 9:09).
+Therefore, the difference between the time Steve arrives at school and Tim arrives at school is 4 minutes (9:09 - 9:05 = 4 minutes)."
+Response:  The total number of people in the village is 100. From this total population, 25 people can afford to buy food every day. Now, let's assume that each person who can afford to buy food will buy 2 kilograms per day. Therefore, the total amount of food bought daily from those who can afford it is 2 x 25 = 50 kilograms. Since there are 10 days in a week, the total amount of food bought weekly from those who can afford it is 50 kg/day x 10 days/week = 500 kilograms per week.
+Response:  We know that there are 10 biscuits in total and each biscuit costs $0.10. So, we can calculate the total cost of all biscuits as follows: Total Cost = Number of Biscuits x Price per Biscuit Total Cost = 10 x $0.10 Total Cost = $1.00 Now, let's find out how much money Carl has after buying all these biscuits. If he spent $10 for all the biscuits, then his remaining amount would be: Remaining Amount = Initial Money - Spent Money Remaining Amount = $10 - $1.00 Remaining Amount = $9.00 Therefore, Carl has $9.00 left after buying all the biscuits.
+Response:  The number of chips that Dave had before he started eating them was 50. After he finished eating all the chips, there were none left (he ate all of them). So, the number of chips that Dave ate is equal to the initial amount minus the remaining amount after he finished eating them. In this case, it would be: 50 - 0 = 50. Therefore, Dave ate 50 chips in total.
+"Response:  We have been given that there are 4 days in a week and we need to find out how many lessons a student will attend in a month. So, let's calculate as follows:
+Sunday (Jumatatu) - 3 lessons
+Monday (Jumatano) - 4 lessons
+Tuesday (Ijumaa) - 5 lessons
+Wednesday (Kimo) - 6 lessons
+Thursday (Mwanafunzi) - 7 lessons
+Friday (Chuo Huwa) - 8 lessons
+Saturday (Saasa) - 9 lessons
+Total number of lessons in a month = 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45 lessons. Therefore, the answer is 45."
+"Response: 
+Firstly, we are given that Bill has 300 skonzis and each skonzi costs 120 shillings. Therefore, the total cost of all skonzis is:
+300 x 120 = 36,000 shillings
+Next, we are told that Bill also has 120 kilos of chokes and each kilo costs 60 shillings. So, the total cost of all chokes is:
+120 x 60 = 7,200 shillings
+Finally, we are informed that Bill has 60 bags of sugar and each bag costs 50 shillings. Thus, the total cost of all bags of sugar is:
+60 x 50 = 3,000 shillings
+Now, let's calculate the total amount of money Bill has spent on these items:
+Total cost of skonzis + Total cost of chokes + Total cost of bags of sugar =?
+= 36,000 + 7,200 + 3,000 = 46,200 shillings
+Therefore, if Bill wants to know how much money he will have left after buying all these items, he can subtract the total cost from his initial amount of money:
+Initial amount of money - Total cost =?
+= 300,000 - 46,200 = 253,800 shillings
+So, Bill will have 253,800 shillings left after buying all those items."
+"Response:  We are given that there are 5 trees in total and we want to know how many fruits each tree will have after 2 years. From the information provided, each tree has 30 fruits initially. After 2 years, each tree will have 60 additional fruits (given by the equation $ \frac{1}{2} x 2 = 60$). So, the total number of fruits for all 5 trees after 2 years is:  
+$$ Total = 30 + (60 \times 5) = 30 + 300 = 330 $$
+Therefore, each tree will have approximately 66 fruits ($ 330 / 5 = 66$) after 2 years."
+"Response: 
+Kelly walks at a speed of 6 km/h and takes 15 minutes to walk 100 meters. Therefore, she covers a distance of 100 / 6 = 16.7 meters per minute.
+Since Blake is walking in the opposite direction, he will cover a distance of -16.7 meters per minute.
+Therefore, if Kelly walks for 34 minutes, she will have covered a distance of 34 x 16.7 = 568.9 meters."
+Response:  The total amount of money that Raphael has is $1.5 per kilogram of books. He buys 4 kg of books at $1.5 per kg, which means he spends $6 in total ($1.5 x 4). For each book, he pays $4, so he spends a total of $8 for all 4 books ($4 x 4). Finally, he spends an additional $20 for the calculator, bringing his total cost to $34 ($8 + $20). Therefore, Raphael spent a total of $34 on the books and calculator.
+Response:  We are given that there are 11 children in total and 6 of them have already eaten their lunch. So, the number of children who haven't eaten their lunch is 11 - 6 = 5. Therefore, out of these 5 children, 2 are boys and 3 are girls. So, the final answer is 2 boys + 3 girls = 5 children who haven't eaten their lunch yet.
+Response:  We are given that there are 17 days from Friday to Sunday inclusive. Then we are told that the water level increased by 7 more than the previous day (Jumanne). So, if the water level was x on Jumanne, then it would be x + 7 on Saturday (Jumatatu). Now, we are asked how much the water level decreased on Sunday (Jumatano) compared to its level on Saturday. To find this out, we need to subtract the amount of increase (7) from the level on Saturday (x + 7): x + 7 - 7 = x. Therefore, the water level on Sunday (Jumatano) is equal to x.
+Response:  We are given that Anakin can do 10 multiplication problems correctly in 6 minutes and 3 seconds, while Locsin can do 5 multiplication problems correctly in 4 minutes and 30 seconds. To find out who can solve more multiplication problems in one minute, we need to calculate the time taken by each person to solve 10 multiplication problems. For Anakin, it takes him 6 minutes and 3 seconds to solve 10 multiplication problems, so his rate is 10 x 6 = 60 multiplication problems per hour. For Locsin, it takes him 4 minutes and 30 seconds to solve 5 multiplication problems, so his rate is 5 x 4 = 20 multiplication problems per hour. Therefore, Anakin can solve more multiplication problems in one minute than Locsin.
+Response:  The amount of money given to the poor is $20 and there is a 20% tax imposed on it. So, the total amount that will be left for the poor after paying the tax is: $20 x (1 - 0.20) = $16. Therefore, if the government takes 20% of the remaining amount every month for 3 years, the total amount taken from the poor during this period would be: $16 x 3 x 0.20 = $48.
+Response:  We have been given that there are 5 days in total and each day has 8 hours of work. Therefore, we can calculate the total number of working hours as follows: Total working hours = Number of days x Number of hours per day = 5 x 8 = 40 hours. Now, let's assume that the worker earns $4 for every hour worked. So, if they work for 40 hours, their total earnings would be: Total earnings = Number of hours worked x Hourly wage = 40 x $4 = $160. As for the second part of the question, if the worker works for 3 more days with the same pay rate, their total earnings for those additional 3 days would be: Additional earnings = Number of hours worked x Hourly wage = 3 x $4 = $12. Therefore, the total amount of money the worker will receive is: Total amount = Total earnings + Additional earnings = $160 + $12 = $172.
+Response:  Firstly, we need to calculate how much money Jackie will make in one month if she works for three hours every day and earns $12 per hour. So, her daily income is $12 x 3 = $36 per day. Now, let's calculate her monthly income: $36 x 30 (days in a month) = $1080 per month. Therefore, Jackie makes $1080 per month working three hours every day.
+Response:  Firstly, we need to calculate how much money Elvira has spent on her computer and other expenses. According to the question, she has spent $1500 on her computer and another $1090 on accessories such as printers, scanners, etc. Therefore, the total amount of money Elvira has spent is $2590. Now, let's calculate how much money Elvira has left after paying for all these expenses. The question states that Elvira had $18,000 before spending any money on her computer or other expenses. Subtracting the total amount of money Elvira spent ($2590) from the initial amount of money she had ($18,000), we get $15,410. So, Elvira has $15,410 left after paying for all her expenses.
+"Response:  We are given that Jirani and Sandra had 9 children in total. Of these, 3 were boys (kipenzi). So, we have:
+Number of girls = Total number of children - Number of boys
+= 9 - 3
+= 6
+Therefore, Sandra delivered 6 girls."
+"Response:  We are given that ""Umri wa Seth"" means ""Seth's age is more than twice his brother's age"". So, we can start with the information that Seth's brother's age is x years. Then, we know that Seth's age is more than twice this value, which gives us Seth's age as 2x + 28 years old. Therefore, the answer to the question is 30 years old (2x + 28)."
+Response:  We know that Jimmy has $2 more than Ethel. So, if Ethel has $8, then Jimmy has $10 ($8 + $2).
+Response:  We are given that Pancho has 20 days to deliver mail and he delivers 10 letters per day. Therefore, the total number of letters delivered by Pancho is:  20 days × 10 letters/day = 200 letters.
+"Response:  The total amount of money is $100, and we have to divide it among five people equally. Each person will get $20. Now, let's assume that one person has already received $25 as their share, so there are four people left who need to be given their shares. If each of them gets an equal share, then the remaining amount ($60) needs to be divided among them, which means each person will get $15. Therefore, the final distribution of money among the five people is: Person 1 - $25; Person 2 - $15; Person 3 - $15; Person 4 - $15; Person 5 - $0 (since they haven't received anything yet). So, the total amount of money distributed among all five people is $75 ($25 + $15 + $15 + $15 + $0)."
+"Response:  We are given that there are 80 insects in total and they come in groups of 8 per square meter. Therefore, we have:
+Number of insects = Total number of insects / Number of insects per square meter
+= 80 / 8
+= 10
+So, there are 10 insects in each square meter."
+Response:  We know that Sally Two died before Granny Red (Granny Red died at age 102). So, Sally Two died when Granny Red was younger than 102 years old. Therefore, Sally Two died at most 101 years ago. Now, we know that Sally Four died after Granny Red (Granny Red died at age 102), so Sally Four died after 102 years ago. Finally, we know that Sally Thirtytwo died before Sally Four (Sally Four died at age 95), so Sally Thirtytwo died at least 95 - 102 = -7 years ago. Therefore, the answer is -7 years ago.
+Response:  The total amount of money that Jessica spends per month is $1000 (kia nne). If she spends 50% more than the previous month, then her expenses for this month will be $1500 ($1000 x 1.5 = $1500). So, the difference between her expenses last month and this month is $500 ($1500 - $1000 = $500). Therefore, the number of months it takes for Jessica to spend $300 more than her previous monthly expenses is 6 months ($500 / $83 = 6 months).
+Response:  The number of ways to arrange 60 pieces of meat for a family of 12 people is 60! = 7,348,900,000,000 possible combinations. However, we need to subtract the number of combinations that are not feasible or desirable, such as arranging all the meat into one large piece or arranging it in a way that would be difficult to cook or serve. Let's assume that about half of these combinations (or 3,694,450,000,000) are not feasible or desirable. So, the remaining 3,654,450,000,000 combinations are the ones that Billy can consider. Now, let's calculate how many seconds it would take Billy to arrange each combination. Assuming he works at a constant rate and takes no breaks, he can arrange one combination every second (3,654,450,000,000 / 5). Therefore, it would take Billy approximately 730,890,000,000 seconds to arrange all the possible combinations of meat for his family.
+Response:  The cost of one lemon is $3 and that of an orange is $2. So, if you buy both lemons and oranges, you will spend a total amount of $3 + $2 = $5. If you get a discount of $25, then you will pay only half of the original price which is $5 / 2 = $2.50. Therefore, the final cost of buying both lemons and oranges after getting a discount of $25 is $2.50.
+Response:  We are given that there were 240 people who went to Wasia and 80 of them were from Waasia. Also, we know that 60 of the total number of people at the event were from Wachina. So, let's calculate the number of people from Wachina as follows: Number of people from Wachina = Total number of people - Number of people from Waasia Number of people from Wachina = 240 - 80 = 160 Therefore, 160 people from Wachina attended the event.
+Response:  Firstly, we know that Zaid has been saving money for 5 years (5 x $200 = $1000). Then he got a loan of $6000 from the bank which he paid back after 3 years ($6000 / 3 = $2000). So in total, Zaid saved and borrowed $3000 during those 8 years. Now let's calculate how much interest he earned or paid using the formula: Interest = Principal x Rate x Time. In this case, the principal is $3000, rate is 10% per year, and time is 8 years. Therefore, the interest earned by Zaid is: Interest = $3000 x 10% x 8 = $2400. So, the final amount of money that Zaid had after paying off the loan is: Final Amount = Initial Amount + Interest = $3000 + $2400 = $5400.
+Response:  According to the question, Rani has 3 children who are older than Monica and each of them has 4 siblings. So, in total, there are 12 people (Rani + Monica + their 3 children). Now, if Bo is 40 years old, then he is 4 times older than Monica, which means that his age is 4 x 40 = 160 years. Therefore, the correct answer is 160.
+"Response:  According to the question, Lloyd deposited $10 into his account at school. The account has 5 years of education left (from age 5 to age 8). If we assume that the interest rate is 2% per year, then the total amount in the account after 5 years would be:
+$10 x (1 + 0.02) ^ 5 = $14.37
+After another 3 years, the balance would be:
+$14.37 x (1 + 0.02) ^ 8 = $26.94
+So, Lloyd earned $16.57 ($26.94 - $10) more than he initially deposited over the entire period of 8 years."
+"Response:  The number of students in class 1 is 80 and each student has 7 subjects. Therefore, the total number of subjects taught in that class is;  80 x 7 = 560."
+"Response: 
+Sandra had 50 cows and gave 30 to Fred as loan. If each cow produces 4 liters of milk per day, how many liters of milk will Sandra have after 11 days?
+Let X be the number of liters of milk that Sandra has after 11 days.
+According to the problem, Sandra gives 30 cows to Fred as loan, so she won't get any milk from those cows for 11 days. Therefore, we can subtract 30 x 4 (liters/cow/day) = 120 liters from Sandra's total milk production during this period.
+So, X - 120 = 380 liters of milk Sandra will have after 11 days."
+Response:  We know that Mark died at age 72 and Jean is 6 years younger than Mark. Therefore, Jean is currently 66 years old (Mark's age minus 6). Since January has 31 days, we can calculate the number of months between January and March as follows: 31 days in January x (March - January) = 31 x 2 = 62 days. So, Jean was born 62 days after Mark's death.
+"Response:  We are given that there are 100 people who have to run 4 km in 20 minutes or less. The average speed of each person is calculated as follows:
+
+Average Speed = Total Distance / Time Taken
+= 4 km / 20 min
+= 0.2 km/min
+
+Now, we need to find out how many steps each person will take to cover this distance in one minute. To do this, we can use the formula:
+
+Steps per Minute = Distance / Speed
+= 0.2 km / 0.2 km/min
+= 1 step/min
+
+So, each person will take approximately 1 step every second to cover the distance of 4 km in 20 minutes. Therefore, the total number of steps taken by all 100 people will be:
+
+Total Steps = Number of People x Steps per Minute
+= 100 x 1 step/min
+= 100 steps
+
+Therefore, the answer is 100 steps."
+"Response:  If Jerry has 10 small balls and he wants to divide them equally among his 4 friends so that each friend gets 3 more than they already have, then we can calculate it this way:
+Jerry has 10 small balls initially = 10 x 1 = 10
+He divides them equally among 4 friends = 10 / 4 = 2.5 per friend
+To get 3 more than what each friend already has, we add 3 to 2.5 = 5.5
+So, each friend will get 5.5 small balls in total."
+"Response:  If Jenna has 10 bags of maize flour and she gives 5 bags to her mother who also has 20 bags of maize flour, then how many bags of maize flour will be left with Jenna after giving them to her mother?
+So, the answer is 5 bags of maize flour will be left with Jenna after giving them to her mother."
+Response:  We have to find out how many books are in each shelf and then sum them up. So let's start with the first shelf. There are 3 books in this shelf, so we can write 3 for band 1. Now let's move to the second shelf. There are 5 books in this shelf, so we can write 8 (3 + 5) for band 2. Next is the third shelf, which has 7 books. So we can write 15 (8 + 7) for band 3. Finally, there are 20 books in the last shelf, so we can write 35 (15 + 20) for all the remaining bands. Therefore, the total number of books in all the shelves is 35.
+"Response:  The amount of money that Mendy has saved is given as $100 and the interest rate is 2% per month. This means that after one year (365 days), the amount of money that Mendy will have saved is:
+$100 x (1 + 0.02) = $100 x 1.02 = $102
+So, after three years (1095 days), the amount of money that Mendy will have saved is:
+$102 x (1 + 0.02) ^ 3 = $102 x 1.0468 = $107.37
+Therefore, the amount of money that Benedict will have at the end of three years is:
+$100 + ($107.37 x 3/2) = $100 + $53.68 = $153.68"
+Response:  The total number of eggs is 100. If each egg costs $2, then the total cost of all eggs is $2 x 100 = $200. Now, let's calculate the profit per egg after selling them at $30 each. Profit = Selling price - Cost = $30 - $20 = $10 per egg. Therefore, if he sold all 100 eggs, his profit would be $10 x 100 = $1000.
+Response:  The number of friends is 10 (walitumia). Each friend will get $20.25 for each one (tikiti) they bring. So, if all ten friends bring three oneshios each, then each friend will have earned $60.75 ($20.25 x 3 = $60.75). Now, let's calculate how much money each friend has spent on food and drinks. If each friend spends $4.50 on chakula na bei, then the total amount spent by all ten friends will be $45 ($4.50 x 10 = $45). Finally, let's subtract the amount spent from the total amount earned to find out how much money each friend has left after buying food and drinks. So, the remaining amount for each friend will be $60.75 - $45 = $15.75. Therefore, each friend will have $15.75 ngapi.
+Response:  If John can eat one pichi in 1 minute, then he will eat 2 pichis in how many minutes? Time taken to eat 2 pichis = 1 minute / time taken to eat 1 pichi = 60 seconds / 1 minute = 60 seconds. Therefore, it will take John 60 seconds to eat 2 pichis. Now, if he eats 3 pichis, then it will take him (60 seconds x 3) = 180 seconds or 3 minutes to eat all 3 pichis.
+Response:  The number of days in 3 months is 90 days. Therefore, if we multiply 90 by 3, we get 270 days. So, the total number of days that have passed since the last time Batta had sex with his wife is 270 days.
+"Response: 
+Miti 10 x 10 = 100
+Kila mwaka pia huwa anakata miti 2 = 20
+Anaanza na miti 50 = 500
+Baada ya miaka 10 = 100
+So, amesalia na miti mingapi = (100 + 20) / 500 x 100 = 40%."
+Response:  Firstly, we are given that there were 18 pink plastic bags found in the morning at the beach where Sue was sitting. Then, we are told that after lunchtime, 18 flamingos came to the same beach and started eating those plastic bags. Finally, we are asked how many flamingos were left after they finished eating all the plastic bags. To solve this problem, we need to use basic arithmetic operations like addition and subtraction. So, if 18 flamingos started eating the plastic bags, and they finished eating them all, then the number of flamingos left afterward would be 0 (zero). Therefore, the answer is 0.
+Response:  We have been given that Violetta has 100 beads and she wants to divide them equally among 5 friends. So, each friend will get 20 beads (since there are 5 friends). Now, let's calculate how much money Anahita will receive if each bead is worth $2. If Anahita receives 20 beads, then she will receive $40 in total ($2 x 20 = $40).
+Response:  The cost of one pen is $0.30 and there are 8 pens in total. Therefore, the total cost of all pens is: 8 x $0.30 = $2.40. So, the answer to the question is $2.40.
+Response:  We have been given that there are 200 goats and we need to divide them equally among 40 Fulanis. This means each Fulani will get 5 goats (200/40). Now, let's calculate how many goats each of the 16 Mikahawas will get if they share the remaining 80 goats equally among themselves. Each Mikahah will get 5 goats (80/16) = 5 goats. Therefore, the total number of goats each Mikahah will get is 5 + 5 = 10 goats. So, the answer is 10 goats per Mikahah.
+Response:  According to the question, there are 23786 men and 9092 women in Soda. If we subtract the number of women from the total population, we get 14694 men who do not have children. Therefore, the number of children in Soda is 14694.
+"Response:  The number of Pokémon in Elaine's collection at first was 20. After one year, she collected more than twice as many Pokémon as she had initially. In the second year, her total collection increased by half again compared to the previous year. So, if we calculate the increase from the initial number, it will be:
+Year 1: 20 → 40 (twice the original amount)
+Year 2: 40 → 80 (half again the previous year's increase) = 64
+So, the final number of Pokémon in Elaine's collection is 64."
+Response:  We have two publishers (A and B) who are publishing articles on different topics. Each article has a certain number of words (jumla), which is unknown to us. The total number of articles published by both publishers is also unknown (Mark). Now we know that Publisher A has published 5 articles with each having 1000 words, while Publisher B has published 950 articles with each having an average of 500 words. To find out how much money was earned from these articles, we need to calculate the total number of words published by both publishers and then multiply it by the price per word. So, the answer is: Total number of words = 950 + 950 = 1900 words. Total amount earned = 1900 x $0.03 = $57.
+Response:  We are given that there are 5 days in a week and 6 days in a month. So, if we have 30 days in a month, then we will have 150 days in a year (5 x 30 = 150). Therefore, the correct answer is 150.
+Response:  The amount of money saved is $5000 and it earns 5% interest per year. Since there are 52 weeks in a year, we can calculate the weekly interest as follows: Weekly Interest = Annual Interest / Number of Weeks x (1 + Intere...
+"Response:  We are given that there are 10 hectares of land in Ekari and each hectare can produce 5 bags of maize per year. Therefore, the total number of bags of maize produced annually is:
+
+10 ha x 5 bags/ha = 50 bags of maize per year
+Since it takes two years to harvest the crops, we need to multiply the total number of bags of maize produced annually by 2 to get the total number of bags of maize produced over two years:
+
+50 bags/year x 2 years = 100 bags of maize over two years
+Therefore, the answer is 100 bags of maize over two years."
+"Response: 
+1. The number of sandwiches made per day is 4 (as stated in the question).
+2. Each sandwich has 2 pieces of bread and 1 piece of meat (as also stated in the question). Therefore, the total number of pieces of bread used per sandwich = 2.
+3. Since there are 4 sandwiches per day, the total number of pieces of bread used per day = 4 x 2 = 8.
+4. Now, let's calculate the number of eggs used per day. According to the question, each sandwich contains one egg. So, the total number of eggs used per day = 4 sandwiches x 1 egg/sandwich = 4 eggs/day.
+5. Finally, we need to calculate the total number of chickens required to produce the amount of eggs needed per day. We know that one chicken can lay approximately 5-6 eggs per week. Therefore, to produce 4 eggs/day, we would need approximately 0.7 - 0.8 chickens per day (based on the above calculation)."
+Response:  We are given that Janet had 22 goats and gave away 10 to her son. She now has 6 goats left. From these 6 goats, she sold 2 to buy milk for her grandchildren. So, she has 4 goats left. Now, let's calculate how many goats each of her grandchildren got from the 2 goats she bought with the money she made selling the remaining 4 goats. Each child got 1/4 of the total number of goats, which is 4/4 = 1 goat each. Therefore, Janet has 3 goats left after giving one goat each to her three grandchildren.
+Response:  We are given that Mr. Bert has scored 89, 71, 92, 100 and 86 in the five subjects respectively. To find out how many points he got overall, we add up all these scores: 89 + 71 + 92 + 100 + 86 = 548. So Mr. Bert got 548 points overall.
+Response:  According to the question, Michael walked for 1 hour and covered 5 km using his bike. This means he traveled at a speed of 5/1 = 5 km/h. Now, let's calculate how far he will travel in 2 hours. The distance traveled is given by the formula: Distance = Speed x Time. So, if we substitute the values we know into the equation, we get: Distance = 5 km/h x 2 h = 10 km. Therefore, Michael traveled 10 km in 2 hours.
+Response:  We are given that there are 25 pumpkins for every 100 balls of candy and 80 balls of candy for every 100 pieces of fruit. Also, we know that each ball of candy contains 40 grams of sugar. Therefore, if Joe has 300 balls of candy, then he must have 300 x 40 = 12,000 grams of sugar. Now, let's calculate how many pumpkins Joe would need to buy based on the number of balls of candy he wants to give away. If Joe wants to give away 100 balls of candy, then he will need 100 / 40 = 2.5 pumpkins (since each pumpkin can make 25 balls of candy). So, Joe needs 2.5 pumpkins to make all the candy he wants to give away.
+"Response: 
+Rose has 10 cookies and gives 4 to her friend Jackie. So, Rose now has 6 cookies left (10 - 4 = 6).
+Jackie eats 3 of the cookies she received from Rose, leaving her with 1 cookie (4 - 3 = 1).
+Now, Jackie gives 2 cookies to her friend Sarah, who had none before (1 = 2).
+So, Sarah now has 2 cookies (0 + 2 = 2).
+Therefore, the final number of cookies held by each person is as follows:
+Rose: 6
+Jackie: 1
+Sarah: 2"
+Response:  The total amount of money that needs to be distributed among all the people in the village is $6000. Since there are 50 people in the village, each person will receive $120 (6000/50). So, the answer is $120.
+Response:  Firstly, we know that Sara has to buy 2 sets of jackets for $20 each set. Therefore, she needs to spend $40 in total (2 x $20). Secondly, she will also need to pay $5 per mara for the school uniforms, which means she needs to spend $80 more (4 x $5). Finally, since she wants to save money and get change from $100, she can use $60 for the jackets and $40 for the school uniforms ($100 - $60 = $40), leaving her with $40 in change. So, the total amount Sara needs to pay is $120 ($40 + $80).
+Response:  Jerry eats 42 eggs per day. If he eats 3 eggs per day for 3 days, then he will eat 3 x 3 = 9 eggs in total. Now, if he eats 5 eggs per day for 5 days, then he will eat 5 x 5 = 25 eggs in total. So, the difference between the number of eggs Jerry eats when he is eating 3 eggs per day and when he is eating 5 eggs per day is:  25 - 9 = 16 eggs. Therefore, Jerry eats more eggs when he is eating 5 eggs per day than when he is eating 3 eggs per day.
+"Response:  The farmer has 10 acres of land and he wants to plant crops that will take 6 months to mature. If he plants 3 rows of maize every month, how many rows will he have after 6 months?
+To find out, we need to multiply the number of rows per month by the number of months. So, if he plants 3 rows per month, after 6 months he will have 3 x 6 = 18 rows of maize."
+Response:  We are given that Sloan took 100 items from the store and left with 50 more than he had at first. So, initially, Sloan had x items. After taking some items, he had x - 100 = 50 + y items where y is the number of items he took. Now we are told that the total number of items taken by Sloan was 500. Therefore, we can write the equation: x + (y + 50) = 500. Solving for y, we get y = 400. So, Sloan took 400 items from the store.
+Response:  The water level in the tank increases at a rate of 2 liters per minute and it takes 4 minutes to fill the tank completely. So, after 4 minutes, the water level will be 8 liters (2 x 4 = 8). Now, let's calculate how much water is left in the tank after 10 minutes. After 10 minutes, the water level will have increased again by another 2 liters per minute, so the new water level will be 10 liters (8 + 2 = 10). Therefore, after 10 minutes, there will be 3 liters of water left in the tank (10 - 7 = 3).
+Response:  Firstly, we know that Lori earned $320 from her job and spent $32 on something. So she has $288 left after spending. Then, she spent $8 on something else, leaving her with $280. Therefore, the amount of money Lori will have after doing her chores is $280.
+Response:  If Janet received $2000 and was supposed to give 10% of it as tax, then she would have given $200 (10% of $2000). So if she gave $165 every month for 12 months, that means she paid a total of $2040 in tax ($165 x 12 = $2040). Therefore, the remaining amount after paying tax is $1896 ($2000 - $2040 = $1896).
+Response:  We have been given that there are 7 waridi in total and we need to find out how many of them will be left after 4 months. So, if one waridi is equivalent to 30 days, then we can calculate as follows: Number of waridi = Total number of waridi x Time taken (in days) / Number of days per waridi = 7 x 120 / 30 = 266.67 waridi After 4 months, we will have 266.67 - 4 = 262.67 waridi left. Therefore, the answer is 262.67.
+"Response: 
+Umri wa Adrian = 30 (mara tatu)
+Umri wa Harriet = 45 (nusu ya umri wa Zack)
+Total number of years between Adrian and Harriet = 45 - 30 = 15 years
+Therefore, the difference in age between Adrian and Harriet is 15 years."
+"Response:  We are given that there are five students in total and their scores are as follows:
+Alma 251 - 68 = 183
+Yuri 251 - 10 = 241
+Naomi 251 - 68 = 183
+Brianna 251 - 17 = 234
+Jojo 251 -? =?
+From the information provided, we can see that Alma scored 183 points less than Naomi, who scored 68 points more than Brianna. Therefore, if we subtract the number of points that Naomi scored from her total score, we will get Jojo's score:
+Jojo scored 251 - (68 + 17) = 251 - 85 = 166 points."
+Response:  We have to find out how many minutes are between 10 and 5 minutes. So we subtract 5 from 10 which gives us 5. Now we need to find out how many minutes are between 5 and 3 minutes. Subtracting 3 from 5 gives us 2. Therefore, there are 2 minutes difference between 10 and Sudoku.
+"Response:  We are given that there is 120 liters of water in a tank and we need to find out how much water will be left after 90 liters have been taken out. So, firstly, let's calculate the amount of water that can be taken out from the tank. Therefore, the amount of water that can be taken out = Total amount of water in the tank - Amount of water needed (90 liters). Now, let's substitute the values given in the problem: Total amount of water in the tank = 120 liters; Amount of water needed = 90 liters. Substituting these values, we get: Amount of water that can be taken out = 120 - 90 = 30 liters. Now, we know that 90 liters of water has been taken out from the tank, so the remaining water in the tank is equal to the total amount of water in the tank minus the amount of water taken out: Remaining water in the tank = 120 - 90 = 30 liters."
+Response:  If Andy has $90 and he wants to save $40 more, then his total savings will be $130 ($90 + $40). So, in 90 days, he will have saved $130 / 90 = $1.44 per day.
+Response:  The number of months in one year is 12. So if someone has been saving money for 3 years at an interest rate of 10%, then they will have earned $30,000 (10% of $300,000) after 3 years. Therefore, the total amount saved after 3 years would be $60,000 ($30,000 x 2). If this person continues to save money at the same interest rate for another 4 years, they will have earned $80,000 more, bringing their total savings to $140,000 ($60,000 + $80,000).
+"Response: 
+Carlos makes $30 per day and Benji makes $18 per day.
+So, in total, they make $48 per day (Benji's income + Carlos's income).
+Now, let's calculate how much each of them will have after 3 days and 5 days respectively.
+For 3 days, Carlos will have made $48 x 3 = $144 and Benji will have made $48 x 3 = $144 as well.
+For 5 days, Carlos will have made $48 x 5 = $240 and Benji will have made $48 x 5 = $240 again!
+Therefore, both Carlos and Benji will have earned the same amount of money ($240) after 5 days."
+"Response: 
+1. The distance from New York City to Rochester is approximately 350 miles (563 km).
+2. The flight time from New York City to Rochester is around 45 minutes.
+Therefore, if you leave New York City at 9 am and arrive in Rochester at 9:45 am, it will take you about 6 hours to get there including the flight time and any potential delays or layovers."
+"Response:  We have:
+Ana has 30 Pokémon in total.
+He has 20 Water-type Pokémon and 40 Fire-type Pokémon.
+From the remaining 8 Pokémon, he has 4 Electric-type Pokémon and 4 Fighting-type Pokémon.
+So, the total number of Pokémon that Anahesabu can use is:
+30 + 20 = 50 Water-type Pokémon
++ 40 = 80 Fire-type Pokémon
++ 8 = 88 Other-type Pokémon (Electric and Fighting)
+Therefore, the answer is 88."
+"Response:  The total cost of the food is given as $6.50. We know that the price per kilogram of meat is $2.00, and the price per piece of bread is $1.00. The price per plate of rice is $1.00, and the price per cup of soup is $0.25. To calculate the total cost, we need to multiply each item by its corresponding price and then add them up. So, for the meat, it would be $2.00 x 5 = $10.00; for the bread, it would be $1.00 x 4 = $4.00; for the rice, it would be $1.00 x 3 = $3.00; and for the soup, it would be $0.25 x 8 = $2.00. Therefore, the total cost of the meal is $10.00 + $4.00 + $3.00 + $2.00 = $27.00."
+Response:  The question is asking how many times Kalinda can perform vipende 360 degrees in one minute while holding his baby. To solve this problem we need to use units of time and distance. We know that there are 60 seconds in one minute, so if Kalinda performs vipende 360 degrees in one minute, he will have performed it 360/60 = 6 times. Therefore, the answer is 6.
+Response:  We are given that there were 120 farmers in total and after 6 months of training, 30% of them (36) became more productive. So, the number of non-productive farmers before training was 120 - 36 = 84. After training, 75% of the remaining non-productive farmers (67) became more productive, so the number of non-productive farmers left is 84 - 67 = 17. Therefore, the percentage of non-productive farmers who did not become more productive after training is 17 / 120 x 100 = 14%.
+Response:  The total amount of money that will be announced is $12,000. If each round costs $20, then there will be 6 rounds in total (since $12,000 / $20 = 6). Each round has a probability of winning of 10%, which means that the number of winners per round is also 10%. Since there are 6 rounds, the total number of winners will be 6 x 10 = 60. Now, let's calculate the average prize money for each winner. Since the prize money is $1000 per winner, and there are 60 winners, the total prize money awarded will be $60,000 ($1000 x 60). So, the answer to the question is $60,000.
+Response:  We know that Kylie has 5 more children than Robert and each of their children costs $20. Therefore, Kylie spends $100 more than Robert in total. So, if Robert spent $x on his children, then Kylie spent $x + $100 = x + 100. Now we are given that Kylie's youngest child is born on a Tuesday, so we can say that Kylie's total cost for all her children is equal to the number of days between Tuesday and the birthday of her youngest child divided by 3. Since the birthday of her youngest child is after Jumanne (Thursday), we have: $$ \frac{x+100}{3} = \frac{(Jumanne-Tuesday)}{3} $$ Simplifying the equation, we get: $$ x + 100 = (Jumanne - Tuesday) \div 3 $$ Solving for x, we get: $$ x = 40 $$ Therefore, Kylie spent $40 more than Robert in total on her children.
+Response:  If there are 100 plots of land and each plot measures 1/4 acre, then the total area of all the plots is 100 x 1/4 = 25 acres. Now, if we have 50 goats that eat grass, and each goat eats 1/2 kilogram of grass per day, then the total amount of grass consumed by all the goats in one day is 50 x 1/2 = 25 kg. Therefore, the number of days it would take for all the grass to be consumed is 25 kg / 25 kg per day = 1 day.
+Response:  The number of fish in the ocean is 36 trillion (jua). Out of these, only 10% (moja) are affected by pollution and cannot swim properly. Therefore, the number of fish that can swim normally is 36 trillion x 90% = 32.4 trillion. So, there are approximately 32.4 trillion fish that can swim normally in the ocean.
+Response:  We are given that Steve has 10 bags of maize and he wants to share them equally among his 5 friends. Since each friend will get 2 bags, how many bags will Steve have left after sharing? So, Steve will be left with 4 bags (10 - 2 x 5 = 4). Now, let's calculate how many days it will take for Steve to finish distributing all the bags if he distributes them at a rate of 2 bags per day. Therefore, it will take Steve 2 days (4 / 2 = 2) to finish distributing all the bags.
+Response:  We know that there are 20 friends who want to share one large pizza equally among themselves. Since each friend wants to have at least 1/4 of the pizza (as stated in the question), we can calculate the total number of slices needed as follows: Total number of slices = Number of friends x Desired slice size = 20 x 1/4 = 5 slices So, John will need to cut the pizza into 5 equal pieces.
+Response:  The number of days in a month is 30, and we are asked to calculate the total amount of money that can be earned from selling chickens per day if each chicken costs Kshs 100. So, if one sells 25 chickens per day, they will earn Kshs 2,500 (25 x Kshs 100). Now, let's assume that the person has been selling chickens for 30 days straight without any breaks or holidays. In this case, the total amount of money earned from selling chickens within those 30 days would be 2,500 x 30 = Kshs 75,000. Therefore, the answer to the question is Kshs 75,000.
+Response:  The amount of money that Johnny has is $20 and he wants to give away $10. So, his remaining balance after giving away $10 is $20 - $10 = $10. Now, if he gives away another $10, his new balance will be $10 - $10 = $0. Therefore, the answer is $0.
+Response:  We are given that Mary is younger than Joan by 15 years (miaka miwili). So if Joan is currently 30 years old (Jessa), then Mary would be 15 years old (mdogo) at present. If we add 20 to Mary's current age of 15, her age after 20 years will be 35 years old (ngapi). Therefore, the correct answer is 35.
+Response:  The total number of students is 1000 and they are divided into three groups with equal sizes (A, B, and C). After the examination, 30% of the students who sat for the exam passed in group A, 3/5 of the students who sat for the exam passed in group B, and 2/3 of the students who sat for the exam passed in group C. We need to find out how many students passed in each group. So, we can start by calculating the number of students who passed in group A as follows: Number of students who passed in group A = Total number of students x Percentage of students who passed in group A = 1000 x 30/100 = 300 Students Now, let's calculate the number of students who passed in group B using the same formula: Number of students who passed in group B = Total number of students x Percentage of students who passed in group B = 1000 x 3/5 = 600 Students Finally, let's calculate the number of students who passed in group C using the same formula: Number of students who passed in group C = Total number of students x Percentage of students who passed in group C = 1000 x 2/3 = 400 Students Therefore, there were 300 students who passed in group A, 600 students who passed in group B, and 400 students who passed in group C.
+Response:  We know that John has one more pipe than Robert. So if Robert has x pipes, then John has x + 1 pipes. Since John is older than Robert by 3 years, we can say that John's age in years is equal to his number of pipes minus 3. Therefore, John's age = (x + 1) - 3. Solving for x, we get x = 57. So John is 57 years old.
+Response:  We know that Dolly has written 5 books and Pandora has written 3 books. So, if we want to find out how many books they have written in total, we can simply add their numbers together: 5 + 3 = 8. Therefore, Dolly and Pandora have written a total of 8 books together.
+Response:  We are given that there are five friends and two of them are best friends. The remaining three have a common friend who is also their classmate. They met each other every day for 5 days and shared something with each other. Now we need to find out how many things they shared in total. So, let's calculate it as follows: Number of things shared = Total number of people x Number of times they met / Number of best friends. In this case, the calculation would be: Number of things shared = 5 x 5 / 2 = 10. Therefore, the group of five friends shared ten things among themselves during those 5 days.
+"Response:  We are given that Jason can simulate 1000 days in 1 minute and he spends 15 seconds per day creating simulations. Therefore, if we divide the total number of days (1000) by the time taken to create each simulation (15 sec), we get the number of simulations created by Jason in one minute as follows:
+
+1000 / 15 = 66.67
+So, Jason creates approximately 66 simulations in one minute. Now, let's find out how many simulations he creates in 30 days. If he creates 66 simulations in one minute, then he will create:
+
+66 x 24 = 1592 simulations in 30 days
+Therefore, Jason creates approximately 1592 simulations in 30 days."
+Response:  We know that Billy took 5 chips from Griffin, and then Ginger took 3 more chips from Griffin. So, initially, Griffin had 24 chips. Now, let's calculate how many chips Griffin has after Ginger took 3 more chips: 24 - 5 = 19 + 3 = 22 chips. Therefore, Griffin had 22 chips left after Ginger took 3 more chips.
+Response:  We are given that there are 4 cats in total and each cat has 32 fish in its stomach. Therefore, the total number of fish in all the cats' stomachs is 4 x 32 = 128 fish. Now, we are asked how many more fish there are in all the cats' stomachs compared to the number of fish in one cat's stomach. So, if one cat has 32 fish in its stomach, then the difference between the total number of fish in all the cats' stomachs and the number of fish in one cat's stomach is 128 - 32 = 96 fish. Therefore, there are 96 more fish in all the cats' stomachs than in one cat's stomach.
+"Response: 
+Msanii wa mapambo wa Jean hatoza $250 kila saa. This means that Jean earns $250 per month.
+Anahitaji mapambo ghali mno kwa filamu anayofanya na huwa inachukua saa 6 kufanya kila siku na anahitaji ifanye mara 4 kwa wiki. This means that Jean works for 6 days a week and has 4 weeks of work in a year (based on the wiki).
+Filamu hiyo inachukua wiki 5 kukamilisha. This means that Jean gets paid for 5 days of work in a week.
+So, Jean's total income from working for 6 days a week is:
+$250 x 6 = $1,500 per month
+Now, let's calculate the percentage of money earned by Jean based on the amount of work done:
+10% of $1,500 = $150
+Therefore, Jean earns $150 extra per month as a bonus for working hard."
+Response:  We are given that there are 10 people in total and each person will have to pay for their own meal. So, we need to calculate how much money each person will spend on food. The cost of one plate of rice is $12, and the cost of one chicken is $43. If they buy both, then the total cost per person would be $12 + $43 = $55. Since there are 10 people, the total amount spent on food would be $55 x 10 = $550. Now, let's consider the other expenses. Each person will spend $4 on transportation, so the total amount spent on transportation would be $4 x 10 = $40. Additionally, each person will give $2 as tips, so the total amount spent on tips would be $2 x 10 = $20. Therefore, the total amount spent by each person would be $550 (food) + $40 (transportation) + $20 (tips) = $690. As for the remaining balance after all the expenses, if there were $1200 initially, then after subtracting the total amount spent ($690), the remaining balance would be $1200 - $690 = $510.
+Response:  We are given that there are 4 vuttongo (voting stations) and each station has 50 voters. Therefore, the total number of voters is 4 x 50 = 200 voters. Now we are asked how much money one vote costs. So, if one vote costs $1.50, then the total amount of money spent on voting is 200 votes x $1.50 = $300.
+"Response:  We are given that there are 4 more days than Thursday and 7 more days than Friday. So, if today is Monday, then tomorrow will be Tuesday (4 more days). If today is Wednesday, then tomorrow will be Thursday (7 more days). Therefore, if today is Sunday, then tomorrow will be Monday (4 more days), and if today is Saturday, then tomorrow will be Sunday (7 more days). Now let's calculate how many days have passed since the beginning of the week:
+Monday + 4 = Tuesday + 7 = Wednesday + 7 = Thursday + 4 = Friday + 7 = Saturday + 4 = Sunday
+Therefore, 5 days have passed since the beginning of the week. As for the second part of the question, we know that Biskuti has eaten 5 meals, so he has consumed a total of 5 x 200 = 1000 calories."

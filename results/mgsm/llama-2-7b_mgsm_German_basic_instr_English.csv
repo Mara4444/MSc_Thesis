@@ -1,0 +1,559 @@
+Response: 48 dollars (16 eggs x 3 eggs per day for breakfast + 4 muffins per day = 48 dollars)
+Response: 3 knäuel blauer Wolle und 1 1/2 knäuel weißer Wolle.
+Response: 30,000 USD 
+Response: 210 meters (3 x 60 meters/lauff = 210 meters)
+Response: 37 Tassen (15 + 25) / 20 = 37 Tassen Futter pro Tag für eine Hühnerschar von 20 Hühnern.
+Response: 80 US-Dollars 
+Response: 168 (Toulouse has twice as many sheep as Charleston, and Charleston has four times as many sheep as Seattle. Therefore, Toulouse has twice as many sheep as Charleston plus Charleston's total number of sheep is equal to four times Seattle's total number of sheep).
+Response: 1 hour and 38 minutes (98 minutes)
+Response: 157 miles away from home.
+Response: 63 US-Dollars.
+"Response: 210
+Explanation:
+In the first month, the program was downloaded 60 times. In the second month, it was downloaded 3 x 60 = 180 times (thrice as much). In the third month, it was downloaded 60 - 30% of 60 = 42 times (30% less than in the second month). Therefore, the total number of downloads during these three months is: 60 + 180 + 42 = 210."
+Response: 417 US dollars 
+"Response: 62 years
+Explanation: To calculate the number of years it will take for Carlos to earn money with his lemon tree, we need to consider two factors: the cost of planting and maintaining the tree, and the revenue he can generate from selling lemons. Let's assume that Carlos plants the tree today and starts selling lemons immediately. In the first year, he will have to spend $90 on planting and maintenance costs, but he will only receive $10 (7 x $1.50) in revenue. Therefore, the net profit in the first year is $80 ($90 - $10).
+In subsequent years, the situation is as follows:
+Year 2: Planting and maintenance costs remain at $90, while revenue increases to $14 (7 x $2.00). Net profit is $76 ($90 - $14).
+Year 3: Planting and maintenance costs increase to $108 ($90 + $18), while revenue remains at $14. Net profit is $94 ($108 - $14).
+And so on. Using this pattern, we can calculate the total net profit over time as follows:
+Total net profit = ($90 x 70) + ($108 x 68) + ($136 x 66) +...
+where n is the number of years since planting. Solving for n, we get approximately 62 years. Therefore, it will take Carlos about 62 years to break even on his investment and start making a profit from his lemon tree."
+"Response: 10
+Explanation: According to the information provided in the question, Melanie has sold 3/6 of her total number of vacuum cleaners (i.e., 3/6 x 5 = 3). Therefore, she has 5 - 3 = 2 vacuum cleaners left."
+Response: 75% (or 15 out of 20 students) have expressed interest in Hip-Hop dance.
+"Response: 7436.92
+Explanation: To calculate the expected value of the two options, we need to use the Black-Scholes model. Let's assume that the risk-free interest rate is 2%, and the volatility of both markets is 20%. Using these inputs, we can calculate the option prices using the Black-Scholes formula. For the gold market, the price of the call option with a strike price of $5,000 and a time to expiration of one month is approximately $25.67. For the electronics market, the price of the call option with a strike price of $8,000 and a time to expiration of one month is approximately $14.33. Since the Händler wants to make the maximum profit, he should choose the option with the higher price. Therefore, the expected value of the two options is: Expected Value = ($25.67 + $14.33) / 2 = $7436.92."
+"Response: 230 miles
+Explanation: On day one, both trains travel west for 80 miles and then turn north to cover another 150 miles. Therefore, each train covers a total distance of 230 miles (80 + 150) over the two days."
+Response: 48,000 USD 
+Response: 12 eggs (3 eggs/omelette x 4 weeks)
+Response: 3 miles per hour 
+"Response: 17 liters
+Explanation: To find out how much water is left after adding 10 liters of orange juice to 24 liters of water and then spilling one liter of it, we need to subtract the amount of water that was spilled from the total volume of liquid available for mixing. In this case, there are 23 liters (24 - 1) of liquids available for mixing. Since three-fifths of these liters are equal to 15 liters of ananas getränk with two-thirds water, we can calculate the remaining water as follows: 23 - 15 = 8 liters of water remain in the container."
+Response: 5 years ago
+Response: 14 DVDs
+Response: 40 cm (or 15.7 inches) shorter.
+Response: 24.75 dollars (originally)
+"Response: 6
+Explanation: To find out how many schachteln pizza marie has bought, we need to divide the total amount she paid by the cost of each schachtel. We know that marie paid 50 dollars and the cost of one schachtel is 8.50 dollars, so we can calculate it as follows: $50 / $8.50 = 6 Therefore, marie has bought 6 schachteln pizza."
+Response: 78,50 US-Dollar
+Response: 90.00 US-Dollars (calculation: 15 x 60 = 900)
+Response: 40 miles (64 km)
+Response: 26 dollars 
+Response: 93 years old
+"Response: 137
+Explanation: The average of their answers is (80 + 20) / 3 = 137."
+"Response: 50 hours per week (10 dogs x 0.5 hours/dog/day = 5 hours/dog/week; 5 hours/dog/week x 10 dogs = 50 hours/week)"
+Response: 40
+"Response: 36
+Explanation: Let's analyze the information given in the question:
+Aaron has more than half of Raymond's jewelry pieces, which means that Aaron has at least 40/2 = 20 jewelry pieces.
+Siobhan has fewer pieces than Aaron, so she must have 36 or fewer pieces.
+Therefore, Siobhan has 36 jewelry pieces."
+"Response: 16 points
+Explanation:
+In the first 20 minutes, Mike scored 4 points, which is 4/40 = 0.1 points per minute.
+In the next 20 minutes, he scored 25% more points than in the previous period, which means he scored (25/100) x 4 = 10 points.
+Therefore, Mike scored a total of 4 + 10 = 16 points in 40 minutes."
+Response: 16.67 USD/Joghurt
+"Response: 5
+Explanation: If John sold all of his Lego sets for $15 each and used the money to buy video games at $20 each, he would have spent a total of $13 x 13 = $169 on Lego sets. Since he has $5 left over after buying the video games, there must be 5 Lego sets remaining that he did not sell."
+Response: 12 miles per hour 
+"Response: 4 miles
+Explanation: If Dana can run four times faster than she walks and can only hop with half of her running speed, then she will be able to cover twice as much distance while hopping as she would while walking. Therefore, if she covers 3 miles per hour while hopping, she will cover 6 miles (2 x 3 = 6) in an hour. Since she has six hours to complete the task, she will be able to cover a total distance of 6 x 6 = 36 miles."
+Response: 4 years old
+"Response: 800 feet (243 meters)
+Explanation: According to the question, when Polly holds the Sapphire stone, she can throw the golden spear three times as far as without it. This means that with the Sapphire stone, Polly can throw the spear 3 x 400 = 1200 feet (365 meters) beyond the range of the dragon's flames. Since the dragon's flames only reach up to 1000 feet (305 meters), this means that Polly could stand at a distance of 800 feet (243 meters) from the dragon and still hit it with the golden spear even if the dragon is firing its flames."
+"Response: 70 (Stück)
+Explanation: According to the question, Grandema Jones baked 5 apple pies for the firefighters' lunch and cut each pie into 8 pieces. This means that there were 5 x 8 = 40 pieces of apple pie available for the guests to take. Since there were still 14 pieces left at the end of the evening, this means that the guests took 40 - 14 = 26 pieces of apple pie."
+Response: 46 grams
+"Response: 480 US-Dollars
+Explanation:
+To calculate the net profit, we need to subtract the cost of the zubehör (10,00 USD) from the revenue generated by selling the kerzen (20 x 2,00 USD = 40,00 USD). The result is the net profit, which in this case is 480 USD."
+"Response: 16 hours
+Explanation: To calculate the total number of hours spent writing articles over three days, we need to multiply the number of articles written each day by the time taken to write each article.
+
+Day 1 (Monday): Number of articles = 5; Time per article = 4 hours
+Total hours = 5 x 4 = 20 hours
+
+Day 2 (Tuesday): Number of articles = 2/5 = 0.4; Time per article = 4 hours
+Total hours = 0.4 x 4 = 1.6 hours
+
+Day 3 (Wednesday): Number of articles = 2; Time per article = 4 hours
+Total hours = 2 x 4 = 8 hours
+
+Adding up all these hours gives us a total of 20 + 1.6 + 8 = 39.6 hours. Therefore, Meredith has spent approximately 39.6 hours writing articles over the three days."
+"Response: 68
+Explanation: According to the question, Candice had 80 Post-it-Notizzettel in her handbag before she left for work at the coffee shop. When she stopped at the store during her commute, she bought another pack of Post-it-Notizzettel, which contained 68 sheets. Therefore, the total number of Post-it-Notizzettel that Candice had was 80 + 68 = 148."
+Response: 160 USD 
+Response: 72 (6 inches/piece x 4 feet long = 24 pieces of draht)
+"Response: 20 (unoccupied apartments)
+Explanation: According to the question, 75% of the building is occupied (3/4), which means that 25% is unoccupied (1 - 3/4). Since each floor has 8 apartments and 3/4 of the building is occupied, there are 8 x 25% = 20 unoccupied apartments in the building."
+Response: 1048 US dollars per week.
+"Response: 4 hours
+Explanation:
+Toms Schiff kann in 4 hours back to the starting point (16-13=4)."
+"Response: 60
+Explanation: To find out how many toys he needs to take out of his bag, we need to subtract the weight of the comics from the total weight of the bag. The bag weighs 15 pounds (lb), and each comic book weighs 1/4 lb. Therefore, the number of comics he can remove is 15 / 1/4 = 60 comics. Since each toy weighs 1/2 lb, he has to remove 60 / 1/2 = 60 toys from the bag."
+"Response: 380 US-Dollar
+Explanation: On Thursday, the mechanic repaired 6 last wagon tires and 4 car tires, which means he earned $6 x 6 = 360 dollars from last wagon tire repair and $4 x 4 = 160 dollars from car tire repair, in total $360 + $160 = 520 dollars. Since no last wagon tires were repaired on Friday, the mechanic only earned money from car tire repair, which is $12 x 12 = 144 dollars. Therefore, the total amount of money the mechanic made that day is $520 + $144 = 380 dollars."
+Response: 20 kittens (7 x 3 + 12)
+Response: 15 tüten
+"Response: 3 times
+Explanation: According to the information provided in the question, Peter spends $7 for an entrance ticket and $7 for popcorn each time he goes to the movies. Since he has $42 available for the week, he can afford to go to the movies three times, as $42 / ($7 + $7) = 3 times."
+"Response: 32 kits
+Explanation: To find out how many kits the truck can carry without exceeding the weight limit of the bridge, we need to subtract the total weight of the truck and its driver from the maximum weight that the bridge can handle. The calculation is as follows:
+Maximum weight of the bridge = 5000 pounds
+Total weight of truck and driver = 3755 pounds (given)
+Number of kits the truck can carry = Maximum weight of the bridge - Total weight of truck and driver
+= 5000 - 3755
+= 1245 pounds
+Since each kit weighs 15 pounds, the number of kits the truck can carry is equal to the remaining weight in pounds divided by the weight of one kit:
+Number of kits = Remaining weight / Weight of one kit
+= 1245 / 15
+= 83 kits
+So, the truck can carry up to 83 kits without exceeding the weight limit of the bridge. However, since you cannot divide a whole number of kits into fractional parts, the maximum number of kits the truck can carry is rounded down to 32 kits."
+Response: 61,75 US-Dollars.
+Response: 134 himbeeren (6 x 20 + 67)
+Response: 75% of the oranges are good (i.e., 75/25 = 3). So, there are 3 good oranges in the basket.
+Response: 2600 USD 
+Response: 78,691 USD per year. 
+"Response: 132.67
+Explanation: To calculate the total amount that Aleena will pay for the streaming service by the end of the year, we need to find the monthly cost for each half of the year and then add them up. For the first half of the year (January to June), the original price of $140 is charged, so the total amount paid in this period is $140 x 6 = $840. For the second half of the year (July to December), the discounted price of $130 is charged, so the total amount paid in this period is $130 x 6 = $780. Therefore, the total amount that Aleena will pay for the streaming service by the end of the year is $840 + $780 = $1620."
+Response: 80 miles 
+Response: 16 hours (2 x 2 = 4 hours/day x 4 weeks = 16 hours)
+Response: 40 (5 players per team x 8 teams = 40)
+Response: 205 Edelsteine (175 diamonds + 35 rubies - 2 times 56 smaragdes)
+"Response: 12
+Explanation: Let's assume that there are x male students and y female students in total. Since twice as many boys as girls attend school, we can write:
+x = 2y
+Now, we know that there are 60 girls and 5 boys per teacher, so we can write:
+x/y = 60/5
+Solving for x, we get:
+x = 12
+So, there are 12 teachers at School of Dr. Wertz."
+Response: 20 US-Dollars
+"Response: 750 US dollars (1 week = 7 days)
+Explanation:
+Judy unterrichtet 5 Tanzkuren, each with 15 students, for a total of 75 students per week. If each course costs $15 per student, then Judy earns $1125 per week ($15 x 75 students)."
+Response: 40 anvisations.
+Response: 169 US-Dollar (43 x 3 = 132 + 23 x 4 = 88)
+Response: 480 USD per month for 3 months = 1440 USD total cost
+Response: 305.60 US dollars.
+Response: 8 square meters. 
+"Response: 3 tins of dog food. 
+Explanation: According to the information provided in the question, Cecilia must feed her puppy 1 tin of dog food per day for the first 180 days (or 6 months). After that, she must feed him 2 tins of dog food per day for the rest of his life. Since there are 110 portions in each tin, and Cecilia must feed her puppy 1 tin per day for 6 months, she will use 6 x 110 = 660 portions of dog food in total during the first year. Therefore, the answer is 3 tins of dog food (since 3 x 110 = 330 portions of dog food are left over after the first year)."
+"Response: 200 pounds (or 91 kg)
+Explanation: According to the information provided, Sarah wäscht 4 times as much clothes as David and half as much as Raymond. If Sarah washes 400 pounds of laundry, then the difference between the amount of laundry that Raymond and David wash is 400 / 2 = 200 pounds (or 91 kg)."
+"Response: 6 US dollars (or 6 x 1 = 6)
+Explanation: If Vincent buys blumen in 3-packs for $2.50 each and he wants to buy 18 blumen at a better price, then he will save $6 if he buys them in 2-packs instead of 3-packs."
+"Response: 70 USD
+Explanation: The original cost of the haircut is 100 USD - 30% discount = 70 USD."
+Response: 10 liters of water remained.
+Response: 4 sticker 
+"Response: 130 pounds
+Explanation: According to the problem statement, Alex weighs 2 pounds less than 4 times Grace's weight. So, if Grace weighs 125 pounds, then Alex weighs 125 - 2 = 123 pounds. Therefore, together they weigh 123 + 125 = 130 pounds."
+Response: 160 dornen (3 x 25 = 75 + 75)
+"Response: 14
+Explanation: If they have won 8 more games than lost, then they must have won 14 games and lost 6 games (since they played 22 games in total)."
+"Response: 15
+Explanation: According to the question, Gene has been taking four vacations per year since he was 23 years old (which is now 34 years old). Therefore, he has taken a total of 15 vacations (4 x 4 = 16). Each vacation creates a new section of his ""memory quilt"" or deck, so he has 15 sections in total."
+Response: 12 times. Explanation: The wecker has klinged 4 times when it first started, then 3 times when it was turned off for the second time, and half of that is 1.5 times, which means he will have klinged 4 + 3 + 1.5 = 8.5 times in total.
+Response: 840 USD per month. 
+"Response: 79200
+Explanation: Let's assume that Marilyn sold x copies of her first album. Since it was 10 times more popular than Harald's, Marilyn sold 10x = 100,000 - 88,000 = 12,000 more copies than Harald. So Harald sold 88,000 + 12,000 = 79,200 copies of his album."
+Response: 11.5 USD (16 guests x 0.75 gift bags per guest x $2 per gift bag)
+Response: 35 pounds (15.9 kg) of potato salad.
+"Response: 15
+Explanation: Let's analyze the information given in the question:
+Jan has three times as many pets as Marcia. This means that if Marcia has x pets, then Jan has 3x pets.
+Marcia has two more pets than Cindy. So, if Cindy has y pets, then Marcia has y + 2 pets.
+The total number of pets among all three is equal to the sum of their individual pet numbers. Therefore, we can write an equation based on the above information:
+3x = y + 2
+Solving for x, we get:
+x = 7
+So, Jan has 3(7) = 21 pets, Marcia has (7 + 2) = 9 pets, and Cindy has 4 pets. Therefore, the total number of pets among all three is 21 + 9 + 4 = 34 pets."
+Response: 7 years old
+Response: 36 seconds
+Response: 12 x 60 = 720 haustiere
+Response: 140 (Mädchen)
+"Response: 7 hours
+Explanation: According to the question, Harry slept for 9 hours last night, which means he slept for 1 more hour than James did. Therefore, Harry slept for 7 hours more than James."
+"Response: 48 tomatoes
+Explanation: Let's analyze the information given in the question:
+
+* If Freda sells tomatoes that lose half their weight when processed into sauce, then she must use twice as many tomatoes to make the same amount of sauce.
+* Each 16-ounce dose of tomato sauce requires three tomatoes.
+* The last portion of tomato sauce weighed 32 ounces, so it required six doses (32 / 16 = 6).
+* Since each dose requires three tomatoes, Freda used 6 x 3 = 18 tomatoes for the entire batch of tomato sauce.
+Therefore, Freda has used 18 tomatoes to make the batch of tomato sauce."
+Response: 10 cars (or vehicles) have passed through the traffic jam during the first 15 minutes of its duration.
+"Response: 36
+Explanation:
+Mary has 40 fensterSims in her large house and she wants to give away one topFlower from each of them. So, she will have 40 - 40 = 0 topFloras left for herself."
+Response: 358 times.
+Response: 3 pages per day (15 pages / 5 days = 3 pages/day)
+Response: 3 gläser Wasser (during the week) + 1 glass of lemonade (on weekends) = 4 gläser Wasser/week.
+Response: 42 minutes.
+"Response: 625 pieces (or 3/4 of the total number of puzzle pieces)
+Explanation: According to the problem statement, Poppy has already placed a quarter of the puzzle pieces on the board. Therefore, her mother must have placed an additional third of the remaining pieces, which is equal to 3/4 of the total number of puzzle pieces. So, there are 625 pieces left to be placed on the board."
+Response: 12 kekse (Cody eats 3 times more than Amir, so if Amir eats 5 kekse, then Cody eats 3 x 5 = 15 kekse).
+Response: 72 cubic inches (or 0.72 cubic feet)
+Response: 4
+"Response: 95
+Explanation: Let's break down the information given in the question:
+Henry wants to bake twice as many cookies as last year, which means he wants to bake 2 x 95 = 190 cookies this year.
+However, when he finishes baking, he realizes that he has baked 110 cookies instead of 190. This means that he must have baked 80 fewer cookies than he intended (110 - 80 = 30).
+Therefore, the number of cookies Henry baked last year is 95 (the original number he wanted to bake minus the number he actually baked)."
+Response: 28 USD/Gallon 
+"Response: 17 rolls
+Explanation: To find out how many fruits each person has eaten in average, we need to divide the total number of fruit rolls they have eaten by two. Since Beatrice's roll was twice as long and three times as wide as Marcell's, she had more space for rolling and therefore ate more fruits than Marcell. However, since Marcell's roll was longer than Beatrice's, he ate more fruits overall. Therefore, their average amount of fruits eaten is 17 rolls."
+Response: 12 liters (or 12,000 milliliters)
+Response: 6 times per day.
+Response: 10 blumen (not including the 5 that did not grow)
+"Response: 320
+Explanation: According to the question, Brittany's handy can store 50 times more photos than Jamal's handy, which means that it can store at least 50 x 6 = 300 photos. Since Jamal's handy can store 1800 photos, and each photo represents one duck in the zoo, there are 1800 / 300 = 6 ducks on Jamal's photo of the ducks in the zoo. Therefore, there are 320 ente (ducks) on Jamal's photo of the ente (ducks) in the zoo."
+Response: 380 USD 
+"Response: 9
+Explanation: According to the problem statement, Katy uses 7 Teelöffel of sugar for every 13 Teelöffel of water she uses. Therefore, if she has used a total of 120 Teelöffel of water and 7 Teelöffel of sugar, then she must have used 9 Teelöffel of sugar in total (since 120 / 7 = 17)."
+Response: 180 US dollars (60 x 3)
+"Response: 6 containers
+Explanation:
+The initial number of containers with cars was 2, which contained 10 cars (5 cars per container). Therefore, the total number of cars at the port was 20 (30 - 10).
+On the second day, additional containers were imported, and since each container contains 5 cars, the number of containers that were imported can be calculated as follows:
+Number of containers = Total number of cars / Number of cars per container
+= 20 / 5
+= 4
+Therefore, 6 containers were imported on the second day (4 containers x 5 cars per container)."
+Response: 68,500 USD.
+Response: 60 blanks (per month)
+Response: 17 (5 + 8 + 2 × 5 + 4)
+"Response: 9 hours
+Explanation: According to the question, Sadie slept for 8 hours on Monday. On Tuesday and Wednesday, she slept for 6 hours each day (2 hours less than Monday). Therefore, she slept a total of 9 hours during the week (8 + 6 + 6 = 9)."
+"Response: 21 miles
+Explanation: To find out how many miles Rosie can run in 7 hours, we need to calculate the total distance she can cover during that time. We know that she can run at a rate of 10 miles per hour for 3 hours, which means she has covered a distance of 3 x 10 = 30 miles. Then, she runs at a rate of 5 miles per hour for 4 hours, which means she covers a distance of 5 x 4 = 20 miles. Therefore, the total distance Rosie can run in 7 hours is 30 + 20 = 50 miles."
+"Response: 90
+Explanation: According to the passage, Jennie has been helping her mother for some time and has already franked 30 letters. This means that there were initially 60 letters that needed to be franked (the total number of letters minus the number already franked)."
+Response: 7 (Julia bought a pack of 7 löfels)
+"Response: 40
+Explanation: According to the question, Dylan has bought 38 Geflügelwürstchen and 6 more Fischwürstchen than Geflügelwürstchen, which means he has bought a total of 40 Würstchen (38 + 6 = 40)."
+"Response: 30
+Explanation: According to the question, Amy found 20 new friends after moving to a new school. If Lily found 50 friends, then together they have 70 friends (Amy's 20 + Lily's 50)."
+"Response: 360$
+Explanation:
+Wells Mutters Verkaufspreis für eine Wassermelone beträgt 3 × 15 = 45 $ pro Melone.
+Für die 4 Wassermelonen betragen die Gesamtpreise 45 $ x 4 = 180 $.
+Für die 20 Paprika betragen die Gesamtpreise 15 $ x 20 = 300 $.
+Für die 10 Orangen betragen die Gesamtpreise 5 $ x 10 = 50 $.
+Der totale Geldbetrag, den Dillon ausgibt, beträgt daher 180 + 300 + 50 = 360 $."
+"Response: 7500$/day
+Explanation:
+The number of patients per day is given as 500. Each patient takes an average of 24 minutes for the examination, so the total time spent on examinations per day is:
+
+500 patients x 24 minutes/patient = 12,000 minutes/day
+
+Since each doctor charges $150/hour and there are 24 hours in a day, the revenue from doctors' consultations per day is:
+
+12,000 minutes/day x $150/hour = $360,000/day
+
+Similarly, the hospital charges each patient $200/hour, and there are also 24 hours in a day, so the revenue from hospital consultations per day is:
+
+$360,000/day x $200/hour = $720,000/day
+
+Adding up the revenues from both sources gives us the total daily profit of the hospital:
+
+$360,000 + $720,000 = $1,080,000/day
+
+Therefore, the hospital makes a profit of $1,080,000 per day from these consultations."
+Response: 40 elves are still available to play in the Christmas village.
+Response: 440$ (500 - 60 = 440)
+Response: 18 cards (6 x 2 + 6 x 2)
+Response: 35 miles
+Response: 540 $ (per year)
+"Response: 16
+Explanation: According to the information provided in the question, Brian has 20 video games and lost 5 of them shortly before the comparison was made. This means that Brian had 20 - 5 = 15 video games left. Since Bobby has fewer than 3 times as many video games as Brian, we can conclude that Bobby has at most 15 / 3 = 5 video games. Therefore, Bobby has 5 video games or less."
+"Response: 18
+Explanation: According to the question, two thirds of the Scottish unicorns are female (two thirds x 27 = 18). Therefore, there are 18 Scottish unicorn females."
+Response: 34.95$
+"Response: 23
+Explanation:
+The first test had 75 questions and took 8 hours to complete, so Mark completed 75/8 = 9.375 questions per hour.
+The second test had 100 questions and took 6 hours to complete, so Mark completed 100/6 = 16.67 questions per hour.
+Since Mark completed the second test in less time than he did the first test, he left some questions unanswered. To find out how many, we can subtract the number of questions he answered from the total number of questions: 100 - (9.375 x 6) = 23."
+Response: 84 rosafarbenen Kaugummikugeln
+Response: 36% (or 7/20)
+"Response: 1400
+Explanation: Let's break down the information given in the question:
+
+* There are 700 bees in total in the hive.
+* There are twice as many worker bees as baby bees, which means there are 2 x 350 = 700 worker bees.
+* There are also twice as many baby bees as queen bees, which means there are 2 x 350 = 700 baby bees.
+
+So, the total number of bees in the hive is 700 + 700 + 700 = 2100 bees. However, since we were asked how many worker bees there are, we can subtract the number of baby bees from the total to get our answer: 2100 - 700 = 1400 worker bees."
+"Response: 80$
+Explanation: If Jordan plays video games for 2 hours per day and works part-time for 5 days a week (assuming he has one day off), then he would work for 20 hours per week (5 days x 4 hours/day). At $10/hour, he would earn $200 per week from his job. Subtracting this amount from the total time spent playing video games (2 hours/day x 7 days/week = 14 hours/week) gives us the total time spent playing video games without working: 14 hours/week x 2 hours/day = 28 hours/week. Therefore, Jordan would spend approximately 28 hours/week playing video games without working, which is equivalent to $80/week based on the hourly wage of $10/hour."
+Response: 56 dollars. 
+Response: 48 dollars per week.
+Response: 400 Ananas (10 x 100 / 3)
+"Response: 1750
+Explanation: The first Lego set has 500 parts, and since Johnny has placed all of them on the ground, he has lifted 500 klotses (or pieces). The second set has three times as many pieces as the first one, so Johnny has lifted an additional 1500 pieces (3 x 500 = 1500). Finally, the third set has only 1/4 of the number of pieces in the first two sets combined, which is 1250 pieces (500 + 1500 - 1250 = 1250). Therefore, Johnny has lifted a total of 1750 clotses (500 + 1500 + 1250 = 1750)."
+"Response: 90
+Explanation: According to the passage, each of the first 6 hours saw 30 bees leave and return, for a total of 180 bees (30 x 6). Since there were twice as many bees that left but did not return as there were bees that returned, there must have been 4 times as many bees that left as there were bees that returned, or 720 bees (4 x 180). However, since some of these bees had already returned by the end of the day, the number of bees that actually returned during the last 6 hours was 90 (720 - 180 = 90)."
+Response: 4 dollars (written as 4$ or 4).
+Response: 48
+Response: 15 minutes and 20 seconds.
+Response:  $10.75 
+"Response: 60$
+Explanation: To find out how much money Carl will get in change, we need to calculate the total cost of the 10 Kekspackungen he bought. Since each pack contains 6 Kekse and each Keks costs $0.10, the total cost of one pack is:
+
+6 Kekse x $0.10 = $0.60 per pack
+Since Carl bought 10 packs, the total cost of his purchase is:
+
+$0.60 x 10 = $6.00
+Therefore, Carl will receive $6.00 in change."
+"Response: 10
+Explanation:
+Dave ate 14 Pommes frites before the möwe (seagull) stole them. The seagull ate half as many Pommes frites as Dave had eaten, which is 7. Then, three tawny owls came and ate 3 each, leaving 7 remaining. Later, a wash bear took two-thirds of the remaining Pommes frites, leaving 5. Finally, ants carried away one last Pommes frites, leaving none. Therefore, when Dave bought the pack of Pommes frites, there were initially 10 left in the pack."
+"Response: 48 hours
+Explanation:
+Kimo has three 1-hour courses per day from Monday to Friday, which means he attends 3 x 3 = 9 courses per week. Since there are 16 weeks in a semester, Kimo attends 9 x 16 = 144 courses per semester. Therefore, he spends 144 hours per semester attending college classes."
+"Response: 578 feet
+Explanation:
+To find out how long all of Bill's bread is, we need to multiply the number of each item by its length. So, for example, if he has 300 brötchen, each of which is 4 inches long, that means they are 300 x 4 = 1200 inches long. Similarly, if he has 120 croissants, each of which is 6 inches long, that means they are 120 x 6 = 720 inches long. And if he has 60 baguettes, each of which is two feet long, that means they are 60 x 2 = 120 feet long.
+Adding up these lengths gives us a total of 1200 + 720 + 120 = 2040 inches. Since there are 12 inches in a foot, this means that Bill's bread is 2040 / 12 = 167 feet long."
+"Response: 600 bananas
+Explanation: To determine how many bananas the zookeeper must buy for two months, we need to calculate the total number of bananas required by all the monkeys in the zoo over that period. The gorillas require 400 bananas per month, so they will consume 800 bananas (400 x 2) during the two-month period. Similarly, the pavians require 100 bananas per month, so they will consume 200 bananas (100 x 2) during the same period. Therefore, the total number of bananas required by all the monkeys in the zoo is:
+
+Total banana requirement = 800 + 200 = 1000 bananas
+Since the zookeeper buys bananas from a local farm every two months, he needs to buy twice as many bananas to last for two months:
+
+Number of bananas to be bought = Total banana requirement / 2 = 1000 / 2 = 500 bananas
+Therefore, the zookeeper must buy 500 bananas to ensure that all the monkeys in the zoo are fed for two months."
+"Response: 69 yards
+Explanation: According to the question, Blake ran 15 times along the football field, which is 100 yards long. Therefore, he ran a total distance of 100 x 15 = 1500 yards. On the other hand, Kelly ran once from the 40-yard line to the opposite end zone and back, which is a distance of 40 + (40 - 40) = 80 yards. Since Kelly ran less than Blake, Blake is the winner and has run further than Kelly by a distance of 1500 - 80 = 1420 yards."
+Response: 36 $ (4 x 1,5 + 2 x 4 + 20)
+"Response: 5
+Explanation: According to the question, Finn initially observed 11 swimming tadpoles in the pond. Then, he saw 6 of them come out from under an aquatic plant and 2 disappear under a stone. Therefore, there are only 5 tadpoles left that Finn can see in the pond."
+"Response: 25 feet
+Explanation:
+The tank had 7 feet more water than it did on Monday, so its depth on Wednesday is:
+Wednesday = Monday + 7 = 17 + 7 = 24 feet
+Then, we are told that the depth of the tank on Wednesday is two-thirds of what it was on Tuesday. So, we can set up an equation based on this information:
+Depth of tank on Wednesday = (Tuesday depth / 3) x 2/3
+Substituting the given values, we get:
+Depth of tank on Wednesday = (24 / 3) x 2/3 = 25 feet
+Therefore, the depth of the tank on Wednesday is 25 feet."
+"Response: 7
+Explanation: According to the information provided in the question, Anakin caught 10 starfish, 6 seahorses, and 3 clownfish. Locsin caught fewer starfish (5 less) and fewer seahorses (3 less). However, Locsin caught more clownfish than Anakin (2 more). Therefore, the total number of fish that they could catch is 10 + 6 + 3 = 19."
+"Response: 145 $
+Explanation: To calculate the cost of a beanie after 36 months, we need to use the formula provided in the question: Price = Original price x (1 + Increase percentage)^Number of months. We know that the original price was $20 and the increase is 20% every two months. Therefore, the price after 36 months can be calculated as follows: Price = $20 x (1 + 0.20)^36 = $145."
+"Response: 21$
+Explanation: The total value of all the toys is calculated as follows:
+
+* 5 red cars x $4 = $20
+* 3 action figures x $5 = $15
+* 1 puppet x $3 = $3
+
+Adding these amounts together gives us a total value of $21 for all the toys."
+"Response: 54 $
+Explanation: If Jackie spends 3 hours preparing her tax return and earns $35 per hour working as a freelancer, she will lose $105 ($35 x 3 hours). However, if she hires a bookkeeper to prepare her tax return for $90, she will save $105 - $90 = $15. Therefore, by hiring a bookkeeper, Jackie will have an additional $15."
+Response: 68 €
+"Response: 2 times
+Explanation: According to the information provided in the question, Sandra gives her neighbor 9 eggs every time she watches his daughter. To make 15 Spanish caramel puddings, Sandra needs 3 eggs per pudding, so she will need to give her neighbor 45 eggs (9 x 5). Since each egg is given once, Sandra must babysit her neighbor's daughter 45/9 = 5 times."
+Response: 16
+Response: 16$
+Response: 35 meilen (based on walking 20 miles per day, Monday through Friday, and 10 miles per day on weekends)
+Response: 175$ 
+Response: 450 beines (8 x 80 = 640 + 90 x 6 = 540 + 3 x 10 = 30)
+Response: 120 years old  
+"Response: 1847$
+Explanation: To calculate how much Jessica will pay each month, we need to find out her total debt and then divide it by the minimum payment required for each loan. Let's assume that she wants to pay 50% more than the minimum payment for each loan. So, if the minimum payment for her student loan is $300 per month, she will pay $450 ($300 + (50% of $300)) = $450 per month. Similarly, if the minimum payment for her credit card is $200 per month, she will pay $300 ($200 + (50% of $200)) = $300 per month. And if the minimum payment for her mortgage is $500 per month, she will pay $675 ($500 + (50% of $500)) = $675 per month. Now, let's calculate how much she will pay in a year: For her student loan, she will pay $450 x 12 = $5400 per year. For her credit card, she will pay $300 x 12 = $3600 per year. And for her mortgage, she will pay $675 x 12 = $8100 per year. Therefore, Jessica will pay a total of $16,100 in a year."
+"Response: 10 minutes   (Explanation: See below)
+
+Explanation:
+To find out how long it will take Billy to prepare all 60 kartoffsels, we need to calculate the time he needs for each kartoffel and then multiply that by the number of kartoffeln.
+Since he needs approximately 1.5 minutes to shael one kartoffel and only 0.05 minutes to chop them small, he will need:
+
+1.5 minutes/kartoffel x 60 kartoffeln = 90 minutes (or 1 hour and 30 minutes)
+So, Billy will need about 1 hour and 30 minutes to complete the kartoffel preparation task."
+Response: 12.50 $ (or 1250 cents)
+"Response: 140
+Explanation: According to the question, there were 240 Asians in total and 80 of them were Japanese. Therefore, the remaining 160 individuals must have been Chinese. Since the number of boys (Japanese) was 80, we can conclude that the number of girls (Chinese) is equal to 160 - 80 = 80."
+"Response: 5800$ 
+Explanation:
+Zaid gives 1/4 of his salary for rent and 1/3 for car fuel, which is 6000 x (1/4) = 1500 $ and 6000 x (1/3) = 2000 $ respectively. He also donates half of the remaining amount to his preferred charity, which is 6000 - (1500 + 2000) = 3500$. Then he gives 200 $ to his daughter and 700 $ to his wife, so the total amount left with him is 3500 + 200 + 700 = 5800$."
+Response: 120 creatures
+Response: 30$ (Lloyd gave 5 hours of tutoring in the first week and 8 hours in the second week, for a total of 13 hours).
+"Response: 20
+Explanation: If the winner received 3/4 of the votes and there were 80 students in the class who voted, then the number of votes the loser received is equal to 80 x (1 - 3/4) = 56."
+"Response: 4
+Explanation: According to the question, Sandra had four times as many red roses as white narcissus in her order. Therefore, if Fred does not deliver the missing red roses by 5 PM, Sandra will switch suppliers and Fred will lose the order. To determine how many red roses Fred must deliver by 5 PM to keep the order, we can divide the number of red roses that Sandra originally ordered (4 times the number of white narcissus) by 5. This gives us 80 red roses that Fred must deliver by 5 PM to retain the order."
+Response: 26 years old.
+"Response: 20 seconds
+Explanation: The first team will run their race in exactly 55 seconds per member, for a total time of 220 seconds (55 sec x 4 members). The second team's times will be 60 + 58 + 56 + 54 = 278 seconds, or 48 seconds slower than the first team. Therefore, the difference in time between the two teams is 48 seconds."
+"Response: 60%
+Explanation: A six-sided die has two numbers less than or equal to 3 and four numbers greater than 3. Therefore, the probability of rolling a number greater than 3 is 4/6 = 2/3. Since two consecutive even numbers are always even, the probability of rolling two consecutive even numbers is 1/6. So, the probability of rolling a number greater than 3 after rolling an even number is (2/3) \* (1/6) = 20%. Similarly, the probability of rolling a number greater than 3 after rolling an odd number is also 20%. Thus, the probability that Jerry will roll a number greater than 3 after rolling either an even or odd number is 40% (20% + 20%)."
+Response: 10 Äppchen (Jenna pflückte 10 Äpfel)
+Response: 5 rats per cage.
+"Response: 98 $
+Explanation: To find out how much Mandy must give to Benedict after 3 months, we need to calculate the total amount of money that Mandy owes Benedict over those three months. The formula for calculating this is: Total Amount = Principal + (Principal x Interest Rate x Time). In this case, the principal is 100$, and the interest rate is 2% per month. Therefore, the total amount that Mandy owes Benedict after 3 months is: Total Amount = 100$ + (100$ x 2% x 3) = 98$. So, Mandy must give Benedict 98$ after 3 months."
+Response: 15 sacks of wheat.
+Response: 67 $ 
+Response: 180 Pfirsiche (3 x 60 = 180)
+Response: 35 pounds (or 15.9 kg) per day.
+"Response: 30
+Explanation: According to the problem statement, Tom plants 10 trees per year and also cuts down 2 trees per year. He starts with 50 trees. After 10 years, 30% of the trees will have died, leaving him with 35 trees (50 x 90%)."
+"Response: 36 (rosa Plastik-Flamingos) - 6 (weiße Plastik-Flamingos) = 30
+There were 30 rosa plastic flamingos outside Sue's garden at Sunday afternoon."
+Response: 10$
+Response: 8 Stifte kosten 9,60 $ (8 x 1,20 $ + 8 x 0,30 $)
+Response: 196 Pfund Karotten (100 - 40 = 60)
+Response: 5374 children.
+"Response: 60
+Explanation:
+In the first month, Elaine had 20 cards, so she collected 3 times that number in the second month (20 x 3 = 60). In the third month, she collected twice as many cards as she had in the previous two months combined (60 + 20 = 80), for a total of 140 cards. Therefore, Elaine has 140 Pokémon cards overall."
+Response: 5000 cent (or $50)
+Response: 30 liters/day (5 mornings x 5 ewers = 25 liters + 6 afternoons x 6 ewers = 36 liters)
+Response: 49500 $ 
+Response: 10 Fässer Wein (5 Tonnen x 2 Fässer/Tonne)
+"Response: 10 Scheiben Käse.
+Explanation:
+Carl's favorite dish is cheese. He had a sandwich for lunch every day and used 2 slices of cheese per sandwich. On 3 days of the week, he made an egg and cheese omelet for breakfast and used more cheese per omelet than he did per sandwich. Additionally, he made a large portion of macaroni and cheese to last him several evening meals and used 8 slices of cheese for that. Therefore, Carl used a total of 10 slices of cheese throughout the week."
+"Response: 34 stifte
+Explanation:
+Janet had initially 22 green pencils and 10 yellow pencils, so she had a total of 32 pencils (22 x 2 = 44). Then, she bought 6 beakers blue pencils and 2 beakers red pencils. Each beaker contained 9 pencils, so she got a total of 54 pencils from the blue beakers (6 x 9 = 54) and 12 pencils from the red beakers (2 x 6 = 12). Therefore, Janet has a total of 32 + 54 + 12 = 34 pencils now."
+"Response: 95
+Explanation: If Brinley's lowest score is subtracted from her overall average, she needs to get at least 95 points in the sixth test to achieve an average of 93."
+"Response: 180 km
+Explanation:
+Micheal rode his bike at least 5 times per week for 4 weeks, which means he rode a total of 5 x 4 = 20 times. Each time he rode 25 kilometers, so he traveled a total distance of 20 x 25 = 500 kilometers during the first 4 weeks.
+Then, he decided to ride his bike only twice a week but with a longer distance each time. He rode 60 kilometers each time, which means he traveled a total distance of 2 x 60 = 120 kilometers in the next 3 weeks. Therefore, the total distance Michael traveled is 500 + 120 = 620 kilometers."
+Response: 1750 grams (g)
+Response: 12 kuchen (based on the information provided)
+Response: 7500 $ 
+"Response: 8 times
+Explanation: To calculate how many times Sara needs to mow the lawn, we need to find out how much money she will have after she has saved for 10 days and then calculated how many times that amount is divided by the cost of the jacket and shoes. After saving for 10 days, Sara will have $40 ($10 x 4), so if we divide that number by the cost of the jacket and shoes ($60), we get 8 times. Therefore, Sara must mow the lawn 8 times to buy the new jacket and shoes."
+"Response: 18
+Explanation: According to the information provided in the question, Jerry collects 42 eggs per day and has more white hens than red hens. This means that the number of red hens he has is equal to the number of eggs collected minus the number of eggs collected by the white hens. Therefore, the number of red hens Jerry has is 42 - 5 = 37. Since there are 37 red hens, there must be 18 white hens."
+"Response: 4 hours
+Explanation: If Gary goes at a speed of 3 miles per hour and the park is a rectangle that measures 1.5 miles wide by 6 miles long, then he will cover a distance of 1.5 x 6 = 9 miles in one hour. To find out how many hours it takes him to walk around the park, we can divide the total distance by his walking speed: 9 miles / 3 miles/hour = 3 hours. Since he wants to go ""gerne"" (which means ""nicely"" or ""pleasantly"") around the park, he will likely take more than the minimum time required, so let's round up to 4 hours."
+"Response: 300
+Explanation: According to the passage, Sloane counted 100 customers on the first day and 50 more than that on the second day, for a total of 150 customers. On the third day, there were 500 customers in the store, so Sloane must have counted 300 customers on that day (500 - 150 = 300)."
+Response: 2 gallons (or any other unit of measurement that is appropriate for the problem)
+"Response: 40 hours
+Explanation: To determine how many hours Lori needs to work before she can afford her shoes and belt, we need to calculate her total earnings from her part-time job. Her hourly wage is $8, so if she works for x hours, her total earnings will be $x \times 8 = 8x. We know that the cost of the shoes is $320, and the cost of the belt is $32, so together they cost $352. Therefore, Lori needs to work enough hours to earn at least $352 - $8 = $344. Since $344 / $8 = 42.5 hours, Lori needs to work for approximately 42.5 hours before she can afford her shoes and belt."
+"Response: 13748.92
+Explanation: To calculate Janeth's remaining balance after 12 months of paying $165 per month, we need to use the formula:
+Remaining Balance = Initial Amount - (Monthly Payments x Number of Months)
+In this case, the initial amount is $2000, and the number of months is 12. The monthly payments are $165. Therefore, the calculation would be as follows:
+Remaining Balance = $2000 - ($165 x 12) = $13748.92
+So, Janeth's restguthabe will be $13748.92 by the end of 12 months."
+Response: 18 blumen (4 roses + 7 dahlias)
+Response: 34 years old
+"Response: 43
+Explanation: Let's break down the information given in the question:
+* Vier Schüler erzielten eine Summe von 251 Punkten in einem Brettspiel. (This means that the total number of points scored by all four students is 251.)
+* Naomi erzielte 68 der Punkte. (So Naomi scored 68 points out of the total 251 points.)
+* Yuri erzielte 10 Punkte mehr als halb so viele wie Naomi. (Yuri scored 10 more points than half of Naomi's score, which is equal to 68/2 = 34 points.)
+* Brianna erzielte 17 Punkte mehr als Naomi. (Brianna scored 17 more points than Naomi, which is equal to 68 + 17 = 85 points.)
+* Jojo erzielte x Punkte. (We are asked to find out how many points Jojo scored.)
+
+From the above information, we can set up the following equation:
+x = 251 - (68 + 34 + 85)
+
+Solving for x, we get:
+x = 43
+
+Therefore, Jojo scored 43 points in the game."
+Response: 25 minutes (10 + 5 = 25)
+Response: 30 liters of water are left in the tank after Celine used 90 liters to water her garden. So, there are 30 + 120 = 150 liters of water in the tank initially.
+Response: 56 blumen (90 - 40 = 50 geraniums + 40 petunias)
+"Response: 24000$
+Explanation: In year one, the company spent $15,000 for advertising, and in year two, it spent $5,000 (one-third of $15,000). Therefore, the total amount spent by the company on advertising over both years is $24,000 ($15,000 + $5,000)."
+Response: 72 $ 
+Response: 3 days 
+"Response: 57%
+Explanation: To calculate the probability of drawing a Water-type card when James has 8 Water-type cards and buys 14 Plant-type cards, we need to use the formula for conditional probability: P(A|B) = P(A ∩ B)/P(B).
+In this case, A represents ""drawing a Water-type card"" and B represents ""buying 14 Plant-type cards.""
+We know that James already has 8 Water-type cards, so P(A ∩ B) = 8/30 = 0.267 or approximately 26.7%.
+The total number of cards he bought is 14 + 8 = 22, so P(B) = 22/50 = 0.44 or approximately 44%.
+Therefore, the probability of drawing a Water-type card is: P(A|B) = 0.267 / 0.44 = 0.60 or approximately 60%."
+Response: 14.75$ 
+"Response: 2 hours and 15 minutes (135 minutes)
+Explanation:
+Kalinda can add 4 pieces per minute, so she will take 360/4 = 90 minutes to complete her part of the puzzle. Since her mother can place half as many pieces as Kalinda, it will take her 90/2 = 45 minutes to complete her part of the puzzle. Therefore, it will take them 90 + 45 = 135 minutes to finish the entire puzzle."
+"Response: 56
+Explanation:
+Ashlyn went to the farm after two months and found that 30% of the watermelons were ripe for harvesting, so she took them home. When she returned two weeks later, 75% of the remaining watermelons were ripe, so she harvested them. Therefore, there were 56 watermelons that were not yet ripe enough to be harvested."
+"Response: 348,500 $ ( rounded to two decimal places)
+Explanation: To calculate the total cost of the fleet of cars for Mark's company, we need to consider three factors: the purchase price of each car, the tax rate applied to the cars, and the registration fee per car.
+
+Purchase price of each car = $20,000 x 12 = $240,000
+Tax rate = 10% of $240,000 = $24,000
+Registration fee per car = $1,000 x 12 = $12,000
+Total cost of the fleet of cars = Purchase price + Tax + Registration fees
+= $240,000 + $24,000 + $12,000
+= $376,000
+Rounded to two decimal places, the total cost of the fleet of cars is $376,000."
+"Response: 10
+Explanation: On Monday, Kylie collected 5 more muschels than Robert, so she had 5 + 20 = 25 muschels. On Tuesday, Kylie collected twice as many mussels as she collected on Monday, so she had 25 x 2 = 50 mussles on Tuesday."
+Response: 125 (based on 50 Ameisen x 2 Käfer pro Ameise)
+"Response: 24
+Explanation: Let's analyze the information given in the question:
+
+* ""Es gibt 36 sich sonnende Pinguine im Schnee."" means that there are 36 penguins basking in the snow.
+* ""Ein Drittel davon springt hinein und schwimmt im Ozean."" means that one-third of the basking penguins (12 penguins) jump into the ocean.
+* ""Ein weiteres Drittel geht in die Höhle, um zu Abend zu fressen."" means that another third of the basking penguins (12 penguins) go to the cave to eat dinner.
+
+Now, let's calculate the number of basking penguins left:
+
+Initially, there were 36 basking penguins.
+After one-third jumped into the ocean, there were 36 x 0.3 = 12 less basking penguins.
+So, the remaining basking penguins are 36 - 12 = 24.
+
+Therefore, there are 24 basking penguins still present in the area."
+"Response: 2 stocks
+Explanation: According to the question, Steve eats double the amount of tomatoes as his friend, which means he eats 12 tomatoes per day (6 x 2). Since one stock can produce 3 tomatoes per week, Steve needs 4 stocks (12 / 3 = 4) to meet his daily demand for tomatoes."
+Response: 5 Pizzas 
+Response: 100 sticks of tinted ink can be produced by mixing the tine from five empty sticks. If Ram buys 25 sticks and uses them to make new sticks when the tine runs out, he will have a total of 50 sticks of tinted ink.
+Response: 60$ 
+Response: 54 years old (Mary's age + Joan's age + Jessa's age)
+"Response: 267
+Explanation: Let's break down the problem step by step:
+
+1. 30% of 1000 = 300 (Schüler who left through Exit A)
+2. Remaining 700 - 3/5 of 700 = 490 (Schüler who left through Exit B)
+3. 490 + 200 (since 30% of 1000 is already accounted for) = 690
+4. Therefore, 267 Schüler left through Exit C.
+
+So, the final answer is 267."
+"Response: 12
+Explanation: According to the information provided in the question, James has 6 more bonbons than Robert, and John has double the number of bonbons as Robert. Therefore, if John has 54 bonbons, he must have at least 6 + 6 = 12 more bonbons than James."
+"Response: 3
+Explanation: Both Dolly and Pandora will read two books each, so together they will read 2 + 2 = 3 books."
+"Response: 4 hours per week
+Explanation:
+Mike receives 2 letters from each of 5 people every week, for a total of 10 letters. Since he can write one page in 6 minutes, it takes him 10/6 = 1.67 hours to write all 10 letters. Therefore, Mike spends approximately 4 hours per week writing letters."
+"Response: 700 minutes (or 11 hours and 20 minutes)
+Explanation:
+Jason has 1000 minutes per month, which is equivalent to 16.67 hours (since there are 1000 / 60 = 16.67 hours in a standard month).
+He spends 15 minutes per day talking to his boss, which amounts to 45 minutes per week (since there are 7 days in a week). This means he uses up 45 minutes of his total allowance each week.
+Since this month has 30 days, Jason uses up 1350 minutes (45 x 30 = 1350) of his total allowance during the month.
+This leaves him with 645 minutes (1000 - 1350 = 645) remaining at the end of the month."
+"Response: 8
+Explanation: According to the question, Kyle took 5 Pommes frites from Griffin, which means that Griffin had 24 - 5 = 19 Pommes frites left. Then, Billy took double the number of Pommes frites that Kyle took, which is 2 times 5 = 10 Pommes frites. So, Griffin had 19 - 10 = 9 Pommes frites left after Billy took his share. Next, Ginger gave Griffin a handful of her own Pommes frites, which is not specified in the question but could be assumed to be a small amount (e.g., 3-4). Finally, Colby took 3 Pommes frites less than the number that Kyle took, which is 3 - 5 = -2 Pommes frites. Therefore, Griffin ended up with 9 + 3 = 12 Pommes frites. Since Ginger gave Griffin an additional 8 Pommes frites, Griffin had a total of 12 + 8 = 20 Pommes frites at the end."
+"Response: 16
+Explanation: Let's call the number of fish in each aquarium x and y respectively. Since the difference between the number of snails in the two aquariums is equal to twice the number of fish in both aquariums, we can write:
+x - y = 2(y)
+Now, if both aquariums have the same number of fish (i.e., x = y), then we can substitute this value for y in the above equation:
+x - y = 2(y) --> x - 2y = 0
+Solving for x, we get:
+x = 16
+Therefore, there are 16 fish in each aquarium."
+Response: 3750$ 
+Response: 6 dollars per person 
+"Response: 67.5 $ (4 x 50 = 200 lb; 200 / 1.50 = 67.5)"
+"Response: 680 kalorien
+Explanation: On Monday, Sue ate 4 times as many cookies as her sister, which means she ate 4 x 5 = 20 cookies. On Tuesday, she doubled that amount and ate 2 x 20 = 40 cookies. In total, Sue consumed 20 + 40 = 60 cookies. Since each cookie contains 200 calories, Sue consumed a total of 60 x 200 = 12,000 calories more than her sister."
