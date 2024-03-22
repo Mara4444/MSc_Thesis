@@ -24,6 +24,9 @@ Khmer, Korean, Lao, Maithili, Malay, Malayam, Marathi, Nepali, Norwegian, Polish
 
 ## File structure
 
-\begin{itemize}
-
-\item datasets
+- EDA: all files and code for the EDA milestone
+- code: all code files
+- datasets: machine translated datasets
+- figures: saved plots for thesis
+- results: response csv files
+  
