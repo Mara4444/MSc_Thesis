@@ -11,9 +11,9 @@ MGSM, MSVAMP, XCOPA, Coin Flip and Shuffled Objects
 
 ### Large language models
 
-Llama-2-7b-chat
-Llama-2-13b-chat
-Bloomz-7b1-mt
+- Llama-2-7b-chat
+- Llama-2-13b-chat
+- Bloomz-7b1-mt
 
 ### Target languages
 
