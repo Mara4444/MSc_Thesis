@@ -1,0 +1,855 @@
+Response:  Janetina matka polaže 16 jeda dnevno, a ona se deli na tri dijela - jedan dio je šest jeda (3 x 6 = 18). Onda, Janetina majka jede tri jaja svake jutro, tako da ima ukupno 9 jeda dnevno (18 x 3 = 54). Onda, Janetina majka prodaje ostatak na farmerskom tržištu dnevno, pa ona zarađuje $2 x 54 = $108 dolara dnevno.
+"Response: 
+Pitanje kaže da se radi o dva puta više plavih vlakana u usporedbi s bijelim vlaknom. To znači da bihaljina mora biti sačinjena od 4 plava vlakna (dvije za svaki dio). 
+Tada, jer je polovina toliko bijelih vlakana potrebna, potreban broj bijelih vlakana će biti polovina od 4 = 2. 
+Zato je ukupno potrebno 6 šrafova (4 plava + 2 bijela)."
+Response:  Kuća je originalno kostala 80.000 dolara, a onda se povećala za 150% = 120.000 dolara (80.000 x 1,5).  Džoš je uložio 50.000 dolara u popravke, što je samo dio cijele vrednosti kuće.  Zbog toga, Džošovo iznosilo je:  Iznos Džošova investicija = Uloženica + Profit = 50.000 + (120.000 - 80.000) = 50.000 + 40.000 = 90.000 dolara.  Tada, Džoš je zaradio 90.000 dolara na prodavi kuće.
+Response:  Sva tri sprinta imaju ukupno 180 metara (60 x 3). Nedeljno James trči ukupno 540 metara (180 x 3).
+"Response: 
+Wendija hodi tri puta dnevno, tako da se ukupno donese: 
+3 x 9 = 27 šolja hrane na dan. 
+Onda, Wendija daje svom krdu kokoši 15 šolja hrane ujutro, što čini ukupnu vrednost hrane za krdo 15 x 3 = 45 šolja hrane. 
+Takođe, Wendija daje svojim kokošima još 25 šolja hrane popodne, što čini ukupnu vrednost hrane za kokoše 25 x 3 = 75 šolja hrane. 
+Zbog toga, ukupna vrednost hrane koji Wendija daje svim kokošima u poslednjem obroku dana iznosi: 75 + 45 = 120 šolja hrane."
+Response:  Kylar želi kupiti 16 čaša, a svaka čaša košta 60% cene. To znači da će jedna čaša koštati $ 60/2 = $ 30.  Dakle, Kylar mora platiti $ 30 x 16 = $ 480 za sve ukupno 16 čaša.
+"Response: 
+Toulouse ima 80 ovaca, a Charleston ima 160 ovaca. Seattle ima 20 ovaca. 
+Zbog toga, broj ovaca u celokupnom izboru je: 
+80 + 160 + 20 = 360 ovaca."
+"Response: 
+Korak 1: Preduzeti broj datoteka koji se preuzima (200 GB) i proceniti mu brzinu preuzimanja u normalnim okolnostima (2 GB/min). To nam omogućuje da izračunamo vreme koje bi trebalo na preuzimanje svega 200 GB datoteka:
+
+Vremene preuzimanja = Broj datoteka x Brzina preuzimanja
+= 200 GB x 2 GB/min
+= 400 min
+Ovako, vreme preuzimanja svega 6,7 godina!
+
+Korak 2: Međutim, problem nastaje kada Windows zahteva restart da bude instalirane ažuriranja. Onda Carla moramo da ponovi celi proces preuzimanja od početka. To nam omogućuje da izračunemo novi vreme preuzimanja:
+
+Vremene preuzimanja = Broj datoteka x Brzina preuzimanja + Vreme zaželenog kraja radnog vremena
+= 200 GB x 2 GB/min + 20 min
+= 400 min + 20 min
+= 420 min
+Ovako, vreme preuzimanja svega 7,3 godina!
+
+Korak 3: Zbog toga što se radi o velikom broju datoteka, moglo bi se pretpostaviti da vreme preuzimanja varira u zavisnosti od trenutnog stanja sistema. Stoga, treba uzeti u obzir i varijacije u vremenu preuzimanja.
+
+Vremene preuzimanja = Broj datoteka x Brzina preuzimanja + Varijabilna vreme
+= 200 GB x 2 GB/min + Varijabilna vreme
+= 400 min + Varijabilna vreme
+
+Varijabilna vreme može biti nekoliko stvari, kao što su:
+"
+Response:  Prvih 2 sati John je vozio brzinom od 100 km/h, pa je prošlo 2 x 2 = 4 sata.  Drugih 2 sati John je vozio brzinom od 30 milja na sat, pa je prošlo drugih 2 x 2 = 4 sata.  To means that at the end of 4 hours, John is 4 x 2 = 8 kilometers away from home. So, the answer is 8 kilometers.
+Response:  Eliza je radila 40 sati u prvim 40 sati radnenedelje, pa je njeno plaćeno u toku te nedelje bilo: $ 10 x 40 = $ 400.  Ako joj je dodeljena nadčasna plata od 1,2 puta njenog redovnog satnog plaća, onda je njeno ukupno plaćeno u toku te nedelje: $ 400 + ( $ 400 x 1,2) = $ 560.  Zbog toga, Elzina zarada za ovu nedelju je $ 560.
+Response:  U prvom mjescu, novi program je imao 60 preuzimanja. Ako je u drugom mjescu bilo triput više preuzimanja od broja preuzimanja u prvom mjescu, onda bi bilo 60 x 3 = 180 preuzimanja u drugom mjescu. No, kasnije se broj preuzimanja smanjuo za 30%, tako da je u trećem mjescu bilo 180 / 0.7 = 257 preuzimanja.
+Response:  Toula je kupila:  * 3 desetine krafna (koštalo joj je 68 $/desetina x 3 = 194 $)  * 2 desetine mini kolača (koštalo joj je 80 $/desetina x 2 = 160 $)  * 6 desetina mini kolača od sira (koštalo joj je 55 $/desetina x 6 = 330 $) Ukupno, Toula je platila 784 $.
+"Response: 
+Koliko ćemo platiti za drvo od limuna: 90 dollari.
+Kako ćemo zaraditi od limuna: 7 x 1,5 = 10,5 dolara godišnje.
+Trošak za zalivanje i hranjenje drveta: 3 dollari godišnje.
+Totalni trošak u prvih godinu: 90 + 10,5 + 3 = 103 dolari.
+Onda biсмо morali da čekamo da zarađujem na drветu od limuna: 103 / 1,5 = 68 godina.
+Zato što je ovaj odgovor brojnički neprecisan, ako smo ravnodušni na to da li imamo dovoljno drveta da bismo mogli da ga prodaju i kada biсмо mogli da započnemo da zarađujem na njemu."
+"Response: 
+Melanie je prodala:
+* Trećinu usisivača u zelenoj kući (3/4) = 7 usisivača
+* Dva usisivača u crvenoj kući (2/4) = 5 usisivača
+* Polovinu onoga što je ostalo u narandžastoj kući (1/2) = 3 usisivača
+Totalno broj usisivača koje Melanie ima = 7 + 5 + 3 = 15 usisivača
+Ovo potvrđuje da Melanie ima 5 usisivača."
+Response:  Ukupno je 20 + 25 = 45 studenata upisano na savremenu i jazz ples. Ovih 45 studenata čini 90% ukupnog broja studenata (ukupno 50). Ostatak od 10% su hip-hop ples (ukupno 5 studenata). Tada smo više puta pomnožili 5% svojim odgovorom: 5 x 5 = 25%. Zato je procena hip-hop plesa 25%.
+"Response: 
+Trgovac može da birE either Nakit or Electronic devices. Let's assume that the price of Nakit is $5,000 and the price of Electronic devices is $8,000. 
+The trader's financial advisor predicts that the market for Nakit will increase by 2.5% in the same month, while the market for Electronic devices will increase by 1.2%. To maximize profits at the end of the month, the trader should choose the option with the higher expected return. 
+So, let's calculate the expected returns for each option:  Expected Return = Price x (1 + Percentage Change)  For Nakit: Expected Return = $5,000 x (1 + 2.5%) = $5,125  For Electronic devices: Expected Return = $8,000 x (1 + 1.2%) = $8,160  Based on these calculations, it seems that buying Electronic devices would provide a higher expected return than buying Nakit. Therefore, the trader should choose to buy Electronic devices if they want to maximize their profits at the end of the month."
+"Response: 
+Voza 1: 
+* Otiđe sa San Rafaela i putuje na zapad 80 milja = x metara
+* Sledeće dane putuje na sjever i pokrije 240 km = 240/5 = 48 metara
+Totalni broj metara koji je vozio Voza 1 u dva dana: x + 48 = 96 metara
+Voza 2: 
+* Otiđe sa San Rafaela i putuje na zapad 80 milja = x metara
+* Sledeће dane putuje na sjever i pokrije 240 km = 240/5 = 48 metara
+Totalni broj metara koji je vozio Voza 2 u dva dana: x + 48 = 96 metra
+Kada se vozari koriste istim putem, one mogu biti jednake udaljenosti. Zato smo imali x = 96 metara za oba vozila."
+Response:  Jill radi 50nedelja godišnje, to znači šest meseci (50/7=6).  Sada imamo dva problema koji se tičeju vremena koje provodi na poslu:  Učiteljica - 35sati/sedmica = 210sati/godinu (6x35=210) Trenerka - 15sati/sedmica = 90sati/godinu (6x15=90)  Sada imamo ukupnu godišnju plaću za oba posla:  Godišnja plaća za učiteljicu = 210sati x $20/sat = $4200 Godišnja plaća za trenerku = 90sati x $30/sat = $2700  Ukupna godišnjaplaća = $4200 + $2700 = $6900
+"Response: 
+1. Prva Nedelja: Claire je jestila 3 jaja svako jutro, takođe i prve tri dana druge Nedelje (ukupno 9 jaja).
+2. Druga Nedelja: Claire je jestila još 3 jaja svako jutro, ali ovoga puta u periodu od 4 dana (ukupno 12 jaja).
+3. Treća Nedelja: Claire je jestila još 3 jaja svako jutro, ali ovoga puta u periodu od 4 dana (ukupno 12 jaja).
+4. Četvrta Nedelja: Claire nije jestila jaja na poslednjoj Nedeli jer je to bio peti dan tog perioda.
+Ukupan broj jeda kojima se Claire jestela u periodu od 4 Nedelje je: 9 + 12 + 12 + 0 = 35 jeda."
+Response:  Prvih 4 milja Marise su takođe imale dužinu od 1 saat = 60 minuta x 60 sekunda = 3600 sekunda. Time, Marisa je prošla 4 mile u vremenu od 1 sata.  Drugih 2 milje Marise su takođe imale dužinu od 1 saat = 60 minuta x 60 sekunda = 3600 sekunda. Time, Marisa je prošla druge 2 mile u vremenu od 1 sata.  Tokom drugog puta, Marisa je prošla 2 mile u vremenu od 1 sata, što znači da je proslo 2/3 celine preostalog puta. Time, brzina kojom Marisa je prošla preostali put je: Brzina = Dužina / Vreme = 3600 sekunda / 1 saat = 3600 sekonda / 60 minuta = 60 sekunda na sat.  Zato, Marisinja prosečna brzina za preostali put je 60 sekunda na sat.
+Response:  First, let's calculate the volume of the orange juice: Volume of orange juice = 15 liters x (3/4) = 10.5 liters Now, let's see how much water is left in the remaining 24 liters: Volume of water = 24 liters - 10.5 liters = 13.5 liters So, there are 13.5 liters of water left in the remaining 24 liters.
+Response:  Raymond je rođen 6 godina pre Samanthe, što znači da je onda bio 23 godina star. Ako je onda bio 23 godina star, a Samantha je sada 31 godina starija, onda je prošlo godina od kada je Raymondov sin rođen. Prošlo godina = (Samanthin godina - Rajmondova godina) + Rajmondovsin godina. U ovom slučaju, prošlo godina = (31 - 23) + 23 = 8 godina. Onda je Raymondov sin rođen 8 godina ranije.
+Response: 1. Billy je prodavao 8 klijenata, a oni su kupili ukupno 6 DVD-ova (prvi 3 + sledeći 2). 2. Ukupno je prodato 6 x 8 = 48 DVD-ova.
+Response:  Svjetilka se topi za 2 centimetra svakih sat vremena, tako da će svijača biti kraća za 4 centimetra u periodu od 13:00 do 17:00 (6 sati). Time će svijača biti kraća za 24 centimetra u tom periodu.
+Response:  Knjiga je kupila za 19,50 dolara s 25% popusta. To znači da je originalna cena knjige bilo 74,25 dolara (19,50 x 3,5 = 74,25).
+"Response: 
+Koliko je bio cena jedne kokoši? 12 $ 
+Koliko je bilo cena mleka u 5 pakova? 3 x 5 = 15 $ 
+Koliko je bilo cena jabuka u 4 pacova? 1,50 x 4 = 6 $ 
+Koliko je bilo ukupna cena svih proizvoda? 12 + 15 + 6 = 33 $ 
+Koliko je Marie platila? 50 $ 
+Ako svaka kutija pize košta 8,50 dolara, onda je Marie naručila: 33 $ / 8,50 $ = 3,90 kutija pize."
+"Response: 
+Miška je kupila 3 pare šorca, koji su koštali 16,50 + 16,50 + 16,50 = 59,50 dolara. 
+Nitko nije kupio hlače, pa oni ne košte ništa. 
+Miška je takođe kupila 3 pare cipela, koji su koštali 42 + 42 + 42 = 126 dolara. 
+Zbog toga, ukupna troškova za odeću su 59,50 + 0 + 126 = 185,50 dolara."
+"Response: 
+Koliko je Sintija provela na sladoled u prvih 30 dana? 
+Sintija kupuje kutiju sladoleda svake večeri, pa u prvih 30 dana (od 0 do 29) kupi 7 kutija sladoleda. Koliko je onda provela na sladoled u prvih 30 dana? 
+Količina sladoleda u 1 kutiji = 15 portions 
+Količina sladoleda u 7 kutija = 7 x 15 = 105 portions 
+Onda je Sintija provela na sladoled u prvih 30 dana = 105 portions 
+
+Narednog dana, Sintija će kupovati još jednu kutiju sladoleda, takođe će proleteti na sladoled u drugoj polovini perioda od 30 dana. Koliko će ona proleteti na sladoled u drugom delu perioda od 30 dana? 
+Količina sladoleda u 1 kutiji = 15 portions 
+Količina sladoleda u 8 kutija = 8 x 15 = 120 portions 
+Onda je Sintija provela na sladoled u drugom delu perioda od 30 dana = 120 portions 
+
+Zbog toga, ukupno je Sintija provela na sladoled u 60 dana = 105 + 120 = 225 portions 
+Onda je cena kutije sladoleda po 4 dolara po kutiji, ukupna cena za sve kutije sladoleda koje je kupila Sintija u periodu od 60 dana = 225 portions x 4 dollari/portion = 900 dolara."
+"Response: 
+Prvi puta se Henry stoji na biciklu nakon 20 milja, što znači da je prošao 20 milja. 
+Druga stanica je bila 15 milja pre kraja putovanja, što znači da je ostalo 5 milja do kraja putovanja. 
+Koliko je Henry prešao izmedju prve i druge stanice? To je 20 - 15 = 5 km. 
+Tada smo imali da rečemo da Henry je prešao 5 km izmedju prve i druge stanice."
+"Response:  First, let's find out how much Gloria paid for the shoes:
+Gloria paid $50 for the shoes. Now, she has to choose between two pairs of socks that cost $3 and $4 each. Let's see which pair is cheaper:
+The first pair costs $3 + $3 = $6, and the second pair costs $4 + $4 = $8. Since the second pair costs more, Gloria should buy the first pair of socks. So, the total amount Gloria paid for the shoes and socks is:
+$50 (for the shoes) + $6 (for the first pair of socks) = $56
+Therefore, the answer is $56."
+"Response: 
+Darrell i Allen su u odnosu 7:11, što znači da je Darrellova starost 7 puta veća od Allena. 
+Alenova starost danas je 162 - 10 = 152 godina."
+"Response: 
+Prvi prijatelj kaže 80 želatina u staklenici. Drugi kaže 20 više od polovine prvog, što znači da ima 160 želatina (80 x 2 = 160). Treći kaže 25% više od prve, što znači da ima 130 želatina (80 x 25% = 130). 
+Prosječni procenat želatina u staklenici je: 160 + 130 + 80 = 470. 
+Zbog toga što su tri procene neovisne jedna o drugoj, njihov prosječni procenat je ravnomerniji i tačniji od svake samostalне procene."
+Response:  Džon mora provesti 10/6 = 1,67 sati dnevno brinući se za pse. Ovo je tokom jednog meseca (30 dana): 1,67 x 30 = 50,1 sati.
+"Response:  Novčići i zlatnici su obojenih metalnih legura, pa se ne mogu množiti direktno. Međutim, možemo primijeniti jednu od sledećih formulacija za računanje broja zlatnica:
+
+Broj zlatnica = Broj novčića x Proporcija zlata u novcu
+
+Proporcija zlata u novcu je prosječna vrednost koja se koristi kod izračuna. Ovisi o tome koji tip novca smatramo. Na primjer, prosječna proporcija zlata u američkim dolarima iznosi oko 90%, a u evropskim eurama oko 75%.
+
+Sada, pretpostavimo da Gretchen ima 110 novčića. Ako prosječna proporcija zlata u novcu jest 90%, onda broj zlatnica bio bi:
+
+Broj zlatnica = 110 x 0,9 = 99 zlatnica
+
+Ali, imamo još jedan problem - Gretchen ima više zlatnika nego srebrnika. To znači da je prosječni omotač novčića zlatnog sastava, a ne srebrnog. Zato moramo promatrati drugu formulaciju:
+
+Broj zlatnica = Broj novčića x Proporcija zlata u novcu - Broj srebrника
+
+Ovaj put, pretpostavimo da Gretchen ima 30 više zlatnika nego srebrnika. Tada bi broj zlatnica bio:
+
+Broj zlatnica = 110 x 0,9 - 30 = 89 zlatnica
+
+Kao poslednji korak, moramo utvrditi koliko zlatnica ima Gretchen. Ako ima 89 zlatnica, onda ima ukupno 89 x 20 (za svaki zlatnik) = 1780 novčića."
+Response:  Aaron ima pet dragulja više od pola Raymondovih, što znači da Aaron ima 5 + (polovina Raymondovih) = 10 dragulja više od Raymonda.  Sada, according to the problem, Siobhan has two fewer diamonds than Aaron. So, if Aaron has 10 more diamonds than Raymond, and Siobhan has two fewer diamonds than Aaron, then Siobhan must have 2 - 2 = 0 diamonds less than Aaron. Therefore, the answer is 10.
+"Response: 
+U prva 20 minuta, Mike je postigao 4 poena, što znači da je uкупно postigaо 4 x 6 = 24 poena. 
+Nakon toga, u drugim 20 minuta, Mike je postigao 25% više bodova, što znači da je ukupno postigaо 24 + (25/100) x 24 = 37,2 poena. 
+Zato ukupno Mikeovo bodovanje iznosi 24 + 37,2 = 61,2 poena."
+Response:  Terry je jednogogurt dnevno, tako da troše 2 jogurta u 30 dana. Cena po jednom jogurtu je $ 5, pa bi Trošak na jogurt za 30 dana bio: 2 x $ 5 = $ 10.
+"Response: 
+Džon je prodavao Lego setove po 15 dolara po komadu, tako da je uкупna vrednost svih 13 setova bila:
+
+13 x 15 = 195 dolara
+
+Nakon toga, Džon kupuje 8 video igara po 20 dolara, što mu pruži ukupnu vrednosu od:
+
+8 x 20 = 160 dolara
+
+Koliko još ima Lego kompleta? To se može izračunati ovako:
+
+Ukupna vrednos Džonovih Lego setova - Ukupna vrednos Džonovih video igara = Uspešnost kupovanja video igara
+
+195 - 160 = 35 dolara
+
+Tada ima Džon još 35 dolara u svom budžetu, koji su ostali nakon kupovanja video igara. Ovo znači da još ima 35 Lego komada."
+"Response: 
+Džon trči 100 kmnedeljno, što znači da trči 100/7 = 14,286 Koraka na dan. 
+Trči tri dana, tako da trči ukupno 3 x 14,286 = 42,858 koraka. 
+Odmah, trči 3 sata prvi dana i pola toliko u naredna dva dana. Polovina jednog sata je 30 minuta, pa trči ukupno 3 x 30 = 90 minuta. 
+Zato, ukupni broj koraka koji Džon trči u periodu od tri dana i pola je: 42,858 + 90 = 51,948 koraka."
+Response:  Ako može trčati brzinom četiri puta bržom nego što može hodati, to znači da može prevesti 4 puta više udaljenosti u vreme nego kada hodi. To znači da može prevesti 16 puta više udaljenosti (4 x 4) u vreme nego kada hodi.  Ako može skakati brzinom koji je upola brži od brzine kojom može trčati, to znači da može prevesti polovinu udaljenosti u vreme nego kada trči. To znači da može prevesti 8 puta više udaljenosti (polovina x 16) u vreme nego kada trči.  Ako može skakati brzinom koja je upola brža od brzine kojom može trčati, onda može prevesti 2 puta više udaljenosti u vreme nego kada trči.  Dakle, ako provedu trećinu vremena trčeći i dvije trećine vremena hodajući, onda će moći prevesti 10 puta više udaljenosti (2 x 8 + 3 x 4) u vreme od 6 sati.
+Response:  Benov iPhone je dvostruko stariji od Suzinega, što znači da je Benovo iPhone star 2 x Suzin iPhone = 2Suzi.  Brandonov iPhone je četiri puta stariji od Bena, što znači da je Brandonov iPhone star 4Ben = 4Beno.  Ako je Suzin iPhone star godinu dana, onda je Brandonov iPhone star godinu dana + 1, jer su svi iPhoneovi stariji od Suzina godinu dana.  Zato je Brandonov iPhone star godinu dana + 1 = (4Ben) + 1 = 5.  Tada imamo:  Brandonov iPhone = 5.
+Response:  Kada Polly ne drжи ničeg, njezino koplje može dostići zmaja na udaljenost od 400 stopa (120 m).  Kada poljubi safir, koplje može dostići zmaja na udaljenost od 120 + 3 = 123 stopa (37 m) više.  Kada poljubi dragulj, koplje može dostići zmaja na udaljenost od 123 + 3 = 126 stopa (38 m) više.  Znači, ako Polly drži dragulj, onda može stajati na udaljenost od 126 - 3 = 123 stopa (37 m) od zmajeva plamena i još uvijek udariti zmaju zlatним kopljem.
+"Response: 
+Komadima pite koje su bile na stolu za buffet, Baka Džons je isecala pet kolača od jabuka. To znači da je imala ukupno 5 x 8 = 40 komada pite na stolici.
+Nakon što su gosti uzeli i pojeli svoje komade pite, ostalo je 14 - 40 = -26 komada pite.
+Zato, odgovor na pitanje je -26 komada pite."
+Response: 250 kalorija/porcija x 5 porcija = 1250 kalorija. Ako ste već potrošili 1800 kalorija, to znači da imate još 550 kalorija na raspolaganju (1800 - 1250). To bi bilo 550 / 2000 = 0,275 ili 27,5%. Ovo znači da imate još 27,5% od svog dnevnog kalorijskog cilja.
+"Response: 
+Koliko je cena jedne funtine pčelinjeg voska? 
+Cena pčelinjeg voska = $ 10/funt
+Koliko je cena jednog fitila? 
+Cena fitila = $ 2/fitil
+Koliko je ukupna cena 20 svijaća? 
+Ukupna cena 20 svijaća = (2 x $ 2) + (20 x $ 10/funt)
+= $ 40 + ($ 200/funt)
+= $ 240
+Koliko je neto profit ako proda sveukupno 20 svijaća? 
+Neto profit = Profit na svaki svijec - Cena svakog svijaća
+= ($ 240 - $ 200/funt) / $ 10/funt
+= $ 40/funt
+Ako proda sveukupno 20 svijaća, neto profit Charlija iznosi $ 800 ($ 40 x 20)."
+Response:  Sedmačni prosjek broja članaka koji su napisane u ponedjeljak iznosi: 5/7 x 4 = 28 sati  Utorka:  Utorka ima 3/7 x 4 = 12 sati  Srijeda:  Srijeda ima 2 x 4 = 8 sati  Ukupan broj sati koji je provela u pisanju članaka u tri dana iznosi: 28 + 12 + 8 = 48 sati
+Response:  Candice je stavila 80 post-it bilješki u torbicu prije nego što je krenula na posao. Onda se stopila u prodavnicu i kupila paket post-it bilješki. Ako je kupila 150 post-it bilješki (odnosno, ako je ukupan broj post-it bilješki koji je kupila 150), onda bi onda ostalo 70 post-it bilješki u torbici. Ali, ako je kupila 23 post-it bilješke preostale ukupno, to znači da su onda postojale još 47 post-it bilješki u torbici (ukupno 70 - 23 = 47). Tada bi post-it bilješki u paketu koji je kupila bili 47 / 150 = 0,31 post-it bilješki u svaki šalici kafe.
+"Response: 
+Džon je kupovao dvostruko više crvenih kravaca nego plavih, tako da je broj crvenih kravaca bio 2 puta veći od broja plavih. To znači da je broj crvenih kravaca bilo 2 x 10 = 20, a broj plavih kravaca bilo 10.
+Kada smo uzeли u obzir da crvene kravate koštaju 50% više od plavih, onda bi cena crvenih kravata bila 50% x 20 = 10 dolara.
+Takođe, Džon je potrošio 200 dolara na plave kravate koji su koštali 40 dolara po komadu. Oni su bili 5 komada, pa je ukupna cijena bio 40 x 5 = 200 dolara.
+Zbog toga, Džon je potrošio ukupno 10 + 200 = 210 dolara na kravate."
+"Response: 
+Komada žice koja se koristi za podrzavanje biljaka paradajza u vrtu mora biti duga 4 stope. To znači da je dužina jednog komada žice 4 stope / 100 = 0,4 metra. 
+Tracy je koristila komade žice dugog 15 cm. Dakle, broj komada koji je Tracy dobila može se izraziti ovako: 
+Numerički odgovor:  Broj komada žice koji Tracy dobija = Dužina komada (0,4 metra) x броj komada (15 cm) / Dužina komada (metar) = 60 komada."
+Response:  Ukupno je 16 spratova (1-8 + 9-15). svaki sprat ima 8 jedinica (uključujući i Richardovu jedinu), tako da je ukupan broj jedinica na svih 120 (16 x 8). Ali, 3/4 zgrade su zauzele, što znači da je ostalo slobodnog prostora 120 / 3 = 40 jedina. Tada smo više puta odgovorili na pitanje jer se ne radi o cjelini zgrade, nego samo o slobodnom prostoru koji je dostupan za naseljavanje.
+"Response: 
+Koliko je broj jaja koji kokoši proizvode dnevno? - 252 jaja dnevno 
+Koliko je cena za jedno jajo? - $ 2/tucin = $ 0.10/jaj 
+Koliko je ukupna svota prihoda iz prodaje jaja u nekojnedeli? - $ 2 x 252 jaja/d = $ 504/dan 
+Koliko je ukupna svota prihoda iz prodaje jaja u nekoliko dana? - $ 504/dan x # dana u nekome mjesecu =... 
+Lloyd zarađuje na jajima u nekom mjescu u iznosu od... $ (prikazujmo samo dio odgovora)"
+Response:  Broj minuta koji su prošli od kada je brod otišao (od 1 do 4 popodne) = 4 x 60 = 240 minuta. Brzina broda u povratnom putu je 6 km/h, pa proslosti putovanja u povratnome putu = duljina puta / brzina = 10 milja / 6 km/h = 1,67 hourа (ili 1 godinu i 35 minute). Time brod mora biti vratio u 1 godinu i 35 minute.
+"Response: 
+Koliko stripova ima Uriahov torbica? 
+Njegovih stripova teče po 1 kg, tako da je ukupni opseg stripova u torbi: 
+Ukupni opseg stripova = broj stripova x opseg jednog stripa
+= 5 kg / 1 kg = 5 stripova
+
+Zatim, mora da ukloni 30 stripova. Koliko će mu biti ostalo?
+Ostali stripova = ukupni opseg stripova - broj uklonjenih stripova
+= 5 kg - 30stripova
+= 2 kg
+
+Tada, ako Uriahov torbica sadrži 2 kg igračaka, onda Igracanka treba da ukloni:
+Igracanka mora da ukloni 2 kg / 1 kg = 2 igračka
+
+Ovo je numeričko odgovor na pitanje!"
+Response:  Dan sa većim prihodom je petak. Na dan petka, mehaničar popravlja 12 automobila, ali ne popravlja ni jednu gumu kamiona. To znači da je ukupan broj popravljenih guma i automobila na dan petka:  Broj popravljenih guma kamiona = 0  Broj popravljenih guma automobila = 12  Ukupni prihod mehaničara na dan petka = Broj popravljenih guma automobila x Cijena popravka gume automobila = 12 x 40 = 480 dolara  Sada imamo informaciju o ukupnom prihodu mehaničara na dan petka.  Dan sa manjim prihodom je četvrtak. Na dan četvrtka, mehaničar popravlja 6 guma kamiona i 4 kola. To znači da je ukupan broj popravljenih guma i automobila na dan četvrtka:  Broj popravljenih guma kamiona = 6  Broj popravljenih guma automobila = 4  Ukupни priход mehaničara na dan četvртка = Broj popravljenih guma automobila x Cijena popravka gume automobila = 4 x 60 = 240 dolara  Sada imamo informaciju o ukupnom prihodu mehaničara na dan četvrtka.  Izračunajukompaktnoj formi broj popravljenih guma i automobila na svakom danu, te ukupne cijене popravaka na svakom danu:  Dan sa većim prihodom (petak):  Broj popravljenih guma = 0  Broj popravljenih automobila = 12  Ukupna cijena popravaka = Broj popravljenih automobila x Cijena popravka gume automobila = 12 x 40 = 48
+"Response: 
+Sestre Doubtfire su usvojile 7 mačića iz lokalnog skloništa za životinje. 
+Njihovja majka kaže da je Patchy imala tri puta više usvojenih mačića, što znači da bi Patchy imala 3 x 7 = 21 mačića. 
+Takođe, njihovja majka kaže da je Trixie imala 12 mačića. 
+Zbog toga, porodica Doubtfire sad ima ukupno 21 + 12 = 33 mačića."
+Response:  Jean ima 30 lizalica i jede 2 od njih. To znači da je ostalo 28 lizalaca. Ako Jean želi da pakiri 2 lizalice u jednu vreću, onda će mu biti potrebno 14 vreća (28 / 2 = 14).
+Response:  Peter ima 42 dolara za nedelju dana. Ako mu plaćaju 7 dolara za kartu i 7 dolari za kokice, onda ima 42 - (7 + 7) = 38 dolara ostalih novca. Ovo znači da može da ide u bioskop 38 / 7 = 5puta.
+Response:  Firstly, we need to find the maximum weight of each container that can be carried by the bridge. Since the bridge cannot carry more than 5000 pounds (funtsi), we can set this as our limit. Let's call it W. Then, we have the total weight of the truck and its contents: T = w + m x 5 (where m is the number of containers). We want to maximize T subject to the constraint W <= T. Now, let's solve for m: m = T / (w + 5) Substituting w = 1400 kg and T = 3000 kg, we get m = 200 kg. So, the maximum number of containers that can be loaded onto the truck without exceeding the weight limit of the bridge is 200.
+"Response: 
+Konačan iznos namirnica koji je Stevan naručio na internetu je 40 dolara (S). 
+Nakon dodavanja 25% nakneade, konačan iznos postaje: S x 1.25 = 50 dolara (D). 
+Stephen je dodao $4.00 napojnice, tako da novi konačni iznos postaje: D + 4.00 = 54 dolara (E)."
+Response: 1. Klaster malina ima 20 plodova, pa bih trebalo izračunati broj plodova u svakom koraku. Ako smo imali 6 koraka, onda bih trebalo izračunati ukupno 6 x 20 = 120 plodova u cijeloj malini. Ali, ne samo to! U svakom koraku imamo još 67 pojedinačnih plodova, tako da bih trebalo računati i ovo. Ukupno, ukupni broj plodova u malini bi bio: 120 + 67 = 187 plodova.
+Response:  Naranča koja je loša, nema na listu, pa se može izostaviti.  Od ostalih naranča, 20% su nezrele, to znači da imaju 80% zrelih naranča.  Od zrelih naranča, 2 su kisela, pa ima ukupno 78 dobara i 4 kisela naranča.  Zato broj dobra naranče u košarici iznosi 78/2 = 39 naranča.
+"Response: 
+Janet plaća 500 dolara za materijal i još 800 dolara zlataru, ukupno 1300 dolara. 
+Nato, plaća 10% od toga, što iznosi 130 dolara. 
+Koliko je takođe plaćala? - 1430 dolara (1300 + 130)."
+Response:  Ako Marcy radi 40 godina, ona će dobiti godišnju penziju od $50,000 godišnje. To znači da će joj biti $2,000,000 ($50,000 x 40) uкупnih godišnjih plaćenih penzijskih plata.  Ako napusti nakon 20 godina, ona će imati pravo na 5% vrijednosti penzije godišnje, što je $100,000 ($2,000,000 x 5%). Onda bi joj biti godišnja penzija $1,900,000 ($2,000,000 - $100,000).  Ako napusti nakon 30 godina, onda će joj biti godišnja penzija $1,800,000 ($2,000,000 - $200,000).
+Response:  U prvoj polovini godine, streaming kompanija je naplatila Aleeni 70 dolara (140 - 70 =).  U drugoj polovini godine, streaming kompanija je naplatila Aleeni 30 dolara (10% manje od 70 = 30).  Ukupni iznos koji je Aleena platila za streaming uslugu do kraja godine je takada 100 dolara (+70 + 30 = 100).
+"Response: 
+Sofija je prešla 160 km od poslednjeg punjenja rezervoara, što znači da joj je ostalo 12 galona benzina (odnosno 4 galona koji su joj bili potreбni da bi ponovno napunila rezervoar). Ako ona ima rezervoar od 12 galona, a ona je vozila 160 km, onda joj je ostalo 12 - 160 = 134 galona benzina. 
+Koliko je tako Sofija mogla da vozi sa jedним rezervoarom goriva? Odgovor je 134 galona benzina."
+Response:  Jim provodi 2 sata gledajuću TV, pa onda odlučuje da ode u krevet i čita polovinu vremena. To znači da je provodio 1 sat na TV i 30 minuta u kreветu (polovina vremena). Ako to radi 3 putanedeljno, onda bi provodio ukupно 3 x 2 = 6 sati na TV i 30 minuta u krevetu. Ukoliko onda provodi još jednu polovinu vremena u krevetu, to jest 30 minuta, onda bi ukupno provorio 6 + 30 = 36 minuta na TV i 90 minuta u krevetu.
+"Response: 
+Svaka škola ima dva tima - muški i ženski. Svaki tim ima 5 igrača. Totally, we have:
+Mužski timovi: 4 schools x 1 team per school = 4 teams
+Ženski timovi: 4 schools x 1 team per school = 4 teams
+Total number of players: 4 teams x 5 players per team = 20 players
+So, the total number of people who went to the basketball tournament is 20."
+Response:  Prvih 175 dijamantova ima ukupno 175 jedinica dragog kamenja. Drugih 35 rubina ima ukupno 35 jedinica dragog kamenja. Ako smatramo da su smaragdi dva puta više od rubina, onda imamo ukupno 70 jedinica dragog kamenja (2 x 35 = 70). Ukupno, onda, u sanduku je bilo 245 jedinica dragog kamenja (175 + 35 + 70 = 245).
+"Response: 
+U školi dr. Wertza ima 60 djevojaka, a učestali ste navedli da ima 5 učenika na svakog učitelja. To znači da je ukupan broj učenika u školi 60 x 5 = 300 učenika. 
+Ali, u pitanju se kaže da ima dvostruko više dječaka nego djevojaka. To znači da je broj dječaka u školi 2 x 300 = 600 učenika. 
+Zato imamo dva učitelja u školi: jedan za djevojake i drugi za dečake."
+"Response:  Bailey je pocinio sa 100 dolara. Onda je dobio 5 dolara u svakoj od 8nedelja, što je ukupno 40 dolara (5 dolara x 8nedelja). To znači da Bailey ima sad samo 60 dolara (100 dolara - 40 dolara).  A onda je dobio još jedan deo novca od 3 dolara u poslednjoj Nedeli. Zato Bailey ima ukupno 63 dolara (60 dolara + 3 dolari) na kraju osamnedeljnog perioda.  Takođe treba napomenuti da ovaj problem nema odgovora ""nepoznato""."
+Response:  Judy predaje 5 časova plesa svakog dana, to znači ukupno 25 časova plesa u sedmici (5 x 5 = 25). Ako svaki razred ima 15 učenika, onda je ukupan broj učenika u jednoj sedmici 15 x 7 = 105 učenika. Ako Judy naplaćuje 15 dollara po učeniku, onda zarađuje u jednoj sedmici 105 x 15 = 1575 dolara.
+Response:  Prvo recipe ima 20 instrukcija, što znači da Kelian mora da pročita 20 instrukcija da bi pripremio prvo jelo. Ako onda treba pročitati još 40 instrukcija (dvostruko više od prvog) da bi pripremio drugovo jelo, to znači da Kelian mora da pročita ukupno 60 instrukcija (20 + 40).
+"Response: 
+Koliko će se Tommy ugostiti ako proda 43 kolača? 
+Tommy će prodat 43 x $ 3 = $ 129 kolača. 
+
+Koliko ће se Tommy ugostiti ako proda 23 komada kolača sa sirom? 
+Tommy će prodat 23 x $ 4 = $ 92 kolača s ironom. 
+
+Zbog toga, ukupno će Tommy skupiti $ 129 + $ 92 = $ 221 novaca."
+"Response: 
+Kamatni postotak za svaku jedincu je 2%, što znači da se broji u procentu od cijene jedinice. Cijena svake jedinice je 150 dolara, pa je ukupna cijena svih pet jedinica 750 dolara (5 x 150 = 750). 
+Ako se koristi 2% kamata, ukupno će se morati platiti 15 dolara (2% x 750 = 15). Točno to znači da će Šela morati platiti 15 dolara mjesecima 3, 6 i 9. 
+Za svaki mesec će se morati platiti 5 dolara (15 / 3 = 5) u 3. mesecu, 10 dolara (15 / 6 = 10) u 6. mesecu i 10 dolara (15 / 9 = 10) u 9. mesecu. 
+Takođe treba imati na umu da će se svaka jedinca plaćati samostalno, pa će ukupan iznos koji će Šela morati platiti biti 5 + 10 + 10 = 25 dolara."
+Response:  Ako Artie proda 12 posuda nalivki, on će zaraditi 12 x $ 2,74 = $ 32,88.  Ako Artie proda 9 posuda petunija, on će zaraditi 9 x $ 1,87 = $ 16,53.  Ako Artie proda 17 posuda begonija, on će zaraditi 17 x $ 2,12 = $ 35,04. Ukupna količina novca koja Artie zaradi iz prodaje cveća je: $ 32,88 + $ 16,53 + $ 35,04 = $ 84,45.
+Response:  First level: Luke builds a sandcastle with an area of half a square meter (since he said every level will have the same area). So the first level has an area of half a square meter = 0.5 m^2. Second level: Since each level has the same area as the previous one, the second level also has an area of half a square meter = 0.5 m^2. Third level: The third level has an area of half a square meter = 0.5 m^2 again. Fourth level: Finally, the fourth level has an area of 16 square meters = 16 m^2. Now we need to find out what's the average area of all four levels. To do that, we divide the total area of all four levels by the number of levels: Area of all levels = Total area of all four levels / Number of levels = 16 m^2 / 4 = 4 m^2So, the average area of all four levels is 4 square meters.
+Response:  Prva godina traje 180 dana.  Ceciela mora da hrani štenu sa šoljicom hrane za pse svaki дан prvih 180 dana, to znači da će koristiti 180/1 = 18 vreća hrane za pse.  Ako onda mora da hrani štenu sa 2 šolje pseće hrane svaki дан do kraja života, onda će koristiti još 365 - 18 = 347 vreća hrane za pse.  Zato bi Cecilia koristila ukupno 18 + 347 = 365 vreća hrane za pse u prvoj godini.
+"Response:  Ako Raymond pere pola veће rublje od Sare, to znači da je Sara trostruko više od Raymonda. Ondašnji brojevi su:
+Raymond - x funti rublja
+Sara - 3x funti rublja
+David - y funti rublja
+
+Kada Sara pere 400 funti rublja, onda se svaki dio koji pripada Raymondu ili Davidu menja za isti postotak (zbog toga što su imali drukčiji broj funti rublja). Stoga, ako Sara pere 400 funti rublja, Raymond će rabiti x/2 funti rublja, a David y/2 funti rublja.
+
+Numerički odgovor na pitanje je:
+
+Raymond: x/2 = 200 funti rublja
+David: y/2 = 160 funti rublja
+
+Ovo znači da Raymond i David rabe po 200 funti rublja više nego što je Sara raila."
+Response:  Ako kupi 3 cveća u jednom paketu za 2,50 dolara, onda će platiti 7,50 dolara (3 x 2,50 = 7,50).  Ako kupi 2 cveća u drugom paketu za 1 dollar, onda će platiti 2 dollars (2 x 1 = 2$).  Uкупno će platiti 9,50 dolara (- 7,50 + 2 = 9,50).  Dakle, kupljući 18 cveća po boljoj ceni, uštedjet će 9,50 - 7,50 = 2 dollars.
+"Response: 
+Koliko je džona kosilo za psu?:  Džon je kosio psa za 100 dolara. 
+Koliko će groomerovi biti plaćeni?:  Groomer će biti plaćeni 30% više od cene koji je platio džon, to jest 30% od 100 dolara = 30 dolara. 
+Koliko će bilo ukupno?: Ukupno će biti 100 dolara (koji je platio džon) + 30 dolara (koji će biti plaćen groomeru), to jest 130 dolara."
+"Response: 
+Dva puta 1/6 = 2/6 = 1/3 
+Onda je jedan dečak dobio 6 litara vode, pa mu je dio vode bio 6/3 = 2 litra. 
+Tada, ukupno imamo 1 + 2 = 3 litre vode. 
+Zato je ostalo 24 - 3 = 21 litar vode."
+Response:  Charlie je imao 10 naljepnica, a onda kupio još 21 iz prodavnice u tržnom centru. To znači da mu je ukupno bilo 31 naljepnica.  Charlie je dao 9 naljepnica svojoj sestri, što znači da mu je ostalo 22 naljepnica.  Aли, onda se kaže da je Charlie upotrijebio 28 naljepnica za dekoraciju čestitke. To znači da mu je ostalo samo 4 naljepnica (22 - 28 = 4).  Tada bi Charlie ostavio 4 naljepnica.
+"Response: 
+Grace teži 125 funti, što je jednako 56 kg (125 / 2 = 56). 
+Alex teži 2 funte manje od 4 puta više od Grace, to jest 80 kg (4 x 56 = 80). 
+Otprilike, ukupna težina Grace i Alexa u kilogramima bi bila:  Ukupna težina = Grace težine + Alex težina  Ukupna težina = 56 + 80 = 136 kg."
+"Response: 
+1. Posadimo tri ruže, tako da svaka ruža ima 25 ružica. 
+2. Svaka ružica ima 8 trnjića. 
+3. Ukupно je 3 x 25 = 75 ružica. 
+4. Svaka ružica ima 8 trnjića, pa ukupно imamo 75 x 8 = 600 trnjića. 
+Takođe, moram reći da ovaj problem nije u redu sa vremenom i prostornim uslovima, jer ne postoji mogućnost da se na jednom mjestu nalaze tri ruže s 25 ružica u svakoj, a time i 600 trnjića."
+Response:  Utakmica se igra na stadionu sa kapaciteta 50 tisuća gledalaca. Tim ima 11 igrača na terenu i sedam rezervišta koji mogu zamijeniti igrače u igri. Svaki igrač može igrati maksimalno 90 minuta u svakoj utakmici. Ako igrač igra manje od 90 minuta, onda mu se dodeljuje broj minuta koje je proveo na terenu. U slučaju da igrač ne igra ni jednu minutu, onda mu se dodeljuje broj zero (0).  Kada tim igra protiv drugog timа, oni mogu osvojiti bodove ako pobijede ili remizuje. Ako izgube, onda ne osvajaju bode.  U ovom slučaju, tim je odigrao 22 utakmice. Osm puta više su osvojili nego izgubili, što znači da su osvojili ukupно 176 bodova.
+Response:  Gene ima 4 odmora, svaki od kojih ima 7 blokova (uključujući i staru majku). Uкупно, Gene ima 4 x 7 = 28 blokova. Međutim, Gene takođe ima jednu majcu sa svakog odmora, tako da ukupni broj blokova koji ima Gene jest 28 + 1 = 29 blokova.
+Response:  First time the alarm went off today, it rang four times. So, let's say the alarm rang for x amount of time on the first go-around. Then, it rang three times longer than that on the second go-around (since it rang three times more than the first time). Finally, it rang half as long as the second time (since it rang only twice as long as the first time). Therefore, the alarm rang for a total of 4x + 3x = 7x minutes.
+Response:  Sylvies godina službe u kompaniji je 5 godina (od decembra prošlogodišnje do danas).  U skladu s politikom povećanjaplate, Sylvies godišnja plata će se povećati za 10% početne plata svake godine, a ne samo za jednu godinu. To znači da će Sylvijev godišnji honorar biti:  Sylvijeva godišnja plata = 600$ + (600$ x 10%) = $720  Sylvijeva godišnja plata povećana je za 10% od početne plate, pa je nova godišnja plata $720.
+"Response: 
+Marilynina prva ploča prodata je 10 puta više od Haraldove, što znači da je Harald prodao 88.000 - 10 x 88.000 = 74.600 primjeraka."
+"Response: 
+Koliko će da potroši na torbe za poklone ako ima 16 prijatelja koji će dobiti po jednu torbu? 
+16 x $ 2 = $ 32 
+Ali, ovaj iznos ne uključuje trošak za rođendansku zabavu. 
+Christina plani rođendansku zabavu i treba 75 vreća za poklone po pozvanim gostima. 
+75 x $ 2 = $ 150 
+Takođe, moramo uzeti u obzir i to što će polovica pozvaних gostiju ne dobiti torbu. 
+Polovica x $ 2 = $ 40 
+Zbog toga, ukupni trošak će biti: $ 190 
+Ovo je broj koji smo dobili odgovorom na pitanje."
+Response:  First, we need to find out how much crumpled salad each adult and child will eat. Let's assume that an average adult will eat 10 kg of salad, and an average child will eat half as much (5 kg). So, the total amount of salad needed for all the adults is 20 x 10 = 200 kg, and the total amount needed for all the children is 5 x 10 = 50 kg. Now, let's calculate how many kilograms of crumpled salad Ted needs to bring on the picnic: Total amount of salad needed = Number of adults + Number of children Total amount of salad needed = 200 kg + 50 kg Total amount of salad needed = 250 kg Therefore, Ted needs to bring at least 250 kg of crumpled salad on the picnic to ensure that everyone has enough to eat.
+"Response: 
+Jan ima tri puta više ljubimaca od Marsie, to znači da je broj ljubimaca Martine polovina od broja ljubimaca Jana. 
+Broj ljubimaca Marcije je dva puta veći od broja ljubimaca Cindy. To znači da je broj ljubimaca Cindy devet (dvostruko manji od broja ljubimaca Marcie). 
+Ali ako Cindy ima četiri ljubimca, onda broj ljubimaca Trojice mora biti jednaka petnaest (pet puta veći od broja ljubimaca Cindy). 
+Zato je broj ljubimaca Trojice: 15."
+Response:  First, we know that Amy is 5 years older than Jackson and 2 years younger than Corey. So, if Amy is x years old, then Jackson is x + 5 years old and Corey is x - 2 years old. Now, we are given that James is 10 years and 1 year younger than Corey. So, if Corey is x years old, then James is x - 10 years old. Therefore, the age of Jackson is x + 5 = 7 years old.
+Response:  Lee je trenutno mogao trčati 400 metara sa preprekama u 38 sekundi, što znači da mu je brzina bila 400/38 = 10,56 m/s.  Ako je Geraldova brzina trenutno 10% bolja od ove vrednosti (ili 11,52 m/s), onda bi heovoj brzini trebalo biti 10,56 + (10% x 10,56) = 11,79 m/s.  To means that Gerald could run 400 meters with obstacles in 37 seconds (briefly calculated as 400 / 37 = 10,81 m/s).
+Response:  Broj zečeva = 12/ukupni broj ljudskih bića (psa + mačka) = 12/70 = 1,71 ili 171. Dakle, ukupno ljubimaca u komšiluku je 60 x 171 = 10.360.
+Response:  U petom razredu ima 200 učenika, od toga 2/5 = 40 dečaka (od ukupno 200).  Ako 2/3 = 67 djevojčica (od ukupno 200), onda je broj devojaka u izviđačima:  Broj devojaka = 40 - 67 = -27.  Dakle, nema ni jednog dečka u izviđačima.
+Response:  Harry je spavao 9 sati, a James je spavao samo 2/3 od onog što je Harry spavao. To znači da je Harry spavao 9/3 = 3 sata više od Jamesa. Tada, jer Harry je spavao 9 sati, to znači da je James spavao 6 sati (9 - 3).
+"Response: 
+Koliko paradajza su Freda koristila u svakoj seriji umaka? 
+Fredina zadnja serija umaka od paradajza je imala 32 unce umaka. Ako svaka serija ima tri paradajza, onda je Freda koristilo 32 / 3 = 10 paradajza u svakoj seriji. 
+Koliko paradajza je Freda koristila ukupno? 
+Ako Freda koristila 10 paradajza u svakoj seriji, onda je ukupno koristila 10 x 3 = 30 paradajza. 
+Takođe, ako Freda skuva konzervirane paradajze u sos, izgubi pola svoje zapremine, onda je proslosti paradajza bilo 30 / 2 = 15 paradajza."
+Response:  U prvih 15 minuta gužve, 5 vozila isključivo nema problema i prolazi kroz gužvu bez obavezne zaustavljanja. Tako da broj vozila koji prolaze kroz gužvu u prvih 15 minuta iznosi: 30 - 5 = 25 vozila.  U drugim 15 minuta gužve, 20 vozila prolazi kroz gužvu. Tako da ukupni broj vozila koje prolaze kroz gužvu u celom vremenu gužve iznosi: 25 + 20 = 45 vozila.
+Response:  Mary has 18 new plants from her favorite garden. She already has 2 plants in each of the 40 windows in her large house on the farm. If she wants to give one plant to each friend and family member tomorrow, how many plants will she have left for herself? Let's count them together:  Mary has 18 + 2 x 40 = 76 plants left for herself after giving some away to friends and family. So, Mary will be in a pot with 76 plants.
+Response:  First friend pressed the bell 20 times before Jerome opened it. So, the total number of presses before Jerome opened it is 20.  Now, let's find out how many times each friend pressed the bell:  Second friend pressed the bell 1/4 more than the first friend, so he pressed it 20 + (1/4) = 23 times.  Third friend pressed the bell 10 times more than the second friend, so he pressed it 23 + 10 = 33 times.  Fourth friend pressed the bell 60 times. So, the total number of presses after Jerome opened it is: 20 + 23 + 33 + 60 = 156. Therefore, the bell rang 156 times.
+"Response: 
+Solo je već pročuo 20 stranica iz udžbenika društvenih studija, što znači da mu ostaje 20 x 3 = 60 stranica da pročita. 
+Onda, Solo je pročuo 7 stranica iz udžbenika istorije, što znači da mu ostaje 7 x 4 = 28 stranica da pročita. 
+Takođe, Solo je pročuo 8 stranica iz udžbenika geografije, što znači da mu ostaje 8 x 4 = 32 stranice da pročita. 
+Zbog toga, ako ima još 4 dana da završi čitajući, Koliko stranica treba da pročita, u prosincu, za jedan dan?  Odgovor:  U prosincu, Solo bi trebao pročiti 60 + 28 + 32 = 120 stranica."
+Response:  Nedelju ima 7 dana, a Džon pije čaše vode svakog radnog dana - to znači 5 časova (dnevno). Vikendom pije još jednu čašu vode, tako da ukupno pijee 6 časova vode u sedlu.
+Response:  Grad ima 42 mile širine, pa biсмо morali proceniti kako mnogo puta će se magla vratiti u jednom koraku. Proceno nam kaže da će se magla vratiti 8 puta u jednom koraku (42 miles / 5 km = 8400 m). Time ćemo vidjeti koliko će minuta biti potrebno da se magla prekrije cijeli grad.  U ovom slučaju, ako je grad 42 milje širom, onda će se magla prekriti cijeli grad u 42/8 = 5,3 minuta.
+"Response: 
+Poppy je stavila četvrtinu komada na ploču, što znači da joj je ostalo polovine komada (500 - 25 = 275). 
+Njena majka je stavila trećinu preostalih komada, što znači da joj je ostalo jednoga trećina (300 - 100 = 200). 
+Koliko je komada slagalice ostalo da se postavi? To je 275 + 200 = 475 komada."
+Response:  Cody je jedeo tri puta više kolača nego Amir, što znači da je Cody jedeo 3 x 5 = 15 kolačica.  Zbog toga, ako Amir jede 5 kolačića, onda Cody i Amir zajedno jedu 15 + 5 = 20 kolačića.
+Response: 1. Kutija A ima površinu 5 inča x 6 inča = 30 inča² (ukupna površina tri kutije)...
+"Response: 
+U ponedjeljak i utorak, Frankie je gledao jednu satnu epiziju svake večeri, tako da je ukupno gledao 2 x 1 = 2 sata TV-a. 
+U srijedu, Frankie je gledao nekoliko epizoda 30-minutne emisije, ali nismo imali potrebe da izračunamo broj epizoda jer smo znali da su one bile duže od 30 minuta. Stoga, Frankie je ukupno gledao više od 2 sata TV-a u srijedu. 
+U četvrtak, Frankie je završio domaću zadaću ranijeg popodneva, pa je mogao gledati još jedan sat TV-a. Stoga, Frankie je ukupno gledao 3 x 1 = 3 sata TV-a u četvrtak. 
+U petak, Frankie je gledao dvije epizode od 1 sata, stoga je ukupno gledao 2 x 1 = 2 sata TV-a u petak. 
+Zbog toga, Frankie je ukupно gledao 6 sati TV-a (2 + 3 + 2)."
+Response:  Proshle godine, Henry je pecao 110 kolačića - 5 kolačića koji je ispuštao da se ohlade, što znači da je pecao ukupно 105 kolačića. Takođe, ovog puta, Henry je pecao 15 kolačića više nego što je nameravao, što znači da je pecao ukupno 120 kolačića.
+Response:  Prvi, procenimo količinu benzina koji je lokalna benzinska pumpa prodala:  Price of gasoline = $ 3 per gallon So, the total cost of 10 gallons of gasoline is: Total cost = $ 3 x 10 gallons = $ 30  Now, let's calculate the amount of money that the company offered for each gallon of gasoline: Discount = $ 20 per gallon So, the discount for 10 gallons of gasoline is: Discount = $ 20 x 10 gallons = $ 200  Therefore, after receiving the discount, the person has $ 180 left from their original $ 300: New balance = $ 180 
+"Response: 
+Marcell je bio 3 roll-up širok i dug 14 roll-up, što znači da je prosječno pohodio 3 x 14 = 42 roll-upa. 
+Beatrice je bila 2 roll-up široka i duga 24 roll-up, što znači da je prosječno pohodio 2 x 24 = 48 roll-upa. 
+Ako su oboje pojeli celu količinu, onda je ukupan broj pohoda bio: 42 + 48 = 90 roll-upa. 
+Prosječan broj pohoda za sve tri osobe je takada: 90 / 3 = 30 roll-upa u prosjeku."
+"Response: 
+Julija je trebala 16 sekundi da pređe 20 metara, što znači da je brzoća broda bila 1/16 = 0,0625 m/s. 
+Brod je bio na jezeru i uzimao dva litra vode na svakih deset metara koji veslao prema obali. Zato je brod uzimao 2 x 2 = 4 litre vode na svaki 10 metar koji je prošao. 
+Kada je Julia stigla na obalu, brod je bio 64 sekunde daleko, što znači da je prošlo 64 / 0,0625 = 1038 metara. 
+Zato je voda u čamcu kada je Julia stigla na obalu bila 4 x 1038 = 4152 litra."
+Response: 1. Dan ima 8 sati (od 9 do 16), tako da je ukupan broj minuta na dan 8 x 60 = 480 minuta. 2. Svaki učitelj ima 2 lekcije dnevno, pa ima 2 x 4 = 8 lekcija na dan. 3. Ako se ploča čisti 3 puta po satu, onda se čisti 3 x 8 = 24 puta na dan. Zato bi se ploča čistila ukupно 24 x 480 = 11520 puta na dan.
+Response:  Ryan je danju 2 cveća u svom vrtu, to znači da ima ukupно 2 x 15 = 30 cveća u svom vrtu nakon 15 dana. Ako 5 cveća nije naraslo, onda ima ukupno 30 - 5 = 25 cveća.
+Response:  Jamalov telefon može da primijeti 6 puta više fotografija nego Brittany. To znači da Brittany može primiti najviše 6 x 50 = 300 photographija.  Ako Jamalov telefon može da sadrži 1800 photographija, onda Brittany može vidjeti 1800 - 300 = 1500 pataka na svjoj fotografiji pataka u zoološkom vrtu.
+"Response: 
+Prva grupa pločica su one koje je Saša kupila direktno od proizvođača. Ovih deset pločica je koštalo po 10 dolara svaka, pa bi ona zaredala 10 x 10 = 100 dolara. 
+Druga grupa pločica su one koje je Saša kupila od drugog proizvođača. Ovih pet pločica je koštalo po 16 dolara svaka, pa bi ona zaredala 5 x 16 = 80 dolara. 
+Uкупni iznos koji Saša zaradi od prodaje svih pločica je tada: 100 + 80 = 180 dolara."
+Response:  Kažemo li da je Kejti upotrebljavala 7 kašika šećera za svaku čaшу vode, onda je upotrebljavala ukupно 7 x 120 = 840 kašika šećera. Ali, ako je upotrebljavala 13 kašika šećera za svaku čaшу vode, onda je upotrebljavala ukupno 13 x 120 = 1560 kašika šećera. Dakle, odgovor na pitanje je 1560 kašaka šećera.
+"Response: 
+Koliko su cipeli koštali ako je Džon kupovao po dve pari? 
+Džon je kupovao po dve pari, tako da je ukupan broj cipela koji je kupio bio 3 x 2 = 6. 
+Koliko su cipeli koštali uкупno? 
+Ukupni broj cipela koji je Džon kupio bio je 6, a kolicina svake pare cipela bila je 2, pa je ukupna vrednost cipela: 6 x 2 = 12 dolara. 
+Zato je Džon platio 12 x 3 = 36 dolara."
+Response:  Prvi dan:  Carinski službenik je prebrojavao 2 kontejnera, svaki sa 5 vozila, tako da je ukupni broj vozila u luci bio 10 (2 x 5).  Drugi dan:  Veđen je još jedan kontejner, pa bi ukupni broj vozila u luci bio 15 (10 + 5).
+Response:  Adriens ukupna plata u prošlosti je 30 posto veća od Lijane. To znači da je Adriens ukupna plata u prošlosti bilo 130.000 dolara (30% više od Lijane).  Četiri godine kasnije, Adriens ukupna plata se povećala za 40%. Ovo znači da je Adriens nova ukupna plata 168.000 dolara (130.000 + 38.000 = 168.000).  Dakle, ukupna plata koja su njih dvojica primili četiri godine kasnije je 256.000 dolara (Adriens nova plata plus Lijanas nova plata).  Izračunavši proporciju između Adriensove noveplate i Lijansove noveplate, možemo videti da je Lijanin novi postotak plata bio 70% vići od Adriena.  Dakle, Lijana je zaradila 70.000 dolara više od Adriena u poslednjoj godini.
+"Response: 
+Miguel koristi 2 ploče papiranedeljno, to znači da koristi jedan list papera sa svake pločice u periodu od jednog mjeseca. 
+Ako ima 30 listova papira na papirnoj ploči, onda svaki mjesec koristi 30/2 = 15 listova papira. 
+Tada smo došli do rezultata koji je 15 listova papira mjesec."
+"Response: 
+Moriseta je donijela pet jabuka i osam pomorandža, što uкупно iznosi 13 jabukova i 8 pomorandža. 
+Kao da to nešto drugo, Kael je donio dva puta više jabuka od Morisete, to jest 2 x 5 = 10 jabuka. Pa tako, ukupno ima 13 + 10 = 23 jabuka. Ali, Kael je takođe donio pola manje pomorandže od Morisete, to jest 8 - 4 = 4 pomorandže. Pa tako, ukupno ima 23 jabuka i 4 pomorandže."
+Response:  Prvi dan: Sadie je spavala 6 sati (8 - 2 = 6). Drugi dan: Sadie je spavala 4 sata (6 - 2 = 4). Treći dan: Sadie je spavala 3 sata (4 - 1 = 3). Celo kolo spavanja: Sadie je spavala 10 sati (6 + 4 + 3 = 10).
+Response:  Prvih 3 sata, Rosie moze trcati 10 milja = 16 km (3 x 10).  Onda, trci 8 km/h. To means she can cover 56 km in 7 hours (8 km/h x 7 h). So, the answer is 56 km.
+Response:  Kada je Jenni započela da pomaga u kancelariji, ona je imala 60 nezapečaćenih pisama. Onda je postavila marke na trećinu njih, što znači da joj je ostalo 40 nezapečaćenih pisama.  Tada je počela da se peça 30 peçi zapečaćenih pisama. To znači da joj je ostalo 10 nezapečaćenih pisama (40 - 30 = 10).  Zato ako je sad 30 pisama u gomili već zapečaćenih pisama, onda je ukupno bilo 70 pisama u gomili (10 + 60 = 70).
+Response:  Julia je kupila novu kutiju žlica koja je imala 5 novih žlica. Onda je njen muž kupio i paket od 5 novih žlica i darovao Juili. To znači da Julia trenutno ima ukupно 10 žlica (pet iz nove kutije i pet iz paceta). Dakle, kad je Julia počela pripremu gulaš, imala je tri kašika, a kasnije je imala 12 žlica. Takođe, kod ovog problema ne smemo zaboraviti da su Julia i njen muž kupili novi žlica, tako da bi Julia mogla imati više od 12 žlica. Na kraju, odgovor na pitanje je 13 ili više žlica.
+Response:  Dilan je kupio 38 piletina, a ostalo su 6 ribljih kobasica. Ako bi on kupio sve riblje kobasice koje su bile dostupne, on bi imao ukupno 44 kobasice (38 + 6). Ali to nije točno odgovor na pitanje jer se ne radi o cijelim kobasicama, već samo o dijelovima koji su potrebni za izradu kobasica na zabavi. Stoga, moramo računati koliko je Dilan kupio u prosincu. Prosincu je bilo 38 piletina + 6 ribljih kobasica = 44 kobasice. Tada smo gotovo došli do odgovora. Zbog toga što je Dilan kupio više ribljih kobasica od piletina, on je kupio ukupno 44 - 38 = 6 kobasica više od one što su bile potreban za izradu kobasica na zabavi. Odgovor: 6 kobasica.
+Response:  Po pitanju, Amy je imala 20 prijatelja više od Lily. To znači da je Lily imala 50 prijatelja (20 + 30). Stoga, Lily i Amy zajedno imaju 70 prijatelja (50 + 20).
+"Response: 
+Koliko će biti ukupno za 4 lubenice? 3 x 3 = 9 € 
+Koliko će biti ukupno za 20 paprika? 20 x 15 = 300 € 
+Koliko će biti ukupno za 10 naranči? 10 x 5 = 50 € 
+Ukupna iznos koliko će Dillon potrošiti = 9 + 300 + 50 = 380 €"
+Response:  First, let's calculate the total number of patients seen per day by multiplying the number of doctors by the number of minutes they spend with each patient: Total Number of Patients Seen = Number of Doctors x Minutes Per Patient = 500 doctors x 24 minutes/patient = 12,000 patients/day Now, let's calculate the revenue generated by the hospital from these visits: Revenue Generated = Number of Patients Seen x Price Per Visit = 12,000 patients/day x $150/visit = $180,000/day Now, let's subtract the cost of treating each patient to find out how much profit the hospital makes: Profit = Revenue Generated - Cost of Treatment = $180,000/day - $200/visit = $60,000/day So, the hospital generates $60,000 in profits every day!
+Response:  First, let's find out how many workers were initially hired: 60 x 3 = 180 Now, let's see what happens to the workers after they start playing hide-and-seek:  * After 30% of the workers (20 workers) get sick and leave, there are 180 - 20 = 160 workers left.  * After 10 more workers (10 workers) get hit by children and leave, there are 160 - 10 = 150 workers left. So, there are 150 workers left after both events occur.
+"Response: 
+Josephov trošak u svibnju je bio 500 dolara, a u srpnu je bio 60 dolara manje. To znači da je Josephov ukupni trošak za ove dva mjeseca bio: 500 + (-60) = 440 dolara."
+Response:  Pam i Fred su otišli na karneval. Pam je dva puta bila na roller coasteru, pa je ona imala 2 x 6 = 12 karata.  Fred je bio na four times = 4 x 6 = 24 karata.  Posle toga, svaki od njih je odlučio da se vozi na toboganu dva puta. Pam je vozila sebe na tobogan dva puta, pa je ona imala 2 x 6 = 12 karata za drugi put. Fred je vozio sebe na tobogan dva puta takođe, pa je oni imao 2 x 6 = 12 karata za drugi put.  Uкупно, Pam i Fred su koristili 12 + 12 = 24 karata tog dana.
+Response:  U ponedjeljak je Walt hodao 6 km, pa je onda u utoraku prešao 6 puta više milja - to jest 6 x 7 = 42 km. Ako je ukupno putovanje bilo 41 mile (ili 66,5 km), onda je Walt prešao još jedan kilometer u srijedu. Odgovor: 1 km
+"Response: 
+Koliko su brojevi automobila koji ima Tom?  Brojevi automobila = Praonice automobila / Cena praonce automobila x Godina  Brojevi automobila = 4 / $ 15 x 12 = 48  Koliko je godina dana?  Godina dana = 365 dana 
+Koliko će Tom platiti u godini?  Plata = Brojevi automobila x Cena praonce automobila x Godina  Plata = 48 x $ 15 x 365 = $ 7,900 
+Takođe, ako smatramo da cena praonce automobila ostaje nepromenjenom tokom godina, onda bi Tom plaćao:  Plata = Brojevi automobila x Cena praonce automobila x Godina  Plata = 48 x $ 15 x 365 = $ 7,900 
+Ali ako smatramo da cena praonce automobila raste sa godine na godinu, onda bi Tom plaćao:  Plata = Brojevi automobila x Cena praonce automobila x Godina  Plata = 48 x ($ 15 + (3% x $ 15)) x 365 = $ 7,900 + ($ 54) x 365 = $ 8,450 
+Ovako, Tom bi plaćao $ 7,900 u godini ili $ 8,450 u godini, ovisno od cene praonce automobila."
+Response:  Brian ima 20 video igara i izgubio 5, tako da ima 15 videoigara. Dakle, Bobby ima 5 puta više videoigara od Briana, pa ima 75 videoigara (5 x 15 = 75).
+"Response: 
+1/3 x 27 = 9 jednoroga
+Dva puta 1/3 = 6 jednoroga
+Zbog toga imamo ukupno 15 jednoroga u Škotskom planinskom područiju."
+Response:  Rory naručuje:  • 2 sendviča po 7,50 dolara po komadu = 15,00 dolara  • 2 vrećice čipsa po 1,50 dolaru po komadu = 3,00 dolara  • 2 kolača po 1,00 dolaru po komadu = 2,00 dolara Totalna cena naručenih proizvoda = 15,00 + 3,00 + 2,00 = 20,00 dolara Nakon dodavanja 20% nakne, cena isporue je: 20,00 x 1,20 = 24,00 dolara
+Response:  Prvi test je položio 75 pitanja, a završio ga je u 8 sati, što znači da je prosleđivao 1 pitanje na sat.  Drugi test je položio 100 pitanja, a završio ga je u 6 sati, što znači da je prosleđivao 4 pitanja na sat (100 - 75 = 25). Onda bi Mark ostavio nepotpune pitanja u drugom testu od 25 x 6 = 150 pitanja.
+Response:  Broj plavih gumenih loptica = 12 Ružičasta guma = 4 puta više = 4 x 12 = 48 Ružičaste gumene loptice. Tada imamo: Broj plavih gumenih loptica = 12 Ružičasta guma = 48.
+"Response:  Automati su 12, a drugi tipovi samo 4. To znači da su uкупno 16 automobila (12 + 4). Ako smo imali 20 dostupnih automobila, onda broj poluautomatskih automobila može biti:  
+Poluautomatski automobili = Ukupan broj automobila - Broj automatskih automobila  
+= 20 - 12  
+= 8  
+Onda procent poluautomatskih automobila u ukupnom broju dostupних automobila iznosi:  
+Procent poluautomatskih automobila = Broj poluautomatskih automobila / Ukupni broj dostupnih automobila x 100%  
+= 8 / 20 x 100%  
+= 40%"
+"Response: 
+Koliko su pčele u košnici? - 700
+Koliko su pčele radnice? - Dvostruko manje od broja pčela u košnici (350)
+Koliko su pčele kraljice? - Dvostruko više od broja pčela radnica (700)
+Zato što imamo dvostruko više pčela kraljice od pčela radnica, moramete da izračunemo koliko su pčele radnice: 350
+
+Pitanje:  U košnici ima 700 pčela. Ima dvostruko više pčela radnica nego pčela, i dvostruko više pčela nego kraljica. Koliko je radnica pčela?  
+Odgovor:  Radnica pčela = 350"
+Response:  Jordan igra video igre 2 sata svaki dan, što znači da igra 14 sati u sedlu (2 x 7 = 14). Ako on radi na pola radnog vremena, to znači da radi 7 sati na dan (polovina x 7 = 7).  Zato bi Jordan zaradio 70 dolara u sedlu (10 x 7 = 70) i ukupno 980 dolara unedelji (70 x 14 = 980).
+"Response: 
+Koliko je bilo kupovina mlijeka? 
+Mlijeko košta 2 dollari, tako da je ukupno iznosilo: $ 2 x 10 = $ 20. 
+Sada imamo još jednu veličinu - jajevi. Koliko su jaja koštala? 
+Jaja koštaju 3 dollari, tako da je ukupno iznosilo: $ 3 x 5 = $ 15. 
+Još jedna veličina je žarulje. Košta li se žarulje 3 dollari? 
+Žarulje košta 3 dollari, tako da je ukupno iznosilo: $ 3 x 2 = $ 6. 
+Naredni steen je čaše. Košta li se čaše 3 dollari? 
+Čaše košta 3 dollari, tako da je ukupno iznosilo: $ 3 x 1 = $ 3. 
+Zamke za žohare koštaju 4 dollars. Koliko su one koštale uкупно? 
+Zamke za žohare koštaju 4 dollars, tako da je ukupno iznosilo: $ 4 x 1 = $ 4. 
+Ovo što smo proizveli: 
+$ 20 + $ 15 + $ 6 + $ 3 + $ 4 = $ 58. 
+Takođe moramo računati i porez na sva ova sredstva. Porez na sva ne-prehrambena sredstva je 10%. Koliko je toga bio poreza? 
+Porez na sva ne-prehrambena sredstva je 10%, tako da je ukupan iznos poreza: $ 58 x 10% = $ 5.8. 
+Takođe moramo računati i porez na sva prehrambena sredstva (mlijeko, jaja,"
+Response:  Firstly, let's calculate the total revenue for each client per week: Client 1: $2 x 2 = $4 Client 2: $2 x 2 = $4 Client 3: $2 x 2 = $4 Total revenue per week: $16 Now, let's calculate the total cost of goods sold (COGS) for each client per week: Client 1: $4 x 2 = $8 Client 2: $4 x 2 = $8 Client 3: $4 x 2 = $8 Total COGS per week: $24 Next, let's subtract the COGS from the total revenue to get the gross profit per week: Gross profit per week: $16 - $24 = -$8 Finally, let's convert the negative number into a positive one by adding zero dollars to it: Gross profit per week: $0 + $8 = $8 So, Lucas will make $8 in gross profit every week. To find out how much he will make overall, we need to multiply the weekly gross profit by the number of weeks in a year: Annual gross profit: $8 x 52 = $416 Therefore, Lucas will make $416 in annual gross profit.
+"Response: 
+Koliko ananasa ima Džon na dan? 
+Džon ima 10 hektara polja ananasa, a svaki hektar ima 100 ananasa. Dakle, ukupno ima 1000 ananasa (10 x 100). 
+Sada imamo problema da raspominjemo kako mnogo puta Džon može da žane ananase svakih 3 meseci. Ako on može da žane jednom mesečno, onda će mu biti mogućnosti da žani 4 puta u godini (3 x 4 = 12). Dakle, Džon može da sakupi 12 x 1000 = 12.000 ananasa u godini."
+"Response: 
+Kao što smo videli, Johnnie ima tri kutije Legovih blokova: prva ima 500 komada, druga ima 3 puta više komada od 500 (ili 1500 komada), a treća ima 1/4 broja komada (ili 750 komada). 
+Ako Johnnie pokupi sve Lego kockice, on će zadržati ukupno 2250 komada (500 + 1500 + 750 = 2250). 
+Zato, ako Johnnie pokupi sve Lego kockice, on će imati ukupно 2250 komada."
+Response:  U prvim 6 sati danu, Debra vidi 30 pčela koji napuštaju košnicu. Ako sva tri desetina pčela (30/3) vrate se u košnicu u poslednjih 6 sati dana, onda će Debra videti 21 pčelu (3 x 7 = 21). Ali, Debra vidi polovinu broja pčela koje su napustile košnicu, tako da je ukupan broj pčela koje se vraćaju u koшnicu manji za polovinu broja pčela koje su napustile košnicu. To znači da Debra vidi 15 pčela (polovina od 30 = 15) koji se vraćaju u košnicu u poslednjih 6 sati dana.
+Response:  Brittany i njezina mama idu u muzej, a cena ulaza je 12 dolara za odrasle i 10 dolara za decu. To znači da je ukupna cena za obojicu 22 dolara (12 + 10).  Britnin mama daje blagajnici novac koji joj je potreban za jednu dječju i jednu odraslu kartu. Ono što smo stekli iz pitanja je da je Brittanin mama darovala blagajniku 8 dolara.  To znači da je brittany morala platiti samo polovinu cene ulaza, to jest 14 dolara (22 - 8).
+Response:  Charlie ima 12 prijatelja na Facebooku, a James ima 4 puta više, što znači da ima 48 prijatelja na Facebooku (12 x 4 = 48).
+"Response: 
+Koliko je udaljenosti između škole i Steva? To je 3 mile = 5 km. 
+Koliko je udaljenosti izmedju škole i Tima? To je 3 km. 
+Steve može biciklom na 440 stopa u minuti, a Tim skateboardom na 264 stopa u minuti. Koliko će Steve proći preko puta dok ide na biciklu? To je 440 / 100 = 4,4 km/h. 
+Koliko će Tim proći preko puta dok иде na skateboardu? To je 264 / 100 = 2,64 km/h. 
+Sada imamo točke za oba takmičara: 
+Steve: 5 km + (4,4 km/h x vreme) =? 
+Tim: 3 km + (2,64 km/h x vreme) =? 
+Vremena potrebno da se Steve probije putem od škole do kućanstva je: 
+vreme = udaljenost / brzinom = 5 km / 4,4 km/h = 1,17 sata. 
+Takođe, vreme potrebno da se Tim probije putem od škule do kućanstva je: 
+vreme = udaljenost / brzinom = 3 km / 2,64 km/h = 1,18 sati. 
+Numerički odgovor na pitanje je:  Steve će pobijediti Timа u ovom takmičenju, jer će probiti put prema kućanstvu za 1,17 minute, a Tim za 1,18 minute."
+Response: 1) Shawnda odlučuje da djeci iz komšiluka dobro došla usluga za inflaciju bicikla. To znači da će ona morati 2 x 5 = 10 guma. 2) svaki pneumatik košta 25 centi da se napuni. To znači da će ona morati 10 x 25 = 250 centi za napunjavanje guma. 3) Prvi dan, 5 ljudi na biciklima je došlo da napumpaju oba guma. To znači da će ona morati 2 x 5 = 10 dolara za napumpavanje guma. 4) Tri osobe su došle da napišu sve gume na triciklima. To znači da će ona morati 3 x 10 = 30 dolara za napumpavanje gume na triciklima. 5) Jedna osoba je došla na jedном biciklu. To znači da će ona morati 10 x 25 = 250 centi za napumpavanje gume na jednom biciklu. 6) Konačno, Shawnda je došla u blizinu i videla kako djeca igraju sa svojim novcem. To znači da će ona morati 250 centi - 10 dolara = 240 centi za napumpavanje gume na jednom biciklu. Tada, Shawnda je imala 240 centi.
+Response:  Carl plaća 10 dolara, pa bi on dobil 6 x 10 = 60 kolačića.
+"Response: 
+Koliko je Dejv pojeo pomfritova: 14
+Galeb je ukrao polovinu preostalog: 7 (polovina od 14)
+Troje golubova su pojele trojicu pomfritova svakog: 21
+Rakun je ukrao dvije trećine preostalih: 14 (dvije trećine od 21)
+Mavi su odnijeli poslednji pomfrit: 1
+Koliko je bilo krumpira u originalnom pacetku: 5
+Ovo znači da je Dave kupio 5 krmirapa, a onda su se dogodili različiti događaji koji su uticali na broj pomfritova koji su ostali u pacetku."
+Response:  Svih 7 dana u tjednu, Kimo ima ukupno 3 x 24 = 72 sata predavanja. Takođe, ima 2 x 2 = 4 sata odvedenih za utorke i četvrtke. Ukupno, onda, Kimo ima 72 + 4 = 76 sati predavanja u jednom semestru.
+"Response: 
+Kao prvi korak, pretpostavimo da Bill stavi prvi rolet na donju granicu mesta. Donji rub mesta je dug 10 cm, pa bi prvi rolet bio dug 10 cm + 10 cm = 20 cm. 
+Sada imamo još jednog problema - kako many bags can fit in the space between two rolls? Each bag is 60 cm long, so we need to divide the distance between two rolls by the length of each bag. The distance between two rolls is 20 cm, divided by 60 cm per bag = 0.33 bags. So, there will be approximately 0.33 bags between each pair of rolls. 
+Now let's count how many pairs of rolls are placed end-to-end: 
+* First roll (d=20 cm)
+* Second roll (d=40 cm)
+* Third roll (d=60 cm)
+...
+So, there are 4 rolls in total. 
+Finally, since each bag takes up 0.33 spaces between rolls, and there are 4 rolls in total, there will be approximately 4 x 0.33 = 1.32 bags between each row of rolls."
+"Response: 
+Koliko banana treba naručiti prvih dva meseca? 
+Svaka grupa majmuna (gorila i pavijani) treba po 50 banana na mesec (ukupno 100 banana). 
+Zato je potrebno naručiti ukupно 300 banana (dva puta 100 banana). 
+Naručeni banani se moraju smatrati na dva meseca, pa se moramo pomno misliti kako će se računati broj banana koji ćemo naručiti svaki mesec. 
+Mesecima se računaju kao jedna četvorina godišnje perioda (6 meseca), pa ćemo naručiti ukupno 300/6 = 50 banana svakih 6 meseca. 
+Ovo znači da ćemo naručiti ukupno 50 + 50 = 100 banana svakih 6 meseca."
+Response:  Blake je trcao 15 puta naprijed i isto toliko unazad, što čini ukupno 30 koraka (15 + 15).  Kelly je trčala 34 puta naprijed-nazad, što čini ukupno 78 koraka (34 + 44).  Na kraju, Blake je bio gubitnik, pa je Kelly bila pobjednica.  Zato je Blake trpio 78 - 30 = 48 koraka više nego Kelly.
+"Response: 
+Rafael je kupio 4 olovka koje su koštene po 1,5 dolara svaki, takođe i 2 beležnice koje su koštene po 4 dolara svaki. Uкупna vrednost ovog dela robe je:
+4 x 1,5 = 6 dolara za olovke
+2 x 4 = 8 dolari za beležnice
+Ukupna vrednost svih proizvoda koje je Rafael kupio iznosi: 6 + 8 = 14 dolara
+Nakon toga, Rafael je kupio i obruč papirnog papirja koji košta 20 dolara. Zbog toга, ukupni broj dolara koje je Rafael potrošio na sve proizvodе je: 14 + 20 = 34 dolara."
+"Response:  Finn vide 6 ćapljića koji su izašli iz skrivanja ispod cvjetnice. To znači da ima još 5 ćapljića koje Finn nije mogao videti. Ako dvoje ćapljića skrivaju se ispod kamena, to znači da ima još 4 ćapljića koje Finn može videti. Tada, broj ćapljića koje Finn može videti u jezeru je: 4 + 5 = 9.  
+Znamo li lično Finn da li bi mu bilo teško videti 9 ćapljića u jezeru?"
+Response:  U ponedjeljak je dubina vode 5 metara.  U utorak je dubina vode 7 metara (dubina vode u ponedjeliku + 2 metra).  U srijedu je dubina vode 4,5 metra (dubina vode u utorku - 0,5 metra).  Time je dubina vode u srijedu 4,5 metra.
+"Response: 
+Anakin je uhvatio 10 morskih zvijezda, a Loksin 5 manje od toga. Dakle, ukupno je Anakin uhvaćen 10 + 5 = 15 morskih zvijezda. 
+Nitko drugi nije ulovao morske zvijezde, pa oni nitko ne mogu biti uloviли ribe. 
+Kao posljedica toga, Loksin je bio samo ulovio 5 morskih zvijezda manje od broja koji su uloveli Anakin. Dakle, Loksin je uhvaćen 5 morskih zvijezda. 
+Zbog toga što Loksin nije ulovao ni jednu morsku zvezdu više od Anakina, on je bio ulovio 2 klovna više od Anakina. Dakle, Loksin je uhvaćen 2 klovna više od Anakina. 
+Uz to, Loksin je bio ulovio 3 morska konja manje od Anakina, tako da je ukupni broj ulovao ribe za Loksiна bio 5 (morski zvijezdi) + 3 (morski konji) = 8."
+Response:  Prvih 20 mjeseci, cijena vreće kuglica raste za 20%. To znači da je cijena u 12. mjesecu (odnosno 4 mjeseca nakon što su cijena porasla za 20%) : $ 25,60 ($ 20 x 1,2 = $ 25,60).  Uskoro će cijena rasti još jednom za 20%, pa će cijena biti $ 31,20 ($ 25,60 x 1,2 = $ 31,20) u 24. mjescu (odnosno 8 mjeseca nakon što su cijena porasla za drugi put)...
+Response: 1. Lutka košta 3 akcione figure, tako da lutka vrijedi 3 x 5 = 15 dolara. 2. Jedan crveni auto Košta 4 dolara, tako da ukupno tri crvene automobile Koštaju 12 dolara (4 x 3). 3. Ukupna vrednost svih igračaka je tada 15 + 12 = 27 dolara.
+"Response: 
+1. Jackie može da sama obavlja porez i isplati 90 dolara za uslugu računovođe. 
+2. Ako Jackie sama plati porez, onda će izgubiti 35 dolara po satu u izgubljenom prihodu. To znači da će izgubiti 35 x 3 = 105 dolara mesečno. 
+3. Ako Jackie unajmi računovođu, onda će morati platiti 90 dolara za uslugu. Međutim, ako bi sama platiala porez, onda bi izgubila 105 dolara mesečno. 
+4. Stoga, ako Jackie unajmi računovođu, onda će imati više novaca (90 - 105 = -15 dolara) nego što bi imalo ako bi sama platiala porez. 
+Zato, odgovor na pitanje je -15 dolara."
+"Response: 
+Koliko će joj biti para za računar?  Para za računar = Budget + Para za svaki dodatak Para za računar = 1500 + (para za skener + para za CD pećicu + para za štampač) Para za računar = 1500 + (157 + 74 + 102) = 1633 eura 
+Onda koliko će joj biti para za odeću?  Para za odeću = Para za računar - Para za svaki dodatak Para za odeću = 1633 - (para za skener + para za CD pećicu + para za štampač) Para za odeću = 1633 - (157 + 74 + 102) = 1408 eura"
+Response:  Ako Sandra mora napraviti 15 španskih flaš, a potreban joj je jedan jajek za svaku flaš, onda mora biti dadilja 15 puta. Dakle, Sandra mora biti dadilja 15 x 9 = 135 puta!
+"Response: 
+Seth je star 30 godina, a Brooke 28 godina. 
+Zbog toga što su Seth i Brooke rođeni u različitim godinama, njihova suma godina ne može biti 28 godina. 
+Tada smo morali dati drugi argument kako bi se odgovorio na pitanje. 
+Brooke je rođena 2 godine ranije od Seta, pa je ona starija za 2 godine. 
+Koliko je Brooke starija od Seta? 
+Odgovor:  Brooke je starija za 2 godine od Seta."
+"Response: 
+Ethel ima 8 dolara, ako je Jimmy imao 2 dolasa više od Ethela, onda bi Jimmy imao 8 + 2 = 10 dolara. 
+Tada, Jimmy ima 10 dolara, a ne 8 dolara."
+Response:  Dnevno, Pancho hodi 30 km, što je u proslosti 200 km. Vikendom, hodao je 10 milja, što je u proslosti 160 km. Zbog toga, Pancho je prešao ukupно 360 km u sedmici dana.
+"Response: 
+1. Šešir: Košta 25 dolara.
+2. Jakna: Triput više od šešira, tako košta 75 dolara (3 x 25 = 75).
+3. Pantaloni: Prosječno isti cijena kao šešir i jakna, pa košta 25 dolara (since the pants are roughly the same price as the shirt and jacket, they cost 25 dollars each).
+4. Ukupna cijena jedne uniforme: 25 + 75 + 25 = 125 dolara.
+Therefore, one uniform costs 125 dollars in total."
+Response:  Jake vide 8 pauka, svaki sa 8 nogu, tako Jake vidi ukupно 64noga (8 x 8).  Zatim video 90 insekata, svaki sa 6 nogu, tako Jake vidi ukupno 540 nogu (90 x 6).  Ipak, ne smemo zaboraviti tri rijetka mutirana beskičmenjaka, svaki sa 10 nogu, tako Jake vidi ukupno 30 nogu (3 x 10).  Ukupno, Jake vidi 970 nogu (64 + 540 + 30).
+"Response: 
+1. Sally 2 je tri godine starija od bake Crvene, tako da je Sally 2 = 3 + x, gdje x označava starost bake Crvene.
+2. Baka Crvena je dvostruko starija od Sali Četvrti, pa je Sally Forty = 2 x + 4, gdere x oznacuje starost Sali Četvrti.
+3. Ako je Sally Four iste starosti kao Sally Thirtytwo, onda je Sally Four = Sally Thirtytwo.
+4. Sally Thirtytwo ima 8 godina, pa je Sally Thirtytwo = 8.
+5. Ukupna starost četiri ptice je suma starosti svake ptice: Sally Two + Sally Forty + Sally Thirtytwo =.
+
+Numeričkim odgovorom na pitanje možemo izračunati ukupnu starost četiri ptice:
+Sally Two = 3 + x
+Baka Crvena = 2x
+Sally Forty = 2x + 4
+Sally Thirtytwo = 8
+Ukupna starost četiri ptice = (3 + x) + (2x) + (2x + 4) + 8 = 17 + 4x
+
+Kao što smo videli, x = 6, pa je ukupna starost četiri ptice 17 + 4(6) = 31 godina."
+Response:  First, let's calculate the total amount of money that Jessica owes each month: Student loan: $300 x 12 = $3600 Credit card debt: $200 x 12 = $2400 Mortgage: $500 x 12 = $6000 Total monthly payments: $3600 + $2400 + $6000 = $11,000 Now, if Jessica wants to pay 50% more than the minimums each month, she will need to pay: $11,000 x 1.5 = $16,500 per year That means she needs to pay $16,500 / 12 months = $1,375 per month to pay off her debts in one year.
+Response: 1) Procenjujemo koliko vremena treба da Billy izlijepe jedan krumpir: 1 minuta i pol (zahtjevna vrednost). 2) Onda proценjujemo koliko vremena treba da Billy iseči jedan krumpir: 5 sekunda (zahtjevna vrednost). 3) Sada smo gotovi sa procenom vremena koji je potrebно za izlijevanje i isečenje jednog krumpira. Ako imamo 60 krumpira, onda ćemo potrebati: 60 x 1 minuta i pol = 35 minuta i pol za izlijevanje i isečenje svih krumpira. Zato Billy mora završiti sa pripremom krumpira u vremensku razinu od: 35 minuta i pol + 5 sekunda = 40 minuta i pol.
+"Response: 
+Juan i Carlos prodaju po 50 čaša limone na sat, tako da je ukupna količina prodavane limene sirovine 50 x 10 = 500 čaša. 
+Proizvodnja limuna zahteva 3 $ po galonu, pa je ukupan trošak na limune 500 x 3 = 1500 $ (ili 1,5 tisuća dolara). 
+Ali oni su zaradili samo 25 $! Tada moramo uzeti u obzir i to da su prodatih 50 čaša šećera, tako da je njihov ukupni prihod od 50 x 2 = 100 $ ( ili 1 tisuća dolara). 
+Zatoju, Juan i Carlos su potrošili 1500 - 100 = 1400 $ na limune."
+Response:  Broj Azijaaca u timu je 240, a Japanaca i Kineza su po 80. Onda, broj djevojaka u kineskom timu je 60 - (80 x 2) = 30. Tada, broj djevojaka u timu jest 30.
+Response:  First, we need to find out how much money Zaid spends on rent and gas for his car. Let's assume that he spends $150 per month on rent and $200 per month on gas. So, in one month, he spends a total of $350 on these two expenses. Now, let's find out how much he donates to his favorite charity. He donates half of the remaining amount, which is $350 - $150 = $200. So, he donates $200 per month to his charity. Next, let's calculate how much he gives to his daughter. He gives her $200 for her weekly expenses, which means she gets $800 per month ($200 x 4 weeks). And finally, he gives his wife $700 for groceries and other household items. Therefore, the total amount of money he has left after all these expenses and donations is: $6,000 - $350 (rent) - $200 (gas) - $800 (to daughter) - $700 (to wife) = $4,950.
+"Response: 
+Rani ima 10 kraba više od Monice, što znači da Rani ima 10 + 4 = 14 rakova više od Monike. 
+Bo ima 4 kraba manje od Monike, što znači da Bo ima 4 - 4 = 0 rakova manje od Monike. 
+Ali Bo ima i 40 rakova, tako da je ukupni broj rakova koji ova tri ljudska imaju zajedno: 
+Monika + Rani + Bo = 14 + 10 + 40 = 64 raka."
+Response:  First week (week 1), he taught for 5 hours: $10/hour x 5 hours = $50  Second week (week 2), he taught for 8 hours: $10/hour x 8 hours = $80  So, in the first two weeks, he earned a total of: $50 + $80 = $130
+Response:  Broj učenika koji su glasali u razradi je 80, pa je ukupno 80 x 2 = 160 glasova. Ako pobjedник je dobio 3/4 glasova, onda je ostalo 160 / 4 = 40 glasova za gubitnika. Tada smo došli do odgovora 40.
+Response:  Fred mora isporučiti 4puta više crvenih ruža nego bijelih karanfila, to znači da mora isporučiti ukupno 4 x 20 = 80 crvenih ruža.  In addition, he must deliver 200 red roses, which are five times the number of white carnations. So, he needs to deliver 5 x 20 = 100 white carnations. Therefore, in total, Fred needs to deliver 80 + 100 = 180 roses before 17:00.
+"Response: 
+Markova starost prema Janini je dvije godine manja od njezine starosti prema polu Janove godine. To znači da Markova starost prema Janini jest:
+2 - (Janova godina / 2) = 2 - (30 / 2) = 2 - 15 = 7 godina
+Tada, Mark je 7 godina stariji od Janine. 
+Ali, prije 2 godine, Mark je bio 5 godinastariji od pola Janove godine. Tada, pol Janove godine je bilo 10 godina. Dakle, Janova godina je 30 - 10 = 20 godina. 
+Zbog toga, Jean je 30 godina starija od Marka."
+Response:  Trkači 1 iz prvog tima su u 55 sekundi, a trkači 1 iz drugog tima su u 60 sekundi. To znači da je prvi trkač bio 5 sekundi brži od drugog trkača.  Sada, pretpostavimo da drugi trkač će biti 3 sekunde brži od prethodnog trkača, tokom sledećeg koraka. Time bi drugi trkač bio u 57 sekundi (60 - 3).  Takođe pretpostavimo da treći trkač će biti još 2 sekunde brži od drugog trkača, pa će on biti u 55 sekundi (57 - 2). Isto tako, pretpostavimo da četvrti trkač će biti još 1 sekunda brži od trećeg trkača, pa će on biti u 54 sekundi (55 - 1).  Na kraju, pretpostavimo da prvi trkač će biti 5 sekundi brži od drugog trkača, pa će on biti u 49 sekundi (55 - 5).  U ovom slučaju, brži tim će pobijediti sa vremenom od 49 sekundi, dok će drugi tim imati vreme od 57 sekundi.
+"Response: 
+1. Jerry baca šesto-strani kockica i izvodi broj 4. Onda,jer bacimo drugi put,bacimo li možemo dva para brojeva koji su blisko uredno? Ne,jer se ne mogu baciti dva para brojeva koji su blisko uredno,jer bi prvi broj bio manji ili jednake veličine od drugog broja. Zato je verovatniji da će Jerry baciti broj veći od 3 nego da će baciti dva para brojeva za redom. Procenjujemo protolekošću 0,67 (ili 67%) da će Jerry baciti broj veći od 3."
+Response:  Jenna je pokupila pola jabuka od njezine majke, što znači da je majka imala polovinu jabuka (10 jabuka).  Ako je majka imala 20 jabuka uкупно, onda je Jenna imala polovinu tog broja jabuka - 10 jabuka.  Zatojenim, Jenna i njezina majka su skupile 10 jabuka.
+Response:  U prvoj grupi su 3 kaveza, a svaki kavez ima 6 komada slamke. To znači da u prvoj grupi ima 3 x 6 = 18 komada slamke.  U drugoj grupi su 10 kaveza, a svaki kavez ima 5 komada slamke. To znači da u drugoj grupi ima 10 x 5 = 50 komada slamke.  U trećoj grupi su zečevi, a ograda ima 20 komada slamke. To znači da u trećoj grupi ima 20 komada slamke.  Ukupno, takođe imamo 160 komada slamke, pa moremo da podelimo ukupnu količinu slamke među sve grupe: 160 / 3 + 10 + 20 = 190 komada slamke.  Dakle, pacovi imaju u svakom kavezu 190/3 = 63 komada slamke.
+"Response: 
+Mandy plaća 2% mesečne kamate u svakom mesecu, što znači da plaća $20 (2% od $100). 
+Nakon 3 meseca, Mandy će platiti $60 ($20 x 3) u kamatu Benediktu."
+Response:  First, let's calculate the cost of transporting each batch from the farm to the warehouse: Cost of transportation = $ 2 per batch x Number of batches = $ 2 x 5 batches = $ 10 So, the total cost of transportation is $ 10. Now, let's calculate the profit that the trader made by selling all the batches at a price of $ 30 per batch: Profit = Selling price - Cost of transportation = $ 30 x 5 batches - $ 10 = $ 150 So, the trader made a profit of $ 150. Finally, we can calculate how many batches the trader sold by dividing the profit by the selling price: Number of batches sold = Profit / Selling price = $ 150 / $ 30 = 5 batches Therefore, the trader sold 5 batches of wheat.
+Response:  First, let's calculate the total cost of the trip: Total Cost = $20.25 + $4.50 + $33 = $67.75 Now, let's divide the total cost by the number of friends: Number of Friends = Total Cost / $10 = 6.77 Now, let's multiply the number of friends by the amount each friend paid: Amount Each Friend Paid = Number of Friends x $10 = $67.70 So, each friend paid $67.70 for the trip.
+"Response: 
+Džon moze da sakuplja breskve na sledeći nacin:
+1. Prvi sat - 3 x 60 = 180 breskvena
+2. Drugi sat - 3 x 60 = 180 breskvena
+3. Treci sat - 3 x 60 = 180 breskvena
+Totalno - 540 breskvena
+Zato, Džon sakuplja 540 breskvena."
+"Response: 
+Koliko insekata patke moraju jesti svake Nedelje?:  Deset pataka = 10 x 2,5 kg = 25 kg insekata/nedelju 
+Ali ako imamo danas 30 dana u meseci, Koliko insekata patke moraju jesti mesecu?:  Deset pataka x 25 kg/nedelju x 30 dana/meseč = 750 kg insekata/meseč 
+Ali ako imamo godinu, Koliko insekata patke moraju jesti godišnje?:  Deset pataka x 750 kg/meseč x 12 meseća/godina = 9000 kg insekata/godina 
+
+Zato, ako ima deset pataka, oni moraju jesti 9000 kg insekata godišnje."
+Response:  Godine 1 (prvih 50 drvenaca): Tom ima 50 drvenaca. Narednih 10 godina (od 6 do 16), svaka godina se sječe 2 drvenca, pa ima 40 drvenaca. Uskoro 30% drvenaca umre, a ostaje 28 drvenaca. Od 17. do 26. godine, svaka godina se sječe još jedan drvenac, pa ima 27 drvenaca. Tada umire još 30%, pa ostaje 19 drvenaca. Od 27. do 36. godine, svaka godina se sječe još jedan drvenac, pa ima 28 drvenaca. Tada umire još 30%, pa ostaje 19 drvenaca. Od 37. do 46. godine, svaka godina se sječe još jedan drvenac, pa ima 28 drvenaca. Tada umire još 30%, pa ostaje 19 drvenaca. Od 47. do 50. godine, svaka godina se sječe još jedan drvenac, pa ima 28 drvenaca. Tada umire još 30%, pa ostaje 19 drvenaca. Ukupno, Tom ima 19 drvenaca na kraju pet desetljeća.
+Response:  Prvi dan (petak): • Susjedi su postavili 18 ružičastih plastičnih flaminga na Suin dvorište. • Susjedi su uzeli trećinu flaminga (6) i obojili их u bijelo. • Novo obojeni bijeli flamingi su stavljeni natrag na Suin dvorište.  Drugi dan (subota): • Susjedi su ponovo postavili 18 ružičastih plastičnih flaminga na Suin dvorište. • Susjedi su uzeli drugu trećinu flaminga (5) i obojili ih u bijelo. • Novo obojeni bijeli flamingi su stavljeni natrag na Suin dvorište.  Treći dan (nedelja): • Susjedi su ponovo postavili 18 ružičastih plastičnih flaminga na Suin dvorište. • Susjedi su uzeli poslednju trećinu flaminga (4) i obojili ih u bijelo. • Novo obojeni bijeli flamingi su stavljeni natrag na Suin dvorište.  Na osnovu ovog problema, broj roze plastičnih flaminga koji su bili vani od bijelih plastičnih flaminga na kraju nedelje može se izračunati tako: • Prvih 6 bijelih flaminga + druga tri treće (18 - 9 = 9) = 27 bijelih flaminga • Od ostalih 18 ružičastih plastičnih flaminga, susjedi su uzeli 5 (druga trećina), pa ima 13 ružičastih plastičnih flaminga koje su bile vani od bijelih plastičnih flaminga. • Ukupan broj roze plastičnih flaminga koji su bili vani od bijelih plastičnih flaminga na kraju nedelje je 27 + 13 = 40.  Odgovor
+"Response: 
+Violeta ima 5 različitih boje olova, a svaki boj košta 2 dollara. Onda bi trebalo da izračuna koliko će ona platiti za sveukupno 5 olova:
+
+5 olova x 2 $/ovo = 10 $
+
+Ali Violeta ima još i 20 dolara, tako da bi ona ostala sa 10 dolara:
+
+10 $ - 20 $ = -10 $
+
+Zato Violeta neće biti ništa plaćena za kupovinu olova."
+Response: 8 olovaka košta 8 x 1,20 = 9,60 dolara. Ako smatramo da su svih 8 olovaca isto veličine, onda će 4 olovka gume koštati 4 x 0,30 = 1,20 dolara. Ukupna cena će biti 9,60 + 1,20 = 10,80 dolara.
+Response: 1) Prosličimo ukupno broj funti mrkve - 200 funti = x funti. 2) Prosličimo broj restoraна - 40 restorana = y restoraна. 3) Broj kilograma mrkve za svaki restoran - pola kilograma = z kilograma.  Zadaciemo zadnju formulaciju: x = 200 / 40 = 5 kg (mrkva). Tako će 5 kilograma mrkve nebiti korišćena.
+Response:  Broj stanovnika grada Sode iznosio je 23786. Od toga, 8417 je broj muškaraca, a 9092 je broj žena. To znači da je ukupni broj odraslih osoba u gradu Sodi 17509 (8417 + 9092). Ako smatramo da svi odrasli ljudi u gradu su majka ili otac, onda bi broj dece bio 17509 - 8417 = 9092. Takođe, možemo reći da je prosječna starost populacije u gradu Sodi 30 godina (17509 / 23786).
+"Response: 
+Prvi mesec:  Elaine je u početku imala 20 Pokemon karata, tako da je ukupan broj karata u prvoj godini bio 20 x 3 = 60 karata. 
+Drugji mesec:  U drugom mescu, Elaine je sakupila tri puta više karata, pa je ukupni broj karata u druгом mescu bio 60 x 3 = 180 karata. 
+Treći mesec:  U trećem mescu, Elaine je sakupila dvostruko više karata nego u prvom i drugom mescu, pa je ukupni broj karata u trećem mescu bio 180 + (2 x 20) = 180 + 40 = 220 karata. 
+Zbog toga, ukupni broj Pokemon karata koje Elaine poseduje u kraju godine je 220 karata."
+"Response: 
+Izvorište problema su dva izdavača i njihovih plaćanja Marku. Izvorište problema je:
+
+* Izdavaч A plaća Marku 5 centi po rečenici.
+* Izdavač B plaća Marku duplo više nego izdavač A, to jest 10 centi po rečenici.
+
+Koliko će Mark zarađati u sedmici? To se može računati sljedećim putem:
+
+Ukupna količina rečenica koje Mark uređuje svake sedmičine je 1000 (ukupno 7 dana x 140 rečenica na dan).
+
+Cijena po rečenici koju plaća izdavač A je 5 centi, pa koliko će Mark zarađati od izdavača A u sedmici:
+
+5 centi x 1000 rečenica = 50 $
+
+Cijena po rečenici koju plaća izdavač B je 10 centi, pa koliko će Mark zarađati od izdavača B u sedmici:
+
+10 centi x 1000 rečenica = 100 $
+
+Koliko će Mark zarađati u sedmici ukupно:
+
+50 $ + 100 $ = 150 $
+
+Tada bi Mark zarađivao 150 $ u sedmici."
+Response:  Dan se sastoji od 24 satova, a svako jutro i svako popodne su 8 satova.  Tada imamo ukupno 24 x 8 = 192 sati u danu.  Ako Baldur prima 5 kante vode svako jutro i 6 kante vode svako popodne, on će biti ukupно 5 + 6 = 11 kanaca vode dnevno.  Koliko je to u litrima?  To je jednako 11 x 5 = 55 litara vode dnevno.
+"Response: 
+Nagradom se plaće 5000 dolara i 5% povećanja plata. To znači da ako Džon zaradi 2000 dolara, on će biti nagrađen 1000 dolara (5000 - 4000 = 1000). 
+Ali, onda bi Džon bio nagrađen samo prvi dan u godini, jer je nagradna novčana vrednost jednaka cijeli broju dana u godini. Takođe, novac koji ćebiti nagrađen mora biti jednaka proslostoj godini. 
+Zbog toga, ako Džon zaradi 2000 dolara sedmog dana u godini, on će biti nagrađen 1400 dolara (1000 + 400), jer su ukupno 7 dana u godini. 
+Sada imamo problema sa procenom ukupnog novčanoga nagrade koja će biti dodeljena Džonu u godini. Ukupna nagradna novčana vrednost je:  Nagradna novčana vrednos = 5000 x 365 = 1825000 dolara. 
+Takođe, ako Džon zaradi 2000 dolara sedmog dana u godini, on će biti nagrađen 1400 dolara, što znači da mu treba ostati 600 dolara iz preostalog dela godine (2000 - 1400 = 600). 
+Kao rezultat sveга toga, Džon će biti nagrađen ukupно 1825000 dolara u godini, odnosno 1400 dolara više nego što je zaradio u godini."
+Response:  Farma proizvodi 5 tone grožđa na svakom hektaru, pa proizvodi ukupno 5 x 10 = 50 tone grožđa na cijeloj farmi.  Ako svaka ton grožđa produces 2 bace vine, onda ukupno proizvodi se 50 x 2 = 100 baca vina godišnje na farmi.
+Response:  For each sandwich, he used 2 pieces of cheese. So for the three sandwiches per day, he used a total of 6 pieces of cheese per day.  Then, for the omelette with cheese and eggs, he used 1 more piece of cheese than he did for the sandwiches. So for the omelette, he used a total of 7 pieces of cheese.  Finally, for the macaroni dish with cheese, he used 8 pieces of cheese. Therefore, in total, he used 6 + 7 + 8 = 21 pieces of cheese throughout the week.
+"Response: 
+Janet je imala 22 zelene i 10 žutih olovaka, što u ukupnom iznosi 32 olovka. 
+Kasnije je kupila 6 vreća plavih olovaka, a svaka vrećica ima 9 olovaka. To znači da je ukupno kupila 54 plava olovočića (9 x 6). 
+Isto tako, kupila je 2 vreće crvenih olovaka, a svaka vrećica ima 6 olovaca. To znači da je ukupno kupila 12 crvenih olovočića (6 x 2). 
+Ukupно, Janet ima 32 + 54 + 12 = 98 olovaka."
+Response:  Prvi test: Ocena Brinli je 89. Drugi test: Ocena Brinli je 71. Treći test: Ocena Brinli je 92. Četvrti test: Ocena Brinli je 100. Peti test: Ocena Brinli je 86. Šesti test: Prosjek Brinlijevih ocena na sva šest testa je 93.
+"Response: 
+Prvih pet Nedelja: 
+* Sada imamo informaciju da je Michael vozio bicikl 5 putanedeljno, i svaki put je prešao 25 km.
+* Prvih 5 putova, Michael je prešao ukupno 125 km (25 km x 5 puta).
+
+Drugih tri Nedelje: 
+* Sada imamo informaciju da je Michael vozio bicikl samo dva putanedeljno, i svaki put je prešao 60 km.
+* Drugih 3 puta, Michael je prešao ukupno 180 km (60 km x 3 puta).
+
+Ukupni broj kilometera koji je Michael prešao: 
+Ukupni broj kilometera = 125 + 180 = 305 km.
+
+Zato, odgovor na pitanje jest 305 km."
+"Response: 
+U ovom slučaju, ako svaka čokolada teži 40g, onda broj čokoladi = 25. 
+Broj kandiranih jabukala = 80. 
+Ako svaka čokolada teži 40g, onda ukupna težina svih čokolada = 25 x 40g = 1000g. 
+Ako se takodje svaki kandirani jabukala teži 40g, onda ukupna težina svih kandiranih jabukala = 80 x 40g = 3200g. 
+Takođe, znamo da ukupna težina svih slatkiša (čokolada + kandirani jabukali) = ukupna težina svih čokolada + ukupna težina svih kandiranih jabukala. 
+Zato možeмо reći da ukupna težina Džoove vreće slatkiša = 1000g + 3200g = 4200g. 
+Pa, na kraju, Džoova vreća slatkiša teži 4200g."
+"Response: 
+Rose je u ponedjeljak otišla u dućan i kupila 4 kolaça.
+U utorak je otišla u drugju prodavnicu i kupila triput više kolača, što znači da je ukupno kupila 3 x 4 = 12 kolača.
+U srijedu je otišla u drugu prodavnicu i kupila pet puta više kolača nego u utorak, što znači da je ukupno kupila 5 x 12 = 60 kolača.
+Zbog toga, Rose je ukupно kupila 4 + 12 + 60 = 76 kolača nakon svih tri dana."
+"Response:  Ukupna cijena kupovine svake čaše je:
+
+Ukupna cijena kupovine svake čaše = (ukupna cijena pola desetina tanjira - cijena jednog komada) / broj komada
+= ($1200 - $6000) / 5
+= -$4800 / 5
+= -$960
+
+Tada smemo imati ukupnu cijenu kupovine svake čaše u iznosu od -$960."
+"Response: 
+Sara trenutno ima 10 dolara uštedu. Ako kosi travu 4 puta, onda će dostigati ukupno 4 x 4 = 16 dolara. Ovo znači da Sara trenutno ima 10 + 16 = 26 dolara. 
+Ako Sara kasnije kupuje jaknu koja kostа 30 dolara, onda će izgubiti 30 - 26 = 4 dolara. 
+Ako Sara zatim kupuje dve pare cipela koje kostа 20 dolara, onda će izgubiti još jedan dolar, tako да će ukupni deficit biti 4 + 1 = 5 dolara. 
+Zato Sara morat 5 puta kositi travu da bi priuštil jaknu i cipele."
+Response: 1) Džeri sakuplja 42 jaja svakog dana. 2) Bijeli pilići daju 5 jaja dnevno, tako da oni sakupljaju 5 x 7 = 35 jaja svakog dana. 3) Crveni pilići daju 3 jaja dnevno, tako da oni sakupljaju 3 x 7 = 21 jaja svakog dnevno. Uкупно, Džeri sakuplja 42 + 35 + 21 = 98 jaja svakog dana. 4) Ako ima dva bijelog pilića više od crvenih, onda ima ukupno 98 - 60 = 38 jaja manje crvenih pilića. Tada ima 38 / 2 = 19 crvenih pilića. Odgovor je 19.
+"Response: 
+Gary hodi u ivici parka, koji je ravni i dužine 1,5 mile (2,4 km). Ako hodi brzinom od 5 km/h, on hodi jednu milju (1,6 km) za 30 minuta (brzina = 5 km/h x vreme = 30 minuta / 60 minuta u satu). 
+Ali, Ivaniv park je većeg prostora nego samo ivica parka, pa se brzina mora menjati. Prosječna brzina kretanja u parku je:  Brzina = Duljina parka / Vreme za kretanje u parku 
+Brzina = 6 milja / 30 minuta = 2 km/h 
+Onda, ako hodi brzinom od 2 km/h, on hodi jednu milju (1,6 km) za 30 minuta (brzina = 2 km/h x vreme = 30 minuta / 60 minuta u satu). 
+Kada se računa sa činjenicom da je Ivaniv park dužine 6 milja (9,7 km), on će provesti 6 x 30 = 180 minuta (ili 3 sata) kako bi prošao cijeli park. 
+Zato, Gary će provesti 3 x 60 = 180 minuta (ili 3 sata) kako bi prošao cijeli park."
+Response:  Prvi dan: 100 kupaca Drugi dan: 50 kupaca + 100 kupaca = 150 kupaca Treći dan: 500 - 150 = 350 kupaca  Odgovor: 350 kupaca
+"Response: 
+Prvih 4 minuta:  Veliki bazen ima 8 galona vode (četiri puta više vode nego mali bazen). Malim bazenom se isprazni 4 galona vode u minuti, tako da onda ima 4 + 4 = 8 galona vode u toku prvih 4 minuta. 
+Ostatak vremena:  U ostalom vremenu, oba bazena su isprazna, pa imaju istu količinu vode. Time, mali bazen ima 8 galona vode - 4 galona vode koje se isprazni u prvih 4 minuta. Odgovor na pitanju je 4 galona vode."
+"Response:  First, let's calculate how much money she has available to spend after paying her bills:
+
+$8,000 (monthly income) - $320 (cipele) - $32,00 (accessory) = $74,680 left for discretionary spending
+
+Now, we need to determine how many hours she needs to work in order to save up enough money to buy the shoes and accessory. Let's assume that she wants to save up $100 per week for discretionary spending. So, she will need to work:
+
+$74,680 / $100 per week = 746.8 hours of work
+
+There are 43,200 minutes in a week, so she will need to work:
+
+746.8 hours / 43,200 minutes per week = 17.5 weeks of working time
+
+So, Lori needs to work for approximately 17.5 weeks or about 4 months and 1 week to save up enough money to buy the shoes and accessory."
+"Response: 
+Janeth je posudila $ 2000 i obećala da će vratiti sa dodatnih 10% od iznosa. To znači da će vratiti $ 2000 x 1.10 = $ 2200. 
+Ali Janetin preostali saldo je samo $ 2200 - $ 2000 = $ 200. 
+Ovo значи da Janethin preostali saldo do tada bio je $ 200."
+"Response:  U vazi su 4 ruže. Ako je 7 dalija više nego ruža, onda imamo:  
+Ruža = 4 x 1 = 4  
+Dalija = 7 - 4 = 3  
+Koliko cveća ima u vazi? = 4 + 3 = 7"
+Response:  Adrian je tri puta stariji od Harrieta, što znači da mu je proslostarost 3 x 7 = 21 godina.  Harriet je upola starija od Zacka, što znači da joj je proslostarost 2 x 7 = 14 godina.  Ako su tri godine, onda je proslostarost trojke 3 + 14 + 21 = 58 godina.
+Response:  Učenici su imali ukupno 251 poen. Naomi je dostigla 68 bodova, što znači da joj je ostalo 183 poena. Juri je postigao 10 više od polovine od 183, što znači da mu je ostalo 93 poena. Brianna je postigla 17 više od Naomija, što znači da joj je ostalo 46 poena. Jojo nije bio u igri na ploči, pa ne može biti ni jedan odgovor na to pitanje.
+Response:  Carmen je riješila 3 križaljkice u 10 minuta, što znači da je svaka križaljka trajala 3 minuta.  Sudoku zagonetke su riješene u 5 minuta, što znači da svaki zagonetek je trajao 1 minute.  Time, Carmen je provele 3 x 3 = 9 minuta na riješenje križaljki i 5 x 8 = 40 minuta na riješenje sudoku zagonetki.  Odgovor na vaše pitanje je time:  Carmen je provedela 9 + 40 = 49 minuta igrajući križaljke i sudoku zagonetke.
+"Response: 
+Celina je koristila 90 litara vode iz rezervoara, tako da je ostalo 30 litara (120 - 90 = 30) u rezervoaru. Ako je tank za vodo pun 120 litara, onda je ostalo 90 litara v rezervoaru (120 - 30 = 90)."
+Response:  Andy je rekao da ima 90 geranija i 40 petunija manje od geranija. To znači da ima ukupно 50 (90 - 40) geranija i petunija.
+Response:  Godine 1998., kompanija troše $ 15.000 na oglašavanje. Ako onda troše trećinu toga u drugoj godini, onda su ukupni troškovi na oglašavanje u drugjoj godini $ 15.000 x 3 = $ 45.000.  Zato što kompanija troši $ 15.000 i druge godina, ukupno su troškovi na oglašavanje u dvije godine $ 45.000 + $ 15.000 = $ 60.000.
+Response:  Carlos je koristio čamac 3 sata, pa mu će biti potrebnih 3 x $ 30 = $ 90 u svim trokutima.  Benji je koristio splav 5 sati, pa mu će biti potrebnih 5 x $ 18 = $ 90 u svim trokutima.  Zbog toga, ukupni trokuti će biti $ 90 + $ 90 = $ 180.
+Response:  Ako ide Andrew 6 dana na putovanju autobusom iz New Jerseya u Rochester, onda će mu trebati pola toliko vremena za putovanje autom od Rochestera natrag u New Jersey. To znači da će putovati autom 3 dana. Tada bi ukupno putovao 9 dana (6 + 3).
+"Response: 
+James ima ukupno 150 karata (30 x 5 = 150).
+Oni su raspoređeni u tri tipove: vatrene (30), travne (20) i vodene (40).
+Ako James gubi 8 vatrenih karata, onda ima 30 - 8 = 22 vatrene karte.
+Ako onda kupi 14 vodnih karata, onda ima 40 + 14 = 54 vodne karte.
+Procenat vode u cjelini je:
+54 / 150 = 0,36 (približno 36%)
+Zato je prosjek šansi da će nasumično odabrana karta biti tipa voda 36%."
+Response:  First, let's calculate the cost of the basic burrito: $6.50 + $2 (for extra meat) = $8.50. Then, we need to add the cost of the additional items: $8.50 + $1 (for avocado) + $1 (for sour cream) + $0.25 (for tortilla chips) = $9.75. Finally, if he uses his $5 discount card, he will pay $4.75 for the total cost of the meal. So, he still owes $4.75.
+"Response: 
+Kalinda radi na 360 komada slagalice sa svojom mamom. Ona može da doda 4 komada u minuti, tako da je njeni ukupni broj komada u minuti 360/4 = 90.
+Njena mama obično može da postavi pola toliko komada u minuti kao Kalinda, što znači da ona može da postavi 90/2 = 45 komada u minuti.
+Zato bi oni potrebali 90/45 = 2 sata i 15 minuta da završe ovu zagonetku."
+"Response: 
+Ashlyn je otišla na farmu i saznala da su 30% lubenica spremna za berbu. To znači da ima 30/120 = 0,25 lubenica koji su spremni za berbu.
+Kada se vratila dvije sedmice kasnije, 75% preostalih dinja (3/4 x 30%) su bili spremni za berbu, pa ima 0,75 x 0,25 = 0,1875 lubenica koje su spremne za berbu.
+Zbog toga što je Ashlyn sakupila 30% preostalih dinja, onda ima ukupно 0,1875 + 0,30 = 0,4875 lubenica koje su spremne za berbu."
+Response:  First, let's calculate the total cost of all the cars that Mark wants to buy: Number of cars = 12 x $20,000 = $240,000 So, Mark will pay a total of $240,000 for all the cars. Now, let's calculate the tax he needs to pay on each car: Tax rate = 10% x $20,000 = $2,000 For each car, Mark will pay $2,000 in taxes. Finally, let's add up the total amount Mark needs to pay for all the cars and the taxes: Total cost = $240,000 + (12 x $2,000) = $256,000 So, Mark will need to pay a total of $256,000 for all the cars and the taxes.
+Response:  U ponedjeljak, Kajli je skupljala 5 školjki više od Roberta, koji je skupljao 20 školjki. To znači da je Kajli skupljala ukupno 25 školjki (5 + 20).  U utorak, Kajli skuplja dvostruko više školjki nego što je to uradila u ponedjeljak. Dvostruko više od 25 školjki je 49 školjki (2 x 25 = 49).  Zato je Kajli skupljala ukupно 74 školjke u utoraku (25 + 49).
+"Response: 
+1. Broj mrava = 50
+2. Ukupni broj insekata (mravovi + drugi insekti) = broj mrava x 2
+Ukupni broj insekata = 50 x 2 = 100
+Tada imamo ukupno 100 insekata u vrtu."
+Response: 1/3 pingvina skoči i pliva u okean, tako da imamo 2/3 pingvina koji ne skoču. Od tih 2/3 pingvina, još 1/3 ulaze u pećinu da bi jeli večeru. To znači da imamo 2/3 x 1/3 = 1/6 pingvina koje ulaze u pećinu. Tada imamo 36 - 1/6 = 30 pingvina koje se sunce.
+"Response: 
+1. Više paradajza - Steve je odлучио да почене даје више парадајза него његова девојка. To значи да он у просеку jede 2 puta više parađiza од своje девојке.
+2. Uzgaja parađize - Steve odлучио је да узgaja своje трешња парадајзе. To znači да on ne samo što jede više paradjiza već и uzgaja их.
+3. Broj loža - Steve jede 6 dana unedelju. To znači da he jede 6 x 7 = 42 parađize meseчно.
+4. Proizvodnja parađize - Loza može da proizведе tri parađize Nedelju. To significa that one bush can produce 3 parađizes per week.
+5. Rešenje - Ako Steve jede 42 parađize mesecno, a loza može da proizvede 3 parađize Nedelju, onda Steve treба 42 / 3 = 14 lozi parađize.
+
+Zato, odgovor na pitanje je 14 lozi parađize."
+"Response: 
+Koliko je ukupno brojnica prijatelja - 20. 
+Svaka grupa od 4 prijatelja (ukupno 5) treba 4 komada pice, tako da bi svaki imao jednu porciju. 
+Zbog toga treba naručiti ukupno 2 x 5 = 10 komada pice."
+Response:  Ako koristi 25 pravih olovaka da napravi nove olovke, onda će biti 4 puta više olovaka (25 x 4 = 100). Tada, ako koristi one nove olovke da napravi još jedne 25 olovaka, onda ćemo imati ukupно 125 olovaka (100 + 25 = 125).
+Response:  Prvih 20 dolara je Džoni uzeo i dodao još 10 dolada, što znači da mu je ukupna svota novaca bila 30 dolara (20 + 10 = 30).  Nakon godine dana, ukupna svota novaca će biti 30 x 2 = 60 dolara (tri puta više od početne sume).
+"Response: 
+Meri je dvije godine mlađa od Džoan, koji je pet godina stariji od Džese. To znači da Meri ima 5 + 2 = 7 godina manju starost od Džesine. 
+Ali Džesa ima 20 godina, ako je Meri 7 godina manja, to znači da Džesa ima 20 - 7 = 13 godina više od Meri. 
+Zato ukupna starost tri devojke izgleda ovako: 
+Džoan = 5 + 7 = 12 godina
+Džesa = 13 godina
+Meri = 7 godina"
+Response:  Ukoliko 30% učenika izašlo iz zgrade kroz izlaz A, onda je to bilo 300 učenika (30% od 1000).  Ako 3/5 preostalih učenika izašlo kroz izlaz B, onda je to bilo 600 učenika (3/5 od 700 - 300 = 600). To znači da je ukupan broj učenika koji su izašli kroz svaki izlaz sljedeći: 300 + 600 = 900 učenika. Ovaj broj će biti istočiti kroz svaki izlaz, pa će ukupno 900 učenika izašlo kroz izlaz C.
+Response:  James ima 6 slatkiša više od Roberta, što znači da James ima 6 + x slatkiša, gdje je x broj koji se razlikuje od Roberta.  Džon ima dvostruko više bombona od Roberta, što znači da Džon ima (2x) bombona.  Ako John ima 54 slatkiša, onda John ima: 6 + x - 2x = 54 Sada moramo rastvoriti za x: 6 + x - 2x = 54 0= -1 x = 54/6 = 9  James ima 9 slatkiša više od Jamesa.
+"Response: 
+Dolly ima dvije knjige, tako da je ukupna brojka knjiga koje ona ima 2. 
+Pandora ima jednu knjigu, tako da je ukupna brojka knjiga koje ona ima 1. 
+Ako Dolly i Pandora čitaju knjige jedni drugim, onda dolazi do povećanja ukupne brojke knjiga koji su dostupni za čitanje. Na primer, ako Dolly čita Pandorinu knjigu, ukupna brojka knjiga koja su dostupna za čitanje postaje 3 (2 + 1). Isto tako, ako Pandora čita Dollyinu knjigu, ukupna brojka knjiga koja su dostupna za čitanje postaje 4 (2 + 2). 
+Zbog toga, ako Dolly i Pandora čitaju knjige jedni drugim, oni će zajedno pročitati ukupно 6 knjiga (2 + 4) dok ne dođe do kraja."
+"Response: 
+Mike je bio prijatelj po pismima sa pet ljudi. Prestao je da piše jednom drugima dvojici njihovih prijatelja. To znači da je Mike radio 5 x 2 = 10 puta mesečno. 
+Svaka correspondance traje 5 minuta (što je toliko vremena kojeg može da napravi Mike u 6 minuta). 
+Zato bi Mike sedmog dana trebao raditi 7 x 5 = 35 puta mesečno. 
+Ovo znači da Mike sedmog dana trebao radi 35 minuta."
+Response:  Jason ima 1000 minuta mesečno, a ovaj mjesec ima 30 dana. svaki dan ima 15-minutni poziv sa šefom, tako da bi Jason imao ukupno 45 minuta poziva sa šefom (15 minuta дnevno x 30 dana). Ovo znači da Jason ima ukupno 955 minuta (1000 - 45) za drugačije pozive. Ako ima 300 dodatnih minuta poziva sa drugim ljudima, onda ima ukupno 1255 minuta (955 + 300).
+"Response: 
+Kada se radi o brojevima, najbolji način da dobijemo odgovor jest računati prema sledećim stepenicama:
+1. Broj pomfritova koji su Billy i Kyle uzeli: 5 + 3 = 8
+2. Broj pomfritova koji su ostali u Griffinu (odnosno one koji su mu Ginger dati): 24 - 8 = 16
+3. Broj krumpirića koji su Griffin imao nakon toga (odnosno one koji su mu Ginger dati): 27 - 16 = 11
+Zato, Ginger je Griffinu datila 11 krumpirića."
+Response:  Broj puževa u prvome akvariju je 4, pa se možemo reći da je broj puževa u drugom akvariju x.  Drugi akvarijum ima dvostruko više puževa od prvog, tako da x = 2x.  Izvodimo li ovaj izraz prema drugoj strani, dobijamo:  x = 2x = 8.  Time, broj puževa u drugom akvariju je 8.  Kada se vraćamo u pitanje, vidjet ćemo da ako su oba akvarija jednaka po broju riba, kolikoih je u svakom akvariju 4 ribe.
+Response:  First, we need to find out how many hours the makeup artist works on Jean per day. According to the problem, she needs to do her makeup for 6 hours a day, Monday through Friday, for a total of 24 hours per week.  Next, we need to calculate how much Jean pays the makeup artist per hour. According to the problem, the makeup artist charges $250 per hour. Therefore, Jean pays $250 x 6 = $1,500 per week in makeup costs.  Now, let's calculate the total amount that Jean pays the makeup artist over the course of the 5-week film shoot. Since the film takes 5 weeks to complete, and Jean has to pay for makeup every day during that time, she pays a total of $1,500 x 5 = $7,500 in makeup costs.  Finally, we need to calculate the percentage of the cost that Jean gets back as a discount. According to the problem, the makeup artist gives Jean a 10% discount on the total cost of the makeup. To find out how much Jean saves, we can multiply the total cost of the makeup by the discount percentage: $7,500 x 10% = $750. So, Jean saves $750 on her makeup costs.  In conclusion, Jean pays a total of $7,500 for her makeup costs over the course of the 5-week film shoot, and she receives a $750 discount.
+Response:  First, let's calculate the total cost of the gift:  $12 + $43 + $15 + $4 + $22 = $86 So, each person paid $28.67 ($86 / 3).
+"Response: 
+Kuvar je kupio 4 vrećice luka. svaka vrećica teži 50 funti. To znači da ukupna težina svih 4 vrećica luka iznosi: 4 x 50 = 200 funti. 
+Kilogram luka košta 1,50 dolara. Zato ako smatramo да je ukupna težina luka u vrećama 200 funti, onda ukupni trošak za sve 4 vreće luka iznosi: 200 x 1,50 = 300 dolara. 
+Zato kuhar je potrošio 300 dolara na luke."
+"Response: 
+U ponedjeljak je Su jela 4 puta više kolača od sestre, to znači da je iznosila 4 x 5 = 20 kolačica. 
+U utorak je jela duplo više kolača od sestre, pa je iznosilo 2 x 5 = 10 kolačica. 
+Sueva sestra je u ponedjeljak jela pet kolača, pa je ukupno iznosilo 5 kolačića. 
+Ako jedan kolačić ima 200 kalorija, onda je Suevih 20 kolačića bilo 200 x 20 = 4000 kalorija. 
+Kao što smo videli, Suevih je više kalorija jelo od svog brata, pa je odgovor na pitanje 4000 kalorija."

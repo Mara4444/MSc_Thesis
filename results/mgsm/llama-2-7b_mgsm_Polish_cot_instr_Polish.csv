@@ -1,0 +1,707 @@
+"Response: 
+Kaczkami Janet składa się 16 jaj dziennie. 
+Trzy z nich zjada codziennie na śniadanie, co daje 3 x 16 = 48 jaj na śniadanie. 
+Reszta (16 - 48) = 12 jaj jest sprzedawana na targu codziennie. 
+Codziennie Janet zarabia 12 x 2 = 24 dolarów na targu."
+Response:  Potrzebamy dwóch śrub błękitnych włókien, co oznacza, że musimy wybrać dwa z pięciu dostępnych elementów (błękitne włókno). Po tym, jak wybraliśmy dwie śruby błękitne, musimy wybrać połówkę tej samej ilości białych włókien. Ponieważ połowa liczby białych włókien to 3, otrzymujemy trzy śruby białych włókien. W końcu otrzymujemy łącznie 5 śrub - 2 błękitne + 3 biała.
+Response:  Dom kupił za 80 tysięcy dolarów, a wkładał na naprawy 50 tysięcy. Zwiększenie wartości domu o 150% oznacza, że jego nowa wartość jest równa: 80 tysięcy x 1,5 = 120 tysięcy dolarów. Dlatego Josh zarobił 40 tysięcy dolarów (120 - 80).
+Response:  James biegnie 3 razy w tygodniu, co oznacza, że biega 3 x 7 = 21 metrów w tygodniu. W każdym z tych biegów biega 60 metrów na sprint, co oznacza, że biega 60 + 60 + 60 = 180 metrów w tygodniu.
+Response:  Wendi daje swoim kurczakom 3 razy na dzień - rano 15 kubków paszy, po południu 25 kubków paszy i wieczorem jeszcze 25 kubków paszy. Jeśli stada liczy 20 kurczaków, to Wendi musi podać im razem 75 kubków paszy na dzień (3 x 25 = 75).
+Response:  Jeśli Kylar chce kupić 16 szklanek, to ich suma będzie: 16 x 5 = 80 dolarów. Ale zgodnie z pytaniem, każda druga szklanka kosztuje 60% ceny, dlatego cena drugiej szklanki będzie: 80 / 2 = 40 dolarów. Dlatego Kylar musi zapłacić łącznie 80 + 40 = 120 dolarów.
+Response:  Jeśli Toulouse ma dwa razy więcej owiec niż Charleston, to Toulouse ma 2x = 40 owiec. Jeśli Charleston ma cztery razy więcej owiec niż Seattle, to Charleston ma 4x = 80 owiec. Oczywiście, Seattle ma tylko 20 owiec. To znaczy, że suma owiec w Toulouse, Charleston i Seattle wynosi: Toulouse + Charleston + Seattle = 40 + 80 + 20 = 140 owiec.
+"Response: 
+1. Carla pobiera plik o pojemności 200 GB.
+2. Prędkość poboru pliku wynosi 2 GB/minuta.
+3. W trakcie pobierania 40% drogi, Windows zmusza do ponownego uruchomienia, aby zainstalować aktualizacje, co zajmuje 20 minut.
+4. Po ponownym uruchomieniu, Carla musi ponownie rozpocząć pobieranie od początku.
+5. Całkowita prędkość poboru pliku w takim przypadku będzie była równa: (2 GB/minuta) \* (cała droga - 40%) = 80 GB/h.
+6. Czas pobrania pliku będzie był równy ilości pliku podzielonej przez prędkość poboru: 200 GB / 80 GB/h = 2,5 h.
+Tak więc, Carla będzie potrzebowała około 2,5 godzin na pobranie pliku o pojemności 200 GB, gdy Windows zmusi ją do ponownego uruchomienia i zainstalowania aktualizacji."
+Response:  Po pierwszym kroku (3 godziny) John ma już tylko jedno i half godziny do powrotu do domu.  Jechałoby mu osiągnąć dom w czasie 1,5 godzin.
+Response:  Stawka godzinowa Elizy wynosi 10 dolarów na godzinę.  Jej praca trwa 40 godzin w tygodniu, co oznacza, że travaży 40 x 10 = 400 dolarów na tydzień.  Wynagrodzenie za nadgodziny jest 1,2 razy większe niż stawka godzinowa, co oznacza, że wynagrodzenie za nadgodziny wynosi 1,2 x 400 = 480 dolarów na tydzień.  Totoro suma brutto wynagrodzenia dla Elizy w tym tygodniu to 400 + 480 = 880 dolarów.
+"Response: 
+W pierwszym miesiącu program miał 60 pobrań. Jeśli w drugim miesiącu liczba pobrań została trzykrotnie większa to miała ona 180 pobrań (60 x 3 = 180). A w trzecim miesiącu liczba pobrań spadła o 30%, co oznacza, że miała 126 pobrań (180 - 30 = 126). 
+Teraz sumujemy ilość pobrań w każdym miesiącu: 60 + 180 + 126 = 466. 
+Oczywiście mogę zintegrować te informacje na różne sposoby, ale najprostsze i jednocześnie poprawne rozwiązanie jest: 466."
+Response:  Toula kupiła 3 tuziny pączków, co kosztuje 68 dolarów za tuzin. W sumie to 194 dolary (3 x 68). Następnie kupiła 2 tuziny mini babeczek, co kosztuje 80 dolarów za tuzin. W sumie to 160 dolarów (2 x 80). Ostatecznie kupiła 6 tuzinów mini cheesecakes, co kosztuje 55 dolarów za tuzin. W sumie to 330 dolarów (6 x 55).  Całkowita suma kosztów wszystkich ciast jest więc 574 dolarów (194 + 160 + 330).
+"Response: 
+Drzewo ma kosztować 90 dolarów. Wykorzystamy, że każdego roku wyrosną na nim siedem cytryn, które sprzedają za 1,5 dolara za sztukę. Wydajemy na wodę i żywność 3 dolary rocznie.
+
+Pierwszy rok:
+Koszt = 90 dolarów + (7 x 1,5 dolara) = 105 dolarów
+
+Drugi rok:
+Koszt = 90 dolarów + (7 x 1,5 dolara) - (3 dolary) = 124,5 dolarów
+
+Trzeci rok:
+Koszt = 90 dolarów + (7 x 1,5 dolada) - (3 dolary) = 168,5 dolarów
+
+...
+
+W końcu trzynastego roku:
+Koszt = 90 dolarów + (7 x 1,5 dolada) - (3 dolary) = 303,5 dolarów
+
+Oczywiście, ten rachunek jest tylko teoretycznymi szacunkami i nie uwzględnia jakichkolwiek innych czynników, takich jak ilość deszczu lub choroby drzewa."
+"Response:  Melanie miała na początku 5 odkurzaczy. Wypowiada się ona: ""Jedna trzecia od Kurza w zielonej"". Oznacza to, że Melanie sprzedała jedną trzecią od kurza w zielonej, co oznacza, że pozostałe 2/3 odkurzaczy są w niezielonej. Dalej mówi: ""Dwie kolejne w czerwonej"". Oznacza to, że Melanie sprzedała 2 kolejne odkurzaczy w czerwonej, co oznacza, że pozostaje jeszcze 1/3 odkurzaczy w czerwonej. Ostatnią informacja brzmiałaby tak: ""Polowa w pomarańczowej"". Oznacza to, że Melanie sprzedała polową odkurzaczy w pomarańczowej, co oznacza, że pozostaje tylko 1/2 odkurzaczy w pomarańczowej. Oczywiście, jeśli Melanie miała na początku 5 odkurzaczy, to musiała mieć ich 4/5, tj. 4 odkurzaczy. Oto odpowiedź: 4."
+Response:  Jeśli 100% studentów zapisało się na hip-hop to otrzymać będzie 100%. Jeśli natomiast 20% studentów zapisało się na taniec współczesny i 25% pozostali na taniec jazzowy to otrzymać będzie 40% (20% + 25%). Reszta studentów zapisała się na taniec hip-hop, co oznacza że otrzymają 30% (100% - 70%). Tylko razem suma wszystkich proporcji wynosi 100%, dlatego odpowiednia odpowiedź powinna być 60% (40% + 30%).
+"Response: 
+Plan zakupu biżuterii o wartości 5000 dolarów:
+* Zysk = Wartość produktu - Koszt = 5000$ - Koszt = 4750$ (wysokość zysku)
+Plan zakupu gadżetów elektronicznych o wartości 8000 dolarów:
+* Zysk = Wartość produktu - Koszt = 8000$ - Koszt = 7632$ (wysokość zysku)
+Jeśli kupiec chce zwiększyć zysk pod koniec miesiąca, to powinien wybrać plan zakupu biżuterii, ponieważ zyski z tego planu będą większe niż z planu zakupu gadżetów elektronicznych. Dlatego odpowiedzią na pytanie jest: 5250$."
+"Response:  Pociąg A wyjeżdża z San Rafael o godzinie 9 rano i podróżuje na zachód. Podróż trwa 80 mil, co zajmuje 1 godzinę. Około 13:00 również wyjeżdża pociąg B z San Rafael i podróżuje na zachód. Podróż trwa także 80 mil, co zajmuje 1 godzinę. Oto tyle co robi się w pierwszym dniu.  Drugi dzień: Około 9 rano obaj pociągi zmieniają kierunek i podróżują na północ. Pociąg A pokonuje 240 km w 3 godziny, a pociąg B - 240 km w 4 godziny. Oto tyle co robi się w drugim dniu. Teraz mamy do czynienia z sumą odległości pokonanych przez każdy z pociągów w ciągu dwóch dni:  Pociąg A pokonał 80 + 240 = 320 miles (ok. 515 km) w ciągu dwóch dni.  Pociąg B pokonał 80 + 240 = 320 miles (ok. 515 km) w ciągu dwóch dni. W związku z tym odpowiedzią na pytanie powinna być ""320 miles""."
+Response:  Jill dostaje 20$/godzina za nauczanie i 30$/godzina za trening.  Jej pensja zostanie obliczona na podstawie czasu, który spędzi na pracy.  Aby obliczyć roczną pensję, należy wyznaczyć ilość godzin, które Jill spędzi na pracy w ciągu roku.  W tym przypadku, Jill pracuje 50 tygodni w roku, co oznacza, że spędzie łącznie 700 godzin (50 tygodni x 35 godzin tygodniowo).  Następnie, należy obliczyć roczną pensję na podstawie ilości godzin, które Jill spędzi na pracy.  Rozważamy dwie możliwości: 1) Jill dostaje 20$/godzina za nauczanie i 30$/godzina za trening, lub 2) Jill dostaje 30$/godzina za nauczanie i 40$/godzina za trening.  Oba te scenariusze dają różne wyniki.
+Response:  Claire robi omlet z 3 jajkami każdego ranka, co oznacza, że robi ono 3 x 7 = 21 omletów w ciągu tygodnia.  W ciągu 4 tygodni (czyli 28 dni) robi ono w sumie 21 x 4 = 84 omletów.
+"Response:  Marissa musi przejść ostatnią odległość - 8 miles. Jej średnia prędkość w poprzednich dwóch częściach trasy była 3mile/h i 4mile/h. Przy użyciu tych prędkości możemy obliczyć, że zajmowała jej 1/3 i 1/2 czasu, które spędziła na poprzednich odcinkach. Tym samym może ona przejść ostatni odcinek w określonym czasie.
+Jeżeli Marissa przejechała pierwszego 4 mile w 1 godzinie, to musiała mieć prędkość 4mile/h. Aby wyznaczyć prędkość dla pozostałej odległości, należy pomnożyć prędkość z czasem, który potrzebuje na jej pokonanie. W tym przypadku:
+Pozostająca odległość = 8 miles
+Przedecka prędkość = 4mile/h
+Czas, który potrzebuje na pokonanie pozostającej odległości = 1 godina
+Obliczona prędkość = prędkość x czas = 4mile/h x 1 h = 4mile/h
+Teraz mamy do zniesienia prędkość, która jest potrzebna dla przejścia pozostałej odległości. Według naszych rozważań, Marissa musi mieć prędkość 4mile/h, aby przejść pozostałą odległość w 1 godzinę."
+Response:  Mam 10 litrów napoju pomarańczowego, które jest w dwóch trzecich wodą. Jeżeli chcę dodać go do 15 litrów napoju ananasowego, które jest w trzech piątych wodą, to muszę dodać 7,5 litra (2/3 x 10 = 7,5).  Rozlewa się ona 1 litr napoju pomarańczowego.  W pozostałych 24 litrach jest 16,5 litrów wody (24 - 7,5 = 16,5).
+Response:  Raymond urodził się 6 lat przed Samanthą, co oznacza, że Samantha jest jego siostrzenicą.  Raymond miał syna w wieku 23 lat, co oznacza, że syn Raymonda urodził się 6 + 23 = 29 lat temu.  Jeśli Samantha ma teraz 31 lat, to syn Raymonda musiał urodzić się 29 lat temu.  Odpowiedź:  29 lat temu.
+Response:  Billy miał 8 klientów i oni kupili pojedyncze DVD, dlatego sprzedał ich 8 DVD. Następni klienci kupili po 2 DVD, dlatego sprzedał im 16 DVD (8 x 2 = 16). Ostatecznie ostatni klient nie kupił żadnego DVD, dlatego Billy sprzedał łącznie 24 DVD (8 + 16 = 24).
+Response: Świeca topi się o 2 cm za każdą godzinę spalania, co oznacza, że w ciągu 4 godzin (od 13:00 do 17:00) będzie ona topniała o 8 cm (2 cm x 4 godziny). Tylko 8 cm!
+Response:  Cena książki w oryginale to: $x.  Po zniżce o 25% cena książki jest: $x \* (1 - 0,25) = $x \* 0,75 = $x + 0,75.  Teraz musimy rozwiązać równanie na x: $x + 0,75 = 19,50.  Rozwiązanie: x = 13,75.  Oczywiście, ta odpowiedź nie jest jedynym możliwym rozwiązaniem, ale jest ona poprawną odpowiedzią na pytanie.
+Response:  Kurczak kosztował 12 dolarów, a mleko 5 x 3 = 15 dolarów. Jabłka kosztowały po 1,50 dolara, dlatego ich cena razem wynosi 6 dolarów (4 jabłka x 1,50 dolara/jabłoński). W sumie to 12 + 15 + 6 = 33 dolarów. Marie zapłaciła 50 dolarów, dlatego ilość pudełek pizzy, which she ordered is: 33 / 8,50 = 4 pudełka pizzy.
+Response:  Mishka kupiła trzy pary szortów, co oznacza, że koszt trzech par szortów to 3 x 16,50 = 49,50 dolarów. Następnie kupiła trzy pary spodni, co oznacza, że koszt trzech par spodni to 3 x 22,50 = 67,50 dolarów. Ostatnio kupiła trzy pary butów, co oznacza, że koszt trzech par butów to 3 x 42 = 126 dolarów. W sumie Mishka wydała łącznie 49,50 + 67,50 + 126 = 233 dolarów na wszystkie ubrania.
+Response:  Cynthia kupiła 1 porcję lodów co wieczór, co oznacza, że kupiła 1/30 (1/24) łódki w ciągu 60 dni. Jeżeli kupiła 15 portcyje lodów w każdym kartonie, to kupiła razem łącznie 15 x 1/30 = 450 łódelek.
+Response:  Henry zatrzymał się po 20 milach, co oznacza, że pozostałe 40 mil zostały pokonane bez przerwania. Wówczas dokonamy następującej sumy: 40 + 20 = 60 mile. Tylko jedno z jego przystanków leżało na trasie powrotnej, więc cała długość wycieczki to 60 mile.
+"Response:  Gloria ma dostępnych 5 dolarów mniej niż buty. Możemy zatem przyjąć, że koszt butów wynosi 100 dolarów (5 dolarów - 45 dolarów).  
+Jeśli jedna para obcasów kosztuje 33 dolary, to druga para kosztuje 2 \* 33 = 66 dolarów.  
+Oczywiście, jeśli Gloria chce wybrać obcasy, to musi ona wybrać te, które są tańsze. W związku z tym powinna wybrać drugą parę obcasów, ponieważ one kosztują 66 dolarów, a buty 100 dolarów."
+Response:  Allen ma 70 lat, a Darrell ma 92 lata. W ten sposób, Allen ma 70 + (10 x 92) = 840 lat.
+"Response: 
+Gdy Gunter próbuje policzyć marmeladę, zgadywają mu przyjaciele, ile osób ma w słoiku. 
+1. Przyjaciel nr 1 mówi, że 80 osób ma w słoiku.
+2. Przyjaciel nr 2 mówi, że 20 większa niż połowa pierwszego to 40 osób.
+3. Przyjaciel nr 3 mówi, że 25% większa niż pierwszego to 56 osób (co jest poprawna).
+Oczywiście, nie wiemy, jaka jest dokładna liczba osób w słoiku, ale mogemy oszacować ją na podstawie informacji, które dostali.
+Liczbę osób w słoiku możemy oszacować za pomocą formuły:
+Liczba osób w słoiku = Liczba osób, które mówią o liczbie osób w słoiku + Liczba osób, które są w słoiku według drugiego przyjaciela +... + Liczba osób, które są w słoiku według trzeciego przyjaciela
+Liczba osób w słoiku = 80 + 40 + 56 = 176
+Teraz musimy wykonać dalsze obliczenia, aby utrzymać proporcję pomiędzy różnymi grupami osób.
+Liczba osób w słoiku / Liczba osób, które mówią o liczbie osób w słoiku = 176 / 80 = 2,175
+Liczba osób w słoiku / Liczba osób, które są w słoiku według drugiego przyjaciela = 176 / 40 = 4,4
+Liczba osób w słoiku / Liczba osób, które są w słoiku według trzeciego przyjaciela = 176 / 56 = 3,1
+W końcu, średnią oszacowaną liczbę osób w słoiku jest następująca:
+"
+Response:  John opiekuje się 10 psami, a każdy pies potrzebuje pół godziny dziennie na spacery i zajęcie swoich spraw. Tyle samo czasu potrzebują 50 godzin w tygodniu (10 psów x ½ godziny/pies).
+"Response:  Gretchen ma 110 monet. Jej ilość jest składowana takimi samymi ilościami złotych i srebrnych monet.   
+Ilość złotych monet = 110 - Ilość srebrnych monet    
+W powyższym rachunkach mamy do czynienia z ilością 30 większych złotych monet niż srebrnych.     
+Teraz musimy stwierdzić, że ilość złotych monet jest większa niż ilość srebrnych o 30.      
+Oto odpowiedź na pytanie:  Ilość złotych monet = 80 (110 - 30)."
+"Response: 
+1. Ile ma Aaron klejnotów - 5 + 5 = 10
+2. Ile ma Raymonda klejnotów - 40
+3. Ile ma Siobhan klejnotów - 10 (Aaron) + 40 (Raymond) = 50
+Odpowiedź: Siobhan ma 50 klejnotów."
+"Response: 
+W pierwszym etapie Mike zdobył 4 punkty, co oznacza, że jego bilans to 4:0 (4-0). 
+W drugim etapie Mike zdobył 25% więcej punktów niż w poprzednim etapie, tj. 25% x 4 = 1 Punkty. 
+Oczywiście, nie musimy liczyć samych punktów, ale ich procentowy udział w całej grze. Dlatego bilans Mike'a po drugim etapie brzmiałby 5:0 (4+1=5)."
+Response:  Terry ma dwa jogurty dziennie, co oznacza, że ma on 2 × 7 = 14 jogurtów w tygodniu. W ciągu miesiąca (30 dni) ma on więc 14 × 30 = 420 jogurtów.
+"Response: 
+John sprzedał 13 zestawów Lego i dostał 15 dollarów za każdy. W sumie dostał on 13 x 15 = 195 dolarów.
+Oto co pozostało po sprzedaży:
+13 zestawów Lego - 195 dolarów = 164 dolary
+John kupił 8 gier za 20 dolarów każda. W sumie kupił 8 x 20 = 160 dolarów.
+Oto co pozostało po kupnie gier:
+164 dolary - 160 dolarów = 4 dolary
+Iloraz otrzymany od sprzedaży Lego i kupna gier to:
+4 dolary / 13 zestawów Lego = 0,3077 (lub 30,77%)
+Teraz odpowiedź numeryczna na pytanie:  John ma 30,77% zestawów Lego."
+Response:  Dzień 1: 3 h (John biegł 3 godziny). Dzień 2: 2 \* 2 = 4 h (John biegł 4 godziny). Dzień 3: 2 \* 2 = 4 h (John biegł 4 godziny). Tym samym John biega z prędkością 100 km/tydzień.
+Response:  Bieganie trwa 1/3 × 6 = 2 godziny (gdyz biegamy 2 razy szybciej niż chodzi)...
+Response:  iPhone Benna jest dwa razy starszy od iPhone'a Suzy, co oznacza, że iPhone Benny ma 2 lat więcej niż iPhone Suzy.  iPhone Suzy ma 1 rok, co oznacza, że iPhone Benny ma 3 lata starsze niż iPhone Suzy.  Co oznacza, że iPhone Benny jest trzy razy starszy niż iPhone Suzy.  Dlatego iPhone Brandona jest cztery razy starszy od iPhone'a Benna.  Odpowiedź: 4
+"Response: 
+Jeśli Polly trzyma szafir, to jej możliwość rzucenia włóczni jest trzykrotnie większa niż bez niej (tj. 3 x 400 = 1200 stóp). 
+Jeśli Polly trzyma kamień, to jej możliwość rzucenia włóczni pozostaje bez zmian (tj. 400 stóp). 
+Wówczas, jeśli Polly stoi za granicą zasięgu płomieni smoka (tj. 1000 stóp), to może ona uderzyć smoka złotą włócznią tylko raz (tj. 400 stóp + 600 stóp = 1000 stóp). 
+Oto otrzymana odpowiedź: 1"
+Response:  Babcia Jones upieczona 5 ciastek jabłkowych na strażacy lunch.  Każde ciaste rozciągnęło na 8 kawałków (bez uwzględnienia kawałka, który pozostał na stole).  Położono na stole 8 kawałków na każdym z 5 ciastek.  W sumie na stole było 40 kawałków (8 kawałków na każdym z 5 ciastek). Pod koniec wieczoru, gdy gości zjadli swoje kawałki ciasta, pozostało 14 kawałków.  To means that guests ate 14/40 = 35% of the total number of pieces of bread. Therefore, the answer is 35.
+"Response:  Worek chipsów ma 300g i 5 porcji, co oznacza, że masa jednej portii to 60 grams (300 g / 5).  Jeśli worek zawiera 250 kalorii na porcję, to całkowita ilość kalorii w woreku to 1500 kalorii (250 kalorii x 5 porcjach).  Jeśli Twoim dziennym celowi są 2000 kalorii, a już spożyłeś 1800 kalorii, to jesteś w stanie spożyć kolejne 700 kalorii (difference between current calories consumed and daily target = 700 calories).  Oto ilustracja:
+
+Current calories consumed = 1800 calories
+Daily target = 2000 calories
+Deficit = 700 calories
+Gram weight of one serving = 60 grams
+Total number of servings in the bag = 5 servings
+Total amount of calories in the bag = 1500 calories
+So, you can eat approximately 40 grams (700 calories / 60 grams per serving) more from the bag of chips."
+Response:  Charlie ma 20 świec do sprzedaży. Aby sprzedać tyle świec, musi produkować ich tyle samo. Wosk pszczeli kosztuje 10 dolarów na kg, dlatego musi mieć 2 kg wosku pszczeli, aby produktywne były 20 świec. Zysk netto będzie wynosił: 20 x 2 = 40 dolarów.
+Response:  Dnia poniedziałek:  Napisała 5 artykułów = 5 x 4 = 20 godzin.  Dnia wtorek:  Napisała 3/5 artykułów = 3 x 4 = 12 godzin.  Dnia środa:  Napisała 2 razy więcej artykułów niż we wtorek = 2 x 12 = 24 godzin.  Całkowita ilość czasu, jaka Meredith spędziła na pisaniu artykułów w ciągu trzech dni to: 20 + 12 + 24 = 66 godzin.
+"Response:  Candice włożyła 80 kartek do torebki, a potem wyjechała do pracy w kawiarni. W drodze zatrzymała się w sklepie i kupiła paczkę kartek z napisem ""Post-it"", która zawierała 10 notatek (napisów). W pracy umieściła jedną kartkę z napisem ""Post-it"" na każdej z 220 różnych filiżanek kawy, co oznacza, że miała 23 notatki w sumie. Oto ilość notatek w paczce, którą kupiła: 10 + 23 = 33 notтки."
+"Response:  John kupuje dwa razy więcej czerwonych krawatów niż niebieskich. Oto ilości krawatów każdej barwy:
+Czerwień - 2x + 1 = 3
+Niebieski - x
+Mamy teraz problem z obliczeniem wartości x. Mamy do conhecernego, że czerwoną krawatów kosztuje 50% więcej niż niebieskie. Tzn.:
+Czerwień - 40 dolarów (niebieski) = 60 dolarów (czerwony)
+Oczywiście, ten raport jest sprzeczny ze swoim poprzednim słowem, ale musimy go uwierzytelnić. Jeśli przyjąć, że czerwoną krawatów kosztuje 50% więcej niż niebieski, to otrzymamy:
+Czerwień - 40 dolarów (niebieski) = 70 dolarów (czerwony)
+Wynika z tego, że John wydał na niebieskie krawaty 200 dolarów i na czerwoną krawaty 70 dolarów. Odpowiedź: 200 + 70 = 270 dolarów."
+Response:  Długość kawałka drutu, jaki użyła Tracy, to 4 stopy = 120 cm.  Kawałek drutu, który użyła Tracy, był pocięty na kawałki o długości 15 cm = 150 cm.  W sumie, ilość sztuk kawałków drutu, które zdobyła Tracy, to: 120 cm + 150 cm = 270 cm.  Oto odpowiedź: 270 cm.
+Response:  Richard mieszka na piątym piętrze.  Na piętle tym są 8 jednostek.  W sumie więc na piątym piętrzu jest 8 × 5 = 40 jednostek.  Jeśli 3/4 budynku jest zajętych, to na pozostałych 16% budynku (czyli na 4 piętrach) jest 40 × 16% = 6 jednostek.  Dlatego całkowita liczba wolnych mieszkań w budynku wynosi 40 + 6 = 46.
+"Response: 
+Lloyd ma farmę jaj, a jego kurzy wydają 252 jaja dziennie. To oznacza, że w ciągu tygodnia (7 dni) kurzy będą produkować 1768 jaj (252 x 7).
+Jeżeli sprzedawać one za 2 dolary za tuzin, to cena za jedno jajo będzie 0,02 dolarów (2/100).
+Teraz mamy do zniesienia ilość sprzedaży jaj w tygodniu:
+Ilość sprzedawanych jaj w tygodniu = Ilość produkowanych jaj w tygodniu x Cena za jaj
+= 1768 jaj x 0,02 dolarów
+= 35,24 dolara za tydzień
+Oczywiście, tenmount jest tylko teoretycznymi sprzedażami, ponieważ nie ma możliwości sprzedawania 252 jaja na dzień."
+"Response:  Statek Toma porusza się z prędnością 10 mil na godzinę od 1 do 4 po południu, co oznacza, że pokonał on odcinek długości 4 hodyny (od 1 do 4 po południu). Potem wraca z prędkością 6 mil na godzinę, co oznacza, że będzie potrzebował czasu na powrót równe jego prędkościowi multipli przez odległość, która jest mniejsza niż 4 hodiny. Zatem ilość czasu, jaka zajmuje powrót statku Toma, wynosi:
+
+6 miles/hour x (distance / speed) = 6 miles/hour x (4 hours / 10 miles/hour) = 24 miles
+
+Oto odpowiedź numeryczna: 24 miles."
+Response:  Torba Uriahha ma 15 funtów, które musi zrzucić. Jeśli usunie 30 komiksów o wadze połowę kilograma (po 250 gram), to zostaną one przeniesione do torby Uriahha. Oto ilość materiału, która pozostała w torbie: 15 funtów - 250 grams = 1475 grams. W związku z tym, aby zrzucić 15 funtów, musi usunąć 1475 gramów zabawek.
+Response:  Dniach: Czwartek - $6 \times 6 = $36$ (opony ciężarówek) + $4 \times 4 = $16$ (opony samochodów) = $52$Samochody - $40 \times 12 = $480$ = $572$W sumie mechanik zarobił $572$.
+Response:  Rodzina Doubtire ma 7 kociętów adoptowanych z lokalnego schroniska dla zwierząt. Matka rodzeństwa Doubtire mówi, że Patchy miał trzy razy więcej adoptowanych kociaków niż Trixie. Zatem jeśli Patchy miał 3 × 3 = 9 adoptowanych kociaków, a Trixie miał 12 adoptowanych kociaków, to razem mają oni 9 + 12 = 21 kociętów. Teraz suma kociętów, które mają rodzeństwo Doubtire i ich matka to 7 + 21 = 28 kociętów.
+Response:  Jean zjada dwa lizaki, co oznacza, że ma teraz 27 lizaków. Teraz chce spakować dwa lizaky wworku. Ma już 25 lizaków i ma dwa lizaki do spakowania. Może on wypełnić jeden worka, ponieważ miał już 25 lizaków przed spakowaniem drugiego lizaka. Odpowiedź to 1.
+"Response:  Peter planuje iść do kina 3 razy, ponieważ ma 42 dolary na tydzień i musi zapłacić 7 dolarów za bilet i 7 dolarów za popcorn.  Oto ilości pieniędzy, które pozostawia po każdej wizycie do kina:
+1. Pierwsza wizyta - 42 dolary - 7 dolarów = 35 dolarów
+2. Druga wizyta - 35 dolarów - 7 dolarów = 28 dolarów
+3. Trzecia wizyta - 28 dolarów - 7 dolarów = 21 dolarów
+W końcu Peter pozostawi tylko 21 dolarów, gdy wyjechnie trzykrotnie do kinu."
+"Response: 
+1. Ciężarówka nie może przenosić więcej niż 5000 funtów, co oznacza, że jej cała masa wynosi 5000 funtów (3755 + 2245).
+2. W każdym pudełku są 5 kg, co oznacza, że ich łączna masa wynosi 25 kg (5 x 5 kg).
+3. Masa ciężarówki plus masa pudełek = 5000 funtów.
+Jednakże, ponieważ masa ciężarówki jest znana (3755 funtów), a masa pudełek jest również znana (25 kg), możemy wyliczyć maksimum ilości skrzyń, które mogą być załadowane na ciężarówkę bez przekraczania ograniczenia masy mostu.
+Masę ciężarówki minus masę pudełek = 5000 - 25 = 4975 funtów.
+Oto teraz obliczymy maksimum ilości skrzynek, które mogą być załadowane na ciężarówkę:
+Ilość skrzynek = 4975 funtów / 5 kg = 995 skrzyń.
+Teraz mamy do dyspozycji informację, że maksimum ilości skrzynek, które mogą być załadowane na ciężarówkę without exceeding the weight limit of the bridge."
+"Response: 
+1. Stephenowi zadano 40 dollarów na swoje zakupy (rachunek).
+2. Dostawca dodał 25% opłaty do całkowitej kwoty Stephena, co daje 50 dollars (40 + 25%).
+3. Następnie dodano 3 dolary za dostawy, co daje 53 dollars (50 + 3).
+4. Stephen dodał także cztery dolary na napiwek, co daje 57 dollars (53 + 4).
+Ostatecznie, cena zakupów Stephena byłaby 57 dollars."
+Response:  Budzik malinowy ma 6 gromad, a każda z nich ma po 20 owoców. W sumie więc ma 6 x 20 = 120 owoców w gromadach. Następnie mamy do rozważyć, że Budzyk malinowy ma 67 pojedynczych owoców rozrzuconych po całym krzewie. W sumie więc małe ma 120 + 67 = 187 owoców.
+"Response: 
+1. Zawartość całej koszy jest 25 pomarańczy.
+2. 1 pomarańcza jest zła, dzięki czemu ilością 24 pomarańczy (25 - 1 = 24).
+3. 20% pomarańczy jest niedojrzałych, co oznacza, że ilość niedojrzałych pomarańczy to 5 pomarańczy (24 x 0,2 = 4,8).
+4. 2 pomarańcze są kwaśne, co oznacza, że ilość kwaśnych pomarańczy to 4 pomarańczy (4,8 - 2 = 2,8).
+5. Reszta pomarańczy to 19 pomarańczy (24 - 4 - 2 = 19), które są dobre.
+6. Ilość dobrzych pomarańczy to 19 pomarańczy.
+Odpowiedź: 19."
+Response:  Janet kupuje broszkę za 500 dolarów. Następnie płaci 10% z tegomounta na ubezpieczenie, co jest równe 50 dolarom. Ostatecznie zapłaciłaby ona 550 dolarów (500 + 50).
+Response:  Marcy trava firmy na 40 lat. Wysokość rocznej emerytury to $ 50 000. Po 20 latach Marcy ma prawo do 5% rocznie wartości renty, co oznacza, że otrzyma $ 2500 ($ 50 000 x 5%) rocznie. Gdy opuści firmę po 30 latach, jej roczna emerytura będzie wynosić $ 75 000 ($ 50 000 + $ 2500).
+Response:  Firma streamowa obciążyła Aleenę początkową kwotą za pierwszą połowę roku, tj. 140 dolarów miesięcznie x 6 miesięcy = 840 dolarów. W drugiej połowie roku firma obciążyła ją o 10% mniej pieniędzy, tj. 840 dolarów - (10% x 840 dolarów) = 752 dolary. Oczywiście, jeżeli firma nie obniżała ceny w drugiej połowie roku, to całkowita kwota, którą Aleena zapłaciła za usługę strumieniową do końca roku będzie była równa sumie dwóch poprzednich ilości: 840 dolarów + 752 dolary = 1592 dolarów.
+Response:  Sophia miała już 160 km na swoim zbiorniku, a potrzebowała 4 galonów benzyny, aby go napełnić. Zatem pozostało na zbiorniku 160 - 4 = 156 km. Według podręcznika do samochodu, zasięg zbiornika to 12 galonów. Dla ilustracji, supposując, że zasięg galonu to 3,78 km (co jest błędne), to zasięg zbiornika byłby 12 x 3,78 = 45,92 km. Tzn. Sophia może przejechać na jednym zbiorniku paliwa około 45,92 km.
+Response:  Jim spędza 2 godziny oglądający telewizję, co oznacza, że w ciągu 1 tygodnia spędzi 2 x 7 = 14 godzin na telewizji. Potem idzie do łóżka iczy przez połowę tego czasu, co oznacza, że w ciągu 1 tygodnia spędzi 14/2 = 7 godzin na łóżku iczy. W sumie, w ciągu 1 tygodnia Jim spędzi 14 + 7 = 21 godzin na telewizji iczy.  Aby obliczyć ilość godzin, które Jim spędzi w ciągu 4 tygodni, musimy podzielić 21 godzin przez 4 tygodnie: 21 / 4 = 5 godzin. Tylko pięć godzin!
+"Response: 
+W turnieju koszykówki rywalizują cztery szkoły, a każda szkoła wysłała:
+* Drużynę koszykówki dla dziewcząt (5 zawodników) - 5 ludzi
+* Drużynę koszykówki dla chłopców (5 zawodników) - 5 ludzi
+* Trenera dla drużyny dziewcząt - 1 ludzie
+* Trenera dla drużyny chłopców - 1 ludzie
+Totalnie, ilu ludzi wysłało wszystkie szkoły? = 5 + 5 + 1 + 1 = 12 ludzi."
+Response: Łowca skarbów znalazł zakopaną skrzynię pełną klejnotów. Skrzynia zawierała 175 diamentów, co oznacza, że diamenty stanowiły 60% całej ilości klejnotów. Następnie zauważyliemy, że są 35 rubinów mniej niż diamentów, co oznacza, że rubiny stanowiły 24% całej ilości klejnotów. Ostatnio, zauważyliemy, że są dwukrotnie więcej szmaragdów niż rubinów, co oznacza, że szmaragdy stanowiły 8% całej ilości klejnotów. W sumie, ilość klejnotów w skrzyni wynosi: 175 + (35 - 17) + (17 x 2) = 294 klejnotów.
+"Response:  Na każdym oddziale są 60 dziewcząt i 5 uczniów. Oto liczba uczniów w każdym oddziale:
+1. I oddział - 60 dziewcząt + 5 uczniów = 65 uczniów
+2. II oddział - 60 dziewcząt + 5 uczniów = 65 uczniów
+3. III oddział - 60 dziewcząt + 5 uczniów = 65 uczniów
+4. IV oddział - 60 dziewcząt + 5 uczniów = 65 uczniów
+5. V oddział - 60 dziewcząt + 5 uczniów = 65 uczniów
+Otwierajemy książkę i zobaczymy, że w szkole jest 5 oddziałów. Oto liczba nauczycieli w każdym oddziale:
+1. I oddział - 60 dziewcząt x 5 nauczycieli = 300 nauczycieli
+2. II oddział - 60 dziewcząt x 5 nauczycieli = 300 nauczycieli
+3. III oddział - 60 dziewcząt x 5 nauczycieli = 300 nauczycieli
+4. IV oddział - 60 dziewcząt x 5 nauczycieli = 300 nauczycieli
+5. V oddział - 60 dziewcząt x 5 nauczycieli = 300 nauczycieli
+Otwieramy książkę i zobaczymy, że w szkule jest 5 nauczycieli. Oto ich liczba:
+1. Nauczyciel I oddziału - 300 nauczycieli
+2. Nauczyciel II oddziału - 300 nauczycieli
+3. Nauczyciel III oddziału - 300 nauczycieli
+4. Nauczyciel IV oddziału - 300 nauczycieli
+5. Nauczyciel V odd"
+Response:  Bailey zaczyna z pewnej sumy pieniędzy (najpewniej 0).  Po otrzymaniu tygodniowego premii w wysokości 5 dolarów dla 8 tygodni otrzymuje jeszcze 40 dolarów (5 x 8 = 40).  Na koniec ośmiu tygodni Bailey ma 40 + 100 = 140 dolarów.  Tylko że Bailey miała na początku 0 dolarów, dlatego odpowiedzią jest 0.
+"Response: 
+Dni powszednie: 
+* 5 dni x 8 zajęć = 40 zajęć
+* 40 zajęć x 15 uczniów = 600 dolarów
+Sobota: 
+* 8 dni x 8 zajęć = 64 zajęć
+* 64 zajęć x 15 uczniów = 960 dolarów
+Ilość pieniędzy, które Judy zarobi w 1 tydzień to: 
+600 + 960 = 1560 dolarów
+Odpowiedź: 1560 dolarów."
+Response:  W pierwszym przepisie jest 20 instrukcji, w drugim - 40 instrukcji. Jeżeli Kelian musi przeczytać instrukcje z obu przepisów, to razem miałaby one 60 instrukcji.
+"Response:  Tommy sprzedaje:
+* 43 brownie = $132 (3$ x 43)
+* 23 kawałki serówki = $92 ($4 x 23)
+
+W sumie Tommy zbiera $224."
+Response:  Shiela kupiła pięć telefonów komórkowych za 150 dolarów za każdy, co oznacza, że zapłaciła razem 750 dolarów (5 x 150). Odsetek w wysokości 2% oznacza, że musi zapłacić dodatkowe 14 dolarów na każdego z pięciu telefonów (2% x 750 = 14). W sumie Shiela musi zapłacić 964 dolary za trzymiesięczne używanie pięciu telefonów komórkowych (750 + 14 x 5 = 964).
+Response:  Artie ma 12 doniczek nagiet, które sprzedawałby za 2,74 dolara za garnek, co oznacza, że zarobi na nich 12 x 2,74 = 32,88 dolarów.  Podobnie, dla petunii Artie miał 9 doniczek, które sprzedawałby za 1,87 dolara za garnek, co oznacza, że zarobi na nich 9 x 1,87 = 16,53 dolarów. Ostatecznie, dla begonii Artie miał 17 doniczek, które sprzedawałby za 2,12 dolara za garnek, co oznacza, że zarobi na nich 17 x 2,12 = 35,04 dolarów. W sumie, Artie zarobił 32,88 + 16,53 + 35,04 = 84,45 dolarów.
+"Response:  Luke buduje 4-poziomowy zamek piaskowy o powierzchni najwyższym poziomie 16 metrów kwadrata.   
+Poziom 1: Powierzchnia tego poziomu to 1/2 × 16 = 8 metrów kwadrata.    
+Poziom 2: Powierzchnia tego poziomu to 1/2 × 8 = 4 metry kwadrata.    
+Poziomer 3: Powierzchnia tego poziomu to 1/2 × 4 = 2 metry kwadrata.    
+Poziomer 4: Powierzchnia tego poziomu to 1/2 × 2 = 1 metr qudrata.    
+Oczywiście, jeśli chcesz liczyć powierzchnię każdego poziomu w procentach, możesz wykorzystać następujące proporcje:   
+Poziomer 1: 50% (16/16)    
+Poziomer 2: 25% (8/16)    
+Poziomer 3: 12,5% (4/16)    
+Poziomer 4: 6,25% (2/16)    
+W każdym przypadku, średnia powierzchnia każdego poziomu to suma powierzchni wszystkich poziomów, czyli 8 + 4 + 2 + 1 = 15 metrów kwadrata."
+Response:  W first year (first 180 days), Cecilia must feed the puppy 1 fillette of dog food per day. So she will use 180 fillets in total during this period.  Then, for the rest of its life (the next 365 days), she must feed it 2 fillettes of dog food per day. So she will use an additional 730 fillets during this time. Therefore, in total, Cecilia will use 910 fillets of dog food to feed the puppy throughout its lifetime.
+Response:  Jeśli Raymond robi połowę mniej prania niż Sarah, to robi on 50% mniej prania niż Sarah.  Jeśli Sarah robi 4 razy więcej niż David, to robi ona 4 x 50% = 200% więcej prania niż David.  Oto suma prania, jaka robi Raymond i David:  Raymond - 50% x 400 = 200 funtów prania  David - 200% x 400 = 800 funtów prania  Oczywiście, jeśli Sarah robi 400 funtów prania, to jest to dodatkowa ilość prania, którą robi.
+Response:  Jeśli kupuje on 18 kwiatów po lepszej cenie, to musi kupować je w 3 paczkach. Cena każdej paczki to 2,50 dolara, dlatego kosztuje 6 dollarów (3 x 2,50). Jeśli natomiast kupowałby je w 2 paczkach, kosztowałoby to 4 dollary (2 x 2,00). W obu przypadkach osiąga się ten sam wynik - 6 dollarów.
+Response:  Koszt pielęgnacji to 100 dolarów (odpowiedź w pytaniu). 30% zniżki to 30/100 = 0,3 x 100 = 30 dolarów.  W sumie koszt pielęgnacji dla nowego klienta to 100 + 30 = 130 dolarów.
+Response:  Dziewczyna A dostała 1/6 z 24 litrów wody, co oznacza, że dostała ona 4 litry wody (24 / 6 = 4).  Chłopak dostał następnie 6 litrów wody, co oznacza, że całość ma teraz 10 litrów wody (4 + 6 = 10).
+Response:  Charlie miał 10 Naklejek, a potem kupił 21 w sklepie. Otrzymał 23 na Urodziny, co oznacza, że obecnie ma on 44 Naklejek (10 + 21 + 23). Potem dał 9 Naklejek swojej siostrze, dzięki czemu ma teraz 35 Naklejek (44 - 9 = 35). Ostatnią operacja to użycie 28 Naklejek do dekoracji kartki, co nie zmienia ilości Naklejek uCharlie'ego. Oczywiście, jeśli będzie jeszcze ktoś kupował lub darzył Naklejek Charlie'owi, to te informacje powinny być wliczone do sumy.
+Response:  Ważność Grace to 40 kg.  Ważność Alexa to x kg (dwie funty mniej niż cztery razy tyle, co waży Grace).  To oznacza że łączna waga Grace i Alexa to: 40 kg + x kg = 50 kg.
+Response:  Dan posadził 3 krzewy róż. W każdym z nich są 25 róż. W sumie więc są to 75 róż. A teraz myślę o cierniach. W każdej różzie są 8 cierni. W sumie więc są to 320 cierni. Ostatnim krokiem jest liczenie ogonów. Jeśli w każdej różzie są 8 cierni, to w sumie są one 320. Ale jeśli w każdem krzewie są 3 krzewy, to ogony będą 320 x 3 = 960. Oczywiście, odpowiedź na pytanie to 960.
+"Response:  Drużyna piłkarska rozegrała 22 mecze, a jej wyniki były następujące:
+
+* Wygrała 10 meczy (wynik +10)
+* Przegrała 6 meczy (wynik -6)
+* Remisowała 6 meczy (wynik =0)
+
+Oto suma wszystkich punktów, które drużyna zdobyła w meczach:
+
+10 + 6 + 6 = 22
+
+Wynika z tego, że drużyna piłkarska zdobyła 22 punkty w 22 meczach. Odpowiedź na pytanie jest liczbą 22."
+"Response: 
+1. W pierwszym wakacie miał 23 lata, więc miał 4 koszyk (od 23 do 26).
+2. W drugim wakacie miał 24 lata, więc miał 5 koszków (od 24 do 28).
+3. W trzecim wakacie miał 25 lat, więc miał 6 koszków (od 25 do 30).
+4. W czwartym wakacie miał 26 lat, więc miał 7 koszków (od 26 do 32).
+W sumie miał on więc 4 + 5 + 6 + 7 = 23 koszynek."
+Response:  First time (3 times) = 3 x 3 = 9 Second time (4 times longer than first time) = 4 x 3 = 12 Third time (for half the time as second time) = 1/2 x 12 = 6 Total number of times the alarm rang = 9 + 12 + 6 = 27
+Response:  Firma płaci każdemu pracownikiem 600 dolarów miesięcznie.  Sylwia jest już w firmie przez 3 lata (od grudnia poprzedniego roku).  Podnoszenie pensji o 10% jest realizowane co roku.  Wynosi to: 600 x 1,1 = 660 dolarów miesięcznie.
+Response:  Pierwotny zapis informuje, że Pierwsza płyta Marilyn sprzedała się dziesięciokrotnie więcej niż Harald. Zatem jeśli Pierwsza płyta Marilyn sprzedała się 10 razy więcej niż Harald, to Harald sprzedał 1/10 × 88 = 8 egzemplarzy.
+"Response: 
+Jesteśmy zadaniem obliczyć ilość torbet, które Christina musi kupić do urodzinowego przyjęcia. 
+Ilość gości to 16 + (3/4 \* 16) = 24 osoby. 
+W każdej torbie jest 75 dolarów, dlatego cena wszystkich torbet to: $ 75 x 24 = $ 1800. 
+Oczywiście, musimy również obliczyć cenę jednej torby, co wynosi $ 2 dolary."
+Response:  Dorosły dinozaur zje 10 funtów sałatki ziemniaczanej, co oznacza, że potrzebuje ono 4500 gramów (10 funtów x 450 grams/funt). Dziecko zje połowę tej ilości, czyli 2250 gramów (połowę 4500 gramów). W sumie, dorosłe dinozaury potrzebują 4500 gramów sałatki, a dzieci 2250 gramów. Aby dostarczyć wystarczającą ilość sałatki na całej grupie, Ted powinien zabrać łącznie 6750 gramów (4500 + 2250).
+Response:  Jan ma trzy razy więcej zwierząt niż Marcia, co oznacza, że Marcia ma 3/3 = 1 zwierzę.  Cindy ma dwazwierętrznie więcej niż Marcia, co oznacza, że Marcia ma 1 + 2 = 3 Zwierzę.  Oto ilość zwierząt u każdej z nich:  Jan - 3, Marcia - 3, Cindy - 4.
+Response:  Emily ma czworo dzieci: Amy, Jacksona, Coreya i Jamesa.  Amy jest 5 lat starsza od Jacksona, co oznacza, że Amy ma 5 + 5 = 10 lat.  Jackson jest 2 lata młodszy od Coreya, co oznacza, że Jackson ma 10 - 2 = 8 lat.  Corey ma 10 lat, a James ma 10 lat.  Oto suma wiekowych lat wszystkich dzieci: 10 + 8 + 10 + 10 = 48 lat.  Dlatego Jackson ma 8 lat.
+Response:  Lee biegł 400 metrów z przeszkodami w 38 sekund. To oznacza, że Lee biegł tyle samo czasu, co Gerald plus 2 sekundy (dla przykładu). Tymczasem, Gerald poprawił swoją prędkość o 10%, co oznacza, że jest już szybszy niż przedtem o 4 sekundy (10% x 4 sekundy = 4 sekundy). Teraz musimy wyliczyć, jaka część tej prędkości powinna być dodana do czasu, który Lee uzyskał, aby utrzymać równorzędność. Dla ilustracji, jeśli Lee biegł 400 metrów z przeszkodami w 38 sekund, to jego prędkość była równa: 400/38 = 10,5 sekundy na metr. Dopiero teraz mamy prawo sumować te prędkości i otrzymywać nowy czas: 10,5 + 4 = 14,5 sekundy. W ten sposób, jeśli Gerald biegł 400 metrów z przeszkodami w 14,5 sekundy, to Lee biegł tyle samo czasu, co Gerald plus 2 sekundy (tj. 16 sekund). Oto odpowiedź na pytanie: 16 sekund.
+Response:  Liczba królików jest o dwanaście mniej niż łączna liczba psów i Kotów.  Jeśli na każdego psa jest dwa koty, to liczba psów musi być równa 2 razy liczbie kota.  Zatem jeśli liczba psów wynosi 60, to liczba kota musi być równa 12.  Oto suma wszystkich zwierząt:  Liczba psów = 60, Liczba kota = 12, Liczba królików = 48.  Oczywiście nie znamy dokładnej ilości zwierząt w całej okolicy, ale według naszych calkowitych informacji, w sąsiedztwie jest 50 Zwierząt Domowych.
+Response:  Jeśli z 200 uczniów 5 klasy 2/5 to chłopcy, to z nich 100 są chłopcami. A jeśli 2/3 z tych 100 dziewczyn są w skautach, to 67 dziewczyn nie są w skautach (bo reszta 33 dziewczyn nie są w skautach). Tylko 67 dziewczyn nie są w skautach.
+Response:  Harry spał 9 godzin, a James spał 2/3 tej samej ilości godzin, co oznacza, że James spał 6 godzin (2/3 x 9 = 6). Wówczas Harry spał 9 - 6 = 3 godziny więcej niż James.
+"Response: 
+1. Freda użyła trzech puszek pomidorów w ostatniej partii sosu pomidorowego.
+2. W każdej puszonej pomidory były trzy pomidory.
+3. Ostatnia partia sosu pomidorowego Fredy wyniosła 32 uncje.
+4. Jeśli Freda użyła trzech puszek pomidorów, to ilość pomidorów, które użyła, jest trzykrotnością objętości sosu pomidorowego, jaka została stracona (połowę objętości).
+5. Zatem ilość pomidorów, które użyła Freda, jest równoważna objętości sosu pomidorowego, która została stracona, czyli 16 uncji.
+Odpowiedź: 16"
+Response:  W ciągu first 15 minutes (15 minut), 5 samochodów wyjdą z linii, co oznacza, że ich liczba jest równa 5/30 = 1/6.  W ciągu drugich 15 minut (15 minut), 20 samochodów przejeżdża przez korki, co oznacza, że ich liczba jest równa 20/30 = 2/5.  Oczywiście, pięć samochodów już nie muszą przejeżdżać przez korki, ponieważ są one już za korytarzami.  Zatem, ilość samochodów, które przejechały przez korki w ciągu pierwszych 15 minut to: 1/6 + 2/5 - 5 = 7/15.
+Response:  Mary ma 18 nowych roślin w doniczkach. Aby je podać swoim przyjaciołom i rodzinie, podzieli je na 40 oken (w tym 2 rośliny na każdą z 40 oken). Tak więc Mary będzie miała łącznie 18 x 40 = 760 roślin w doniczkach.
+Response:  Drugi przyjaciel nacisnął dzwonek cztery razy więcej niż pierwszy przyjaciel, co oznacza, że drugi przyjaciel nacisnął dzwonek 4 x 2 = 8 razy.  Trzeci przyjaciel nacisnął dzwonek 10 razy więcej niż czwarty przyjaciel, co oznacza, że trzeci przyjaciel nacisnął dzwonek 10 - 60 = -50 razy.  Oto suma wszystkich dzwonków: 4 + 8 - 50 = 36 razy.
+Response:  Solo przeczytał 15 stron w poniedziałek, co oznacza, że musiał przeczytać 15/7 = 2 stron dziennie. Gdy ma jeszcze 4 dni na przeczytanie całego tekstu, to musi przeczytać 2 x 4 = 8 stron.
+Response:  John pije szklankę wody przy śniadaniu, obiedzi i kolacji - to jest 3 razy na dzień. W weekendy pije również 1 szklankę napoju gazowanego z obiadem. Totoro suma to 4 szklanki wody i 1 szklanka napoju gazowanego w tygodniu.
+"Response:  Miasto ma 3 mile długości, co oznacza, że jego długość wynosi 3 x 5280 = 15960 stopów (około 4870 metrów).
+Jeśli miasto jest 42 mil od brzegu oceanu, to jego odległość od brzegu wynosi:
+42 miles = 42 x 5280 feet/mile = 218400 feet
+Miasto jest pokryte mglą w tempie 10 minut na 3 mile, co oznacza, że mgła pokrywa miasto w tempie:
+10 minutes / 3 miles = 3,33 minutes per mile
+Aby obliczyć czas, który potrzebuje mgła na pokrycie całego miasta, musimy podzielić długość miasta przez tempo, z którego pokrywa się jedno mile:
+Time = Distance / Speed = 15960 feet / 3,33 minutes/mile = 47,6 minutes
+Oczywiście, ten rachunek dotyczy tylko teoretycznego przypadku, gdy mgła napływa do miasta w sposób ciągły i nie ma żadnych barier lub blokad na drodze. W rzeczywistości mogą istnieć wiele inhibicji, które mogą utrudniać ten proces."
+Response:  Pozycja Poppy: 1/1000 (100 figura). Mama umieściła 3/990 figur. Oto ilość pozostałych figur: 990 - 3 = 987. Dlatego jeszcze trzeba rozłożyć 987 kawałków układanki.
+Response:  Cody ma trzy razy więcej ciasteczek niż Amir, co oznacza, że Cody ma 3x = 9 ciasteczek.  Jeśli Amir zjede 5 ciasteczek, to pozostałych 4 x 9 = 36 ciasteczek.
+"Response:  W każdym z trzech pudełków ma 5 na 6 na 4 cali, co oznacza, że powierzchnia każdego pudełka to:
+P = 5 \* 6 \* 4 = 120cal²
+Oczywiście, długości i szerokości pudełek nie są takimi samymi, ponieważ ściany są grube o 1 cali. Dlatego objętość każdego pudełka to:
+V = l \* b \* h = 120cal² \* (l + 1) \* (b + 1) = 120cal² \* (l + 1)^2 \* (b + 1)^2
+Gdzie:
+l - długość pudełka
+b - szerokość pudełka
+h - wysokość pudełka
+Jak wyżej, objętość każdego pudełka to V = 120cal² \* (l + 1)^2 \* (b + 1)^2.
+Aby obliczyć sumę objętości wszystkich 3 pudełek, musimy sumować te same wartości dla każdego z nich:
+Sum of volumes = Volume of first box + Volume of second box + Volume of third box
+= 120cal² \* (l_1 + 1)^2 \* (b_1 + 1)^2 + 120cal² \* (l_2 + 1)^2 \* (b_2 + 1)^2 + 120cal² \* (l_3 + 1)^2 \* (b_3 + 1)^2
+Gdzie:
+l_1, b_1, h_1 - długość, szerokość i wysokość pierwszego pudełka
+l_2, b_2, h_2 - długość, szerokość i wysokość drugiego pudełka
+l_3, b_3, h_3 - długość, szerokość"
+"Response: 
+W poniedziałek oglądał Frankie 1 godzinny odcinek swojego ulubionego programu. W środę oglądał kilka odcinków 30-minutowego programu. W czwartek skończył pracę domową wcześnie i obejrzał 1-godzinny odcinek i 30-minutowy program. W piątek musiał zostać do późno na weekend, więc obejrzał 2 1-godzinne odcinki.
+Jeśli oglądał on 7 godzin telewizji, to w środę oglądał 3 x 30 = 90 minut odcinków."
+Response:  W zeszłym roku Henry upiecł 120 ciasteczek (110 - 5 = 120).
+Response:  Jeśli kupimy 10 galonów benzyny, a firma oferuje $0.20 cashback na galon, to otrzymać będziemy $2 z powrotem (0.20 x 10 galonów). Tym samym, po nagrodze zwrotnej, będzie remaining 8 galonów benzyny (10 - 2 = 8).
+Response:  Marcell miał 3 rolki szerokości i 14 rolek długości, co oznacza, że jego ogółem rolki liczy się sumując ich wielkości.  Ogólnie mówiąc, jeśli Marcell miał x rolkow, a Beatrice miała y rolków, to razem zjadały x + y rolki.  Teraz musimy wyliczyć, jaka jest wartość x i y, aby utrzymać równanie: x + y = łączna ilość rolkow.  Wiemy, że Beatrice miała 24 rolki długości, ale nie wiemy, jakie są jej roleki szerokości.  Ponieważ Beatrice miała 24 rolki długości, to x + y = 24.  Teraz musimy wybrać wartość x i y, taką, aby uwzględnić te informacje.  Na przykład, jeśli x = 6 i y = 18, to Marcell miał 3 rolki szerokości i 14 rolek długości, a Beatrice miała 24 rolki długości.  Ilość zjadłej przez nich średnio to: x = 6 + y = 18 = 24.  Oczywiście, ten wynik może być różny dla innych wartości x i y.
+Response: Łódź Julii wyciekła z jeziora i zbierała wodę na każdym trzech metrach dystansu. Jej prędkość wynosiła dwuelletylitrów na każdy trzy metry. W sumie więc łodzia pobiła 20 stóp (około 6 metrów) w czasie 16 sekund. To oznacza, że pobiła ona wodę o objętości dwóch litrów na każdy trzy metry dystansu. Tyle samo litrów wody pobiła ona w całej drodze, bo 2 litry na każdy trzy metry. Gdy dostała się do morza, pobiła jeszcze jedno litro wody na każdy trzy metry dystansu. W końcu dotarła do brzegu, który był oddalony od niej 64 sekundy. Tylko razem z wodą, która pobiła wewnątrz łodzi, dostarczyła ona wodzie w objętości 6 litrów.
+Response:  Na początku dnia tablica nie jest czyszczona, więc musi być czyszczona 1 raz.  Drugi nauczyciel korzysta z tablicy po pierwszym nauczycielu, ale nie czyszcza ją, ponieważ już była czyszczona.  Trzeci nauczyciel również nie czyszczy tablicę, ponieważ została ona już czyszczona dwukrotnie.  Ostatni nauczyciel także nie czyszczy tablicę, ponieważ była ona już czyszczona trzykrotnie.  Zatem tablica jest czyszczona łącznie 3 razy na lekcję i 3 razy na dzień.
+Response:  Ryan sadzi dwa kwiaty dziennie... → 2 kwiaty na 1 день = 2 × 1 = 2 kwiatów....po 15 dniach, ile kwiatów maje... → 2 kwiata na 15 dni = 2 × 15 = 30 kwiatów. Jeśli 5 nie wyrosło... → 30 - 5 = 25 kwiatów.
+"Response:  Liczbę zdjęć, które może pomieścić telefon Britanny, oznaczamy jako x.  
+Liczba zdjęć, które może pomieścić telefon Jamala, oznaczamy jako y.  
+Maksymalna liczba zdjęć, jaką może pomieścić telefon Britanny, to 50 razy większa niż x = 50x.  
+Jeśli telefon Jamala może pomieścić 1800 zdjęć, to y = 1800.  
+Oczywiście, jeśli chcesz rozwiązać ten problem bardziej skomplikowanymi metodami, takimi jak analiza proporcji lub algebra linii, to czekajcie na dalszą instrukcje!"
+"Response: 
+Sasha ma dziesięć desek 2x4x10, które kosztują 10 dolarów każda. W sumie kosztuje ich 100 dolarów (10 x 10). 
+Jednakże, Sasha również ma pięć desek 4x4x10, które kosztowały 16 dolarów za sztukę. W sumie kosztuje ich 80 dolarów (5 x 16). 
+W końcu, Sasha ma razem 180 dolarów (100 + 80), co oznacza, że zarobiła na sprzedaniu drewna 180 dolarów."
+Response:  Katy użyła 7 razy więcej filiżanek niż łyżeczek cukru. Oto ilość łyżeczek cukru, które użyła Katy: 120/7 = 17 łyżeczek cukru.
+Response:  John kupuje po dwie pary butów, co oznacza, że kupi 2 x 3 = 6 par butów. Koszt każdej pary wynosi 60 dolarów, dlatego cena wszystkich butów to 6 x 60 = 360 dolarów. Dlatego John zapłacił 360 dolarów.
+Response:  W pierwszym dniu przywieziono 2 kontenery z 10 pojazdami (5 + 5). W drugim dniu przywieziono jeszcze 3 kontenery z 15 pojazdami (5 + 10). Zatem łącznie przywieziono 5 kontenerów z 25 pojazdami.
+Response:  Four years ago, Adrian's salary was $40,000 and Lyla's salary was $60,000, which means that the difference between their salaries was $20,000 ($60,000 - $40,000).  If we assume that both of their salaries increased equally by 30%, then four years later, Adrian's salary would be $51,000 (($40,000 x 1.3) + $40,000) and Lyla's salary would be $78,000 (($60,000 x 1.3) + $60,000). Therefore, the total amount of money that both Adrian and Lyla earned four years later is: $51,000 + $78,000 = $129,000.
+Response:  Miguel używa 2 bloki papieru tygodniowo, co oznacza, że używa ich w sumie 14 (2 x 7) w ciągu miesiąca. Jeśli na kartce papieru jest 30 arkuszy, to ile arkuszy używa on każdego miesiąca? Odpowiednia ilość to 30 - 14 = 16 arkuszy.
+Response:  Morisette przyniosła 5 jabłek, co oznacza, że ma ich obecnie 5. Następnie przyniosła 8 pomarańczy, co oznacza, że ma ich teraz 13 (5 + 8).  Kael przyniósł dwukrotnie więcej jabłek niż Morisette, co oznacza, że ma ich obecnie 2 × 5 = 10. Ponadto przyniósł połowę mniej pomarańczy niż Morisette, co oznacza, że ma ich teraz 13 - 4 = 9. W końcu suma owoców Morisette i Kela to 5 + 10 + 9 = 24 owoców.
+Response:  W poniedziałek spała 8 godzin.  Na kolejny dzień spała o 2 godziny mniej, bo 7 godzin.  Na trzeci dzień spała o 1 godzinę mniej, bo 6 godzin.  Jeśli przez resztę tygodня spała o godzinę więcej niż przez te dwa dnie, to ostatnia godzina spędzona była w piątek.  Oto jakieś próby rozwiązania:  * Sadie spała 8 godzin w poniedziałek + 7 godzin w wtorek - 1 godzina w środę = 15 godzin w piątek (czyli łącznie 49 godzin)
+Response:  Rosie może biegać 10 mil na godzinę, co oznacza, że może przebiec 10 x 3 = 30 mil w 3 godziny.  Po tym, gdy biegnie z prędkością 8 km/h, może przebiec 8 x 7 = 56 km w 7 godzin.
+Response:  Jennie zaczyna stemplać listy, gdy ma 60 listów. Wtedy ma 40 listów (60 - 20 = 40). Teraz wkłada pieczęcie na jedną trzecią listów, co oznacza, że pozostałych 10 listów nie ma już pieczęci. Dlatego iloczyn 30 (listów, które są już podłożonymi pieczęci) przez 3 (trzecia część listów, na którą Jennie wkłada pieczęcie) daje nam 90. Tylko dlatego, że Jennie wkłada pieczęcie na jednej trzecią listów, lista, które była już podłożona pieczęci, zwiększy się o 30 listów.
+Response:  Julia kupiła nowe łyżki, a potem męża kupił również paczkę z 5 nowymi łyżkami. W końcu Julia użyła trzech łyżek do próby gulaszu. Oznacza to, że pozostałych 9 łyżek (5 + 3) zostało przetransportowanych do domu Julii. Dlatego odpowiedzi na pytanie jest 9.
+Response:  Dylan kupił 38 kiełbasek z kurczaka + 6 kiełbasek z ryb = 44 kiełbasek.
+Response:  W nowej szkole Amy ma 20 przyjaciół więcej niż Lily. To oznacza, że Lily ma 30 przyjaciół (50 - 20).  Teraz musimy wyliczyć, jaka liczba przyjaciół ma Amy razem z Lily.  Liczymy jeśliby Amy miała 40 przyjaciół, ale ponieważ miała ona 20 więcej niż Lily, to musi mieć ona co najmniej 60 przyjaciół (40 + 20).  Oczywiście, mogą być jeszcze większe ilości przyjaciół u obu dziewczyn, ale w takim przypadku odpowiednia ilość będzie różna.
+Response:  Mother Well sells apples, peppers and oranges in the store. An apple costs three times as much as a pepper. An orange costs five times less than an apple. Dylan is sent to the store to buy 4 apples, 20 peppers and 10 oranges. How much money will he have to pay if each pepper costs $15?
+"Response: 
+Szpital zarabia na każdej wizycie 150 dolarów - to oznacza, że zarobił on 150 x 500 = 75 000 dolarów na dni.
+Pókiż lekarze pobierają 150 dolarów za godzinę, to szpital pobiera od nich 150 x 8 = 1200 dolarów na dzień (bo 24 minuty x 8 godzin).
+W sumie szpital zarobił 75 000 + 1200 = 76 200 dolarów na dni."
+Response:  Nissa zatrudnia 60 pracowników sezonowych. Po raz pierwszy 1/3 (lub 20) elfów rzuca swoje工作, ponieważ dzieci na nich wymiotowały. Oto jaka liczba elfów jest już na miejscu: 20 + 40 = 60. Potem druga trzecia (lub 30) elfów rzuca swoje工作, ponieważ dziecka na nich kopnęły. Oto jaka liczba elfów jest już na miejscu: 60 + 30 = 90. Oczywiście, nie ma elfów, którzy już nie są na miejscu. Tylko 10 elfów pozostaje. Odpowiedź: 90.
+Response:  Wydatki Josepha w maju wyniosły 500 dolarów, a w czerwcu - 440 dolarów. Dlatego Joseph spędził na wydatki 500 + 440 = 940 dolarów w ciągu dwóch miesięcy.
+Response:  Pam i Fred poszli na karnawał.  Pam jechała rollercoasterem 2 razy, co kosztowało 12 biletów (2 razy 6 biletów).  Fred jechał 4 razy, co kosztowało 24 bilety (4 razy 6 biletów).  Potem, każdy z nich postanowił jeździć na szynce 2 razy.  Pam jechała 2 razy, co kosztowało 12 biletów (2 razy 6 biletów), a Fred - 4 razy, co kosztowało 24 bilety (4 razy 6 biletów). W sumie, Pam i Fred użyли łącznie 50 biletów (12 + 24 + 12 + 4 = 50).
+Response:  W poniedziałek Walt przejechał 6 km, a w wtorek 6 x 2 = 12 km. W środę przejechał jeszcze 3 km, co daje łącznie 15 km.
+"Response:  Tom ma 4 myjniki samochodów w miesiącu. W tym miesiącu on zapłaci za myjki samochodów 4 x 15 = 60 dolarów.  
+W ciągu roku Tom będzie musiał zapłacić za myjki samochodów 12 x 60 = 720 dolarów."
+Response:  Brian ma 20 gier wideo, a on przegrał 5 tuż przed porównaniem. To oznacza, że Brian ma teraz 15 gier wideo (20 - 5).  Bobby ma 5 razy mniej niż 3 razy więcej gier wideo niż Brian, co oznacza, że Bobby ma 75% tej ilości gier wideo, co jest równe 11 gierom (75% x 15 = 11).  Tylko jedno pytanie pozostaje: jaka jest ich łączna ilość gier wideo?
+"Response: 
+1/3 jednorożców na świecie to Szkocja, co oznacza, że na Szkockich Wzgórzach jest 1/3 x 27 = 9 jednorożców.
+Dawno temu na Szkocji było 2/3 samic, co oznacza, że na Szkockich Wzgórzach są 2/3 x 9 = 14 samic.
+Oczywiście, nie wiemy, jaką część samców mają jednorożce na Szkockich Wzgórzach, ale ponieważ dwie trzecie z nich to samice, a jedna trzecia to samce, to ich ilość musi być równa (1/3) x 9 = 3.
+Tak więc ilość samic jednorożców na Szkockich Wzgórzach to 14 + 3 = 17."
+Response:  Zamawia Rory 2 kanapki za $7.50 każda, co jest w sumie $15.00.  Dodajemy do tego $3.00 (2 x $1.50) za worki chipsów, co daje $18.00.  Wsuma to $33.00.  Następnie dodajemy $2.00 (50%) na opłatę za dostawę, co daje $35.00.  Ostatecznie dodajemy $5.00 na napiwek, co daje $40.00.
+Response:  W pierwszym testie Mark miał 8 godzin na zakończenie, co oznacza, że miał on czas na rozwiązanie 8/12 = 3/4 pytań (gdyż ilość pytań była mniejsza niż czas). W drugim testie miał on tylko 6 godzin na zakończenie, co oznacza, że miał czas na rozwiązanie 6/10 = 2/5 pytań (gdyż ilość pytań była większa niż czas). Oto suma nieukończonych pytań: 3/4 + 2/5 = 5/8 = 3/4.  Odpowiedź: 3/4.
+Response:  Maszyna do cukierków ma 22 różne gumki, z tego 4 są niebieskie. Ile jest różówek, jeśli ma 12 niebieskich gumek? Odpowiedź: 12.
+"Response:  Z 20 samochodów dostępnych do wynajęcia:
+* 12 jest automatycznych - to 60% (12/20)
+* 4 są ręcznieobsługiwane - to 20% (4/20)
+* Reszta to półautomatyczne - to 20% (18/20)
+Tak więc procent samochodów półautomatycznych to 20%."
+Response:  Jeśli mało pszczół młodych to nie mają one jaj, ale jeśli mają - są one robotnice.  Jeśli mało pszczół robotniczych to nie mogą one składać jaja, ale jeśli mają - są one królowe.  Zatem ilość pszczół robotniczych = ilość pszczół młodych - ilość pszczół robotniczych.
+Response:  Jordan gra w gry wideo przez 2 godziny dziennie, co oznacza, że spędzi ich 14 godzin w tygodniu (7 dni x 2 godziny = 14 godzin). Jeśli byłby on wykonywać swoją pracę na pełny etat (5 dni w tygodniu), to zarobiłiby 50 dolarów na dzień (10 dolarów na godzinę x 5 godzin = 50 dolarów). Tym samym, jeśli Jordan zamiest gry wideo trabajował na pełnym etacie, zarobiłiby 700 dolarów w tygodniu (50 dolarów na godzinę x 14 godzin = 700 dolarów).
+Response:  Mleko kupuje za 2 dolary, dlatego jego cena brutto to 2 x 1,1 = 2,2 dolary (wysokość podatku). Jajka kupuje za 3 dolary, dlatego ich cena bruta to 3 x 1,1 = 3,3 dolary. Żarówki kupują za 3 dolary, dlatego ich cena bruta to 3 x 1,1 = 3,3 dolary. Kubki kupują za 3 dolary, dlatego ich cena bruta to 3 x 1,1 = 3,3 dolary. Pułapki na karaluchy kupują za 4 dolary, dlatego ich cena bruta to 4 x 1,1 = 4,4 dolary. W sumie cena bruta wszystkiego to: 2,2 + 3,3 + 3,3 + 3,3 + 4,4 = 18,6 dolarów.
+"Response:  Lucas ma już trzech klientów, które go zapłacono. Ma on jeszcze pięciu potencjalnych klientów, którzy chlebnie rozmawiają z nim. Mamy więc łącznie 8 klientów (trzej aktualni + pięć potencjalnych).  
+Lucas musi dostarczyć każdej z nich 2 buteleki wybielacza i paczkę szmat do czyszczenia. W sumie, musi dostarczyć 16 butelek wybielacza i 10 paczek szmat (dwa razy więcej niż klientów).  
+Cena jednej buteli wybielacza to 2 dolary, a opakowania z ubraniami 5 dolarów. Cała suma kosztów dla Lucas'a to więc 34 dolary (16 x 2 = 32 dolary za butelki wybielacza + 10 x 5 = 50 dolarów za opakowania z ubraniami).  
+Oczywiście, Lucas nie spędzi cały swój tydzień tylko na produkcję i dostawa towarów. Musi również inwestować w reklamedawstwo, a także pokrywać inne koszty związane z prowadzeniem działalności gospodarczej. Dlatego też należy ocenić, ile zyski Lucas będzie miał po tym, jak zobowiązany zostanie do poniesienia tych dodatkowych kosztów.  
+W końcu, jeśli Lucas dostarczy 16 butelek wybielacza i 10 paczek szmat do 8 klientów, to zysk będzie wynosił 34 dolary - 7 dolarów (co jest sumą kosztów produkcji i dostavy) = 27 dolarów na tydzień."
+Response:  John ma 10 hektarów pola ananasów, na hektar przypada 100 ananasów. To oznacza, że John ma razem 1000 ananasów na hektar (100 ananasów na hektar x 10 hektarów). Teraz musimy wyliczyć, ile ananasów John może zebrać w ciągu roku. Jeśli John może zbierać ananasy co 3 miesiące, to każdego miesiąca zyska 1/3 hektaru nowych ananasów (gdyż John ma 10 hektarów pola ananasów). W sumie, John może zebrać w ciągu roku: 1000 ananasów na hektar x 1/3 hektara = 333,33 ananasów.
+Response:  Johnny zbiera 500 sztuk legówek z pudełka. Oto ilość legówek, które Johnny ma teraz: 500 + 3 × 1000 = 4500 sztuk legówek. Teraz musi on wywrzeszyć jeszcze jedno pudełko z 500 sztuk legówek. Oto ilość legówek, które Johnny ma już: 4500 + 500 = 5000 sztuk legówek. Johnny zbiera wszystkie lego!
+"Response: 
+W ciągu pierwszego 6 godzin: 
+* 30 pszczół opuszcza ula (Debra widzie twice as many bees leaving the hive)
+* Połowę z nich (15 pszczół) wraca w ciągu kolejnych 6 godzin (Debra sees half of the bees returning to the hive)
+
+Oto suma pszczół, które wróciły do ula w ciągu ostatnich 6 godzin: 
+15 pszczół + 15 pszczół = 30 pszczół
+
+Teraz mamy do czynienia z tym, że każda pszczoa, która wyjechała wcześniej, a nie wróciła, wraca do ula w ciągu następnych 6 godzin. Ponieważ Debra widziała dwie razy więcej pszczół opuszczających ula niż wróciło, to muszą być dwa razy większe niż 30 pszczół.
+
+Odpowiedź: 2 x 30 = 60 pszczół"
+Response:  Brittany's mom gave the cashier $8. Therefore, the cashier received $8 - $10 = $2 more than what she was supposed to receive ($8 + $2 = $10). So, the cashier received a total of $10 from Brittany's mom.
+Response:  Charlie ma trzy razy więcej znajomych na Facebooku niż Dorothy, co oznacza, że Dorothy ma 3/4 = 0,75 × 12 = 9 przyjaciół na Facebooku.  James ma cztery razy więcej znajomych na Facebooku niż Dorothy, co oznacza, że James ma 4 × 0,75 = 3 × 12 = 36 przyjaciół na Facebooku.  Otwieramy te wnioski i otrzymujemy odpowiedź: James ma 36 przyjaciół na Facebooku.
+Response:  Steveje do szkoły i wróci z prędkością 440 stóp na minutę. Jego droga wynosi 3 mile = 5080 stopów (wynika to z tego, że 1 mile = 1760 stopów).  Timeje do szkoły i wróci z prędkością 264 stóp na minutę. Jego droga wynosi 3 km = 3000 stóp (wynika to z tego, że 1 km = 1000 stóp).  Teraz musimy porównują prędkości Steve'a i Timothy'ego. Prędkość Steve'a jest wyższa, bo 440 stóp na minutę > 264 stopy na minutę.  This means that Steve will arrive at the finish line before Tim does. So, Steve will be the winner of the race. Now, let's find out how long Tim will have to wait at home before Steve arrives. We know that it takes Steve 3 miles / 440 stóp na minutę = 6.8 minutes to reach the finish line from his house. Since Tim starts running after Steve, he will also take 6.8 minutes to reach the finish line from his house. But since Tim started later than Steve, he will finish the race after Steve does. Therefore, Tim will have to wait 6.8 minutes + the time it takes him to run 3 km = 9.8 minutes at home before Steve arrives.
+"Response: 
+1. Shawnda sprzedała 5 opon, każda kosztowała 25 centów, co daje łącznie 125 centów. 
+2. Trójkołowe przypadkiem zapaliły 3 opony, każda kosztowała 25 centów, co daje 75 centów. 
+3. Jedna osoba wpadła na rowerze i zapaliła 1 oponę, kosztowała ona 25 centów. 
+W sumie, Shawnda zarobiła 200 centów."
+Response:  Carl kupuje dziesięć paczek ciasteczek, a każda paczka ma w środku sześć ciasteczek. W sumie, Carl dostanie 60 ciasteczek (10 x 6). Jeśli każdy ciasteczko kosztowało 0,10 dolarów, to całkowita suma kosztowała 6 dolarów (60 x 0,10 = 6). Teraz Carl może zapłacić 10-dolarowym banknotem, który jest wartościowy 10 dolarów. Dlatego Carl otrzyma 54 ciasteczek pozostałych po zapłaceniu banknotem (6 - 10 = 54).
+"Response: 
+Dave kupił dużą paczkę frytek i zjadł 14. Głodna mewa ukradła paczkę z jego ręki i polknęła połowę ilości frytek, co оznacza, że teraz na paczkę remaining 14 - 7 = 7 frytek. 
+Potem trzy gołębie odstraszyły go od jedzenia, a każdy gołąbek zjadł trzy frytki, co oznacza, że teraz na 7 frytek remaining - 3 x 3 = 21 frytek. 
+W końcu szop ukradł dwie trzecie pozostałych frytek, co oznacza, że teraz na 21 frytkach remaining - 2/3 = 15 frytek. 
+Ostatecznie mrówki zabrały ostatnią frytkę, zostawiając 5 frytek. 
+Teraz odpowiedź na pytanie to 15."
+Response:  W poniedziałek, Kimo ma 3 1-godzinne zajęcia, co oznacza, że spędzi 3 x 60 = 180 minut na zajęciach.  W środę, ma 2 x 2-godzinne zajęcia, co oznacza, że spędzi 4 x 60 = 240 minut na zajęciach.  W piątek, również ma 3 1-godzinne zajęcia, co oznacza, że spędzi 3 x 60 = 180 minut na zajęciach.  W wtorek i czwartek, Kimo ma razem 4 x 2 = 8 2-godzinnych zajęć, co oznacza, że spędzi łącznie 8 x 60 = 480 minut na zajęciach.  W sumie, Kimo spędzi na zajęciach: 180 + 240 + 180 + 480 = 1180 minut w ciągu semestru.
+"Response:  Bill codziennie piecze:
+* 300 bułeczek = 300 x 15 cm = 4500 cm
+* 120 czekoladowych croissantów = 120 x 15 cm = 1800 cm
+* 60 baguette = 60 x 60 cm = 3600 cm
+W sumie: 4500 + 1800 + 3600 = 9900 cm
+Tym samym, jeśli Bill położy wszystkie pieczone rzeczy, będą one w stopach przez około 9,9 godzin (9900 cm / 100 cm/h)."
+"Response: 
+Jeśli opiekun zoologicznykarmi wszystkie małpy w zoo, to otrzymają łącznie 200 + 400 + 100 = 700 bananów miesięcy razem. 
+Jeśli chcemy wyznaczyć ilość bananów, które będą dostępne dla każdej grupy małp, należy podzielić 700 bananów na ich indywidualne potrzeby:
+Małpy - 200 bananów/miesiąc
+Goryle - 400 bananów/miesiąc
+Pawiany - 100 bananów/miesiąc
+
+Wynikiem jest:
+Małpy - 200/2 = 100 bananów
+Goryle - 400/2 = 200 bananów
+Pawiany - 100/2 = 50 bananów
+
+Oczywiście, jeśli chcesz wyliczyć ilość bananów na 2 miesiące, należy podwoić te wartości:
+Małpy - 100 bananów x 2 = 200 bananów
+Goryle - 200 bananów x 2 = 400 bananów
+Pawiany - 50 bananów x 2 = 100 bananów
+
+Ostatecznie, ilość bananów, jaka musiałby Zamówić opiekun zoologiczny, aby wystarczyły na 2 miesiące to:
+Małpy - 200 bananów
+Goryle - 400 bananów
+Pawiany - 100 bananów
+Ilość całości to: 200 + 400 + 100 = 700 bananów"
+Response:  Blake biegnie 15 razy na boisku o długości 100 jardów = 15 x 30 = 450 jardów.  Kelly biegnie raz na boisku i 34 razy poza nim = 34 x 40 = 1360 jardów.  W sumie Blake biegnie 450 + 1360 = 1810 jardów.  Kelly biegnie 1360 jardów większej odległości niż Blake, stąd wygrywa o 950 jardów (1360 - 450).
+Response:  Raphael kupił 4 długopisy o cenie 1,5 dolara każde, co jest 6 dolarów w sumie. Następnie kupił 2 zeszyty o cenie 4 dolary każdy, co jest 8 dolarów w sumie. Ostatnio kupił okładkę papieru obligacyjnego o cenie 20 dolarów. W sumie Raphael wydał 6 + 8 + 20 = 34 dolary.
+Response:  Finn widzi 11 żółwiów pływających w stawie.  Potem widzi, że 6 z nich wychodzi z ukrycia pod liliową poduszką. To oznacza, że obecnie Finn widzi 5 żółwiów (11 - 6 = 5).  Następnie widzi, że 2 z nich ukrywa się pod skałą. To oznacza, że Finn widzi 3 żółwsia (5 - 2 = 3). Tylko Finn widzi 3 żółwiów w stawie.
+"Response: 
+W poniedziałek zbiornik miał głębokość 5 metrów.
+We wtorek, zbiornik miał 7 stóp więcej wody niż we wtorek, co oznacza, że nowa głębokość wynosi 5 + 7 = 12 metrów.
+W środę, głębokość wody jest dwie trzecie tej, jaką była we wtorek, co oznacza, że nowa głębokość wynosi 12 / 3 = 4 metry.
+Oczywiście, jeśli chcesz uwierzytelnić swoją odpowiedź, proszę sprawdzić poprawność."
+"Response: 
+Anakin złapał 3 ryby klaun. 
+Locsin złapał o 5 gwiazd morskich mniej niż Anakin, co oznacza, że złapał 5 - 3 = 2 gwiazd morskie. 
+Oczywiście, złapał również 3 ryby klaun, ponieważ nie złapał żadnych gwiazd morskich. 
+Teraz suma ryb i gwiazd morskich udało im się złapać to 3 + 2 = 5 ryb i 10 - 3 = 7 gwiazd morskich."
+Response:  Worek kul kosztował initially $ 20.  Cena wzrasta o 20% co dwumiesięcznie, to oczywiście $ 20 x 1.2 = $ 24.  Po 36 miesiącach cena woreka kul będzie wynosić $ 24 x 1.2^3 = $ 35.84.
+Response:  Zabawki w pokoju kosztują: 1. Laleczka - 5 dolarów (z powodu jej kosztowania) 2. Figurka - 3 dolary (bo kosztuje ich trzy) 3. Czerwony samochód - 4 dolary (bo kosztuje jednego cztery)...
+"Response:  Jackie może zarobić 35 dolarów mniej, gdy będzie pracować 3 godziny mniej i nie będzie musiała rozliczać podatków. To oznacza, że jej dochód spadnie do 60 dolarów na godzinę (35 dolarów mniej).   
+Jeśli zatrudni księgowego, to on będzie pobierał 90 dolarów za godzinę. W sumie, Jackie straci 35 dolarów miesięcznie, ponieważ nie będzie musiała rozliczać podatków. Tymczasem księgowy pobiera 90 dolarów. W końcu miesiąca, Jackie straci 275 dolarów (35 dolarów miesięcznie x 8 godzin miesięcznych), a księgowy pobiera 7200 dolarów (90 dolarów x 80 godzin miesięcznych)."
+Response:  Elvira miała 1500 euro na zakup odzieży. Jej nowy komputer kosztował 1090 euro, a dodatkowo kupiła jeszcze trzy akcesoria - skaner (157 euro), nagrywacz płyt CD (74 euro) i drukarkę (102 euro). W sumie to łączny koszt to: 1090 + 157 + 74 + 102 = 1423 euro. Oznacza to, że Elvira miała już tylko 67 euro na zakup odzieży.
+"Response: 
+Jeśli Sandra musi opiekować się 9 jajkami, to musi je robić 15 razy (bo 15 x 9 = 135). 
+Aby zrobić hiszpański flan, potrzebuje 3 jajek, dlatego musi je robić 15 razy (bo 15 x 3 = 45). 
+Oczywiście, musi również robić kosze z 9 jajek dla każdego z 15 hiszpańskich flanów (bo 15 x 9 = 135). 
+W sumie, Sandra musi robić 15 x 2 = 30 koszy z jajek i 15 x 4 = 60 hiszpańskich flanów."
+Response:  Seth ma 30 lat i Brooke ma 28 lat, co oznacza, że różnica między nimi wynosi 2 lata = 24 miesiące. Wówczas Seth ma 30 - 24 = 6 lat więcej niż Brooke. Tylko razem zatem Seth jest starszy od Brooke.
+Response:  Ethel ma 8 dolarów, a Jimmy ma 2 dolary więcej niż Ethel. To oznacza, że Jimmy ma 10 dolarów (8 + 2).
+Response:  W piątek chodzi 20 mil = 32 km. W niedzielę chodzi 10 mil = 16 km. W sumie w tygodniu przebiega 48 km.
+"Response:  Mamy do rozwiązania następujące problemy:
+1. Koszt kapelusza - 25 $
+2. Koszt kurtki - x $ (większe niż koszt kapelusza)
+3. Koszt spodni - y $ (średnio takiego samego, jak koszt kapelusza i kurtki)
+Mamy teraz dwa problemy:
+a) Znajdzie się, że suma kosztów wszystkich elementów munduru wynosi 75 $ (25 + x + y).
+b) Wiemy, że koszt kapelusza to 25 $, a koszt kurtki to x$.
+Zatem, jeśli podzielimy x przez 2, otrzymaemy koszt kapelusza. Tzn.: x = 50 $.
+Oczywiście, jeśli podzielimy 75 $ przez 2, otrzymać będziemy koszt spodni: y = 37,50 $.
+Teraz mamy już wszystko potrzebne do rozwiązania pytania:
+Kapelusz - 25 $
+Kurtka - 50 $
+Spodnie - 37,50 $
+W końcu, każdy mundur kosztowałby łącznie 112,50 $ (25 + 50 + 37,50$)."
+Response:  Jake widzi:  - 80 pająków o 8 nogach = 640 nogówek (nieparzyste) - 90 owadów o 6 nogach = 540nogówek (parzyste) - 3 rzadkie bezkręgowce o 10 nogach = 30 nogówek (parzyste)  Suma wszystkich nóg to: 640 + 540 + 30 = 1210 nogówek.
+"Response: 
+1. Babcia Czerwona ma 24 lat (odpowiednia liczba dla Babci Czerwonej).
+2. Sally Trzydziestka ma 8 lat (odpowiednia liczba dla Sally Trzydziestki).
+3. Sally Dwa ma 27 lat (odpowiednia liczba dla Sally Dwy).
+4. Sally Czwartej ma 20 lat (odpowiednia liczba dla Sally Czwartej).
+Oczywiście, te wartości nie są rzeczywiste, ale są one potrzebne do rozwiązania problemu.
+
+W końcu, łączny wiek czterech ptaków to:
+24 + 8 + 27 + 20 = 69 lat"
+Response:  Jessica musi zapłacić łącznie 1800 dolarów (300 + 200 + 500) miesięcznie. Jeśli chce zapłacić 50% więcej niż minimum, to musi zapłacić łącznie 2700 dolarów (1800 + 900) miesięcznie.
+Response:  Billy potrzebuje około półtorej minuty, aby obłucić ziemniak (0,5 min). Następnie potrzebuje około 5 sekund, aby pokroić ziemniak (0,05 min). W sumie, Billy potrzebuje około 0,55 minut na przygotowanie ziemniaków.
+Response:  Juan i Carlos sprzedawali 20 szklanek lemoniady za 1 galon. W każdej szkлянce jest 50 centów, dlatego sprzedawszy 20 szklanek otrzymali 10 dolarów (20 x 0,5 = 10). Cytryny kosztowały im 3 dolary za galon, dlatego dla 1 galon cytryn kosztuje 3 x 10 = 30 dolarów. Oczywiście, jeśli sprzedawali 25 galonów, to otrzymaли 25 x 30 = 750 dolarów zysku z cytryn.
+"Response:  W wyścigu wzięło udział 240 Azjatów.   
+* z nich 80 było Japończykami (co stanowi 33% wszystkich uczestników), a reszta Chińczykami.    
+* jeśli liczba chłopców w chińskiej drużynie wyniosла 60, to ile dziewczyn było w chińskiej drużynie?    
+Odpowiedź: 60 - 60 = 0    
+Tak więc nie ma dziewczyn w chińskiej drużynie."
+Response:  Zaid spędza 1/4 swojej pensji na czynsz, co oznacza, że dostaje 1/4 x 6000 = 1500$.  Następnie, zaślepiony 1/3 swojej pensji na paliwo do samochodu, co oznacza, że dostaje 1/3 x 6000 = 4000$.  Wydaje połowę pozostałej kwoty na swoją ulubioną organizację charytatywną, co oznacza, że dostaje 1/2 x 4000 = 2000$.  Daje córce 200 dolarów na tygodniowe wydatki, co oznacza, że dostaje -200$.  Żona dostaje 700 dolarów na zakupy i inne artykuły gospodarstwa domowego, co oznacza, że dostaje 700$.  Ostatecznie, Zaid ma 1500 + 4000 - 200 - 700 = 3800$.
+Response:  Rani ma dziesięć krabów więcej niż Monic, co oznacza, że Rani ma 10 + 4 = 14 krabów. Bo ma 40 krabów, to Monic ma 40 - 14 = 26 krabów. W sumie, Rani ma 14 krabów, a Monic i Bo mają łącznie 30 krabów (14 + 26).
+"Response: 
+W pierwszym tygodniu Lloyd uczył 5 godzin i zarobił 5 x $ 10 = $ 50. 
+W drugim tygodniu uczył 8 godzin i zarobił 8 x $ 10 = $ 80. 
+Zatem w sumie Lloyd zarobił $ 50 + $ 80 = $ 130 w pierwszych dwóch tygodniach."
+Response:  Zwycięzca otrzymał 3/4 głosów, co oznacza, że zdobył 75% głosów (3/4 x 80 = 75). Przegrany zdobył pozostałe 25% głosów (80 - 75 = 5). Tylko razem zatem możemy liczyć 60 głosów dla zwycięzcy i 15 głosów dla przegranego.
+"Response:  Zamówienie Sandry składa się z:  
+- 4 razy większej ilości czerwonych róż niż białych goździków (czyli 4x(n) = 3n)... (1)  
+- 200 różowej lilii, pięć razy więcej niż białych goździków (czyli 5x(m) = 4m)... (2)  
+Istnieją dwa problemy:  
+- Dostawa czerwonych róż do 17:00... (3)  
+- Liczba czerwonych róż, które muszą być dostosowane do Sandry przed piątą... (4)
+Mnożąc równania (1) i (2) otrzymamy:  
+(3x + 200) / 5 = 3n... (5)  
+(4x - 200) / 5 = 4m... (6)
+Wyróżniając $ \text{x} $ w obu równaniach i podzielając je przez 5 otrzymamy:  
+$ \frac{\text{x}}{5} = \frac{\text{3n}}{\text{3}} = \text{n} $... (7)  
+$ \frac{\text{x}}{5} = \frac{\text{4m}}{\text{4}} = \text{m} $... (8)
+Zatem ilość czerwonych róż, które muszą być dostosowane do Sandry przed piątą, to:  
+$ \boxed{\text{n}} $... (9)
+Odpowiedź: $ \boxed{\text{n}} $."
+"Response: 
+1. Dlaczego Jean jest o dwa lata starszy od Marka? Oczywiście z powodu że Jean ma 2 lata więcej niż Mark.
+2. Dopiero teraz mamy do conhecja, że dwanaście lat temal Jean miał 30 lat. Tzn. Jean miał 30 lat - 12 lat = 18 lat.
+Oczywiście jeśli Jean ma 18 lat, to ile ma Jean?!  Answer:  Jean has 18 years old."
+Response:  Zespół A przebiegł 400 metrów w 55 sekund, co oznacza, że jego czas próby indywidualnej wynosi 55 sekund x 4 = 220 sekund.  Zespół B przebiegł 400 metrów w 60 sekund + (3 sekundy/biegacz) x 4 = 240 sekund. W ten sposób, zespół A wygrał o 20 sekund.
+"Response: 
+1. Rzuca Jerry sześcioboczna kostka i otrzymuje liczbę 4. Czy jest to większa lub mniejsza niż 3?
+2. Jeśli rzucona liczba była mniejsza niż 3, to musi być to jedna z dwóch parzystych liczb z rzędu (0 lub 2). Tyleż nie ma możliwości, aby rzucić dwie różne parzyste liczby z rzędu razem. Dlatego pomimo tego, że Jerry rzucił liczbę 4, nie ma większej prawdopodobieństwa, aby rzucił dwie parzyste liczby z rzędu niż liczbę większą niż 3.
+Odpowiedź: 0,6%
+
+Wynika z tego, że pomimo rzucia liczby 4, które jest mniejsza niż 3, nie ma większej prawdopodobieństwa, aby rzucić dwie parzyste liczby z rzędu niż liczbę większą niż 3."
+Response:  Jenna zebrała połowę jabłek od swojej mamy, co oznacza, że Jenna zebrała 10 jabłek (połowę 20). Teraz mama dostała 20 jabłek. Oto ilość jabłek, które zebrali obydwoje: Jenna - 10 jabłek + mama - 20 jabłek = 30 jabłek.
+"Response: 
+W sklepie są trzy klatki z szczurami, każda z nich ma 10 szczurów (w sumie 30 szczurów). W każdej klatce jest 6 kawałków słomy dla każdego szczura (w sumie 60 kawałków słomy dla wszystkich 30 szczurów).
+Teraz mamy do czynienia z chomikami - w jednej z klatek jest 10 chomików, każdy z nich otrzymuje 5 kawałków słomy (w sumie 50 kawałków słomy dla wszystkich 10 chomików).
+Ostatnio mamy do czynienia z królikami - w jednym z pomieszczeń jest 20 królików, każdy z nich otrzymuje 2 kawałki słomy (w sumie 40 kawałków słomy dla wszystkich 20 królików).
+Sumując, mamy łącznie 60 + 50 + 40 = 150 kawałków słomy.
+Jeśli więc 160 kawałków słomy zostało rozłożonych na małe gryzonia, to ile szczurów znajduje się w każdej klatce?
+Odpowiednia ilość szczurów to 30/150 = 0,2 lub 2 szczury w każdej klatce."
+"Response: 
+Mandy musi zapłacić Benedictowi 100 dolarów zaległy odsetek. Odsetek to 2% (wysokość odsetku x liczba miesięcy) = $2 (odsetek x 3 miesiące). 
+Teraz musimy wyliczyć ilość pieniędzy, które Mandy musi zapłacić Benedictowi. Ilość pieniędzy = $100 + $2 = $102. 
+Oczywiście mogę używać innych metod do rozwiązania tego problemu, ale ten sposób jest jednym z najprostszych i najbardziej intuitywnych."
+"Response:  Handlowiec kupił kilka worków pszenicy od rolniksa za 20 dolarów za worek.  Jeśli przewóz każdej torby z farmy do magazinosa kosztuje 2 dolary, to cena transportu dla jednej torby będzie wynosić 2 dolary.  Kupiec sprzedał wszystkie torby po 30 dolarów za sztukę, dlatego dochód z każdej torby wyniesie 30 dolarów.  W sumie handlowiec sprzedał x torb, ponieważ pomimo że nie wiemy dokładnie ilu worków pszenicy kupił,知道 that he sold all of them.  To solve for x, we can set up the equation:
+
+30x = 400
+
+Now, let's simplify and solve for x:
+
+x = 13
+
+So, the handworker bought and sold 13 bags of wheat."
+Response:  Przyjaciele wydaли łącznie $20,25 na bilety. Miały one również $4,50 left over for food (czyli $4,50 - $33 = $1,40). So each friend paid $6,875 ($20,25 / 3) for the trip.
+Response:  John zbiera brzoskwinie przez 3 godziny.  Jeśli może zbierać 2 brzoskwinie na minutę, to w 1 godzinie zebrałoby się 2 x 60 = 120 brzoskwini.
+Response:  Jeśli kaczki muszą jeść 3,5 funty (280 gramów) owadów tygodniowo, to w jednym dniu (tj. 24 godzin) potrzebują one 1/7 częstości funta (czyli ok. 40 grams). Tym samym, jeśli jest stado dziesięciu kaczek, potrzebują one dziennie ok. 400 grams (lub 0,4 kg) owadów.
+Response:  Tom sadzi 10 drzew rocznie, co oznacza, że w pierwszym roku ma 10 drzew. Rok później, gdy wycina 2 drzewa, ma już 12 drzew (10 + 2). W drugim roku wycina 2 drzewa, więc teraz ma 10 drzew (10 - 2). Taki proces kontynuuje się przez kolejne 9 lat, aż do 10-letniej przerwy, kiedy to Tom umiera 30% drzew. Wówczas ma on 50 drzew (10 x 5 = 50), z których wycina 2 drzewa, co oznacza, że teraz ma ich 48. W ósmym roku ma 48 drzew, ale wycina 2 drzewa, więc teraz ma ich 46. W dziewiątym i dziesiątym roku nie wycinane są drzewa, ponieważ Tom już nie sadzi nowe. Ostatecznie ma 46 drzew.
+"Response: 
+W piątek rano sąsiedzi umieścili 18 różowych plastikowych flamingów na podwórku Sue. W sobotę rano sąsiedzi zabrali jednej trzeciej flamingów (6 flamingów) i pomalowali je na biało. Teraz na podwórku przed domem Sue jest 12 różowych plastikowych flamingów. 
+W niedzielę rano do kolekcji dodano kolejnych 18 różowych plastikowych flamingów. Po tym, co się stało, teraz na wolności jest ich 30. 
+Oczywiście, w niedzielę w południe było jeszcze większej ilości różowych plastikowych flamingów niż białych, ponieważ sąsiedzi nie mieli już flamingów na podwórku Sue, które one zabrały w sobotę. 
+Teraz odezwiam się na pytanie: w niedzielę w południe, ile więcej różowych plastikowych flamingów było na wolności niż białych?  Odpowiedź: 30 - 6 = 24. 
+Zatem w niedzielę w południe było 24 różowych plastikowych flamingów na wolności, a ich liczba była większa niż liczba białych flamingów."
+Response:  Wydaje się, że Violetta chce kupić 10 kredek (5 x 2 = 10). Jej budżet to 20 dolarów, co oznacza, że może kupić 20/2 = 10 kredek. Tyle jest już drobnych!
+Response: 8 długopisów = 8 x 1,20 dolarów = 9,60 dolarów.
+Response: 200 funtów marchewki = 200 kg marchewki. Mamy do rozdziału 40 restauracji na ilość marchewki, którą każda otrzyma. Jeśli przyjmiemy, że każda restauracja otrzymuje 2 funty marchewki (czyli 2 kg), to: 200 kg marchewki / 40 restauracji = 5 kg marchewki na jedno restaurant. Tzn. 160 kg marchewki pozostałych będzie dostarczać na 32 restauracje (32 x 5 kg = 160 kg).
+Response:  W mieście Soda mieszka łącznie 23786 mieszkańców, z tego: 8417 mężczyzn i 9092 kobiety. Dzieci są resztą populacji. Według danych z pytania, reszta populacji to 85% populacji miasta (tj. 1969 dziewczynek). Jeżeli więc uwzględnić tylko dorosłych, to ich ilość wynosi: 8417 + 9092 = 17509 mieszkańców. Aby znaleźć ilość dzieci, musimy odebrać resztę populacji od liczby dorosłych. Reszta populacji to 17509 - 1969 = 15540 mieszkańców. Tylko jedno rozwiązanie daje ilość 15540 dzieci w mieście Soda.
+"Response: 
+W pierwszym miesiącu Elaine miała 20 kart Pokemon, a potem zebrała trzykrotnie więcej - co oznacza, że teraz ma 60 kart (20 x 3). 
+W drugim miesiącu zebrała o 20 kart mniej niż w pierwszym, co oznacza, że teraz ma 40 kart (60 - 20). 
+W trzecim miesiącu zebrała dwa razy więcej kart pokemonów niż w pierwszym i drugim miesiącu razem razem - co oznacza, że teraz ma 80 kart (40 + 2 x 20). 
+Oczywiście, musimy również liczyć karty zebrane w poprzednich miesiącach, ale teraz Elaine ma już 80 kart, dlatego jej całkowita ilość kart Pokemon to: 80 + 20 = 100 kart. 
+Teraz odpowiedź na pytanie jest: 100."
+"Response: 
+Mark edytuje 1000 zdań każdego tygodnia i otrzymuje od dwóch wydawców:
+* Wydawca A - 5 centów na jedno zdanie = 5 x 1000 = 5000 centów
+* Wydawca B - 2 razy więcej niż Wydawca A = 2 x 5 centów = 10 centów
+W sumie Mark zarabia: 5000 + 10 = 5010 centów w tygodniu."
+Response:  Baldur bierze wodę ze studni co 24 godziny (1 ranka = 24 godziny). Co 5 wiadrów wody otrzymuje on co 5 godzin (1 ranka = 5 godzin). Co 6 wiadrów wody otrzymuje on co 6 godzin (1 ranka = 6 godzin). Ile litrów wody dostaje każdego dnia? Litrów wody dostaje on co 5 + 6 = 11 godzin dziennie. Tzn. 5 litrów wody dziennie.
+"Response: 
+1. John dostaje nagrodę w pracy - określam ilość nagrody (5000 $) + podwójna procentualna podwyżka wynagrodzenia (5%) = 5000 x 1,05 = 4750 $
+2. Każdego tygodня w roku John dostaje 2000 $ - to otrzymuje on w sumie 2000 x 52 = 104000 $ w ciągu roku
+3. Ile pieniędzy zarobił John w tym roku? - pomnożenie 104000 $ przez 50% = 52000 $
+Odpowiedź: John zarobił w tym roku 52000 $."
+"Response: 
+Josie uprawia winogrona na swojej farmie. Akr produkuje 5 ton winogron rocznie. A każda tona winogron daje 2 beczki wina. To oznacza, że z jednego akra produkuje się 2beczki wina.
+Istnieją dwa akry na farmie Josie. Oto ilość winogron, które produkuje jej gospodarstwo rocznie:
+2 x 5 = 10 tons of grapes per year x 2 barrels/ton = 20 barrels of wine per year.
+Odpowiedź: 20 barrels of wine per year."
+Response:  Carl jadł ser na kanapki trzy razy w tygodniu. Na każdy raz jadł 2 kawałki sera. Oznacza to, że jadł on 6 kawaleksera (3 x 2 = 6) w tygodniu. Dodajmy do tego 4 kawałki sera, które użył do preparatu z makaronów i sera. Otrzymamy ogółem 10 kawalekoseru (6 + 4 = 10).
+Response:  Janet miała 22 zielone i 10 żółtych długopisów. To razem 32 długopisy.  Jej nowe kupycie 6 worków niebieskich długopisów oznacza, że dodaje do już posiadanych 32 długopisów.  Totoro suma to 64 długopisy.  A teraz kupuje 2 worky czerwonych długopisów, które są 6-ciosami.  Dlatego Janet ma obecnie 64 + 6 = 70 długopisów.
+Response:  Wyniki Brinley's na poprzednich testach to: 89, 71, 92, 100 i 86.  Jego obecny wynik na szóstym testie musi być większy niż jego najniższy wynik z poprzednich pięciu testów, tj. 71.  Zatem jego nowy wynik powinien być co najmniej 71 + 1 = 72.  Dlatego Brinley potrzebuje wyniku 72 na szóstym testie, aby uzyskać średnią 93.
+"Response: 
+W pierwszym tygedzu Michael jeździał na rowerze co najmniej 5 razy i robił 25 km na każdy wyjazd. W sumie więc jeździł 125 km (5 razy 25 km). 
+W drugim tygedzu Michael jeździał na rowerze tylko dwa razy w tygodniu, ale za każdym razem przez 60 km. W sumie więc jeździł 120 km (2 razy 60 km). 
+W trzecim tygedzu Michael jeździał na rowerze także tylko dwa razy w tygodniu, ale już nie tak daleko jak poprzednio - tylko 60 km na każdy wyjazd. W sumie więc jeździł 120 km (2 razy 60 km). 
+Oczywiście musimy liczyć i wszystkie te dystanse, aby znaleźć ogółem ilość kilometrów, które Michael przejechał. 
+Tak więc Michael przejechał łącznie 475 km (125 + 120 + 120)."
+"Response:  Worek Joe'a ma 25 batony czekoladowych i 80 cukierkowanych jabłek. Baton czekolady waży 40 gramów, a cukierkowane jabłko waży 16 gramów (dla porównania - 1/2 batona czekolady waży 80 gramów).  
+Teraz sumujemy masę wszystkich cukierków i batoniów w worku Joe'a:  
+Masa batoniów czekoladowych = 25batonów x 40g/baton = 1000g  
+Masa cukierkowanych jabłek = 80jabłówek x 16g/jabłówek = 1280g  
+Masa entire worka Joe'a = 1000g + 1280g = 2280g  
+Oczywiście, jeśli chcesz dowiedzieć się, ilu gramów waży worek cukierków Joe'a, musisz podzielić masę entire worka przez 1000 (lub inną jednostkę miary, która sprzedawana jest w twoim kraju).  
+Wynikiem tej operacji jest: 2280 g / 1000 = 2,28 kg."
+"Response: 
+Rose went to the shop on Monday and bought 4 bread rolls. On Tuesday, she went to another shop and bought three times more bread rolls than she had bought on Monday. Then, on Wednesday, she went to yet another shop and bought five times as many bread rolls as she had bought on Tuesday. How many bread rolls did she buy in total over those three days?"
+"Response:  Dwadzieścia tuzinów kubków kosztuje:  
+Dwadzieścia × 10 = 200 dolarów  
+Koszt jednego kubka to:  
+200 dolarów / 20 = 10 dolarów na kubek  
+Pół tuziny talerzy sprzedaje się po 6000 dolarów za sztukę, co means that the cost of one taler is:  
+6000 dolarów / 2 = 3000 dolarów na taler  
+Całkowity koszt zakupu jednego kubka jest równy:  
+10 dolarów + 3000 dolarów = 3010 dolarów
+Oczywiście, może być jeszcze kilka innych sposobów na obliczenie całkowitego kosztu zakupu kubka, ale ten jest jednym z najprostszych i najbardziej poprawnych."
+"Response: 
+Sara ma już 10 dolarów na ubezpieczenie, więc musi jeszcze 20 dolarów (koszenie trawnika) lub 40 dolarów (opieka nad dzieckiem x 4) aby mieć wystarczająco dużo, aby kupić kurtkę i buty."
+Response:  Jerry zbiórzy 42 jaja dziennie. Jeśli ma dwa więcej białych kurczaków niż czerwonych, to ile ma czerwonych kurczaków? Białe kurczaki produkują 5 jaj na dzień, co oznacza, że w sumie produkują 5 × 7 = 35 jaj na dzień. Oto jak wygląda situacja:  Czerwonego - 42 + 35 = 77 Kurczaków Białych - 42 + 35 = 77 Kurczaków Wiemy teraz, że Jerry ma 77 kurczaków.
+Response:  Gary chce chodzić po krawędzi parku, który ma długość 1,5 km (wysokość parku). Prędkość chodzenia to 5 km/h. Czas potrzebny na chodzenie na jednym kroku zależy od długości kroku. Jeśli krok liczy się w milach - to 1000 metrów = 1 km. Wtedy czas potrzebny na chodzenie na 1 km to: 5 km/h x 1 km = 5 h. Tzn. Gary będzie chodził przez 5 godzin.
+"Response:  Dniem poprzednim był ten, w którym liczyła Sloane 100 klientów. Tylko o jednym dniu później miała ona 50 większa liczbę klientów. To znaczy, że w drugim dniu liczyła ona 150 klientów (100 + 50).  Jej liczba klientów rosła o 50 na każdy kolejny dzień.  Oto jak wyglądało to:
+Dniem poprzednim - 100 klientów, dzieniem przed nim - 150 klientów, a dzieniem tym - 200 klientów.  Oczywiście, jeśli liczyła ona 50% więcej klientów w trzecim dniu niż w drugim, to jej lista klientów powinna liczyć 300 klientów (200 + 100)."
+Response:  W wielkim basenie jest 8 galonów na minutę (2 razy 4 galony). W małym basenie jest 4 galony na minucie. Jeśli masz dwa baseny i łącznie 8 galonów na minutę, to w sumie majesz 16 galonów na minutę. A jeśli mały basen miał 4 galony na minucie, to teraz ma 4/3 galonów na minutę (gdyż mały basen miał tylko jedno rackoj). Tylko trzy razy więcej wody w wielkim basenie niż w małym.
+Response:  Lori chce kupić buty za 320 dolarów i pas paska za 32 dolary. Jej praca na pół etacie zarabia jej 8 dolarów na godzinę. Aby obliczyć, ilu godzin będzie musiała pracować, zanim będzie mogła dokonać zakupu, należy wyznaczyć, jaka część kosztuje się cały zakup. Całkowity koszt zakupu to: Buty - 320 dolarów + Pas paska - 32 dolary = 352 dolary. To oznacza, że Lori musi trabajować: 352 dolary / 8 dolarów/godzina = 44 godziny.
+Response:  Janeth ma już 2000 dolarów na koncie, a musi ich zwrócić wraz z dodatkiem 10%. Aby wyliczyć, jaka ilość będzie musiała zapłacić miesięcznie, należy podzielić sumę, która musi być zwrócona, przez liczbę miesięcy, w których musi zapłacić. W tym przypadku:  Suma, która musi być zwrócona = 2000$ + (10% x 2000$) = 2300$ Dlaczego?:  Musimy teraz podzielić tą sumę przez liczbę miesięcy, w której Janeth musi zapłacić:  Podzielenie = 2300$ / 12 miesięcy = 190 dolarów miesięcznie.
+Response:  W wazonie są cztery róże, co oznacza, że ich łączna ilość to 4 × 1 = 4.  Jest 7 dalliów więcej niż róż w wazonie, co oznacza, że ilość róż to 4 + 7 = 11.  Oto jakąkolwiek odpowiedź numeryczną na ten pytanie: 11.
+Response:  Adrian jest trzy razy starszy od Harriet, co oznacza, że jego wiek wynosi 3xHarriet = 3(24) = 72 lat.  Harriet ma teraz 21 lat, co oznacza, że jej wiek wynosi 21 - (3xAdrian) = 21 - 72 = -51 lat.  Zatem średni wiek Adriana i Harriet wraz z Zackiem wynosi -51 + (-51) + 21 = 0 lat.
+"Response: 
+Yuri zdobył 10 punktów więcej niż Naomi, oznacza to, że Naomi zdobyła x punkty, a Yuri zdobył x + 10 punktów.
+Brianna zdobyła 17 punktów więcej niż Naomi, co oznacza, że Naomi zdobyła x punkty, a Brianna zdobyła x + 17 punktów.
+W sumie czterech uczniów zdobyło 251 punktów, co oznacza, że każdy z nich zdobył x / 4 punktów.
+Oto nasze rozwiązanie:
+x = 251 \* 4 = 1004
+Jojo zdobył x - 39 punkty (gdyż Naomi zdobyła 68 punktów).
+Odpowiedź:  X = 1004 i Jojo zdobył 68 - 39 = 29 punkty."
+Response:  Carmen rozwiązała 3 krzyżówki, co trwa 10 minut x 3 = 30 minut. Następnie rozwiązała 8 sudoku, co trwa 5 minut x 8 = 40 minut. Ogólny czas, jaki Carmen spędziła na grach to 30 + 40 = 70 minut.
+"Response: 
+Celine użyła 90 litrów wody z zbiornika, co oznacza, że teraz w zbiorniku jest już tylko 30 litrów wody (120 - 90 = 30)."
+Response:  Andy posiadał initially 90 geraniów i 40 petuniów, co daje razem 130 kwiatów. Wtedy sadził 60 kwiatów mniej niż hadłował (90 - 60 = 30). Dlatego Andy posiadał 30 kwiatów w sumie.
+Response:  Firmę wydaje $ 15000 dolarów na reklamę w ciągu roku, co oznacza, że spędzi ona $ 15000 \* 2 = $ 30000 dolarów na reklamę w dwóch latach.
+Response:  Carlos używał łodzi przez 3 godziny, co oznacza, że zapłacił za jej wynajem 30 dolarów x 3 godziny = 90 dolarów.  Benji używał tratwy na łódź bananowej przez 5 godzin, co oznacza, że zapłacił za jej wynajem 18 dolarów x 5 godziny = 90 dolarów. W sumie, obaj zapłaczyli razem 180 dolarów.
+Response:  Jeśli chodzi o podróż autobusem z New Jersey do Rochester, to trwa ona 6 dni. A jeśli chodzi o podróż samochodem z Rochester do New Jersey, to trwa ona pół dnia. To znaczy, że jeśli Andrew jede na wycieczke autobusem z New Jersey do Rochester i potem powrotnie samochodem, to będzie podróżował 5 dni (6 - 0,5 = 5).
+Response:  James ma 30 kart typu ognia, co oznacza, że ma 70% szans na, aby losowo wybrana karta była typu ognia.  Jeśli straci 8 kart typu wody, to jego ilość kart typu wody zostaje zmniejszone do 60%.  Wówczas ma on 70% szans na,aby losowo wybrana karta była typu wody.  Gdy kupuje 14 kart typu trawy, to jego ilość kart typu trawy zwiększa się do 54.  Ma on już 70% szans na,aby losowo wybrana karta była typu wody, ale teraz ma także 26% szans na,aby losowo wybrana karta była typu trawa.  Zatem procent szansy na,aby losowo wybrana karta byłaby typu woda to 70%.
+Response:  Chad miał 6,50$ na swoją porcję burritoa, plus 2$ za dodatkowe mięso, 1$ dla dodatkowego serwisu awokada, 0,25$ dla drugiego sosu, a także 3$ za frytki i drink. W sumie ma on zapłacić 9,75$. Jedyne, że ma kartę na 5$, oznacza, że ma 4,75$ nadwyżki.
+"Response: 
+Kalinda może dodać 4 kawałki na minutę, co oznacza, że w ciągu jednej minuty dodaje ona 4 kawałków.
+Jeśli jej mama umie umieścić połowę tyle sztuk na minutę co Kalinda, to dla niej będzie to połowę 4 = 2 kawałki na minutę.
+W ten sposób Kalinda i jej mama będą mogły ukończyć układankę w czasie 1/2 \* 60 = 30 minut."
+Response:  Ashlyn pobrała 30% arbuzów z farmy, co oznacza, że pozostawiła na farmie 70%. Gdy wróciła dwa tygodnie później, 3/4 pozostałych arbuzów były gotowe, co oznacza, że 75% arbuzów było jeszcze niegotowanych (3/4 x 70%). Tylko 25% arbuzów nie było jeszcze gotowanych po dwóch tygodniach.
+Response:  Mark kupuje dla swojej firmy flotę 12 samochodów. Cena każdego samochodu to 20 tysięcy dolarów, co oznacza, że cała suma kosztuje 240 tysięcy dolarów (12 x 20 000). Następnie płaci 10% podatku na tenmount, co daje 24 000 dolarów (20 000 x 10%). Ostatnią kosztą jest rejestracja każdego samochodu, która kosztuje 1000 dolarów. W końcu Mark zapłaci łącznie 364 000 dolarów (240 000 + 24 000 + 100 000).
+Response:  W poniedziałek Kylie zbiera 5 więcej pocisków niż Robert, co oznacza, że Kylie zbiera 7 pocisków (5 + 2 = 7).  W we wtorek Kylie zbiera dwa razy więcej muszli niż w poniedziałek, co oznacza, że Kylie zbiera 14 muszli (7 x 2 = 14).  Oczywiście, Robert również zbiera muszle, ale nie ma informacji o ilości muszli, które zebrał.  Dlatego odpowiedź na pytanie to 14.
+Response:  Dax znalazł połowę mniejszą ilości robaków niż mrówek. To oznacza, że jeśli było 50 mrówek, to ilość robaków była równa 25 (połowę 50).  Całkowita ilość owadów w ogrodzie to 75 (50 mrówek + 25 robaków).
+Response:  W śnieгу są 36 pingwinów, które opalają się.  Jedna trzecia z nich (12 pingwinów) wskoczyła i pływa w oceanie. Oto ilość pingwinów, które już nie opalać: 36 - 12 = 24.
+"Response:  Steve postanawiał zacząć jeść więcej pomidorów i uprawiać własne pomidory wiśniowe.  
+1. Postanowił jedziemy dwa razy więcej niż jego dziewczyna.  
+2. Jedyście sześć razy dziennie.  
+3. Winorośl może wyprodukować 3 pomidory tygodniowo.  
+Oczywiście, musimy znaleźć ilość winorośli, która pozwoli na produkcję 3 pomidorów tygodniowo.  
+Ilość winorośli = Produkt ilości dni w tygodniu x Iloczyn ilości pomidorów produkowanych przez winorośl na jeden dzień  
+= (6 dni) x (3 pomidory/dzień) = 18 winorośli  
+Teraz mamy odpowiedź na nasze pytanie! Ilość winorośli, które Steve potrzebuje do produkcji 3 pomidorów tygodniowo to 18 winorośli."
+Response:  John chce podzielić pizzę między 20 przyjaciół. Aby to zrobić, musi zamówić taką ilość pizzy, aby każdy miał 4 kawałki. Jeśli licznikiem startowym będzie 1, to musimy podzielić 20 przez 4, co daje 5. Tzn. John musi zamówić 5 pizzy.
+Response:  Ram miał już 25 długopisów i chciał użyć ich do produkcji nowych. Miał on również pięć pustych długopisów, które chciał wykorzystać do produkcji jednego pełnego. Atrament potrzebowałby na produkcję dwudziestu pięciu nowych długopisów. Tymczasem, jeśli użyje pięć pustych długopisów razem z pięcioma nowymi, otrzymuje onch trzydzieści długopisów. W ten sposób otrzymuje on w sumie trzydzieści plus dwadzieścia piąty długopisów (30 + 25 = 55).
+Response:  Johnny począł z 20 dollary (tj. 20 $). Dodał do niej kolejne 10 dollarów, co daje 30 dolarów. Potem zainwestował te 30 dolarów, które w ciągu roku potroiły się. W końcu roku miał on 60 dolarów.
+Response:  Mary jest o dwa lata młodsza od Joan, co oznacza, że Mary ma 18 lat (Joan - 2 = Mary).  Jessy ma 20 lat, a Joan ma 5 lat starszeństwo niż Jessy, co oznacza, że Joan ma 25 lat (Jessy - 5 = Joan).  Zatem suma wieku trzech dziewczynek to:  Mary - 18 + Joan - 25 + Jessy - 20 = 63 lat.
+"Response: 
+Liczba uczniów w sali szkolnej wyniosla 1000. 
+Suma trzech procentów (30%) zaczynać będzie liczyć się z całą liczbą uczniów. 
+30% uczniów = 300 uczniów
+Oczywiście nie mają one jednocześnie wyjść A,B i C, bo to samo jest 3x(30%) = 90 uczniów.
+Teraz otrzymamy ilość uczniów, które opuściły budynek przez wyjście C:
+Ilość uczniów, które opuściły budynek przez wyjście C = 1000 - 300 - 90 = 610 uczniów."
+Response:  James ma sześć więcej cukierków niż Robert, co oznacza, że James ma 6 + 2 = 8 więcej cukierków niż Robert.  John ma dwa razy więcej cukierków niż Robert, co oznacza, że John ma 2 × 8 = 16 więcej cukierków niż Robert.  Jeśli John ma 54 cukierki, to różnica pomiędzy ilością cukierków Johna a ilością cukierków Roberta jest równa: 54 - 16 = 38.  Tylko James ma więcej cukierków niż James, ponieważ James ma 8 więcej cukierków niż Robert, a nie James.  Odpowiedź: 38.
+Response:  Dolly ma dwie książki, oznaczone symbolem A i B. Pandora ma jedna książkę, oznaczona symbolem C. Gdy Dolly i Pandora czytają swoje książki siebie nawzajm, to razem będączytać trzy książki. Oto ilość książek, które będą razem czytać do końca: 3 (A + B + C).
+"Response: 
+Mike jest przyjacielem koresondencyjnym z pięciu osób i dostaje od każdej z nich dwie listy tygodniowo (w sumie 10 listów). Aby obliczyć, ilu godzin Mike spędza na pisaniu, musimy wyznaczyć, jaka część czasu poświęca na pisanie dla każdej z pięciu osób.
+Czynnikiem tym, który pomoże nam rozwiązać problem, jest fakt, że każda lista ma 5 stron i Mike może pisać stronę co 6 minut. W ten sposób, jeśli Mike pisał listy dla każdej z pięciu osób, to miałoby on pobrać 5 x 5 = 25 stron na tydzień.
+Aby obliczyć, ilu godzin Mike spędza na pisanie, należy podzielić liczbę stron na czas, jaki poświęca na pisanie dla każdej z pięciu osób. Time spent writing for each person can be calculated by dividing the total number of pages written by the time it takes to write one page. In this case, if Mike writes 25 pages per week, and it takes him 6 minutes to write a page, then he spends 25 pages / 6 minutes per page = 4 hours and 15 minutes writing per week for each of the five people. Therefore, Mike spends a total of 5 x 4 hours and 15 minutes = 20 hours and 30 minutes writing per week."
+Response:  Jason ma plan telefoniczny na 1000 minut miesięcznie. W każdym dniu ma 15-minutową rozmowę z szefem, co oznacza, że w ciągu miesiąca ma on rozmawiać z nim łącznie 45 minut (15 minut na dzień x 30 dni). Dodatkowo, w tym miesiącu miał 300 dodatkowych minut rozmowy z innymi ludźmi, co oznacza, że w sumie ma on rozmawiać z innymi ludźmi 300 + 45 = 345 minut. W związku z tym, jeśli miesiąc ma 30 dni, to Jason otrzymał razem 345 minut - 1000 minut, co jest równe 655 minutom.
+Response:  Billy wziął dwa razy więcej niż Kyle, co oznacza, że Billy wziął 2 \* 5 = 10 frytków.  Ginger dała Griffinowi garstkę frytek, co oznacza, że Griffin pozostałych 17 frytków.  Colby wziął od Griffina 3 mniej niż Kyle, co oznacza, że Colby wziął 3 - 5 = -2 frytki.  Oto ilości frytków, które poszczególni ludzie otrzymali:  Billy - 10, Ginger - 1, Griffin - 17, Colby - -2.  Jeśli Griffin miał 27 frytek, to Ginger dała mu 1 + 17 = 18 frytek.
+"Response: 
+W pierwszym akwarium są 4 ślimaki, a w drugim 32. Jeśli różnica między liczbą ślimaków w dwóch akwariach jest dwukrotnie większa niż ilość ryb w obu akwariach, to oznacza to, że w drugim akwarium jest 32 × 2 = 64 ryb.
+Jeśli w obu akwariach jest taka sama liczba ryb, to ile jest ryb w każdym? Dla rozwiązania pytania musimy znaleźć ilość ryb w pierwszym akwarium.
+Ilość ryb w pierwszym akwarium to 4 + 64 = 68 ryb.
+Oczywiście, jeśli chcesz rozwiązać ten problem samodzielnie, czekaj na odpowiedź!"
+Response:  Malarka dżinsów pobiera od niej 250 dolarów za godzinę. Jej pracą jest dostarczać makijaż dla filmu, co trwa 6 godzin dziennie i 4 razy w tygodniu. W sumie, w ciągu 5 tygodni filmu, Jean zapłaciłoby 3750 dolarów (6 godziny/dziennie x 4 razy/tygodnia x 5 tygodni). Następnie, makijażysta daje Jean 10% zniżki, co oznacza, że Jean zapłaciłaby 3375 dolarów (3750 dolarów - 10% zniżki).
+"Response: 
+Isabelle spends $12 on ingredients for the cake, $43 on gifts, $15 on decorations, $4 on invitations, and $22 on gift bags for guests. Let's divide these costs equally among her parents.
+
+So, if we divide $120 (the total cost of the party) by 3 (the number of people who contributed), each person would pay:
+
+$120 / 3 = $40
+
+Therefore, Isabelle's mother paid $40, and her father paid $40 as well."
+Response:  Szef kuchni kupił 4 worki cebuli. 4 x 50 = 200 funtów cebuli.  Koszt cebuli na 1 kg = $1,5.  Zatem koszt cebuli dla szefa kuchni wynosił $300 ($200 x 1,5).
+Response:  W poniedziałek Sue zjadało 4 razy więcej ciasteczek niż jej siostra, co oznacza, że Sue zjadło 4 x 200 = 800 kalorii więcej niż jej siostra.  W wtorek Sue zjadało 2 razy więcej ciasteczek niż jej siostra, co oznacza, że Sue zjadło 2 x 200 = 400 kalorii więcej niż jej siostra.  Jej siostra zjadła łącznie 5 caltorek w poniedziałek i 13 caltorek w kolejny dzień, co oznacza, że jej siostra spożyła łącznie 5 x 200 + 13 x 200 = 1650 kalorii.  Oto suma kalorii, które spożyły Sue i jej siostra:  Sue - 800 + 400 = 1200 kalorii.  Siostra - 1650 kalorii.  Oczywiście, jeśli Sue spożyła 1200 kalorii, a jej siostra 1650 kalorii, to Sue spożyła 1200 - 1650 = -450 kalorii więcej niż jej siostra.

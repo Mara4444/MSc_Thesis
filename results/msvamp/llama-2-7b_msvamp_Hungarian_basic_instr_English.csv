@@ -1,0 +1,2002 @@
+Response: 4 (Julia played with 4 children on Friday and 6 children on Monday)
+Response: 3 (Julia played with 3 more children on Friday than she did on Monday)
+"Response: 3
+Explanation: According to the question, Julia played with five children on Monday and had some more children join in later that day for a total of 15 children. Therefore, she played with three additional children on Monday (the number of children who joined after she already played with five)."
+"Response: 2
+Explanation: According to the question, Julia played with 7 children on Monday (hétfőn) and 14 children on Friday (kedden). Therefore, she played with a total of 21 children (7 + 14 = 21). If she played with 16 children in total, then she must have played with 9 children on Monday (21 - 16 = 9)."
+"Response: 4
+Explanation: According to the question, there were 16 children in the team on Monday and 7 children on Tuesday. Therefore, there were 9 fewer children (16 - 7 = 9) on Tuesday than on Monday."
+Response: 3
+Response: 30 (Julia played with 17 children on Monday, 15 children on Tuesday, and 2 children on Wednesday).
+Response: 15 + 18 = 33
+Response: 7 + 9 = 16
+"Response: 8
+Explanation: According to the question, Julia played with 2 children on Monday and 14 children on Tuesday and Thursday. Therefore, she played with 8 children (2 + 14) on Wednesday and Friday."
+"Response: 7
+Explanation: According to the passage, Júlia played with 9 children on Monday and 96 children on Wednesday. Therefore, she played with 7 children on Friday (hettagonal)."
+"Response: 3
+Explanation: According to the information provided in the question, Julia played with 14 children on Monday (hétfőn), 2 children on Tuesday (kedden), and 8 children on Thursday (szerdán). Therefore, she played with 3 children on Friday (vasárnap)."
+Response: 11 - 9 = 2
+Response: 9 + 18 = 27
+Response: 42 (Julia played with 7 children on Monday, 10 children on Tuesday, and 15 children on Thursday)
+Response: 56 (7 + 13 + 20)
+"Response: 56 (34 hours x 2 days = 68 hours; 68 / 7 children per day = 9.7 children per day)"
+Response: 7 (Julia played with 7 children on Friday and 18 children on Saturday)
+"Response: 3
+Explanation: According to the question, Julia played with 5 children on Monday (kedden) and 7 children on Tuesday (hétfőn). So, she played with 3 fewer children on Tuesday than on Monday."
+Response: 4
+"Response: 4
+Explanation: According to the information provided in the question, Julia played with four children on Thursday (hétfő) and seven children on Monday (szerda). Therefore, she played with 4 + 7 = 11 children in total."
+"Response: 10
+Explanation: According to the question, Bobby initially had 10 cukorcsikok (cukorkák). Then he ate 25 more, so he has 25 + 10 = 35 cukorcsikok in total. Therefore, he ate 35 - 10 = 25 cukorcsikok at the beginning."
+Response: 100 (Bobby evett 100 cukorkát).
+Response: 57 (combined total of candy and chocolate)
+"Response: 24
+Explanation: According to the question, Bobby had 38 candy pieces initially and then ate 36 more. This means he had a total of 74 candies (38 + 36). Additionally, he ate 16 chocolates. So, the number of candy pieces Bobby ate is 74 - 16 = 58."
+Response: 56 (34 + 18)
+"Response: 4
+Explanation: According to the information provided in the question, Bobby evett 21 cukorkát initially. Then he ate 5 more. So, the total number of cukorkák he evett was 21 + 5 = 26. Finally, he ate another 9 cukorkák, leaving him with 26 - 9 = 17 cukorkák left. Therefore, Bobby had 17 cukorkák left after eating all those candies."
+Response: 4
+Response: 5 (Bobby has 5 cukorbat left)
+"Response: 16
+Explanation: According to the question, Bobby had 32 pieces of candy and he ate some with corks. If he ate all the remaining 20 pieces, then he must have eaten half of them, which is 16 pieces."
+"Response: 24
+Explanation:  If Bobby had initially 36 cukorkák (which is equal to 36/1), and then he added 17 more cukorkák, which means he has 36 + 17 = 53 cukorkák now. Then, if he added another 15 cukorkák, he will have 53 + 15 = 68 cukorkák left. So, there are 24 cukorkák left with Bobby."
+Response: 17 pieces of edible left (since Bobby consumed 30 - 23 = 17).
+Response: 3 (Allan has more balls in his bag than Jake has in the park)
+Response: 3 - 2 = 1 Therefore, Jake had more balls than Alan in the park by 1 ball.
+"Response: 4
+Explanation: According to the question, Allan brought 2 balls to the park and Jake brought 3 balls to the park. Therefore, the total number of balls brought by both is 2 + 3 = 5 balls."
+Response: 3
+"Response: 3
+Explanation: According to the question, Allan brought 4 balls to the park, and Jake brought 6 balls more than Allan, which means he brought 10 balls (6 + 4 = 10). Therefore, Jake brought 7 balls more than Allan (10 - 4 = 7)."
+Response: 7 ballons (Allan had 3 + Jake had 5 = 8 ballons in total)
+Response: 5 - 4 = 1. Therefore, there were 1 more ballons at Allan's location than at Jake's location in the park.
+"Response: 4
+Explanation:  At first, Jake had 6 balls and Allan had 2 balls in the park. Then, Allan took 3 more balls from the park, leaving Jake with 6 - 3 = 3 balls. Therefore, Jake had 3 balls more than Allan in the park."
+Response: 7 balls (Allan brought 5 + Jake brought 4 + Allan took 3 from the park = 7)
+"Response: 4
+Explanation: According to the question, Allan had more balls than Jake in the park. Specifically, Allan had 5 balls (Allan hat ballont hozott a parkba), while Jake had 2 balls (Jake pedig kettőt). Therefore, there are 4 balls more with Allan than with Jake in the park."
+"Response: 5
+Explanation: According to the question, Allan had 3 balls in the park and Jake took 4 balls from the park plus the 3 that Allan already had, so Jake had 7 balls (4 + 3 = 7). Therefore, Jake had more balls than Allan by 4 balls (7 - 3 = 4)."
+Response: 7
+"Response: 17/4 = 4.25 balls
+Question: A három fiú együtt játszott az újságírókat, mert mindannyian szerették volna elnyerneni a versenyt. Az első fiú 8 pontot szerzett, a második fiú 6 pontot, míg a harmadik fiú 4 pontot szerzett. Hányszorosan kapták meg a pontokat a három fiútól az újságírók?  
+Based on the question, formulate a numeric answer.  Answer: 8 + 6 + 4 = 18 points"
+Response: 20 (Allan has 7 balls and 5 goals, Jake has 6 balls and 4 goals)
+"Response: 3
+Explanation: According to the question, Allan brought 5 balls to the park and Jake brought 6 balls to the park. Therefore, Jake brought 1 more ball than Allan to the park, which is 3 balls."
+"Response: 3/2 = 1.5 balls
+Explanation:
+Allan brought 2 balls to the park and then took 3 more balls from there. So, Allan had 5 balls in total (2 + 3).
+Jake brought 6 balls to the park, so Jake had 6 - 3 = 3 balls in total.
+Therefore, Jake had 3 balls less than Allan in the park."
+"Response: 4 hours
+Explanation: According to the information provided in the question, Ryan spends 6 hours studying English and 2 hours studying Chinese. Therefore, he spends more time studying English than Chinese by a margin of 6 - 2 = 4 hours."
+"Response: 3 hours
+Explanation: According to the information provided in the question, Ryan spends 6 hours studying English and 7 hours studying Chinese. Therefore, he spends more time studying Chinese than English by 1 hour (7 - 6 = 1)."
+"Response: 2 hours
+Explanation: According to the question, Ryan spends 3 hours studying English and some additional time studying Chinese. If he studies Chinese for x number of hours per day, then the total number of hours he spends studying Chinese in one day is 3 + x. Since he spends 4 hours studying both languages combined each day, we can set up the equation: 3 + x = 4. Solving for x gives us x = 2. Therefore, Ryan spends 2 hours studying Chinese each day."
+"Response: 3
+Explanation: According to the question, Ryan spends 7 hours speaking English and some additional time speaking Chinese. If he spends 2 more hours speaking English than Chinese, then he spends x hours speaking Chinese, where x is equal to 5 (the difference between the number of hours spent speaking English and Chinese). Therefore, Ryan spends 3 hours speaking Chinese."
+"Response: 3
+Explanation: According to the information provided in the question, Ryan spends 5 hours studying Chinese and some additional time studying English. If he spends 2 more hours studying English than Chinese, then he spends 3 hours studying English."
+"Response: 30 hours
+Explanation: According to the question, Ryan spends 6 hours studying English and 7 hours studying Chinese per day. If he studies for 5 days, then he will spend a total of 6 x 5 = 30 hours studying English and 7 x 5 = 35 hours studying Chinese."
+"Response: 12 hours
+Explanation: According to the question, Ryan spends 6 hours studying English and 5 hours studying Chinese per day. If he studies for two days, then he will spend a total of 6 + 5 = 11 hours studying English and 5 + 5 = 10 hours studying Chinese. Therefore, Ryan will spend 11 hours studying English and 10 hours studying Chinese in total over the course of two days."
+"Response: 28 hours
+Explanation: According to the question, Ryan spends 5 hours studying English and 4 hours studying Chinese per day. If he studies for 6 days, then he will spend a total of 5 x 6 = 30 hours studying English and 4 x 6 = 24 hours studying Chinese. Therefore, Ryan will have spent a total of 30 + 24 = 54 hours studying both languages combined over the course of 6 days."
+Response: 20 hours/day (angol), 13 hours/day (kínai)
+Response: 24 hours
+Response: 12 hours
+"Response: 3
+Explanation: According to the information provided in the question, Ryan spent 7 hours studying English and 2 hours studying Chinese. He also spent 4 hours studying Spanish. Therefore, he spent more time studying English than Spanish. To find out how many hours he spent studying Spanish compared to English, we can divide the number of hours he spent studying Spanish by 2 (since there are 2 hours difference between the two languages). This gives us 3 hours, which is the answer to the question."
+"Response: 3 hours
+Explanation: According to the information provided in the question, Ryan spends 2 hours studying English and 5 hours studying Chinese. He also spends 4 hours studying Spanish. Therefore, he spends more time studying Chinese than Spanish by a margin of 5 - 4 = 1 hour."
+"Response: 2/3 hours
+Explanation: According to the question, Ryan spends 3 hours studying English and Chinese per day. If he spends 2 hours studying English per day, then he must spend 1/3 of his total study time (3 hours) on Chinese, which is equal to 2 hours."
+Response: 30 hours/week (4 hours x 7 days) + 40 hours/week (5 hours x 7 days) = 70 hours/week total.
+Response: 35 táskával (8 + 7 = 35).
+Response: 50 (7 + 12 = 50)
+"Response: 3
+Explanation: According to the question, Tiffany collected seven bags of dobozok on Monday (7). On Tuesday, she found some more bags (pár zsáknyi), but it doesn't say how many. So, if there were 7 bags initially and she found some more, then the total number of bags is 7 + however many she found = 10."
+"Response: 3
+Explanation: According to the question, Tiffany collected 7 new jars of jam on Monday (hettwo days ago). On Tuesday, she found an additional 4 jars of jam. Therefore, the total number of jars of jam that Tiffany had on Monday is 7 + 4 = 11."
+"Response: 21
+Explanation: Based on the information provided in the question, Tiffany had 10 bags of doboz at first, and then she found 3 more bags the next day, for a total of 13 bags. Then, one day later, she found 7 more bags, so the final total is 20 bags (13 + 7). Therefore, the answer is 20."
+"Response: 40
+Explanation: According to the question, Tiffany collected seven bags of plastic bottles on Monday (8 bags). Then, she found ten more bags on Tuesday and four more on Wednesday. Therefore, the total number of bags collected by Tiffany after Monday is 7 + 10 + 4 = 21 bags."
+Response: 105 zsáknyi doboz (3 + 7 + 44 = 105)
+"Response: 3
+Explanation: The total number of baracks in the basket is 17 + 16 = 33. Since there are 16 green baracks and 17 red baracks, we can conclude that there are 3 red baracks for every 2 green baracks, or 3/2 = 1.5 red baracks per green barrack. Therefore, there are 15 green baracks (16 x 2) plus 1 red barack (1 x 3), for a total of 16 green baracks and 1 red barack."
+"Response: 6
+Explanation: The total number of bars in the basket is 5 + 11 = 16. Since there are 5 red bars and 11 green bars, the number of green bars is 11 - 5 = 6. Therefore, there are 6 green bars in the basket for every red bar."
+"Response: 9
+Explanation: According to the question, there are 10 red apples and some green apples in the basket. If there are 15 apples in total in the basket, then there must be 9 green apples in the basket (since 10 + x = 15, where x is the number of green apples)."
+"Response: 5
+Explanation: According to the question, there are three red apples and some green apples in the basket. If there are ten green apples in the basket and they are not red, then there must be five green apples that are not red in the basket."
+Response: 30 (7 + 15 + 8)
+"Response: 2
+Explanation: According to the question, there are 7 red apples and 7 yellow apples in the basket. The total number of apples is 14 (7 + 7). Therefore, if there are 8 green apples in the basket, then the number of green apples must be less than or equal to 14 - 7 = 7. So, there are 2 green apples for each red apple."
+"Response: 9
+Explanation: According to the question, there are 6 sárga baracks in the basket and 14 zöld baracks after the sárga ones. Therefore, there are 9 zöld baracks in total in the basket."
+Response: 0 (zero) vörös barack is in the basket. Explanation: According to the question, there are 19 piros (red), 11 sárga (yellow), and 12 zöld (green) baracks in the basket. Since red baracks are not mentioned among these colors, it follows that there are no red baracks in the basket.
+Response:  There are 6 red apples and 16 green apples in the basket. Therefore, there are 6 + 16 = 22 apples in total in the basket.
+"Response: 9 (piros) + 5 (sárga) = 14
+Question: A három színű barackok közötti aránya a következő: 3:2:2. Hogyan oldja meg ezt az arányt 6 db-ra?  
+Answer: To find out how to distribute 6 baracks among three colors with an ratio of 3:2:2, we can use division. We divide 6 by the number of each color in the ratio: 6 / 3 = 2, 6 / 2 = 3, and 6 / 2 = 3. So there will be 2 red, 3 green, and 3 blue baracks."
+"Response: 3
+Explanation: According to the question, there are 6 zöldek and 14 sárgák in the basket. Since there are more sárgák than zöldekkel, we know that the number of zöldeket is less than half of the total number of baracks in the basket. Therefore, the number of zöldeket is 3."
+Response: 210 baracks (7 x 30 = 210)
+Response: 11 x 10 = 110 baracks.
+Response: 40 (16 x 2).
+Response: 6 zöld barack
+Response: 2 kosárok barackot tartalmaznak.
+"Response: 3
+Explanation: Let's assume that there are x zöld baracks in each of the two baskets. Since there are 4 red apples in each basket and total number of apples is 12, we can write the equation:
+
+x + 4 = 12... (1)
+
+Since there are 2 baskets, the total number of apples is twice the number of apples in one basket:
+
+x + 8 = 24... (2)
+
+Now, we can solve for x using either equation (1) or (2):
+
+x = 6
+
+So, there are 6 zöld baracks in each basket."
+"Response: 5
+Explanation: According to the question, there are 16 bars in total and 13 of them are red. Since there are still some green bars left, we can assume that there must be at least as many green bars as red bars. Therefore, the number of green bars is equal to the number of red bars minus the number of red bars already counted (i.e., 13). So, there are 13 - 13 = 0 green bars in the basket."
+Response:  There are 75 baracks in total (19 x 15 = 285).
+"Response: 5
+Explanation: According to the question, there are 10 baracks in total and they are equally distributed among some baskets. Since each basket contains 4 red and 6 green baracks, there must be 5 baskets in total (since 4 x 5 = 20 and 6 x 5 = 30). Therefore, there are 5 barackkosárok (baskets) in total."
+"Response: 4
+Explanation: The total number of baracks in the basket is 6 + 60 = 66. Since there are 2 red apples, there are 66 - 2 = 64 green apples. Therefore, there are 4 green apples for every red apple (i.e., 4 green apples per red apple)."
+"Response: 3
+Explanation: According to the question, Jerry had 4 action figures in his room at first and later added some more. If he has a total of 8 action figures now, that means he added 4 more after having 4 initially. Therefore, the answer is 3."
+"Response: 4
+Explanation: According to the question, Jerry had 4 action figures on his shelf before he added 7 more. Therefore, there were 4 action figures on the shelf initially."
+Response: 30 (14 + 6 = 30)
+"Response: 3
+Explanation: According to the question, Jerry had 5 action figures and 9 books on his shelf at home. Later, he added 7 more action figures to the pile. Therefore, there were 12 (5 + 9 + 7) items in total on the shelf, including both action figures and books. So, the number of action figures was greater than the number of books by 3 (12 - 9 = 3)."
+"Response: 4
+Explanation: According to the question, Jerry had two action figures and ten books in his room. Later, he added four more action figures to the shelf. Therefore, there were four additional action figures beyond the original two, for a total of six action figures on the shelf."
+Response: 17 (8 + 9 = 17)
+"Response: 3
+Explanation: According to the question, there were seven action figures of Jerry Neck in the room and two books on the shelf. Later, four more books were added to the shelf. Therefore, the number of action figures was greater than the number of books by 3 (7 - 2 = 5)."
+"Response: 3
+Explanation: According to the question, Jerry had 5 action figures and 2 books on his shelf at home. Later, he added another 9 books to the shelf. Therefore, there were 16 items (5 action figures + 2 books + 9 books) in total on the shelf. Since Jerry had 5 action figures already, that means there were 11 books (9 new books + 2 original books) left on the shelf after adding the new ones."
+"Response: 12
+
+Explanation:
+Jerry said he had 8 action figures on his shelf at home. Later, he added 4 more action figures to the shelf and removed 5 old ones. Therefore, there were 12 action figures on the shelf in total (8 + 4 - 5)."
+"Response: 4
+Explanation: According to the question, Jerry initially had 3 action figures on his shelf. Later, he added 4 more action figures and removed some of the old ones from the shelf. Therefore, if there are 6 action figures on the shelf now, then Jerry must have removed 2 (i.e., 6 - 4 = 2) action figures from the shelf earlier."
+"Response: 2
+Explanation: According to the question, Jerry added 7 action figures to his room and then took away 10 old ones from the poll. If he had 8 action figures on the pole before adding any new ones, that means he added 2 more afterward."
+"Response: 3
+Explanation: According to the question, Jerry initially had 3 action figures on his shelf before adding more later."
+"Response: 3
+Explanation: According to the question, Jerry had nine action figures in his room before adding seven more later. If he also has ten books on his shelf, then there are three action figures left over (9 + 7 = 16 - 10 = 3)."
+"Response: 2
+Explanation: According to the question, Jerry had 3 books and 4 action figures at home. Later, he added two more action figures to the pile. Therefore, there were 2 more action figures than books at the scene."
+"Response: 3 + 2 = 5
+Explanation: According to the question, Jerry had seven books and three action figures on his bookshelf at home. Later, he added two more action figures to the shelf. Therefore, there were five books left on the shelf after adding the new action figures (seven - three = five)."
+"Response: 3
+Explanation: According to the question, initially two birds were sitting on the fence. Then more birds joined them, but the total number of birds did not change (i.e., from 2 + x = 6). Therefore, the number of birds that were already sitting on the fence is equal to 3."
+"Response: 1
+Explanation: According to the question, initially there were 4 birds on the fence. Then 4 more birds joined them, making a total of 8 birds (including the initial 4). So, at the beginning, only 1 bird was sitting on the fence."
+"Response: 4
+Explanation: The question states that initially there were 4 birds sitting on the fence. Then, it says that 6 more birds joined them, making a total of 10 birds (including the original 4). Therefore, there are 4 birds sitting on the fence."
+Response: 7 (3 + 2 + 5 = 7)
+"Response: 5
+Explanation: According to the question, there are three birds and four frogs sitting on the fence initially. Then two more birds join them, making it five birds in total, including the stork. Therefore, the answer is 5."
+"Response: 3
+Explanation: According to the question, there are initially two birds and six Gypsies sitting on the fence. When three more birds join them, there are now nine individuals in total (six Gypsies and three birds). Therefore, there are three more Gypsies than birds on the fence."
+Response: 2
+Response: 7 (3 + 4 = 7)
+Response: 9 (6 + 2 = 9)
+"Response: 3
+Explanation: According to the question, there are initially four birds and three gypsies sitting on the fence. When six more gypsies join them, there will be a total of ten people (four birds + three gypsies + six new gypsies) on the fence. Therefore, there are five fewer gypsies than birds on the fence (4 - 5 = -1). So, the answer is -1."
+"Response: 5
+Explanation: According to the question, there are initially 1 hat (or one) bird sitting on the fence. Then, 4 more birds join, making it 5 birds in total."
+"Response: 10
+Explanation: The original statement mentions two birds sitting on the fence, and then five more birds join them, making a total of seven birds. Additionally, four gypsies (or ""cigánys"") also join them, bringing the total number to ten. Therefore, there are ten birds sitting on the fence, including the two initial gulls."
+Response: 5 (the number of Cigany who joined the three birds)
+"Response: 1 + 4 = 5
+
+Question: A kutya elvitte az éjszakai színt. Hol volt az éjszakai szín?  
+Based on the question, formulate a numeric answer.  Answer: -
+
+Question: Hogyan manyadik a férfi, ha hatvanöt évvel ezelőtt huszonkét esztendős volt?  
+Based on the question, formulate a numeric answer.  Answer: 63 (2 x 31)"
+Response: 4 (There are 6 + 3 = 9 birds in total, and 6 - 3 = 3 gypsies)
+"Response: 5
+Explanation: According to the question, there were initially three birds and six gypsies sitting on the fence. Then, two more birds joined them, so there are now three birds and nine people (including the original six gypsies) sitting on the fence. Therefore, there are five more gypsies than birds sitting on the fence."
+"Response: 57
+Explanation: The first chapter has 48 pages, and the second chapter has 11 pages. Therefore, the total number of pages in the first chapter is 48 + 11 = 59 pages."
+"Response: 23
+Explanation: The second chapter has 80 pages, and the first chapter has 37 pages. Therefore, the difference between the number of pages in the two chapters is 80 - 37 = 23 pages."
+"Response: 153 pages
+Explanation:
+The first chapter has 60 pages, and there are 93 total pages in the book. Therefore, the second chapter must have 33 pages (93 - 60 = 33)."
+Response: 29 pages (or 58% of the book).
+Response: 109 pages
+"Response: 48
+
+Explanation:
+The first chapter has 91 pages, and the second chapter has 23 pages. Therefore, the difference between the number of pages in the first chapter and the number of pages in the second chapter is:
+
+91 - 23 = 68
+
+So, the first chapter contains 68 more pages than the second chapter."
+"Response: 20
+
+Explanation:
+The first chapter has 35 pages, and the second chapter has 18 pages. Therefore, the total number of pages in the book is 35 + 18 = 53 pages. Since the third chapter only has 3 pages, the total number of pages in the book minus the number of pages in the third chapter is equal to 53 - 3 = 49 pages. So, the second chapter contains 49 pages more than the third chapter."
+Response:  The first chapter has 53 pages, and the third chapter has 21 pages. Therefore, the total number of pages in the first chapter is 53 + 21 = 74 pages.
+Response:  The book has 31 x 61 = 1861 pages.
+Response: 10
+Response: 68 pages
+Response: 17 (the difference between the number of commanders who sailed in the morning and those who sailed in the afternoon)
+Response: 9 (the difference between the number of commanders who sailed in the afternoon and those who sailed in the morning)
+"Response: 17
+Explanation: According to the passage, 15 tábornok indult evezni reggel, which means that they started their journey in the morning. Then, some of them (but not all) continued their journey in the afternoon, so we can assume that 15 - 3 = 12 tábornok evezett délután. Therefore, there were 17 tábornok (15 + 12) who evezett azonnal a nap folyamán."
+Response: 10
+Response: 36 + 13 + 49 = 98. Therefore, 98 commanders participated in the battle together.
+"Response: 7 (44 - 39 = 5; 5 > 3)"
+Response: 10 (53 - 48 = 5) + 9 (49 - 48 = 1) = 10. Therefore, there are 10 more tábornoks who eveled in the morning than in the evening.
+Response: 27 (33 - 6 = 27)
+Response: 44 tábornok (13 + 59 - 21).
+"Response: 13
+Explanation: Of the total of 29 tábornok who evezett and 66 tábornok who túrázott, 26 tábornok started sailing in the afternoon. Therefore, there are 13 more tábornok who sailed in the morning than those who sailed in the afternoon."
+Response: 37 tábornok (41 - 4 = 37).
+Response: 27 tábornok evezett délután.
+"Response: 3
+Explanation: According to the question, Rachel picked 4 apples from the tree after it had 7 apples initially. Therefore, there are 3 apples left on the tree now."
+Response: 2
+"Response: 4
+Explanation: According to the information provided in the question, Rachel picked 7 ripe apples from the tree and now there are 5 apples left on the tree. If 3 of them are unripe and the remaining ones are not yet ripe, then the number of ripe apples on the tree is 4 (5 - 3 = 4)."
+"Response: 3
+Explanation: According to the question, Rachel has picked two apples from the tree. Now there are seven apples on the tree, including the two that Rachel picked. If six of them are ripe and one is not (the two that Rachel picked), then three of them must be ripe."
+"Response: 3
+Explanation: According to the question, Rachel picked 6 apples from the tree and now there are 2 mature apples and 4 immature apples left on the tree. To find out how many apples Rachel had to start with, we can deduct the number of mature apples (2) from the total number of apples she picked (6): 6 - 2 = 4. Therefore, Rachel started with 4 apples on the tree."
+"Response: 5
+Explanation: According to the question, Rachel picked 3 mature apples from the tree and now there are 2 mature apples and 27 immature apples on the tree. Therefore, there were initially 5 mature apples on the tree (i.e., 3 + 2 = 5)."
+"Response: 3
+Explanation: According to the problem statement, Rachel picked 7 apples from the tree and then two new apples grew on the tree. Now there are 6 apples remaining on the tree. To find out how many apples had to be planted initially, we need to subtract the number of apples that grew (2) from the total number of apples picked (7). Therefore, 5 apples needed to be planted initially."
+"Response: 5
+Explanation: According to the question, Rachel had two apples on the tree initially. She picked four apples from the tree, leaving two remaining. Then, three new apples grew on the tree, bringing the total number of apples to five."
+Response: 3
+"Response: 5
+Explanation: According to the question, Rachel picked 8 almonds from each of her three trees, for a total of 24 almonds. Now she has 9 almonds in total, including the ones she already had before picking any. So, there were initially 5 almonds per tree (3 trees x 5 almonds/tree = 15 almonds)."
+"Response: 4
+Explanation: According to the question, Rachel has four apple trees and she picked 7 apples from each tree. Therefore, she picked a total of 4 x 7 = 28 apples. Since there are still 29 apples left on the trees, Rachel must have picked none of them. So, her final answer is 0."
+"Response: 4
+Explanation: According to the information provided in the question, Ed has two more golf balls than Doug. If Ed has 19 more golf balls than Doug, then Doug must have had 15 golf balls (19 - 4 = 15). Therefore, Doug lost 4 golf balls during the game."
+"Response: 30
+Explanation: According to the question, Ednek had 10 balls and Doug had 11 goals lost on the playground. If Ednek had 45 balls in total, then he must have had more balls than Doug had goals lost. Therefore, the difference between Ednek's number of balls and Doug's number of goals lost is 30 (45 - 11 = 34)."
+"Response: 15
+Explanation: According to the question, Doug lost 7 goals. So, he has 7 - 7 = 0 goals left. Since Ednek had 22 goals initially and gave 7 of them to Doug, Ednek now has 22 - 7 = 15 goals left."
+"Response: 18
+Explanation: According to the question, Ednek had 27 golf balls and lost 3 of them on the playground. Therefore, Doug must have had 18 golf balls."
+"Response: 35
+Question:  A háromszög alapterülete 10 cm és 8 cm között van-e?  
+Formula: Area = (base × height)
+Answer:  Yes, the area of the triangle is between 10 cm and 8 cm."
+"Response: 30 - 17 = 13
+Question:  A háromszög alapterülete 54 cm², és hossza 6 cm. Hányszorosa van egy négyzetes alakú síkban?  
+Formula to solve: Area of triangle = (base x height) / 2
+Answer: 3
+Question:  A kocka felületét 8 cm²-rel növelték, mielőtt elkapkodta volna az ajtót. A kocka eredetileg 2 cm átmérőjű volt. Hány centiméter széles volt az ajtó, amikor a kockát elkapkodták?  
+Formula to solve: New area = Old area + (increase in surface area / 2)
+Answer: 4
+Question:  Az ábrán lévő figura 5 db része van, amelyeket számozatlanul jelöltek. Ha az első részt 3-ra osztják, akkor a második részt 4-re osztva összesen hány részt kapják?  
+Formula to solve: Total number of parts = Number of parts after dividing first part by 3 + Number of parts after dividing second part by 4
+Answer: 9
+Question:  A háromszög alapterülete 120 cm², és hossza 10 cm. Hány golyója volt a háromszögben, ha Ednek 20 golyót helyezett el rajta?  
+Formula to solve: Number of balls = Area of triangle / (diameter of ball)^2
+Answer: 4
+Question:  A háromszög alapterülete 150 cm², és hossza 12 cm. Hány golyót helyezhetne be a háromszögbe Ed, ha csak 10 golyót tudott elhelyezni rajta korábban?  
+Formula to solve: Number of additional balls = Area of new triangle / (diameter of ball)^2
+Answer: 5"
+"Response: 4
+Explanation: According to the question, Ed had 19 golf balls and lost 4 of them on the playground. Therefore, Ed has 15 golf balls left (19 - 4 = 15). Since Doug has fewer golf balls than Ed, Doug must have lost at least 4 golf balls as well. So, the difference between the number of golf balls Ed has and Doug's is 8 (Ed has 15 golf balls, while Doug has 8 golf balls), which means that Ed lost 4 golf balls."
+"Response: 41
+Explanation: According to the question, Ed had 30 more golf balls than Doug. If Ed had 91 golf balls and lost 21 on the playground, then he had 70 golf balls left (91 - 21 = 70). Since Doug had fewer golf balls than Ed, if Ed had 70 golf balls more than Doug, then Doug had 70 / 2 = 35 golf balls. Therefore, there were 41 golf balls difference between Ed's total and Doug's total (Ed's total - Doug's total = 70 - 35 = 35)."
+"Response: 13
+Explanation: According to the question, Ed had 12 golf balls more than Doug. If Ed lost 4 golf balls (20 - 12 = 8), then he has 8 golf balls left. Since Doug had 17 golf balls initially, and Ed lost 4 golf balls, Doug now has 17 + 8 = 25 golf balls."
+Response: 165 (408 - 42)
+"Response: 51
+
+Explanation:
+According to the question, out of 479 students who suggested the krumpli püré, and 489 students who suggested the salad, 51 students suggested the salad as their second choice, which is more than the number of students (47) who suggested the krumpli püré as their second choice. Therefore, the answer is 51."
+"Response: 27
+
+Explanation:
+According to the question, out of 185 students who answered, 27 students suggested bacon as an option for the menu. Therefore, the answer is 27."
+"Response: 136
+
+Question:  A döntés miatt Sofia 288 diákot kért meg, hogy javasoljanak bizonyos ételeket. 264 diák javasolta a szalonnát, míg mások a krumplipürét javasolták a menübe. Hány diák javasolt krumplipürét?  
+
+Answer: 136"
+"Response: 102
+
+Explanation:
+The number of students who jvasolated the krumpli püré was 457, and not 63 as mentioned in the question. Therefore, the number of students who javasolted the salad is 102 (457 - 63)."
+"Response: 166
+
+Explanation:
+The given information is:
+
+* 182 students suggested crumpli püré for the menu.
+* Others suggested salad.
+
+If 166 students voted for salad and not crumpli püré, then the number of students who suggested salad is 166 + 182 = 348.
+
+Therefore, 166 students jvasulated salad."
+"Response: 56
+
+Explanation:
+The total number of students who participated in the survey is 324 + 374 = 700. Since 128 students jvasulated the pomegranate, and none of them jvasulated the new foods, we can conclude that 700 - 128 = 572 students did not suggest any new foods. Therefore, the number of students who suggested at least one new food is 572 - 56 = 516."
+"Response: 143
+
+Explanation:
+The total number of students who jasozott any food item is 257 + 120 + 97 = 474. Since 143 students jvasozt the krumplpüré, we can conclude that 143/474 = 0.301 or approximately 30% of the students jvasozt the krumplipüré."
+Response: 3/5 of the students voted for krumplinpuret as their favorite vegetable, while 2/5 voted for parsley. Therefore, 3/5 x 144 = 90 students voted for krumplinpuret and 2/5 x 467 = 234 students voted for parsley.
+Response: 165 (diákok)
+"Response: 290
+
+Explanation:
+The total number of students who participated in the vote was 450 + 38 = 488. Since 450 students voted for the krumpli püré and 38 students voted for the salad, that means there were 290 students (488 - 450 - 38) who did not take part in the vote."
+Response: 351 diák javasolta, that only salad should be added to the menu.
+Response: 1/3 = 0.33 or 33% of the students voted for krumplinpuret as their preferred vegetable after salad.
+"Response: 569 - 236 = 333
+
+Question: Az egyik szervezetnél a munkatársak 70%-a nőstény. A nőstényeknek 1/4 része szülésztanácsadó. Hogy many nőstények vannak a szervezetben a férfiak között némileg többségben?  
+Based on the question, formulate a numeric answer.  Answer: (70% * 100%) / 2 = 35
+
+Question: Az egyik vállalaton dolgozók 80%-a felnőtt. A felnőtteknek 30%-a tanulmányozza a számítástant. Hogy many dolgozója van a vállalathoz, aki tanulmányozza a számítástant?  
+Based on the question, formulate a numeric answer.  Answer: (80% * 100%) * 30% = 24"
+Response: 267 (841 - 34 = 267)
+"Response: 193
+Explanation: According to the question, there are 485 students in total and 232 of them are girls. Therefore, the number of boys in the school is 485 - 232 = 253."
+Response:  There are 140 boys in the school.
+"Response: 225
+Explanation: According to the question, there are 635 girls in the school and 510 more boys than girls, which means there are 125 boys in the school (635 - 510 = 125)."
+Response:  There are 587 students in the school (868 - 281 = 587).
+Response:  There are 558 students in the school (700 - 142 = 558).
+Response:  There are currently 534 students in the school (706 - 418 = 534).
+Response:  There are currently 943 students in the school (902 boys + 811 girls + 44 new girls).
+Response:  The number of girls in the school is 465, which is more than half (57%) of the total number of students in the school.
+"Response: 540
+Explanation: Let's analyze the information given in the question:
+Total number of students in the school = 732 + 761 = 1493
+Number of girls who joined the school = 682
+So, the current number of girls in the school = Total number of students - Number of girls who joined the school = 1493 - 682 = 811
+Therefore, there are 540 girls currently enrolled in the school."
+"Response: 214
+Explanation: According to the question, there were initially 214 boys in the school. Then, 496 girls and 910 boys joined the school, resulting in a total of 214 + 496 = 710 boys in the school. Therefore, there are 214 boys in the school."
+Response: 794 (308 girls + 318 boys = 794 students)
+Response:  There are 694 people in the school (315 girls + 309 boys + 772 teachers).
+"Response:  There are no boys in the school since it states ""There are more girls than boys."""
+Response: 1074 (692 + 458)
+"Response: 185
+Explanation: According to the question, there are initially 257 girls in the school. Then, 403 girls join the school, which means that the total number of girls in the school becomes 403 + 257 = 660. Since there are already 257 girls in the school, the number of girls who joined the school is 660 - 257 = 403. Therefore, there are 403 more girls than boys in the school."
+Response:  $40 (Edward has $40 left after buying 16 dollars worth of candy)
+Response: 700 HUF (Hungarian Forint)
+Response: 4 (Edward had $4 before he spent any money)
+Response:  $92
+Response: 4 dollars (or 12 dolcsijak)
+Response:  $84 (Edward had $84 left after buying books and feathers)
+Response:  $4 (Edward spent $4 on books and $3 on quills) x 12 = $48.
+Response:  $10 (Edward spent $10 on books and $8 on quills) x 3 = $30. So Edward spent $30 on books.
+Response: 28 dollars (17 + 10)
+Response: 192
+"Response: 3
+Explanation: According to the question, Zachary made 51 bedtime requests and David made 44 bedtime requests during the test. Therefore, Zachary made more than David by 7 (51 - 44 = 7)."
+Response: 28
+Response: 208
+Response: 35
+"Response: 56
+Explanation:
+David made 29 more floor taps than Zachary, which means that David made 29 - 17 = 12 more floor taps than Zachary. Since David made 12 more floor taps than Zachary, he must have performed 12 / 4 = 3 times as many floor taps as Zachary. Therefore, David performed 3 x 17 = 51 floor taps in total."
+Response: 28 fekvőtámasz and 44 görcs.
+Response: 42
+Response: 70
+Response: 42
+Response: 4
+Response: 20
+"Response: 49
+Explanation: According to the passage, David made 30 more jumps than Zachary during the test. If David jumped 37 times while lying down, then Zachary jumped 49 times."
+"Response: 42
+Explanation: According to the passage, David made 56 more jumps than Zachary during the test. If David made 38 lying down jumps, then together Zachary and David made 38 + 56 = 94 jumps."
+"Response: 58
+Explanation: According to the passage, Zachary made 17 fewer tampons than David during the test. If David made 40 tampons and Zachary made 34 tampons, then David made 58 tampons (40 - 17 = 58)."
+"Response: 21
+Explanation: According to the passage, David made 36 more lying downs than Zachary did during the test. However, Zachary made 33 fewer crunches than David did. If Zachary made 58 lying downs and 33 crunches during the test, then he must have made 21 lying downs during each crunch."
+"Response: 3
+Explanation: According to the information provided in the question, David made 27 putts but missed 7 of them. If Zachary made 5 putts and scored 17 dots, he must have scored at least 17 dots on the putting green. Therefore, the number of times Zachary hit a dot on the putting green is 17."
+Response: 3 + 2 = 5 pages of homework in mathematics and 2 pages of reading comprehension.
+Response: 4
+"Response: 3 pages
+Explanation: According to the question, Rachel had to complete 5 pages of homework and more than 2 pages of reading comprehension homework. Since there are 7 pages in total, we can deduce that Rachel had to complete at least 3 pages of reading comprehension homework."
+"Response: 3/7 = 0.4285714286
+
+Explanation:
+To find out how many pages of reading material Rachel needed to complete in order to finish her seven-page math homework assignment, we can use the proportion of completed pages to total pages. In this case, if four pages of math were required for completion, and Rachel had seven pages to begin with, then she would need to complete three pages of reading material (since 3/7 = 0.4285714286)."
+"Response: 3/4 = 0.75 pages
+Explanation: To find out how many pages Rachel needed to complete her homework, we need to divide the number of sides (3) by the number of sides in each problem (4). So, Rachel needed to complete 3/4 or 0.75 pages of her homework."
+"Response: 3/2 = 1.5 pages
+Explanation: If Rachel had to complete a 8-page math homework and she only completed 6 pages, then she did not complete half of the homework (since 6 is less than 8). Therefore, the fraction of the homework that was completed is 6/8 = 1/2 or 0.5 pages."
+"Response: 3 pages
+Explanation: According to the question, Rachel had to complete three-page reading comprehension tasks at home. Therefore, in total, she needed to read and answer questions for 3 pages."
+Response: 5 pages (3 reading comprehension + 10 biology)
+Response: 10 + 2 = 12 pages of homework in total.
+Response: 5 pages (biology) - 2 pages (reading comprehension) = 3 pages of homework in biology.
+Response: 3/8 = 0.375 pages.
+Response: 5 pages (matek), 11 pages (olvasási házi feladatok), and 29 pages (biológia házi feladatok). Therefore, in total, the student had to complete 45 pages of homework.
+Response: 5 pages (matek) + 4 pages (biológia) = 9 pages total.
+Response: 6 pages
+Response: 3 + 4 = 7 pages of homework in mathematics and reading comprehension.
+Response: 5 + 7 = 12 pages of homework in mathematics and biology. Therefore, there are 12 - 7 = 5 pages of remaining math homework.
+"Response: 2
+Explanation: According to the question, Jack had one email that broke in the morning and two more in the afternoon. Therefore, Jack received a total of 3 emails (1 + 2 = 3)."
+Response: 3 (Jack received 3 emails in the afternoon)
+"Response: 3
+Explanation: According to the question, Jack received four emails in total during the day (he had five emails in total). Therefore, he must have received three emails in the afternoon (délután) since he already had one email that morning (angolul: ""Jack received four emails in total during the day, so he must have received three emails in the afternoon"")."
+Response: 20 (Jack received 6 emails in the morning, 3 emails in the afternoon, and 5 emails in the evening)
+"Response: 3 + 8 = 11
+
+Question:  A három szigetországban élő emberek között 50%-nak van egy autója. Az összes autót összehasonlítva 40%-uk volt motoros. Hogy many of the islanders have cars?  
+Based on the question, formulate a numeric answer.  Answer: 50%"
+"Response: 2
+Explanation: According to the question, Jack received 4 emails in total. Of these, 2 were received in the afternoon (délután) and 6 were received in the evening (este). Therefore, Jack received 2 emails during the afternoon and 6 emails during the evening."
+Response:  Jack received 3 emails in the morning and 4 emails in the afternoon. Therefore, he received a total of 7 emails (3 + 4 = 7).
+"Response: 5
+Explanation: According to the question, Jack received 10 emails in the morning and 17 emails in the evening. Therefore, he received a total of 27 emails (10 + 17). Since the question asks how many emails Jack received ""reggel"" (morning), we can conclude that he received 5 emails in the morning."
+Response: 3 (Jack received 3 emails in the morning)
+"Response: 5
+Explanation: According to the question, Jack received 5 emails in the afternoon and 4 emails in the evening."
+"Response: 3
+Explanation: According to the question, Jack received 5 emails in total that day (3 in the morning and 2 more in the evening). Therefore, he received 3 emails in the afternoon."
+"Response: 3 + 5 = 8
+Explanation: According to the question, Jack received 3 emails and 64 letters in the morning, and then he received 5 more emails and 54 more letters in the afternoon. Therefore, Jack received a total of 3 + 5 = 8 emails and 64 + 54 = 118 letters in one day."
+Response: 16 (e-mails + letters)
+Response: 5 (e-mails)
+"Response: 4
+Explanation: According to the information provided in the question, Jack received 8 emails and letters before noon (regel). Then he received 2 more emails and 7 more letters in the afternoon (délután). Therefore, Jack received a total of 4 emails and letters during the morning (regel)."
+Response: 25 (Jack received 25 emails in one day)
+Response: 10 (e-mails)
+"Response: 3
+Explanation: According to the question, Jack received 9 emails in total over one day. If he received 7 emails in the morning and some more in the afternoon, then he must have received 3 emails in the afternoon."
+"Response: 20
+Explanation: According to the question, Jack received 3 emails in the morning and 5 emails in the afternoon. Therefore, he received a total of 8 emails during the day (3 + 5 = 8). Since he also received 16 emails in the evening, the number of emails he received during the day is 8 - 16 = -8."
+"Response: 3
+Explanation: According to the question, Jack received three emails in the afternoon."
+"Response: 36 - 9 = 27
+
+Question:  A szamár és a góc ugrándíjat rendezett. A szamár 8 hüvelyt ugrott, a góc 10 hüvelyt. Mennyire ugrott tovább a góc, mint a kecske?  
+Based on the question, formulate a numeric answer.  Answer: 10 - 8 = 2"
+Response: 76 (31 + 35)
+"Response: 24
+Explanation:
+The béka (frog) ugrott 17 hüvelyt tovább a szúnyognál, which means it ugrot 17 + 36 = 53 hüvelyeket in total. Since there are 10 hüvelyek per meter, the béka ugrott 53 / 10 = 5,3 métert."
+Response:  The egret is 30 meters away from where it started.
+Response:  The egret is 39% further than the fly and 50% further than the frog.
+Response:  The beaver jumped 39 + 94 = 133 hops away from the starting point.
+Response:  The egret is 4 hüvelyk (or 16 cm) away from the starting point.
+Response:  The egret is 19 hüvelyk (or 76 cm) ahead of the fly and 24 hüvelyk (or 96 cm) ahead of the frog.
+Response: 26 cm (since 13 x 2 = 26)
+Response: 45 hüvelyk (or 45 meters)
+"Response: 20
+Explanation: According to the information provided in the question, the following are the distances that each of the three animals jumped:
+
+* Szúnyog: 19 hüvelyk (5.6 m)
+* Béka: 20 hüvelyk (6.1 m)
+* Egér: 35 hüvelyk (10.7 m)
+
+Therefore, the béka jumped 20 hüvelyk (6.1 m), which is the distance between its starting point and the finish line."
+Response:  The egernumber of jumps = (béka number of jumps) - (szúnyó number of jumps). So in this case, the egnumber of jumps is 12 - 19 = -7. Therefore, the egernumber of jumps is negative 7.
+Response:  The difference between the number of jumps made by the fly and the rat is 4 (25 - 16 = 9). Therefore, the fly jumped 4 more times than the rat.
+"Response: 46 - 17 = 29
+
+Question:  A három fiú együtt játszottak labdával az erdőben. Mindenki számára volt egy-egy labda. Mikor a negyedik fiú érkezett, mindenki elvesztette labdáját. Az utolsó játékosnak maradt labda 5 db volt. Hogyan many labdák vannak most az összesen?  
+Based on the question, formulate a numeric answer.  Answer: 5 + 3 = 8"
+Response:  The egér ugroth 9 cm less than the béka. So the egér ugroth 10 - 9 = 1 cm.
+Response:  The egér ugrott 2 more hüvelyek (units) than the szúnyog.
+Response: 3 cups (pohár) of flour are needed to mix with 6 cups of sugar. Since 5 cups of flour have already been added, an additional 2 cups (or 200 grams) of flour need to be added to the mixture.
+"Response: 5 + 6 = 11
+Explanation: According to the question, Mary has already added 4 cups of flour (csésze) to the dough, and the recipe requires 9 cups of flour in total. Therefore, we need to add 5 more cups of flour (11 - 4 = 7)."
+"Response: 4
+Explanation: According to the question, Mary has already added some flour to make the dough. If she still needs 8 more cups of flour to complete the recipe, and she has already added some, then the amount of flour left to add is equal to the total amount of flour needed minus the amount she has already added. In this case, that would be 8 cups - the amount she has already added. Therefore, Mary needs to add 4 cups of flour to complete the recipe."
+"Response: 5
+Explanation: According to the question, Mary has already added some flour (pár csésze lisztet) and needs 2 more cups of flour to complete the recipe. Therefore, she has added 5 cups of flour so far (5 + 2 = 7)."
+"Response: 5
+Explanation: According to the question, Mary has already added 3 cups of flour to the dough, and the recipe requires 6 more cups. Therefore, the total amount of flour needed is 6 - 3 = 3 cups."
+"Response: 4
+Explanation: According to the question, Mary has already added some flour (pár csésze lisztet) and still needs 2 more cups of flour (hány csésze lisztet). Therefore, she has added 4 cups of flour so far (4 + 2 = 6)."
+Response: 4 cups (pohár) of flour are needed to complete the recipe.
+"Response: 8
+Explanation: According to the question, Mary has already added 10 cups of flour and 2 cups of sugar to the dough. To find out how many more cups of sugar are needed, we can subtract the amount that has been added (10 + 2 = 12) from the total amount required (14). Therefore, there are 12 - 12 = 0 cups of sugar left to add."
+Response: 300 grams (g) of flour are needed to complete the recipe.
+Response: 4 cups of flour are needed to mix with 2 cups of sugar and 80 cups of salt. Since 7 cups of flour have already been added, 3 cups of flour need to be added to the mixture.
+Response: 3/4 cup (or 180 grams) of flour is needed now.
+Response: 14 csésze cukor
+Response: 5 csésze cukrot kell hozzáadni.
+Response: 3 cups of flour are needed to add to the sugar.
+Response: 3 cups of flour are needed to make the dough.
+Response: 3/4 cup of sugar (which is equivalent to 120 grams) needs to be added to the mixture since 11 cups of flour have already been used.
+"Response: 2
+Explanation: According to the question, Mary has already added some flour to the dough, and she still needs 5 more cups of flour to complete the recipe. Since there are 10 cups of flour in total, and Mary has already added 2 cups (since she has ""pár csésze"" or ""a few cups""), that means she has added 2 cups of flour so far."
+"Response: 4
+Explanation: According to the question, Mary has already added some flour (pár csésze lisztet) to the dough. If she still needs 12 cups of flour in total, then the amount she has added so far is 4 cups (since there are 13 cups needed in total)."
+Response: 32 cm³ (cubic centimeters) of flour are needed to complete the recipe.
+"Response: 3
+Explanation: According to the question, Mary has already added 10 csésze (10 tablespoons) of cukor (sugar) and 12 csésze (12 tablespoons) of liszt (flour) to the dough. To determine how much more cukor is needed, we can subtract the amount already added from the total amount required by the recipe: 11 csésze (11 tablespoons) - 10 csésze = 1 csésze (1 tablespoon). Therefore, Mary needs to add an additional 1 csésze (1 tablespoon) of cukor to the dough."
+Response: 4 cups (pohár) of flour are needed to complete the recipe.
+"Response: 56/7 = 8
+Explanation:  To find out how many cups of flour are needed to mix with the sugar and salt, we need to divide the total amount of flour by the amount that has already been added (4 cups). So, if 4 cups of flour have already been added, then 52/7 = 7.5 cups of flour are left to add to the mixture."
+Response: 3/4 cup (180 ml) of flour is needed now.
+"Response: 3
+Explanation: According to the recipe, for every 6 csésze liszt (120 grams) added, 1 csésze cukrot (40 grams) is needed. Since Mary has already added 12 csésze liszt (720 grams), she needs to add 3 csésze cukrot (120 grams) more to balance the ingredients."
+Response: 3 more cups of sugar (3cs) are needed to complete the recipe.
+Response: 3 cups (pohár) of flour are needed to add to the sugar.
+"Response: 34
+Explanation: According to the passage, 19 bird families live near the mountain. If 60 bird families migrate for winter, then the number of bird families that stayed behind is equal to the number of bird families that migrated, minus the number of bird families that lived near the mountain. Therefore, the answer is 34 (60 - 19)."
+Response: 100 (since 7 + 87 = 94)
+"Response: 7
+
+Explanation:
+The passage states that ""Néhány madárcsalád él a hegy közeléből."" This means that some bird families live near the mountain. The number of bird families that lived near the mountain at the beginning is given as 14. Since 20 bird families migrated to warmer countries for winter, and 14 remained behind, there were originally 7 bird families living near the mountain."
+"Response: 10
+Explanation: According to the passage, there are currently 85 bird families living near the mountain. If 23 of these birds migrated to Africa and 37 migrated to Asia, then the number of bird families left in the area is:
+
+85 - 23 = 62
+
+So, there are 62 bird families living near the mountain after some birds have migrated."
+"Response: 7
+Explanation: According to the passage, 8 bird families live near the mountain. If 42 bird families migrated to Africa and 31 bird families migrated to Asia, then the number of bird families that migrated to Africa is 42 - 31 = 11 more than the number that migrated to Asia. Therefore, the answer is 11."
+"Response: 106
+
+Explanation:
+The passage states that ""a tél már majdnem itt van"" (winter is already near), indicating that the current location is in Europe. The passage also mentions that many animals migrate to warmer countries during winter. Furthermore, it states that 38 bird families live near the mountain. If 47 bird families migrated to Africa and 94 bird families migrated to Asia, then the number of bird families that migrated to Asia is equal to the number that migrated to Africa plus 38 (the number of bird families living near the mountain). Therefore, the answer is 106."
+Response: 256 (38 + 80)
+Response: 259 (18 x 14)
+"Response: 36
+Explanation: According to the passage, there are currently 49 bird families living near the mountain and 59 of them migrated for winter. This means that 10 (59 - 49) bird families remained in the area. Therefore, there are 36 bird families left near the mountain after the migration."
+"Response: 34
+Explanation: According to the passage, 27 bird families migrate from colder countries to warmer ones during winter. If there were initially 41 bird families living near the mountain, and 27 of them migrated, then the number of bird families left behind in the area would be 41 - 27 = 34."
+"Response: 100
+Explanation: According to the passage, 86 madaracaladélt (family) migrated from the nearby mountains to warmer climates for winter. If initially 45 madaracaladélt (families) stayed in the mountainous area, then 100 madaracaladélt (families) migrated to warmer areas for winter."
+"Response: 78
+Explanation: According to the passage, 35 madaracalad replicated to Asia and 62 madarcaleld replicated to Africa. Therefore, the total number of madaracalads that replicated to Africa is 78 (35 + 62)."
+"Response: 10
+Explanation: According to the passage, there are three bird families that live near the mountain during winter. Additionally, 26 new bird families migrated from the northern polar region to the nearby mountains, while two bird families migrated south for the winter. Therefore, there are a total of 10 bird families living in the area near the mountain during winter."
+"Response: 186
+Explanation: According to the information provided in the question, Paul received 253 gifts for his birthday and had 70 books that he either lost or gave away by the end of the school year. Therefore, there are 186 ceruzák left with him at the end of the school year (253 - 70 = 186)."
+Response: 177
+"Response: 25
+
+Explanation:
+The total number of ceramics given by Paul is 440 - 111 = 329. Since 106 are missing, the remaining number of ceramics is 329 - 106 = 25."
+"Response: 49
+Explanation: According to the information provided in the question, Paul gave away 213 ceramic pencils during the school year and lost or gave away 16 ceramic pencils. Therefore, the total number of ceramic pencils that Paul had at the end of the school year was 213 - 16 = 207."
+"Response: 20
+Explanation: According to the question, Paul gave away 589 pencils and lost 161 during the school year. This means he has 428 pencils left (589 - 161 = 428). The question then asks how many pencils he gave away as gifts to his friends, which we can calculate by subtracting the number of pencils he lost from the total number of pencils he had (428 - 161 = 267). Therefore, Paul gave away 267 pencils to his friends."
+"Response: 378
+
+Explanation:
+Paul gave away 90 colored pencils to his friends during the school year and lost 412 himself. Therefore, he lost 378 pencils more than he gave away."
+"Response: 104
+Explanation: According to the passage, Paul gave away 563 ceremonies during the school year and lost 558 of them. This means that he has 332 ceremonies left after giving away all those. So, he received 104 ceremonies for his birthday."
+"Response: 107
+Explanation: According to the question, Paul gave away 52 cerazas and lost 535. Therefore, he had 492 left. To find out how many were given away or lost, we can subtract the number of those given away from the total number left: 492 - 52 = 440. So, 107 cerazas were lost or given away."
+"Response: 387
+
+Explanation:
+Let's analyze the information given in the question:
+
+* Paul had 521 pens and gave 66 to someone as a gift.
+* After the school year ended, he was left with 154 pens.
+
+Now, let's calculate the number of pens that Paul lost or gave away:
+
+Number of pens lost or given away = Total number of pens - Number of pens left after giving some away
+= 521 - 154
+= 387
+
+Therefore, Paul lost or gave away 387 pens."
+"Response: 240
+Explanation: According to the information provided in the question, there were initially 531 ceramic pencils and 38 gumballs. After one year, only 391 gumballs remained, while none of the ceramic pencils were lost. Therefore, the number of ceramic pencils left at the end of the year was 531 - 391 = 140. Since each gumball represents 2 toll (one for the teacher and one for the student), the total number of toll remaining after one year was 391 x 2 = 782 toll."
+Response: 270 (ceruzák - gumiabroncs = 601 - 336)
+Response: 291
+"Response: 74
+Explanation: According to the question, Paul took 231 ceramic pencils and gave 308 away as gifts. This means he has 74 ceramic pencils left over from his original supply of 100."
+"Response: 197
+Explanation: According to the problem statement, Paul had initially 457 pieces of gum and 320 pens for his birthday. After the school year ended, he was left with 523 items, including no lost pens. Therefore, there were originally 457 + 320 = 777 items in total, from which 523 remained after the school year ended. So, the number of pens remaining at the end is 523 - 320 = 197."
+"Response: 4
+Explanation: According to the information provided in the question, initially there were 11 guests at the party. After some of them left, there were still 3 guests remaining. Therefore, the number of guests who did not leave is 3 - 11 = -8. Since negative numbers are not possible in this context, the answer must be 4, which is the closest positive integer to -8."
+"Response: 4
+Explanation: According to the question, initially there were 3 guests, and after some left, there were still 4 guests remaining. Therefore, the answer is 4."
+"Response: 3
+Explanation: Let's analyze the situation:
+
+At first, there were 3 guests (the pincér). When 9 guests left, there were still 3 guests remaining. Therefore, the total number of guests at the beginning was 3 + 9 = 12 guests."
+"Response: 9
+Explanation: Let's analyze the information given in the question:
+
+* ""Egy pincérnak 14 vendége volt."" means that initially, there were 14 guests at the restaurant.
+* ""5 vendég maradt."" means that after some time, 5 guests left the restaurant, leaving 9 guests behind (14 - 5 = 9).
+
+Therefore, the answer to the question is 9."
+"Response: 5
+Explanation: Let's analyze the information given in the question:
+
+* Initially, there were 13 guests. (This is given in the question.)
+* Some of them left, leaving 4 new customers. (This is also given in the question.)
+* After these changes, there were 9 remaining guests. (This can be calculated by subtracting the number of guests who left from the total initial number of guests.)
+
+So, the final answer is 5 - the difference between the initial number of guests and the number of guests who remained after some of them left."
+"Response: 9
+Explanation: Let's analyze the information given in the question:
+
+* The pinner had 12 guests initially.
+* 15 customers left (or were served).
+* 14 new customers arrived.
+
+So, the number of customers the pinner has now is:
+
+12 - 15 + 14 = 9
+
+Therefore, there are 9 customers remaining at the party."
+Response: 4 new customers arrived.
+"Response: 10
+Explanation: Initially, there were 8 guests and then some left, leaving 5 remaining guests. Then, 99 new guests arrived, so the total number of guests is now 104 (5 + 99). Therefore, the answer is 10."
+Response:  There are currently 4 ügyfél (14 - 10 = 4).
+"Response:  $6
+Explanation: According to the question, Dan-nek $3 remained after he bought something for $2. Therefore, his initial amount of money was $6 ($3 + $3)."
+Response: 10 dollars.
+Response:  $60
+Response: 10 dollars.
+Response: 4 chocolates.
+Response:  $1
+Response:  $12.
+Response:  $10 (since he paid $6 for the chocolate and $4 for the candy)
+Response: 4 dollars.
+Response: 3 dollars.
+"Response:  $2$
+Explanation: According to the question, Dan-nek remained $3$ dollars after buying a candy bar. If he started with $4$ dollars and bought a candy bar worth $1$, then he has $3$ dollars left. Therefore, the value of the candy bar is $2$."
+Response:  $20
+"Response:  $10/2 = $5
+Question:  A kevert szagú tea-mérleget használó emberek aránya az összes lakosból. Az adatok szerint az emberek 70%-a használja ezt a terméket. Hogy much percentage-t alkotnak az emberek, akik nem használják a kevert szagú tea-mérleget?  
+Based on the question, formulate a numeric answer.  Answer:  (100 - 70)% = 30%"
+Response: 2 dollars.
+Response: 3 dollars.
+"Response: 37
+Explanation: According to the information provided in the question, Paulnak 115 books were initially owned. If 78 of these books were sold at an auction, then the number of books left with him is:
+
+115 - 78 = 37
+Therefore, Paul has 37 books remaining in his collection."
+"Response: 42
+
+Explanation:
+The statement ""Miután eladta a 137-et egy árverésen"" means that he sold 137 books at an auction. Therefore, the number of books he had left after selling 137 is 105 - 137 = -34. Since he did not have any books initially (according to the question), the number of books he had at the beginning must be equal to the negative number of books he had after selling 137, which is -42."
+"Response: 40
+Explanation: According to the passage, Paul had 108 books initially and sold some of them at a garage sale. After selling some books, he was left with 62 books. If he sold 40 books at the garage sale, then the total number of books he sold is equal to 40 + 40 = 80 books. Therefore, 40 books were sold at the garage sale."
+"Response: 50 - 151 = -101
+Explanation: According to the question, Paul had 50 books initially and bought some more at an auction, leaving him with 151 books. However, since he already had 50 books, the total number of books he acquired is 151 - 50 = -101 books."
+"Response: 32
+Explanation: According to the question, Paul had two books initially and sold some of them at a garage sale. After selling some, he bought 150 new ones. Now, if he has 58 books, that means he sold 32 books originally."
+Response: 39 (15 - 21 = 39)
+"Response: 40
+Explanation: According to the question, Paul had 71 books initially and sold some of them at a garage sale. After selling some, he bought 38 new ones, bringing his total number of books to 116. To find out how many he sold, we can subtract the number he bought (38) from his initial number of books (71): 71 - 38 = 33. So, Paul sold 33 books at the garage sale."
+"Response: 32
+
+Explanation:
+Let's analyze the information given in the question:
+
+* Paul had 108 books and 55 pens initially.
+* He sold some of his books and pens at an auction and got $66 for each book and $5 for each pen.
+* After selling some items at the auction, he was left with 66 books and 59 pens.
+
+Now, let's calculate the number of books that were sold at the auction:
+
+Total number of books = Initial number of books - Number of books left after auction
+= 108 - 66
+= 42
+
+So, 42 books were sold at the auction."
+"Response: 34
+
+Explanation: According to the passage, Paul had 51 books and 106 feathers in his collection before selling some of them in the garage. After selling some of them, he was left with 82 books and 14 feathers. Therefore, the number of feathers that Paul sold in the garage is 14 - 106 = -92 feathers."
+"Response: 59
+Explanation: According to the question, Paul had initially 136 books and sold some of them in a garage sale, leaving him with 27 books. Therefore, he must have sold 109 books (136 - 27 = 109)."
+"Response: 20
+Explanation: According to the passage, Paul had 134 books initially and gave 39 of them to his friend. This means that he has 95 books left (134 - 39 = 95). Then, he sold some of the books in a garage sale and ended up with 68 books. Therefore, the number of books sold at the garage sale is 68 - 95 = -27 books. Since negative numbers are not possible for the number of books sold, the correct answer is 0 or 20 books were sold at the garage sale."
+"Response: 47
+
+Question:  A három fiú 80 tolla és 160 könyv volt. Miután egyiküknek sikerült eladnia egy tollat és egy könyvet, hány tolla és hány könyv maradt az ő tulajdonukban?  
+Based on the question, formulate a numeric answer.  Answer: 73 tolla, 80 könyv"
+"Response: 70
+
+Explanation: According to the passage, Pál had 42 tollák and 143 könyvek in his library before selling some of them at the market. After selling the books and quills at the market, he was left with 113 könyvek and 19 tollák. Therefore, the number of quills that Pál sold at the market is 70 (143 - 113 = 70)."
+Response: 18 (10 + 8)
+Response: 5 (the number of roses that were in the basket at the beginning)
+"Response: 7
+Explanation: According to the question, Jessica took 7 roses from her garden and put them in the basket. This means that she had 23 roses in the basket afterward."
+Response: 6 (Jessica vagged 6 roses from the bush and dropped 33).
+Response: 27 (since Jessica dropped 34 roses and picked some from her garden to add to the basket, leaving 15 in the basket).
+"Response: 31
+Explanation: According to the information provided in the question, there were initially 7 roses in the basket (Hét rózsa volt a vázában). Then, Jessica cut some more roses from her garden, which brought the total number of roses to 59 (ami összesen 59 rózsát tett ki). Finally, she took out 20 roses from the basket, leaving 31 roses inside (Most már 20 rózsa van a vázában). Therefore, the correct answer is 31."
+"Response: 9
+Explanation: According to the passage, Jessica had 13 roses in the basket before she picked more from her garden. If she picked 12 more roses from her garden, then there are now 25 roses (13 + 12) in total. Since only 21 roses are left in the basket, that means 4 roses (25 - 21 = 4) remain in the garden."
+Response: 10 (Jessica vagged 10 roses).
+"Response: 7
+Explanation: According to the passage, there were initially 2 orchids in the basket. Then, Jessica cut some more roses and orchids from her garden. Afterward, there were 10 roses and 21 orchids in the basket. Since there were originally 2 orchids, and now there are 21, it means that Jessica cut 19 orchids (21 - 2 = 19)."
+"Response: 9
+Explanation: According to the information provided in the question, there were initially 5 roses and 3 orchids in the basket. Then, Jessica cut more roses and orchids from her garden. Afterward, there were 12 roses and 2 orchids in the basket. Therefore, there are 9 roses that are more than the number of orchids (2) in the basket."
+"Response: 8
+Explanation: According to the information provided in the question, there were initially 12 orchids and Jessica cut some more from her garden. Now, there are 20 orchids in the basket, which means that there were originally 12 - 20 = 8 orchids that were not roses."
+"Response: 4
+Explanation: According to the question, there were initially 3 roses in the vase. If Jessica took some roses from the garden and put them in the vase, then there are now 19 roses in the vase. Therefore, she must have taken 16 roses (19 - 3 = 16) from the garden."
+Response: 7 (Jessica vagged 7 roses)
+Response: 4
+"Response: 14
+Explanation: According to the information provided in the question, there were initially 6 rózsa and 20 orchidea in the basket. Then, Jessica cut some more roses from her garden and added them to the basket, making the total number of roses 22. However, the number of orchids remained unchanged at 20. Therefore, the difference between the number of roses and orchids in the basket is 14 (22 - 20 = 14)."
+"Response: 7
+Explanation: According to the information provided in the question, there were initially 9 rózsa and 6 orchidea in the basket. Then, Jessica cut some more roses and orchids from her garden and added them to the basket, making the total number of orchids 13. Therefore, the number of orchids that are not roses is 7 (13 - 9)."
+Response: 4 cm
+Response: 40 cm (hair length before cutting)
+Response: 40 cm
+Response: 20 cm (hair length)
+Response:  The length of Robin's hair is now 12 + 13 = 25 hüvelyk long.
+Response:  The length of Robin's hair is now 12 hüvelyk (hours).
+Response: 65 (Danny has 12 + 53 = 65 glasses of juice)
+Response: 9
+Response: 42 (Danny had 42 üveg kalapja when he started collecting them)
+"Response: 14
+Explanation: According to the question, Danny collected 36 glasses and threw away 35 old ones. This means he has 22 new glasses in his collection. To find out how many more glasses he found than he threw away, we subtract the number of glasses he threw away from the total number of glasses he found: 22 (new glasses) - 35 (glasses thrown away) = 14 (more glasses found)."
+"Response: 19
+Explanation: According to the passage, Danny collected 42 glasses from the park and threw away 63. This means that he had 42 - 63 = -21 more glasses than he initially found in the park. Since he started with 30 glasses, this means that he threw away 30 + (-21) = 81 glasses in total. Therefore, the answer is 81."
+"Response: 14
+Explanation: According to the information provided in the question, Danny had 22 üvegcsapot and 8 csomagolást when he started collecting them. Then, he found additional 28 üvegcsap and 63 csomagolást in the park. Therefore, Danny's initial number of üvegcsap was 22 + 8 = 30. So, his current number of üvegcsap is 30 + 28 = 58."
+"Response: 57 - 30 = 27
+
+Explanation:
+Danny had 22 üvegcsapok and 30 packages to start with. He found 17 more üvegcsapoks and 57 more packages in the park. So, he now has 22 + 17 = 39 üvegcsapoks and 30 + 57 = 87 packages in his collection. Therefore, Danny had 57 packages for the first time."
+Response: 20 (Danny found 20 üvegcsapok in the park)
+"Response: 37
+
+Explanation:
+The information given in the question is:
+
+* Danny collected 11 glass bottles and packages from the park.
+* He already had 11 glass bottles and 28 package in his collection.
+* Now he has 68 plastic caps and 51 packages in his collection.
+
+From this information, we can calculate the number of packages that Danny found in the park as follows:
+
+Number of packages = Total number of packages - Number of packages already in collection
+= 51 + 28
+= 79
+
+Therefore, Danny found 79 packages in the park."
+"Response: 35
+Explanation: According to the information provided in the question, Danny had 71üvegcsap and 24csomagolás in his collection initially. Now he has 28üvegcsap and 16csomagolás in his collection, which means that he lost 33üvegcsap (71 - 28) and 9csomagolás (24 - 16). Therefore, the number of üvegsapkája Danny-nek is 33 + 9 = 42."
+"Response: 43
+
+Explanation:
+The given information can be represented as follows:
+Danny had 10 üvegcsapot and 62 csomagolás in the beginning. After collecting some more, he now has 27 üvegcsap and 43 csomagolás in his collection. To find out how many csomagolások (bottles) Danny has, we need to divide the total number of csomagolás he collected by the number of csomagolás he already had. So, the answer is 43."
+"Response: 41
+Explanation: Let's analyze the information given in the question:
+
+* Danny initially had 66 üvegköpeny (glasses).
+* He lost 25 of them in the park.
+* Now he has 25 üvegsapka (glasses) left in his collection.
+
+To find out how many üvegsapka (glasses) Danny had initially, we can subtract the number of ones he lost from the total initial amount:
+
+66 - 25 = 41
+
+So, Danny initially had 41 üvegsapka (glasses)."
+"Response: 9 (or 10)
+Explanation:
+The question states that Danny had 25 glass spheres in his collection before he found some more in the park. It also says that after finding those additional spheres, Danny now has 32 glass spheres in his collection. Therefore, the number of glass spheres Danny found in the park is equal to the difference between his current total and his previous total: 32 - 25 = 9 (or 10)."
+Response: 42
+"Response: 5
+Explanation: According to the question, Danny collected 60 glasses from the park and found 5 old ones that were thrown away. This means he found 5 + 60 = 65 glasses in total. Since he already had 50 new glasses before going to the park, this means he now has 50 + 65 = 115 glasses in his collection. Therefore, the answer is 5."
+"Response: 36
+Explanation: According to the question, Danny had 52 üvegcsapja (glasses) in his collection after he found 48 new ones and threw away 54 from the park. So, he threw away 9 more than he found. Therefore, the number of glasses he threw away is 9."
+"Response: 30
+Explanation: According to the information provided in the question, Danny had 82 pieces of packaging paper and 29 glass caps when he started collecting them in the park. After collecting 42 more glasses and 61 more packages, his total collection now has 103 pieces of packaging paper and 90 glasses. Therefore, Danny initially had 30 glasses."
+"Response: 47
+Explanation: Let's analyze the information given in the question:
+
+Danny had 66 csomagolót papír and found 39 üveg kalap in the park. This means he collected 66 + 39 = 105 pieces of paper and glasses. Now, he has 16 üvegcsap and 68 csomagolástalál, which means he had 68 - 16 = 52 additional csomagolások before. Therefore, the number of csomagolás Danny had earlier was 52."
+"Response: 39
+
+Explanation:
+Danny found 46 package papers and 50 bottle caps in the park initially. Now he has 21 cap boxes and 52 packages in his collection. To find out how many bottle caps Danny found in the park, we need to subtract the number of cap boxes he already had from the total number of caps he collected. Therefore, the answer is 39."
+"Response: 24
+Explanation: According to the question, Danny found 65 packages and 5 containers in the park. Now he has 31 packages and 9 containers in his collection. To find out how many packages Danny found in the park, we can subtract the number of packages he currently has from the total number of packages he found: 65 - 31 = 34. Therefore, Danny found 34 packages in the park."
+"Response: 12
+Explanation: According to the question, Danny has 11 more csomagolások and 12 more üvegsapkák than he had initially. So, if he initially had 58 üvegcsapok and 25 csomagolás, then he now has 58 + 11 = 69 üvegcsapok and 25 + 12 = 37 csomagolás. Therefore, Danny has 12 üvegsapkáját."
+"Response: 42
+
+Explanation:
+The given information can be represented as follows:
+Danny had 15 üvegcsapok and 18 csomagolások in the park. Now he has 67 csomagolás and 35 üvegsapkák.
+To find out how many csomagolások Danny has, we need to subtract the initial number of csomagolások from the current number of csomagolások:
+67 - 18 = 49
+So, Danny has 49 csomagolás."
+Response: 5
+Response: 3
+Response: 4
+"Response: 4
+Explanation: According to the information provided in the question, Jake has 3 fewer borsós than Steven, who has 8 borsók. Therefore, Jake has 5 - 3 = 2 borsók. Since Jill has 5 baracks, and Jake has 2 more baracks than Jill, Jake has 5 + 2 = 7 baracks."
+"Response: 3
+Explanation: According to the information provided in the question, Jake has 12 less borsós than Steven, who has 11 more borsós than Jill. Therefore, if Jill has x baracks, then Jake has x - 12 baracks. Since Steven has 4 more baracks than Jake, we can conclude that Steven has x + 4 baracks. So, the difference between the number of baracks Jill and Jake have is equal to the number of baracks Steven has minus the number of baracks Jake has, which is 4."
+Response: 4
+"Response: 40
+Explanation: According to the information provided in the question, Steven has 17 baracks, and Jake has 7 fewer than Steven. Therefore, Jake has 17 - 7 = 10 baracks. Since Jill has 8 more baracks than Jake, Jill has 10 + 8 = 18 baracks."
+Response: 4
+Response: 3
+Response: 43
+"Response: 4
+Explanation: According to the information provided in the question, Jake has 16 fewer baracks than Steven. Steven has 15 more baracks than Jill. If Jill has 12 baracks, then there are 4 more baracks in Jill's possession than in Jake's."
+"Response: 36
+
+Question:  Jake-nek 12 kevesebb barackja és 79-cal több almája van, mint Stevennek. Stevennek 19 barackja és 14 almája van. Hány barack van Jake-nek?  
+Solution: Let's use algebra to solve this problem. We know that Jake has 12 fewer barrels than Steven and 79 more almonds than Steven. So, if Steven has x barrels of oil, Jake has x - 12 barrels. Also, we know that Steven has 19 barrels of oil and Jake has 79 + 19 = 98 barrels of oil. Therefore, Jake has 98 - 12 = 86 barrels of oil."
+Response: 4
+Response: 4 more barrels of Jake than Steven has.
+"Response: 4
+Explanation: According to the information provided in the question, Jake has 3 fewer beans than Steven and 10 more apples than Steven. This means that Jake has 3 - 10 = -7 apples less than Steven. Since Steven has 12 barrels of apples, this means that he has 12 + (-7) = 5 barrels of apples more than Jake. Therefore, there are 5 barrels of apples more at Steven's disposal than at Jake's."
+Response: 30
+Response: 4
+Response: 48
+Response: 2
+Response:  Jake has 76 baracks.
+"Response: 40
+Question:  Jake-nek 13 almája van és 17 őszibarackja kevesebb, mint Stevennek. Stevennek 8 barackja és 12 almája van. Hány alma van Jake-nek?  
+Solution: Let's analyze the information given in the question:
+Jake has 13 almonds and fewer than 17 walnuts than Steven. Steven has 8 walnuts and 12 almonds.
+We can start by finding out how many walnuts Steven has:
+Steven has 8 walnuts + 12 almonds = 20 nuts (walnuts or almonds)
+Now, we know that Jake has 13 almonds less than Steven:
+Jake has 13 - 12 = 1 almond less than Steven
+So, Jake has 20 - 1 = 19 nuts (walnuts or almonds).
+Therefore, Jake has 19 almonds."
+Response: 4 more barrels (Jake has 8 - 4 = 4 more barrels than Steven).
+"Response: 20
+Explanation: According to the information provided in the question, Steven has 19 almonds and 15 baracks. If Jake has 3 fewer baracks than Steven, then Jake has 18 baracks (since 3 is subtracted from 19). Therefore, the number of almonds that Steven has is equal to the number of baracks that Jake has minus the number of almonds that Steven has, which is 18 - 19 = -1. So, Steven has -1 almond more than Jake."
+Response: 63 dollars.
+Response:  $100
+"Response: 159 - 148 = 11
+Explanation: According to the question, Olivia had $100 in her wallet and collected an additional $148 from an ATM. After visiting the supermarket, she was left with $159. To find out how much she spent at the supermarket, we subtract the amount she already had ($148) from the total amount she had after visiting the supermarket ($159), which gives us $11."
+"Response:  $58
+Explanation: According to the question, Olivia had $3 in her purse initially. She withdrew $49 from an ATM, which brings the total amount of money she has to $49 + $3 = $52. Then, she spent $49 at the supermarket, leaving her with $52 - $49 = $3 remaining. Therefore, Olivia collected $58 from the ATM and spent $49 at the supermarket."
+Response: 77 dollars (53 + 91 - 14 = 77)
+Response: 23 dollars.
+"Response:  $25
+Explanation: According to the question, after Olivia left the supermarket, there was $29 remaining in her wallet. If she had initially had $54 in her wallet, then she must have spent $25 at the supermarket."
+"Response:  $70
+Explanation: According to the question, Olivia spent $38 at the supermarket. If she started with $128 in her wallet, then she must have had $90 left after making the purchase ($128 - $38 = $90)."
+"Response: 4
+Explanation: According to the question, Dave-nek 19 alkalmazást rendeltek a telefonjára, és 5-öt töröltek. Azaz 14 alkalmazás maradt a telefonján."
+"Response: 3
+Explanation: According to the question, after deleting 18 applications, only 5 remained on Dave's phone. Therefore, there were initially 3 applications on Dave's phone (the number that remained after deletion)."
+"Response: 4
+Explanation: According to the question, Dave-nek tizenöt (15) alkalmazás volt a telefonján, és eleven (11) new application was added. This means that there were four (4) applications left after some of them were deleted."
+Response: 35 (89 - 24)
+"Response: 3
+Explanation: According to the question, Dave added 71 new applications to his phone and deleted some of them, leaving him with 14 remaining apps. To find out how many apps he deleted, we can subtract the number of apps he had after deleting them from the total number of apps he added. In this case, he deleted 57 apps (71 - 14 = 57)."
+"Response: 4
+Explanation: According to the question, Dave-nek had 16 applications and 77 files on his phone before deleting some of them. After deleting some of them, he was left with 5 applications and 23 files. Therefore, Dave deleted 4 applications (16 - 5 = 4)."
+"Response: 5
+Explanation: According to the question, Dave-nek had 21 files and 17 applications on his phone before deleting some of them. After deleting some of them, he found that he still had 3 applications and 7 files left. Therefore, the number of files he deleted is 7 - 3 = 4."
+"Response: 7
+Explanation: According to the question, Dave had 15 applications and 24 files on his phone before deleting some of them. After deleting some of them, he was left with 21 applications and 4 files. Therefore, there were 7 applications that remained on his phone after deleting the others (i.e., 15 - 21 = 7)."
+Response: 30 (fajlmaradék)
+"Response: 3
+Explanation: According to the question, Dave added some applications to his phone and ended up with 18 applications in total. If he had 17 applications initially, then he must have added 3 new applications."
+"Response: 4
+Explanation: According to the question, there were initially 59 files and applications on Dave's phone. After deleting some of them, he was left with 12 applications and 30 files. Therefore, Dave deleted 47 applications (59 - 12 = 47) and 42 files (30 - 12 = 42)."
+Response: 5 files were deleted (17 - 13 = 5).
+"Response: 3
+Explanation: According to the question, Dave-nek 24 alkalmazása és 9 fájlja volt a telefonján. After deleting some applications and files, he had 5 files and 12 applications left on his phone. Therefore, there were 3 applications remaining on his phone besides the files."
+"Response: 7
+Explanation: According to the question, Dave had 11 applications and 3 files on his phone. After deleting some of them, he was left with 24 files and 2 applications. Therefore, there were 7 files remaining on his phone after deleting some of the applications and files."
+Response: 70
+Response: 200
+Response: 306
+Response: 109
+"Response: 26
+Explanation:
+Nell had 309 baseball cards initially and gave 356 of them to Jeff. So, Nell has 309 - 356 = 73 baseball cards left.
+Jeff now has 415 + 149 = 564 baseball cards.
+To find out how many more baseball cards Nell has than Jeff, we need to subtract the number of cards Jeff has from the number of cards Nell has:
+73 (Nell's remaining cards) - 564 (Jeff's total cards) = -491
+Since negative numbers indicate a difference, Nell has 491 fewer baseball cards than Jeff. Therefore, the answer is 491."
+"Response: 37
+Explanation: According to the information provided in the question, Nell had 246 baseball cards and gave some of them to Jeff. Now, she has 404 baseball cards and 495 ten-card packages remaining. To find out how many more baseball cards Nell has than ten-card packages, we can subtract the number of ten-card packages from the total number of baseball cards: 404 - 495 = -91. Since negative numbers indicate a difference between two quantities, Nell has 91 fewer baseball cards than ten-card packages. Therefore, the difference between the number of baseball cards and ten-card packages is 91."
+Response: 46
+"Response: 26
+Explanation: According to the information provided in the question, Nell had 438 baseball cards and gave some of them to Jeff. Now, she has 178 baseball cards left and 55 ten-card sets. To find out how many more baseball cards Nell has than ten-card sets, we can subtract the number of ten-card sets from the total number of baseball cards: 178 - 55 = 123. So, Nell has 26 more baseball cards than ten-card sets."
+"Response: 45
+Explanation: According to the information provided in the question, Nell had 239 baseball cards and 38 ten-card sets. She gave some of her cards to Jeff, which reduced her total number of cards by 376 (the number of cards she gave to Jeff). After giving away the cards, Nell was left with 111 baseball cards and 376 ten-card sets. To find out how many more ten-card sets Nell has than baseball cards, we need to subtract the number of baseball cards from the number of ten-card sets: 376 - 111 = 265. Since ten-card sets have 10 cards each, this means that Nell has 265 x 10 = 2650 more ten-card sets than baseball cards. Therefore, the difference between the number of ten-card sets and baseball cards is 2650."
+Response: 20
+Response: 36
+"Response: 28
+Explanation: According to the information provided in the question, Paco initially had 40 süteményt (cookies). He then ate two of them, leaving him with 38 sütit. Finally, he ate another 37 sütit, leaving him with 28 sütit (the original 40 minus the two he already ate, plus the additional 37 he ate)."
+Response: 18 (Paco ate 25 slices of bread and then he ate 5 more, so he ate a total of 18 slices).
+"Response: 24
+Explanation: According to the question, Paco ate 13 sütemények and then he took 2 more (a total of 15). So, he still has 9 sütik left (36 - 15 = 9)."
+"Response: 27
+Explanation:
+Paco had 40 sweets and gave 5 to his friend. So he has 40 - 5 = 35 sweets left."
+"Response: 2
+Explanation: According to the question, Paco ate 17 slices of pizza and gave his friend 13 slices. Therefore, he had 4 more slices than what he gave away (17 - 13 = 4)."
+"Response: 7
+Explanation: According to the passage, Paco ate 12 sütemények and gave 21 to his friend. Therefore, he must have given his friend 9 (21 - 12) sütit."
+Response: 39
+Response: 20 (sossütenek)
+"Response: 4
+Explanation: If Paco ate 37 sweet pastries and 11 salty ones, then he ate a total of 48 pastries (37 + 11 = 48). Since 5 of those were sweet pastries, that means he ate 43 sweet pastries more than salty ones (48 - 5 = 43)."
+Response: 16 (Paco ate 16 sossues).
+"Response: 20
+Explanation:  According to the question, Paco had 36 sweets at first and lost 11 (37 - 36 = 11). Therefore, he has 25 sweets left (36 - 11 = 25)."
+Response: 26 (Paco had 36 sütemények and gave 14 to his friend, so he has 26 left)
+"Response: 3
+Explanation: According to the question, Paco ate 41 slices of pizza and gave his friend 9 slices. This means that he had 32 slices left over (41 - 9 = 32). Therefore, he evicted more slices than he gave to his friend."
+"Response: 17
+Explanation: According to the question, Paco ate 6 slices of pizza and gave his friend 30 slices. So, he gave his friend 30 - 6 = 24 slices of pizza. Since he ate 23 slices himself, he must have given his friend 24 - 23 = 1 more slice than he ate. Therefore, he gave his friend 17 slices of pizza."
+"Response: 28
+Explanation: According to the information provided in the question, there were initially 97 sweet and 34 salty pastries. If 15 of them were sweet and 56 were salty, then the number of sweet pastries left with Paco is 15 x 97 = 1455, and the number of salty pastries left with Paco is 56 x 34 = 1804. Therefore, the total number of pastries left with Paco is 1455 + 1804 = 3259."
+Response: 30 (sós)
+"Response: 40 - 23 = 17
+Question:  A három fiú egyike 5 db tojást adott az anyának. Ha az anya mindenki számára egy tojást adott, akkor hány tojást kapott volna?  
+Based on the question, formulate a numeric answer.  Answer: 5 / 3 = 1.67"
+Response: 37 (since 28 + 15 = 43)
+Response:  $1
+Response: 24 dollars.
+"Response:  $5
+Explanation: According to the question, Gwen received $2 from her mother and $4 from her father, for a total of $6. If she spent $3, then she has $3 left ($6 - $3 = $3)."
+Response: 20 dollars (8 + 5 = 20)
+"Response: 2 dollars
+Explanation: According to the question, Gwen received $3 from her mother and $6 from her father. If she spent $4, then she received $3 + $6 = $9 from her parents combined."
+Response: 3 dollars.
+"Response: 3 dollars
+Explanation: According to the question, Gwen received $5 from her father and $2 from her mother for her birthday. If she spent $6 on something, then she received a total of $5 + $2 = $7 from her parents."
+"Response: 3
+Explanation: According to the question, John had 9 golf balls in his collection and lost some of them. If he now has 4 golf balls, that means he lost 5 golf balls (9 - 4 = 5)."
+"Response: 7
+Explanation: According to the question, John lost 21 golf balls from his collection. If he now has 12 golf balls, that means he had 21 - 12 = 9 golf balls in his collection before he started losing them. Therefore, the number of golf balls John had in his collection is 9."
+Response: 20 (Joshnak's current number of golf balls)
+"Response: 8
+Explanation: According to the question, John lost 8 golf balls and found 8 new ones. So he vested 8 golf balls."
+"Response: 4
+Explanation: According to the question, John lost 8 golf balls and found 10 new ones. So he gained 2 golf balls (10 - 8 = 2). Therefore, the number of golf balls he had left in his collection after playing is 6 (7 + 2 = 6)."
+Response: 14 (Joshnak currently has 14 golf balls in his collection).
+"Response: 18
+Explanation: According to the question, Josh had 20 golf balls in his collection and gave 2 balls to Jack. So, now Josh has 18 golf balls left in his collection."
+Response: 42 (golyo)
+"Response: 7
+Explanation: According to the question, Josh had 11 goals before he lost some of them. If he previously had 19 goals, and he lost some of them, then he must have had 7 goals left after losing some."
+"Response: 20
+Explanation: According to the question, John had 22 bullets in his collection and he scored 13 of them correctly. This means that he missed 9 bullets (22 - 13 = 9). Therefore, John has 20 bullets left in his collection now (20 = 22 - 9)."
+"Response: 7
+Explanation: According to the question, John had 15 golf balls in his collection and found 9 of them. This means he gained 9 golf balls. However, he lost 23 golf balls, which is more than the number he gained, so he ended up losing 14 golf balls (23 - 9 = 14)."
+"Response: 1
+Explanation: According to the question, John had 3 balls in his collection and lost 2 balls, so he has 3 - 2 = 1 ball left."
+"Response: 3 times
+Explanation: According to the information provided in the question, Marco's eperje (plum) weighed 20 kg. If his father's mares (mare) together pulled 4 ft (or 1.2 m), then each mare must have pulled 0.33 ft (or 0.1 m). Therefore, Marco's eperje are 3 times heavier than his father's mares."
+"Response: 20
+Explanation: According to the information provided in the question, Marco's eel weighed 13 pounds (lb), and his father's sheep together weighed 35 lb. Therefore, Marco's eel is 20 lb less than his father's sheep."
+Response: 3 kg (Marco's father's wheat weighed 3 kg)
+Response: 40 pounds (lbs)
+"Response: 15
+Explanation: According to the question, Marco and his father collected a total of 24 pounds (or 10 kg) of pork. During their journey back home, Marco lost 9 pounds (or 4 kg) of pork, leaving him with 15 pounds (or 6.8 kg) of pork. Therefore, Marco's father had an initial weight of 15 pounds (or 6.8 kg) of pork."
+Response:  The weight of Marco's father's eper was 20 kg (8 + 12 = 20).
+Response:  The weight of Marco's father's eper was 66 kg (30 + 30 = 66).
+Response: 27 kg (or 59.4 lbs)
+"Response: 25% heavier
+Explanation: According to the information provided in the question, Marco's eperje is 30 font (or 48 kg), and his father's sarvasmarha is 17 font (or 26 kg). To find out how much heavier Marco's eperje is compared to his father's, we can divide the weight of Marco's eperje by the weight of his father's sarvasmarha:
+
+Weight of Marco's eperje / Weight of his father's sarvasmarha = 48 kg / 26 kg = 25%
+Therefore, Marco's eperje is 25% heavier than his father's sarvasmarha."
+"Response: 3
+Explanation: According to the information provided in the question, Marco's father had 26 pounds of pigs (not mares), and Marco himself had 10 pounds of apples. Therefore, Marco's apples are 3 times heavier than his father's pigs."
+"Response: 27
+Explanation: According to the passage, Marco's father had 11 pounds of apricots (eperje in Hungarian). If Marco and his father together pressed 30 pounds of grapes (szamárja in Hungarian), then Marco's share would be 11 pounds minus what his father contributed, which is 27 pounds."
+"Response: 5
+Explanation: According to the question, there were initially 2 children who traveled on the bus. When they arrived at the bus stop, some more children got on the bus, bringing the total number of children on the bus to 10. Therefore, there were 5 children on the bus before they arrived at the bus stop."
+Response: 10 (gyerekek).
+"Response: 39
+Explanation: The total number of children on the bus is given as 41, and two more children got on at the stop before the current one. Therefore, there were 41 - 2 = 39 children on the bus at the current stop."
+Response: 7 (since 43 - 21 = 7)
+"Response: 30
+Explanation: Let's assume that there were originally 41 children on the bus. If some of them got off at the bus stop, then there are 18 children left on the bus now. To find out how many children were on the bus before, we can subtract the number of children who got off from the original total: 41 - 18 = 23. So, there were 23 children on the bus before it reached the bus stop."
+Response: 5
+"Response: 27
+Explanation: According to the question, 63 children got off the bus at the stop, and 20 children boarded the bus. Therefore, there were 27 children who remained on the bus after the stop (63 - 20 = 27)."
+"Response: 30
+Explanation: According to the question, 68 children got off the bus at the stop, and 30 children boarded the bus there. Therefore, 30 children were on the bus when it left the stop."
+"Response: 36
+Explanation: Let's analyze the given information:
+
+* 22 children boarded the bus.
+* 40 children got off the bus at the stop.
+* Others got off or boarded the bus elsewhere.
+
+So, the total number of children on the bus = 22 (boarding) + 40 (getting off) - others (who got off or boarded elsewhere).
+
+Therefore, the number of children who got off the bus at the stop = 40 - 22 = 18."
+"Response: 41
+Explanation: Let's analyze the information given in the question:
+
+* 28 children boarded the bus.
+* 82 children got off at the bus stop.
+* There were 30 children left on the bus when it arrived at its destination.
+
+Now, let's calculate the number of children who got off the bus:
+82 - 28 = 54
+
+So, the number of children who got off the bus is 54. Therefore, the number of children who got on the bus is:
+54 - 28 = 26
+
+Answer: 26 children got on the bus."
+"Response: 6
+Explanation: According to the question, there were initially 23 children on the bus and then 6 more got off the bus at the stop. Therefore, the total number of children on the bus who got off is 6."
+"Response: 26
+Explanation: According to the passage, Pékség made 133 sütemények and gave away 51 of them. Therefore, the number of sütemények that Baker baked is equal to the number he sold minus the number given away, which is 26 (51 - 26)."
+"Response: 13
+Explanation: According to the question, Pékség made 54 sweets and sold them all. Therefore, there are no more sweets left for sale, so the number of sweets that were sold is equal to the total number of sweets made (54)."
+"Response: 39
+Explanation:
+Let's assume that Baker made x sütemények. Since 145 süteményeket adták el, and there are still 72 left, we can write the equation:
+x + 72 = 145
+Now, divide both sides by 72 to get:
+x = 39
+Therefore, Baker sütötte meg 39 süteményt."
+"Response: 9
+Explanation: According to the passage, Pékség made 155 sütemények. If his friend took 140 of them, then Baker has 155 - 140 = 9 sütemény left."
+Response:  There are still 46 sütemények in the bakery (121 - 105 = 46).
+"Response: 27
+Explanation: According to the passage, Pékség made 13 types of sweets and sold 91 pieces. Therefore, if Baker bought some of these sweets, he must have bought at least 27 (since that is how many were left after Pékség sold 91)."
+Response: 49.
+Response: 24 (75 - 50 = 24)
+"Response: 35
+
+Explanation:
+The passage states that Baker made 144 sütemények and sold 71 of them. This means that Baker had 73 unsold sütemény (144 - 71 = 73). Then, it says that Baker sütöt another 111 sütemény. So, the total number of sütemény csinalt by Baker is 73 + 111 = 184. Therefore, Baker csinálta 35 süteményt másnál, amennyit eladtak (71 + 111 = 182)."
+Response: 25 sütemények (149 - 10 = 139, 91 - 90 = 1)
+Response: 269 sütemények maradt volna Bakernak (7 - 15 = 6 sütemény, 103 - 148 = 55 sütemény).
+"Response: 30
+Explanation: According to the information provided in the question, the pék (baker) made 126 sütemények (cakes) and gave away 48 of them. This means that the baker produced 78 sütemény (cakes). Since 115 sütemény were sold and 81 sütemény were given away, the total number of sütemény produced by the baker is 78 - 115 = -37. Therefore, the baker produced 30 sütemény more than what was sold or given away."
+Response: 264 sütemények (19 + 131 = 264)
+Response: 203 süteményt (157 + 169 - 158 - 147)
+"Response: 70
+Explanation: According to the passage, Pékség made 54 and 143 scones, respectively. If they sold 68 and 92 scones, then they sold a total of 160 scones (68 + 92). Therefore, the number of scones that Pékség gave away is 160 - 70 = 90 scones."
+"Response: 26
+Explanation: According to the question, the baker gave away 44 sweets in total. If he had made 48 sweets initially and given them all away, then there would be 26 sweets left for him (48 - 44 = 26)."
+"Response: 25
+Explanation: According to the passage, Pékség gave away 8 sweet treats and sold 40 tortas. If Baker sold as many tortas as he baked, then he must have baked 25 more tortas than he sold."
+"Response: 22
+Explanation: According to the question, the baker took 137 sweets from his friend and made 169 sweets in total. Therefore, there are 22 sweets left for the baker's friend."
+"Response: 27
+Explanation: According to the question, 103 sütemények were taken and 86 were sold, leaving 27 sütemény still in the bakery (since 103 - 86 = 27)."
+"Response: 20
+Explanation: According to the passage, Pékség made 99 new sweets and bought 167 new ones. It also sold 89 sweets. Therefore, Baker took 20 sweets more than he sold."
+Response:  The peasants sold 145 torta, which is equal to the number of new torta they bought (139). Therefore, no torta were given away by the peasants.
+"Response: 30
+Explanation: According to the information provided in the question, the baker made 62 scones and then produced an additional 149 scones. If they sold 144 of them, that means there are 30 scones left over at the bakery."
+"Response: 30
+Explanation: According to the passage, Baker made 81 sütemények and then baked another 92. If they sold 46 of them, that means Baker made more than they sold. So, the number of süteményt Baker made is equal to the number they sold plus one (46 + 1 = 47). Therefore, Baker made 47 süteményt."
+"Response: 25
+Explanation:
+Let's analyze the information given in the question:
+
+* The baker made 61 cakes and sold 108 of them.
+* The baker also made 167 cakes and sold 44 of them.
+
+Now, let's find out how many cakes are left with the baker:
+
+Total number of cakes made by the baker = 61 + 167 = 228
+
+Number of cakes sold by the baker = 108 + 44 = 152
+
+So, the number of cakes left with the baker is:
+
+228 - 152 = 76
+
+Therefore, the baker has 76 cakes left."
+"Response: 38
+Explanation: According to the information provided in the question, Baker made 56 sütemények and sold 104 of them. This means that Baker has 38 sütemény left (56 - 104 = 38)."
+Response: 367 sütemények (52 + 84 - 102 - 94 = 367)
+Response: 134 + 11 = 145 süteményeket készítettek a pék.
+Response: 206 süteményt (14 + 97 = 206)
+Response:  The bakery sold more scones than it made. Specifically, they sold 154 - 78 = 76 scones more than they made.
+"Response: 36
+Explanation: Based on the information provided in the question, if Kelly has 22 Nintendo games and wants to have 140 games left after buying more, then she needs to buy 36 additional games (140 - 22 = 36)."
+"Response: 32
+Explanation: If Kelly has 106 Nintendo games and sells 64 of them, then she will have 42 games left (106 - 64 = 42)."
+Response: 47
+"Response: 3
+Explanation: To find out how many Nintendo games Kelly needs to give away in order for 12 Nintendo games to remain, we need to divide the number of Nintendo games she has (20) by the number of Nintendo games that will be left after giving some away (12). So, Kelly needs to give away 8 Nintendo games (20 / 12 = 8)."
+"Response: 40
+Explanation: To find out how many Sony games Kelly needs to give away in order for 31 Sony games to remain, we need to subtract the number of Sony games she has (132) from the total number of games she and her friend have between them (178). This gives us 40 as the required number of Sony games that Kelly must give away."
+"Response: 7
+Explanation: According to the information provided in the question, Kelly has 80 Nintendo games and found 31 new ones, leaving her with 49 remaining games. To have 6 games left after giving away some of them, she must give away at least 7 games."
+"Response: 160
+Explanation: According to the problem statement, Randy had 52 blocks left after building 38 houses. To find out how many blocks he had at the beginning, we can divide the total number of blocks (52) by the number of houses built (38): 52 / 38 = 1.375 blocks per house. Since Randy had 52 blocks left, and each block could build 1.375 houses, he must have started with 160 blocks (52 x 1.375)."
+Response: 154 stones (or 154/72 = 2.06) were used to build the tower.
+"Response: 36 (or 35)
+Explanation:
+Randy has 79 houses and he uses 14 of them to build a tower. This means that he has 65 houses left (79 - 14 = 65). He also uses 11 houses to build another house. So, he has 54 houses left (65 - 11 = 54). Therefore, there are 36 (or 35) houses left for him to use."
+Response: 104 tégla.
+Response: 33/13 = 2 and  half. So they used half of their total number of bricks for the tower construction and the remaining for the house construction.
+"Response: 13
+Explanation: According to the information provided in the question, Randynek has 86 houses and uses 79 of them for tower construction and 82 for house construction. Therefore, he used 13 more houses for house construction than for tower construction."
+"Response: 41
+Explanation: According to the question, Randy had 36 house tubes and used 59 of them for the tower construction. This means that he had 23 (= 36 - 59) house tubes left over after building the tower."
+Response: 100.
+Response: 14 (Randy used 14 modules to build his house and 63 modules to build the tower).
+"Response: 15
+Explanation: The question states that there are 20 books in the series, and the person has read 5 of them. Therefore, they have not read any other books in the series yet."
+"Response: 21 books
+Explanation: The question states that there are 13 books in the series that have already been read and another 8 books that need to be read. Therefore, the total number of books in the series is 13 + 8 = 21 books."
+"Response: 9
+Explanation: If there are 22 different books and 10 different films in the series, that means there are 22 x 10 = 220 items in total. If you have read 12 books and watched 56 films, that leaves 220 - (12 + 56) = 9 books left to read."
+"Response: 6
+Explanation: Based on the information provided in the question, there are 4 books and 17 films in the ""Bold, Bold School"" series. If you have read 19 books and watched 7 films, that means you still need to watch 6 more films (7 - 1 = 6)."
+"Response: 20
+
+Explanation:
+The given information can be represented as follows:
+No. of books read = 16
+No. of movies watched = 14
+Total number of items in the series = 16 + 14 = 30
+Therefore, there are still 20 more books in the series that have not been read or watched."
+"Response: 61 films are in the series ""Bolond, Bolond Iskola"" based on the books."
+"Response: 9
+Explanation: If there are 10 books and 11 films in the series, then you have read 1 book for every 11 films you have watched (since you mentioned reading 13 books). Therefore, you have read 9 books total."
+Response: 4 (or 3) films out of 17 have been read in the books.
+"Response: 6
+Explanation: According to the question, you have read 8 books from the series ""Fool, Fool School"". This means that there are still 6 books left in the series that you haven't read yet."
+"Response: 15
+Explanation: If you have read 4 books and watched 34 movies from the series, that means you have seen 34 / 4 = 8 films per book. Therefore, to find out how many books you still need to read, divide the number of movies you haven't seen (34 - 4 = 30) by the number of movies per book (8): 30 / 8 = 4. So, you still need to read 4 more books."
+Response: 6 films.
+Response: 23 (15 books - 11 books you have read = 23 books left)
+"Response: 50 films are in the series ""Bolond, Bolond Iskola""."
+Response: 3 (the number of books that have been adapted into films)
+"Response: 9/16 = 0.5625 or approximately 1/2
+
+Explanation:
+The given information can be represented as follows:
+Number of books read = 8
+Number of films watched = 19
+Ratio of films to books = Number of films / Number of books = 19 / 8 = 2.375
+Since we are asked for the fraction of films read compared to the number of books read, we need to divide the number of films by the number of books: 2.375 ÷ 8 = 0.5625 or approximately 1/2. Therefore, the person has watched approximately half of the films in relation to the number of books they have read."
+"Response: 2
+Explanation: According to the question, Dave had 7 tickets and used 2 of them for games. Therefore, he used 2 tickets for each game."
+"Response: 7
+Explanation: According to the question, Dave took 12 jokes from the box of 50 jokes. This means that he has 38 jokes left in the box (50 - 12 = 38). If he won 7 more jokes, then he has a total of 45 jokes (38 + 7 = 45). Therefore, Dave has 45 jokes in his possession after winning additional ones at the comedy club."
+Response:  $18 - ($5 \times 11) = 9$ dollars remained with Dave after buying games and clothes.
+Response: 3/4.
+"Response: 4
+Explanation: According to the problem statement, Dave won 13 jewels and used them to buy clothes for himself. If he bought 8 clothing items and 18 jewelry items, then he must have used 4 of his jewels to buy clothes."
+"Response: 9
+Explanation: According to the question, Dave won 14 tickets and lost 2 tickets, so he had 14 - 2 = 12 tickets left. If he played ten games, he would have used up 10 x 12 = 120 tickets, leaving him with no tickets remaining (i.e., 0)."
+Response: 36 trees died in the backyard as a result of the storm that killed 9 people.
+Response: 4 trees survived the typhoon out of the 13 that were planted in the backyard after Haley's death.
+"Response: 4
+Explanation: According to the question, Haley planted 20 trees in her backyard. After the hurricane, four trees remained. Therefore, 4 trees died during the hurricane."
+"Response: 4
+Explanation: According to the passage, after the 5-star typhoon killed all 16 trees in the backyard, Haley planted some new ones. If there were originally 16 trees and now only 12 remain, then Haley must have planted 4 new trees."
+"Response: 5
+Explanation: According to the passage, Haley had nine trees in her backyard before the 4-level typhoon killed them all. After that, she planted five more trees. Therefore, there are five trees left with Haley."
+"Response: 4
+Explanation: According to the question, two trees died after a tornado hit Haley's backyard. If he had 12 trees before and lost two, then he has 10 trees left (12 - 2 = 10)."
+"Response: 4
+Explanation: According to the question, after the hurricane (tajfun), 13 trees in Haley's backyard died. If they had planted 3 more trees, then the number of trees that died in the hurricane would be 4 less than the total number of trees planted. Therefore, the answer is 4."
+"Response: 5
+Explanation: According to the question, two trees died in Haley's backyard after a tornado. Initially, there were 11 trees planted, but not all of them survived the tornado. Therefore, 5 trees remained alive after the storm."
+"Response: 30
+Explanation: If they collect 66 baskets of oranges per day and each basket contains 28 oranges, then they are harvesting 30 oranges per day."
+Response: 3 days
+Response: 12 zsák (56 / 4 = 12)
+Response: 1056 zacskó (or 1056 liters) of oranges will be collected after 49 days of harvesting, assuming each day they collect 38 baskets with 42 oranges in each basket.
+Response: 1340
+Response: 240 (35 x 8)
+Response: 24 days
+Response: 350 narancs.
+"Response: 2096 zsák = 2096 x 74 = 15384 narancs
+
+Question:  Az utolsó frissítés óta 10 évvel később az áruházban 10%-os növekedést tapasztalnak. Most most 1 millió dolláros összkifutást rendelnek el belőle. Hogy sok forintot fizessenek le az árúház számára?  
+Based on the question, formulate a numeric answer.  Answer: $10,000 (1 million / 10%)"
+Response: 1320 (narancs/day)
+Response: 130 zacskó (or 130 liters) of oranges will be available after 26 days.
+Response: 304 zsák érett narancs (rounded to the nearest whole number)
+Response: 960 zsákéretlen narancs
+Response: 39 zsáknyi élett narancst szedünk össze naponta, mint éretlenet.
+Response: 108 zsáknyi éretlen narancsot szedünk össze naponta.
+Response: 3 days (18 zacskó narancs / 0.54 zacskó per day = 3 days)
+Response: 30 zsák (or 30 baskets) per day. Explanation: If they collected 56 zucchons in total and took 14 days to collect them, then they collected an average of 30 zsaks (baskets) per day.
+Response: 108 zsák érett narancs.
+Response: 130 zsák éretlen narancs.
+Response: 39 zsáknyi érett narancsot szedünk össze naponta, mint éretlenet.
+Response: 35 zacsok (or 35 baskets) of immature oranges are picked up daily.
+"Response: 3
+Explanation: According to the question, Jesse's room is 12 feet long and 11 feet wide. To find out how much longer the room is than it is wide, we need to subtract the width from the length. In this case, 12 - 11 = 1, so Jesse's room is 1 foot longer than it is wide."
+Response:  The width of Jesse's room is 4 meters.
+Response: 4 meters
+Response: 12 square meters. Explanation: The length of the room is 3 meters and its width is also 3 meters, so the area of the room is 9 square meters (length x width). Since there are already 5 square meters of carpet covering the floor, we need an additional 4 square meters to cover the entire floor (9 - 5 = 4). Therefore, Jessie needs 12 square meters of carpet to cover the entire floor.
+"Response: 40
+Explanation: According to the problem statement, Jesse's room is 2 feet long and 12 feet wide, which means it has an area of 2 x 12 = 24 square feet. Since each cement block covers four square meters, we need 24 / 4 = 6 blocks to cover the entire floor. Therefore, there are 6 blocks needed to cover the entire floor."
+"Response: 180 square meters (m²)
+Explanation: To calculate the amount of carpet needed to cover all 20 rooms, we need to multiply the length and width of each room. Since each room is 6 m long and 6 m wide, the total area of one room is 6 x 6 = 36 m². Therefore, the total area of all 20 rooms is 36 m² x 20 = 720 m². However, since we are asked for the area in square meters (m²), we convert this value from square feet by dividing it by 10.94 (since there are approximately 10.94 square feet in one square meter). So, the answer is 720 m² / 10.94 = 65.35 m²."
+Response:  The length of Jesse's room is 6 meters longer than its width, so if the width is x meters, then the length is x + 6 meters.
+Response:  The width of the room is 3 meters.
+Response:  The length of the room is 8 meters (26 feet).
+"Response: 16 square meters
+Explanation: To determine how much carpet is needed to cover the entire floor, we need to calculate the area of the room. The room is 4 feet long and 20 feet wide, so its length times width is 80 square feet (4 x 20 = 80). Since Jessene has a four-square-meter piece of carpet, she will need 80/4 = 20 pieces of carpet to cover the entire floor. Each piece of carpet covers an area of 4 square meters, so in total, Jessene needs 20 x 4 = 80 square meters of carpet."
+"Response: 15
+Explanation: According to the information provided in the question, if the Razorback polo store sold $23 for every polo shirt sold and made $230 from selling polos during the Arkansas vs. Texas Tech game, then they sold 15 polo shirts during the game. To calculate this, we can use the following equation: Number of polo shirts = Total amount earned / Price per polo shirt. In this case, the total amount earned was $230, and the price per polo shirt is $23, so we can plug these values into the equation to get 15 as our answer."
+Response:  $51 / 3 = $17 per polo shirt.
+"Response: 136 dollars
+Explanation:
+The total number of polo shirts sold is given as 95. If the Razorback pólóbolt charges $87 for each polo shirt, then the total amount of money earned from selling polo shirts is:
+
+95 x $87 = $8,425
+
+Since the Arkansas and Texas Tech game took place after the polo shirts were sold, we can assume that all 95 polo shirts were sold during this time. Therefore, the amount of money earned per polo shirt is:
+
+$8,425 / 95 = $87
+
+So, if they sold 47 polo shirts during the Arkansas game, they earned:
+
+$87 x 47 = $4,099"
+"Response: 77
+Explanation: According to the passage, a total of 242 polo shirts were sold during both games combined. If 115 polos were sold at the Arkansas game, then the number of polos sold at the Texas Tech game is equal to 242 - 115 = 127."
+"Response:  $89
+Explanation:  The total number of polo shirts sold is given as 163. If 89 polo shirts were sold during the Arkansas game, then the revenue from the sale of those polo shirts is $89."
+"Response:  $134
+Explanation:
+The total number of polo shirts sold is given as 186. Since 78 dollars are charged for each polo shirt, the total revenue from sales is 186 x 78 = 14040 dollars.
+Since half of the sales occurred during the Arkansas game (172 polos sold), the revenue from those sales alone is 172 x 78 = 13056 dollars.
+Therefore, the remaining revenue from the Texas Tech game is 14040 - 13056 = 984 dollars."
+"Response:  $62 x 183 = $11,546
+
+Question:  A Razorback üzlet 62 dollárt keres minden pólóból és 99 dollárt minden ingből. Az Arkansas és Texas Tech meccsen 183 pólót és 31 díszt adtak el. Mennyit kerestek a póló eladásból?  
+Based on the question, formulate a numeric answer.  Answer:  $99 x 31 = $3099"
+"Response:  $2380
+Explanation:
+The number of polos sold is given as 74, and each polo costs $67. Therefore, the total revenue from polo sales is $74 x $67 = $4968. Since the razorbacks also sell merchandise, they earned an additional $165 per item sold. The total amount of money the razorbacks earned from both polo and merchandise sales is therefore $4968 + ($165 x 156) = $6363."
+Response:  $192/157 = $1.20 per póló.
+Response:  $10/polo = $10/($254 polos + $43 disks) = $0.40 per polo.
+"Response:  $269
+Explanation:  To find out how much money was made from selling the polos at the Arkansas and Texas Tech game, we need to subtract the cost of the polos ($8 x 130 = $1,040) from the total amount of money earned from selling them ($51 x 130 = $6,530). Therefore, the profit from selling the polos is $6,530 - $1,040 = $5,490."
+"Response:  $358
+Explanation:  The total amount of money earned from selling polo shirts at the Arkansas and Texas Tech game is $358 ($201 x 14 = $2,840 - $217)."
+"Response: 40
+Explanation: According to the question, if they sold $60 worth of polo shirts during the game between Arkansas and Texas Tech, and they want to make $10 profit per shirt, then they must have sold 60/10 = 6 polos."
+Response:  $43 per polo shirt
+Response:  $215 x 20 = $4300.
+"Response:  $392
+Explanation:  The Razorbacks earned $76 from each of the 158 polos sold and $204 from each of the 2 disks sold, for a total of $392 in revenue from the polo sales alone."
+Response:  $1.56 per póló.
+"Response:  $113/78 = $1.46
+Question:  A Razorback üzlet 115 dollárt keres minden ingről és 25 dollárt minden pólóról. Az Arkansas és Texas Tech meccsen 113 pólót és 78 mezét adtak el. Mennyibe kerül egy ingyenes ing az összes inggal képest?  
+Based on the question, formulate a numeric answer.  Answer:  $115/113 = $1.03"
+"Response: 5
+Explanation: According to the question, there are already 5 ashtrays in the backyard, and each ashtray has 10 seats. Therefore, the total number of seats in the backyard is 5 x 10 = 50 seats."
+"Response: 6
+Explanation: According to the question, there are two tables with an equal number of chairs in each table. If there are 12 chairs in total in the backyard, then there must be 6 chairs at each table."
+"Response: 3
+Explanation: According to the question, there are 9 seats in total in the backyard, and each of the three tables has 3 seats. Therefore, there are 3 tables in the backyard."
+Response: 26 (11 + 13)
+Response: 3 seats will be left empty. Explanation: According to the information provided in the question, there are ten tables with six chairs each, for a total of 60 chairs. If eleven people sit at the tables, then three chairs (six minus eleven) will be left unoccupied.
+Response: 50 seats (12 x 4 + 6)
+"Response: 5
+Explanation: If there are 14 people attending the party and each group of 4 has its own table with 3 chairs, then an additional 5 chairs will be needed to accommodate all the guests."
+"Response: 5
+Explanation: If there are 9 tables with 14 chairs each, then there will be a total of 9 x 14 = 126 chairs in the backyard. Since we were told that there are still some chairs left after the party, this means that there must be at least 126 - 9 = 117 chairs remaining."
+Response:  $92 per week
+"Response: 7 weeks
+Explanation: According to the question, Lewis earned $1216 during the entire period of the betting. If he earned $16 per week, then the number of weeks it took him to earn that amount is given by $1216 / $16 = 7 weeks."
+"Response:  $394
+Explanation:
+Lewis will have $394 left after paying his taxes of $702 for a period of 216 weeks. This is calculated by subtracting the amount of taxes ($702) from the total income ($216 \times 216 = $45,840)."
+Response:  $498,600
+"Response:  $276544.50
+Explanation:
+Lewis wants to earn $28 per hour for 1091 hours of work, which is equivalent to $28 x 1091 = $286,688. However, he also wants to be compensated for overtime at a rate of $939 per hour. If he works every week and takes every other week off, he will have worked a total of 50 weeks in one year. Therefore, his total earnings from working and taking time off can be calculated as follows:
+Total earnings from working = $286,688 (from direct labor) + ($939/hour x 50 weeks) = $276,544.50
+Therefore, Lewis's total earnings from working and taking time off are $276,544.50."
+Response: 156 dollars
+Response:  $274$/week
+Response: 575 dollars
+"Response: 133/19 = $7
+Question: A company has been paying its employees an average of $50 per hour for the past year. If the company's total revenue for the year was $2 million, how many hours did the employees work in total?  
+Formula: Total Revenue / Average Hourly Wage = Number of Hours Worked  
+Answer: $2,000,000 / $50/hour = 40,000 hours"
+Response: 4 weeks
+Response: 180 feet
+"Response: 5 meters
+Explanation: According to the passage, Dean is 2 meters shorter than Ron. If Ron is 14 feet (which is equal to 4.3 meters) deep in the water, then Dean would be 2 meters lower than that, or 4.3 + 2 = 6.3 meters deep. Since the passage states that the water is twice as deep as Dean's height, we can conclude that the depth of the water is 6.3 x 2 = 12.6 meters."
+"Response: 5 x (Ron's height) + 3 = depth of water
+Explanation:  Based on the information provided in the question, we know that Ron is 5 times as tall as he is deep in the water. We also know that Dean is 3 meters below Ron. Therefore, if Ron is at a depth of $x$ meters, then Dean is at a depth of $x - 3$ meters. So, the depth of the water can be calculated as follows: $$depth = 5 \times height + 3$$ where $height$ is the height of Ron. Substituting this value into the equation, we get: $$depth = 5 \times 5 = 25 + 3 = 28$$ meters."
+"Response: 27 meters
+Explanation:
+Dean's height is 1 meter more than Ron's height, so Dean's depth in the water would be 1 meter + 15 times the difference between their heights = 16 meters (since the water is 15 times deeper than Dean). Since Ron is 13 feet deep, that means he is 4 meters (13 x 0.3048) below the surface of the water. Therefore, the depth of the water is 27 meters (16 + 4)."
+"Response: 24 meters
+Explanation:  Based on the information provided in the question, we know that Ron is 13 feet (4.27 meters) deep in the water. We also know that Dean is 3 meters taller than Ron, which means he is 16 meters tall (4.92 feet). Finally, we are told that the water is 16 times deeper than Ron's height, so if Ron is 13 feet deep, then the water must be 208 feet (63.5 meters) deep."
+"Response: 230 feet
+Explanation:
+Ron is 15 feet tall and Dean is 6 feet shorter than Ron, so their combined height is 15 + (6 - 6) = 15 + 0 = 15 feet. Since the water is 9 times deeper than Dean's height, it would be 9 x 15 = 135 feet deep. However, since the question states that the water is ""kilencszer"" greater in depth than Dean's height, we can multiply this by 10 to get a total depth of 10 x 135 = 1350 feet."
+"Response: 17
+Explanation: If Brian has 34 books and wants to divide them equally among two shelves, each shelf will have 34/2 = 17 books."
+Response:  The number of shelves is 21. Explanation: If there are 42 books in total and each shelf can hold 2 books, then there will be 21 shelves (42 / 2 = 21).
+Response: 54 (27 + 80)
+"Response: 50
+Explanation: According to the question, Brian has 9 books and 46 magazines. If he has 10 bookshelves, then he must have 50 magazines in total (9 x 46 = 420)."
+"Response: 40 (books + magazines)
+
+Question:  A könyvek és a folyóiratok számát az alábbiak szerint kell megadni:
+
+Könyvek: 23
+Folyóiratok: 61
+Polca: 29
+How many books and magazines are there in total?
+Formula to solve this problem: Total number of books = Number of bookshelves x Number of books per shelf; Total number of magazines = Number of magazine racks x Number of magazines per rack.
+Answer: 72 (books + magazines)"
+"Response: 7
+Explanation: Based on the information provided in the question, there are 7 bookshelves (or polcs). Since each shelf has an equal number of books, and there are 28 books in total, then each shelf must have 4 books (28 / 7 = 4)."
+"Response: 4
+Explanation: According to the information provided in the question, there are 38 books in total, and each bookshelf has 2 books. Therefore, there are 38 / 2 = 19 bookshelves."
+Response: 5 invitations are needed to ensure that each of Carol's 10 friends receives one invitation and no friend is left out.
+"Response: 90
+Explanation:
+Carol sent invitations to 12 friends for her family's vacation. Each package contained 3 invitations, so there are 3 x 12 = 36 invitations in total."
+"Response: 3
+Explanation: If Carol sent out 10 invitations in each package and took 7 packages, then she sent out a total of 70 invitations (10 x 7 = 70). Since only two friends received an invitation, that means there are 68 unused invitations left over (70 - 2 = 68)."
+"Response: 8
+
+Explanation:
+Carol sent invitations to her friends for her birthday party and each package contained 14 invitations. She bought 6 packages, which means she has 6 x 14 = 84 invitations in total. Since she took 11 invitations, that means there are 84 - 11 = 73 invitations left over, or 8 friends that she can invite."
+"Response: 5
+Explanation: Based on the information provided in the question, if Carol wants to invite nine friends to her birthday party and she has already purchased two packages of three invitations each, then she needs to purchase an additional five invitations to cover the remaining six friends. Therefore, the answer is five."
+Response: 4 meccs volt
+"Response: 42
+
+Explanation: According to the question, Melissa played in 3 matches and scored a total of 81 points. Since she scored the same number of points (42) in each match, we can conclude that she scored 42 points per match."
+Response: 456 pont
+Response: 5 games
+"Response: 4
+Explanation:  Based on the information provided in the question, Melissa scored 91 points in 13 games. Since she scored the same number of points (4) in each game, we can conclude that she scored 4 points per game."
+"Response: 10
+Explanation: If there are 4 seating places in a Ferris wheel and 20 people can ride at once, then each seat can accommodate 5 people (20 / 4 = 5)."
+"Response: 5
+Explanation: According to the question, there are some seats in the Ferris wheel. Each seat can accommodate 9 people. If 18 people can ride the Ferris wheel at once, then there must be 5 seats available for each person who wants to ride it."
+"Response: 400
+Explanation:
+The number of people who can ride bicycles in each car is 15. Since there are 19 cars, the total number of people who can ride bicycles at once is 19 x 15 = 285. However, since we want to know how many people can ride bicycles simultaneously, we need to divide this number by 2, as there will be two people per car. Therefore, the final answer is 285 / 2 = 400 people."
+Response: 60
+"Response: 2
+Explanation: According to the information provided in the question, there are 6 seating places available in the Ferris wheel, and each seat can accommodate 14 people. Therefore, if 16 people are already sitting in the Ferris wheel, then 2 more people can still join them (i.e., 16 - 6 = 10)."
+"Response: 9
+Explanation: The total number of seats in the big circle is 54, and each small seat can accommodate 14 people. Therefore, the number of people who can sit on the big circle using small seats is: 54 / 14 = 9."
+Response: 7
+"Response: 4
+Explanation: According to the question, there are 16 people who can ride bicycles in Paradise Park at once if each bike has four seats. Therefore, each seat can accommodate two people, so the total number of people that can be seated on all four seats is 8 (2 x 4 = 8)."
+"Response: 40
+
+Explanation:
+The question states that four people can fit in the wheelchair in paradise. If two people can fit in the wheelchair, then there are 2 x 4 = 8 spaces available in the wheelchair for other passengers. Therefore, there are 8 places or locations where the wheelchair can go in paradise."
+"Response: 3
+Explanation: If there are 7 pizzas and each pizza has 2 slices, then the total number of slices is 7 x 2 = 14. Therefore, each pizza has 14/7 = 3 slices."
+"Response: 14
+Explanation: If there are 28 slices in total and each pizza has two slices, then we have to divide the total number of slices by the number of pizzas. So, we can calculate it as follows: 28 / 2 = 14. Therefore, we ordered 14 pizzas."
+"Response: 30 (4 x 25 = 100; 100 / 4 = 25)"
+"Response: 18
+Explanation: If we have ordered 9 pizzas and each pizza has 10 slices, then the total number of slices is 9 x 10 = 90. Since there are two people, they will get 90/2 = 45 slices of pizza each."
+"Response: 450
+
+Explanation:
+Paige helped her mother plant flowers and together they planted some seeds in each flower bed. If there are 10 seeds in every flower bed, and there are 45 flower beds, then the total number of seeds planted is 45 x 10 = 450."
+"Response: 135
+Explanation: According to the passage, Paige and her mother planted 45 seeds in 9 flower beds. If they placed an equal number of seeds in each flower bed, then they would have planted 135 seeds in total (9 flower beds x 45 seeds per flower bed)."
+Response: 4.
+"Response: 32
+Explanation: Let's assume that the number of flowers planted is x. Since Paige helped her mother plant 55 flowers and they put 15 seeds in each flower bed, the total number of seedlings is 55x. Since only 60 flowers grew in each flowerbed, the total number of flowers grown is 60x. Therefore, the number of flowers planted is x = 32."
+"Response: 6
+
+Explanation: According to the question, Paige helped her mother plant flowers and put 10 seeds in each flower bed. If they planted 60 seeds in total, then they must have planted 6 flower beds."
+"Response: 64
+Explanation: According to the passage, Paige helped her mother plant 8 flower beds with flowers. If they placed an equal number of seeds in each flower bed, then they would have placed 64 seeds (8 x 8 = 64) in total."
+"Response: 3
+Explanation: According to the question, Matthew gave each of his friends one cookie. If there were three friends, then Matthew had 3 cookies left over for himself. Therefore, the number of cookies Matthew had was 3."
+"Response: 4
+Explanation: According to the question, Matthew gave away 8 cookies and had 2 left after giving some to his friends. If he gave 1 cookie to each of his 5 friends, then he must have given away 5 cookies in total (since there are 5 friends). Therefore, he has 2 - 5 = 2 cookies left."
+Response: 4 keksze. According to the question, Matthew gave each of his five friends an equal number of cookies (keksz), and there were still 10 cookies left over after they had eaten some. Therefore, the number of cookies each friend ate is 4 (since there are 5 friends and 10 cookies left over).
+"Response: 5
+Explanation: According to the question, Matthew gave an equal number of cookies to his three friends. If he had 24 cookies left after giving some to his friends and still has 17 cookies left, then he must have given 5 cookies to each friend."
+Response: 560 keksze és 856 süteménye lett volna, ha minden barátja egyszerre megett volna az adott mennyiségű ételt.
+"Response: 15
+Explanation: According to the question, Matthew gave 29 kekszes and 30 sweets to his two friends. If he gave each friend an equal number of both kekses and sweets, then they would have received 29/2 = 14.5 kekszes and 30/2 = 15 sweets each."
+"Response: 5 kekszenak 7 tortát = 35 (keksz + torta)
+Explanation:
+Matthew gave each of his 7 friends an equal number of cookies and pies. If Matthew gave 5 kekszen to each friend, then the total number of kekszen is 5 x 7 = 35."
+"Response: 90
+Explanation: According to the problem statement, Matthew gave each of his 18 friends an equal number of cookies. If he had 36 cookies in total, and he gave each friend an equal number, then he must have given 90 cookies in total (36 / 18 = 90)."
+"Response: 18
+Explanation: According to Matthew 6:25-34, if you have 36 loaves of bread and give one to each of your friends, then you will have given away 36 loaves or 18 friend's worth of bread (since there are 2 friends)."
+Response: 4
+Response: 5
+"Response: 4
+Explanation: According to the question, Matthew gave each of his four friends an equal number of cookies and pastries. If there were initially 32 cookies and 98 pastries, then each friend received half of the cookies (32/4 = 8) and all of the pastries (98/4 = 24). Therefore, each friend ate 8 cookies and 24 pastries."
+"Response: 4
+Explanation: According to the question, Matthew gave each of his four friends an equal number of cookies and cakes. If there were initially 10 cookies and 8 cakes, then each friend received 2 cookies and 2 cakes (since Matthew gave them an equal number). Therefore, in total, 4 friends consumed 8 sütemények (cookies) + 8 sütemény (cakes) = 16 sütemények."
+"Response:  Each of Matthew's 28 friends received an equal number of cookies and cakes. If there were initially 13 cookies and 15 cakes, then each friend received:
+
+* Cookies: 13/28 = 0.467 (approximately 4-5 cookies)
+* Cakes: 15/28 = 0.571 (approximately 5-6 cakes)"
+Response: 365 (Debbie took 365 glasses of water per day)
+Response: 40 (Debbie took 40 glasses of water per day)
+Response: 30 üveg (Debbie took 264 bottles of water and drank 15 bottles per day for 11 days, so she has 30 bottles left).
+Response: 2 days
+Response: 5 days
+Response:  The number of days that Debbie will drink the detox water is 78 days.
+"Response: 3 days
+Explanation: According to the information provided in the question, Debbie can drink 12 glasses of water. If she takes 1 glass every hour, she will be able to drink all 12 glasses in 12 hours. Therefore, Debbie can binge drink for 3 days without running out of water."
+Response: 3 days
+Response: 45 days
+Response: 50 (Faye has 14 sorras and each sorba she uses 11 cerazas)
+"Response: 9
+Explanation: According to the question, Faye placed 12 pencils equally spaced in 3 rows. Since each row has 3 pencils, and there are 3 rows, the total number of pencils is 3 x 3 = 9."
+"Response: 720
+Explanation:
+Faye had 16 ceruzák and each ceruza contained 24 ceruzák, so she had in total 16 x 24 = 384 ceruzák. Since there were 28 dobozok (boxes) of ceruzák, Faye could have sorted them into 28 / 384 = 720 rows."
+Response: 78 (Faye has 22 ceruzák, and each ceruzá contains 6 ceruzák, so the total number of ceruzák is 22 x 6 = 132)
+Response: 7
+Response: 50 ceruzák (4 + 27 = 50)
+Response: 46 (36 + 10)
+Response:  Faye has 98 ceruzas (31 + 27).
+"Response: 120
+Explanation: If Faye has 30 ceruzák és she uses 5 ceruzás to label each row, then she can label 30/5 = 6 rows with one ceruzás each. Therefore, Faye can label up to 6 rows."
+"Response: 3
+Explanation: According to the question, Faye had 6 ceramic sticks and she placed 2 of them in each row. Therefore, she placed 3 ceramic sticks in each row."
+"Response: 14
+Explanation: If there were 35 boxes of pencils and each box contained 4 pencils, then there would be a total of 35 x 4 = 140 pencils. Since the question states that Faye sorted them into rows of two pencils each, it means she could sort 140 pencils into 70 rows (or 14 rows of 2 pencils each)."
+Response: 50 (Faye has 31 boxes of pencils, each containing 6 pencils, so she has 31 x 6 = 186 pencils in total. If she sorts 19 pencils into rows, then she has 186 - 19 = 167 pencils left).
+Response: 55 ceruzák (71 - 17 = 55)
+Response: 37 (6 + 21 = 37)
+"Response: 356
+Explanation:
+The number of students in each class = 98 / 21 = 4.6
+Since there are 7 school buses and each bus can carry 46 students (based on the given information), then the total number of seats available on all buses = 7 x 46 = 302.
+Therefore, the number of seats per bus = Total number of seats available on all buses / Number of buses = 302 / 7 = 43.
+So, there are 43 seats available on each bus."
+"Response:  There are 84 classes in the school and 95 school buses with 118 seating capacity per bus. Therefore, there are 
+    (84 x 95) / 118 = 760 students in the school."
+"Response: 3
+Explanation: The school has 67 classes and 66 students in each class, for a total of 4280 students. Since there are 6 seats per bus, we need 713 buses to transport all the students (4280 / 6 = 713)."
+"Response: 3
+Explanation: The number of students in each class is given as 58, and there are 87 classes in total. Therefore, the total number of students in the school is 58 x 87 = 4960. Since two buses are needed for the trip, we need one bus for every 2480 students (4960 / 2)."
+Response:  There are 36 students in each class (24 classes x 120 students / 24 classes). Therefore, there are 36 students in each of the 8 buses (8 buses x 36 students/bus).
+"Response: 3
+Explanation: If there are 102 students in total and 22 do not want to go on the field trip, then the number of students who will be on each bus can be calculated as follows: Total number of students / Number of buses = Number of students per bus. In this case, the calculation would be: 102 students - 22 students = 80 students / 8 buses = 10 students per bus. Therefore, 3 buses are needed to transport all the students on the field trip."
+"Response: 74
+Explanation: Let's assume that 102 - 11 = 91 students are going on the field trip. Since 8 students do not want to go, we subtract them from the total number of students who will be on the buses: 91 - 8 = 83 students per bus. Therefore, there will be 83 students in each of the 9 buses."
+"Response: 4
+Explanation: If there are 72 classes in the school and each class has 3 students, then the total number of students in the school is 72 x 3 = 216. Since they need 111 students to fill all the buses, we can divide 216 by 111 to find out how many buses they will need: 216 / 111 = 4. Therefore, they will need 4 buses for the field trip."
+"Response: 52
+Explanation:
+There are 46 school buses and 92 students in the school. If each bus is full (i.e., every seat is occupied), then there are 52 seats per bus ($ \times $ 46 buses)."
+"Response: 45
+Explanation: According to the question, there are 11 boys in Haley's class who want to play golf. If Haley gives each boy 9 golf balls, then the total number of golf balls given out is 11 x 9 = 99. Therefore, Haley had 99 golf balls."
+"Response: 4
+Explanation: According to the question, there are boys in Haley's class who want to play golf. If Haley has 10 golf balls and gives each boy 5 golf balls, then there are 4 boys who received golf balls from Haley."
+"Response: 7
+Explanation: According to the question, there are 23 golf balls that Haley has and she wants to keep 15 of them for herself. Therefore, the number of golf balls that the boys will get is 23 - 15 = 8."
+"Response: 7
+Explanation: According to the question, there are 13 boys who want to play golf and 50 boys who want to play cards. If Haley has 26 golf balls, then each boy gets 7 golf balls (since there are 13 boys playing golf)."
+Response: 5 boys will get 4 balls each.
+"Response: 5
+Explanation: According to the question, there are boys in Haley's class who want to play golf. Haley gives two balls to each boy. If there were 28 balls total, then Haley gave 28/number of boys = 5 balls to each boy."
+"Response: 56 days
+Explanation: The book had 392 pages and Frank read 14 pages per day, so it took him 56 days to finish the book (392 / 14 = 56)."
+"Response: 1340 pages
+Explanation:
+The information provided in the question is as follows:
+* Frank read his favorite book every day for 569 days.
+* He read 22 pages per day.
+* Therefore, the number of pages in the book is: 569 x 22 = 1340 pages."
+Response: 150 pages per day.
+"Response: 170 pages
+Explanation:
+Frank took 220 days to finish reading his favorite book, which has 555 pages in total. Since there are 5 chapters in the book, each chapter must have approximately 111 pages (555 / 5 = 111)."
+"Response: 4.28
+Explanation: To find out how many pages Frank read per day, we need to divide the total number of pages (193) by the time it took him to finish the book (660 days). This gives us an average of 4.28 pages per day."
+"Response: 81
+Explanation:
+Frank took 3 days to finish reading all the books (3 x 249 = 747 pages). Since each book had 249 pages, Frank read 747 / 3 = 249 pages per day. Therefore, he read 249 pages per day."
+"Response: 50
+Explanation:
+Frank took 12 days to finish each book (since there are 66 pages in each book), so he finished all books in 492 days ( since there are 492 - 12 = 480 days left after finishing all books). Therefore, Frank read 50 books (since there are 50 x 12 = 600 days in total)."
+Response: 9.375 (approximately)
+"Response: 10 days
+Explanation: According to the question, Frank read 8 pages per day and the book has 576 pages in total. Therefore, it will take him 10 days (576 / 8 = 72) to finish reading the entire book."
+"Response: 925
+Explanation:
+Frank took 30 days to finish reading his favorite book, which has 41 chapters with each chapter containing 450 pages. Therefore, he read 450 pages per day. To find out how many pages Frank read in one day, we can divide the total number of pages by the number of days taken to finish the book: 450 pages/day x 30 days = 13,500 pages. So, Frank read 13,500 pages in 30 days or approximately 925 pages per day."
+"Response: 328 pages
+Explanation:  The book had three chapters with each chapter having 192 pages (594 / 3 = 192). Therefore, there are 328 pages in each chapter."
+"Response: 1.375
+Explanation:
+Frank took 664 days to read his favorite book, which consists of two chapters with 405 pages each. To calculate how many pages he read per day, we can divide the total number of pages by the time taken to finish reading the book:
+Pages read per day = Total pages / Time taken to finish reading the book
+= 810 pages (2 x 405 pages) / 664 days
+= 1.375 pages per day
+Therefore, Frank read approximately 1.375 pages of his favorite book every day."
+Response:  $120 / 6 = $20 per DVD-csomag
+Response:  $247.00
+"Response: 4
+Explanation: If the price of each DVD is $107 and there is a discount of $106 for every package, then the cost of one DVD would be $107 - $106 = $1. So, if you want to buy 4 DVDs at $93 each, you would need to pay $93 x 4 = $372 in total."
+Response: 140 dollars.
+"Response: 4
+Explanation: If $104 is available and $26 is needed for each DVD, then you can buy 4 DVDs."
+Response: 14 dollars.
+Response: 9 groups of bananas.
+Response:  There are 35 groups of bananas in Philip's collection if there are 187 bananas in total and each group contains 140 bananas.
+"Response: 14
+Explanation: If there are 203 bananas and 63 oranges in Philip's collection, and we divide the bananas into 7 groups of 28 each (since 203 / 7 = 28), then the remaining 35 bananas will be grouped with the oranges. Therefore, the number of groups for both is 95 + 35 = 130."
+"Response: 178
+Explanation: According to the question, there are 356 narancs in Philip's collection. If we divide them into groups of 47 bananas each, then there will be 356 / 47 = 7 narancs in each group. Therefore, the number of groups of narancs is 7 x 178 = 1260. So, the number of narancs in each group is 1260 - 356 = 904."
+Response:  The group contains 196 bananas.
+Response:  There are 9 groups of bananas in Philip's collection if there are 180 bananas total and they are divided into 18 different sizes.
+"Response: 10
+Explanation: If there are 87 oranges and 290 bananas in Philip's collection, then if we divide the bananas into 2 groups, each group will have 145 bananas (290 / 2 = 145). Similarly, if we divide the oranges into 93 groups, each group will have 9 oranges (87 / 93 = 0.10). Therefore, the size of each group is 10."
+"Response: 16
+Explanation: According to the question, there are 384 narancs in Philip's collection and 192 bananas. If we divide the bananas into 345 groups, then the number of narancs in each group is 16 (since there are 384 narancs total and 345 groups of bananas). Therefore, the narancs are grouped together in 16 different sets."
+"Response: 38 / 19 = 2
+Explanation: According to the question, Brenda made 38 sütemények and gave them to the guests. Since each sütő contains 19 sütit, Brenda gave 38 / 19 = 2 sütit to each guest."
+Response: 42 (14 x 30 = 420)
+"Response: 9
+Explanation: If there are 5 people and each person gets an equal number of sweets (which is assumed from the question), then the total number of sweets distributed among them is 5 x 9 = 45. Since 17 sweets were left over after everyone had their share, that means 45 - 17 = 28 sweets were consumed by the 5 people."
+"Response: 3
+Explanation: If Brenda made 18 sütemények and gave each of her 9 guests an equal amount (which is not specified in the question), then each guest received 2 sütik (since 18 / 9 = 2). Therefore, each guest got 2 sütik."
+Response: 20 (2 x 10)
+Response: 5 (since there were 10 slices of cake and each guest received 2 slices).
+Response: 56 candy pieces.
+"Response: 70
+Explanation: According to the question, there were 26 bags and each bag contained 33 candy pieces. Therefore, the total number of candy pieces is 26 x 33 = 840."
+Response: 3 - the number of zaks that will be left after Franknek has given away 24 edesses and lost 9.
+Response: 5 zacskó
+"Response: 4
+Explanation: Based on the information provided in the question, we know that Frank has 16 cukorkák and he put two of them into each of two bags (zacsskók). Therefore, there are 2 x 2 = 4 cukorkák in each bag. So, the total number of cukorkák in each bag is 4, and the total number of cukorkák in both bags together is also 4."
+Response: 36 boxes of triple-layered tissue paper are needed to ship 25 boxes of trefoil-t if each box contains 14 boxes.
+"Response: 4
+Explanation: According to the question, Shirley has 10 boxes of three-layered cake each containing 5 pieces of cake. Therefore, in total, she has 10 x 5 = 50 pieces of cake. To find out how many boxes are needed to deliver 5 doboznyi (5 boxes) of cake, we divide the total number of pieces by the number of pieces per box: 50 / 5 = 4 boxes."
+"Response: 10
+Explanation: If there were 67 glasses of regular soda and 9 glasses of diet soda, then the difference between the two is 58 (67 - 9). Therefore, 58 more glasses of regular soda were consumed than diet soda."
+"Response: 59
+Explanation: If there were 22 glasses of regular soda and 61 glasses of diet soda available in the store, then the number of diet sodas consumed was 61 - 22 = 49 more than the usual amount. Therefore, 49 additional diet sodas were consumed."
+Response: 50 üveg (30 + 8 = 50)
+"Response: 16
+Explanation: If there were 79 glasses of regular soda and 53 glasses of diet soda, then the difference between the two is 26 (79 - 53). Since there were 42 apples, we can subtract that number from the total difference to find out how many more glasses of regular soda were consumed than diet soda: 26 - 42 = 16. Therefore, 16 more glasses of regular soda were consumed than diet soda."
+"Response: 9
+Explanation: If there were 83 normal drinks and 12 almonds found in the store, then the number of dietary drinks consumed is 54 - 83 = -29. Therefore, more than 29 fewer dietary drinks were consumed than normal drinks."
+"Response: 4
+Explanation: According to the information provided in the question, there were 17 glasses of juice in total, and 9 of them were regular juice. Therefore, the number of glasses of dietary juice that were consumed can be calculated as follows: Number of dietary juice glasses = Total number of glasses - Number of regular juice glasses = 17 - 9 = 8 glasses. So, 8 glasses of dietary juice were consumed."
+"Response: 30
+Explanation: If there were 19 dietetic drinks and 60 regular drinks found in the supermarket, then the number of regular drinks consumed is 60 - 19 = 41. Therefore, the ratio of regular to dietary drinks is 41:19 or 2:1."
+Response: 40 üveg (more than 78 almas).
+Response: 9 more than 36 = 45 üveg(s).
+"Response: 7
+Explanation: According to the passage, there were 30 glasses of juice in total, and 28 of them were regular juice. Therefore, the number of glasses of dietary juice that were consumed is 7 (30 - 28 = 2)."
+"Response: 36
+Explanation: According to the question, if they consumed 79 more than usual drinks, and there were initially 4 dietary drinks, then the total number of drinks consumed is: Total = 4 + (79 - 4) = 36."
+Response: 130 üveg (57 + 26 + 27)
+Response: 21 üveg (21 x 81 = 1731).
+Response: 38 (49 - 10 = 38)
+"Response: 82
+Explanation: According to the information provided in the question, there were 317 visitors to the Buckingham Palace on the day after Rachel visited it. If there were 295 visitors the previous day, then the difference between the two days is 22 (317 - 295 = 22). Therefore, 22 people visited the Buckingham Palace on the day before Rachel visited it."
+"Response: 198
+Explanation:
+If there were 703 visitors to the Buckingham Palace in one day and Rachel found out that 246 of them visited the palace the previous day, then the total number of visitors to the palace over a period of 25 days would be:
+Total visitors = Number of visitors per day x Number of days
+= 703 x 25
+= 19825
+So, there were approximately 198 visitors to the Buckingham Palace every day for a period of 25 days."
+"Response: 334
+Explanation: According to the information provided in the question, there were 100 visitors to the Buckingham Palace the day before, and 666 visitors the same day as Rachel's visit. Therefore, if 666 visitors visited the palace on that day, then 334 visitors visited the previous day (since 100 + 666 = 766)."
+"Response: 584
+Explanation:
+The information given in the question is as follows:
+* The number of visitors to the Buckingham Palace on the day after Rachel visited it was 132.
+* If 406 people visited the Buckingham Palace over the last 327 days, then the number of visitors on the previous day would be 584 (since there are 327 days before the current day).
+Therefore, the answer is 584."
+"Response: 10376
+Explanation:
+The information given in the question is as follows:
+* After eating dinner, we went to see the Buckingham Palace.
+* Rachel found out that 45 people had visited the Buckingham Palace the day before.
+* If 829 people have visited the Buckingham Palace over the past 85 days, then the number of visitors on a particular day can be calculated as follows:
+
+Number of visitors on a particular day = Total number of visitors / Number of days
+= 829 / 85
+= 10376
+Therefore, the answer is 10376."
+"Response: 349
+Explanation:
+If there were 557 visitors to the Buckingham Palace on the day in question and 188 visitors the previous day, then the total number of visitors over a period of 57 days would be:
+Total visitors = Number of visitors on Day 1 + Number of visitors on Day 2 +... + Number of visitors on Day 57
+= 188 + (557 - 188) / 57
+= 349
+Therefore, there were 349 visitors to the Buckingham Palace over the 57-day period."
+"Response: 425
+Explanation: According to the information provided in the question, there were 661 visitors to the Buckingham Palace on the day after Rachel visited it. If there were 600 visitors the previous day, then the difference between the two days is 61 (661 - 600 = 61). Therefore, the number of visitors who went to the Buckingham Palace before Rachel's visit is 61 + 600 = 661."
+"Response: 586
+Explanation:
+Let's assume that the number of visitors to the Buckingham Palace on each day is x. We know that 419 people visited the palace yesterday and 103 people visited it the day before yesterday. Therefore, we can write the equation:
+x + 419 = 586
+Simplifying the equation, we get:
+2x = 775
+Dividing both sides by 2, we get:
+x = 387
+So, there were 387 people who visited the Buckingham Palace on the previous day."
+"Response: 635
+Explanation:
+The information given in the question is as follows:
+* On the day after we visited the Buckingham Palace, Rachel found out that 512 visitors had come to the palace on that day.
+* The previous day, there were 471 visitors to the palace.
+* In the last 89 days, the total number of visitors to the palace was 808.
+To find out how many visitors came to the palace each day during this period, we can use the following formula:
+Number of visitors per day = Total number of visitors / Number of days
+Substituting the values given in the question, we get:
+Number of visitors per day = 808 / 89 = 9
+So, there were 9 visitors to the Buckingham Palace each day over the last 89 days."
+"Response: 368
+Explanation:
+The information given in the question is as follows:
+* On the day after we visited the Buckingham Palace, there were 705 visitors.
+* The previous day, there were 191 visitors.
+* The day before that, there were 457 visitors.
+To find out how many visitors went to the Buckingham Palace over the past 245 days, we can use the following formula:
+Number of visitors = (Current number of visitors - Previous day's number) + (Previous day's number - Day before that's number) +... + (Day before that's number - First day's number)
+In this case, the first day's number is 191, so let's plug it into the formula:
+Number of visitors = (705 - 191) + (191 - 457) +... + (457 - 191)
+= 368
+Therefore, over the past 245 days, 368 people visited the Buckingham Palace."
+"Response: 370 grams of wax are already available. To find out how much more wax is needed, we can subtract the amount of wax that is already available (370 grams) from the total amount of wax required (628 grams):
+
+628 - 370 = 258 grams
+
+Therefore, there are 258 grams of wax still needed."
+"Response: 18 grams
+Explanation:
+The total amount of paint needed is 49 grams, and there are 288 grams of wax required for each feather. Therefore, if only 260 grams of wax are available, then the number of feathers that can be painted is:
+
+Number of feathers = Total amount of paint / Amount of wax per feather
+= 49 g / 288 g
+= 0.173 feathers
+So, there are approximately 0.173 feathers that can be painted with the available amount of wax."
+"Response: 108 grams
+Explanation:
+The total amount of wax needed for all the feathers is 57 + 22 = 79 grams. Since there are 353 grammas of feathers in total, we can calculate the amount of wax per feather by dividing the total amount of wax by the number of feathers: 79 / 353 = 0.226 grams per feather. Therefore, there are already 108 grams of wax used (0.226 x 473)."
+Response: 34 grams
+Response: 30 grams of wax are needed to connect the feathers. If there are currently 17 grams of wax available and 557 grams were originally required, then 30 grams is the amount needed for connecting the feathers.
+"Response: 503 grams
+Explanation:
+The total amount of wax needed for all feathers is 492 grams. Since there are currently 11 grams of wax available, we need an additional 503 grams (492 - 11 = 503) of wax to meet the demand."
+Response: 12 hordó (6 days / 90 hordó = 12 hordó per day)
+Response: 3.45 hordó/day
+Response: 305 hordó (rounded to nearest whole number)
+Response: 46.89 hordó (rounded to two decimal places)
+Response: 346.93 hordó (rounded to two decimal places)
+"Response: 5 days
+Explanation: According to the question, 36 pickers collect 8 hectoliters of grapes per day, which means they collect 240 hectoliter of grapes in 5 days (36 x 8 = 288)."
+"Response: 13
+Explanation: The total number of aquariums = 26. Since each aquarium has an equal number of fish (52), we can divide the total number of fish by the number of aquariums to find out how many fish are in each aquarium: 52 / 26 = 13. Therefore, there are 13 fish in each aquarium."
+Response: 20 aquariums (or half of 40 animals).
+"Response: 56 / 2 = 28
+There are 28 freshwater animals in Tyler's aquarium."
+"Response: 22
+Explanation: According to the passage, there are 74 edible fish and 22 saltwater aquariums. If every aquarium has 46 animals, then the number of saltwater fish at Tyler's place is also 46 x 22 = 980. Therefore, there must be 980 - 22 = 958 edible fish at Tyler's place, which means that there are 22 saltwater fish at his location."
+"Response: 87 (15 x 62 = 914; 914 - 19 = 87)"
+Response:  Any mother can buy 4 bags of white polo shirts if she has 39 white polos in total.
+"Response: 42
+Explanation: If there are 66 white polo shirts and each package contains 3 white polos, then there will be 42 packages in total."
+"Response: 10
+Explanation: According to the question, if Mother takes 28 packages that contain 56 white polos each, then she will have a total of 10 white polos (28 x 56 = 144)."
+"Response: 21
+Explanation: The mother has 57 packages of clothes, and each package contains 34 shirts and 53 pairs of socks. Therefore, she has a total of 57 x 34 = 1988 shirts and 57 x 53 = 3096 pairs of socks. Since there are 21 pairs of socks in each package, the number of packages of socks is 3096 / 21 = 146. So, the mother has 146 packages of socks."
+"Response: 3
+Explanation: According to the question, there are 51 white polos available for Anya, and each can be purchased in a triple package. Therefore, the number of packages that will contain at least one white polo is 51 / 3 = 17."
+Response:  Each bag contains 5 feather poles (since there are 14 bags and 70 total poles). So each bag contains 5/14 = 38% of the total number of poles.
+Response: 9
+Response: 4 zacskók (or 40 sütemények)
+Response: 260 sütemények (41 x 53 = 2130, but there are only 260 in total).
+Response:  Each bag contains 7 sütis, so there are 7 x 14 = 98 sütis in total.
+Response: 7 zacskók (or 7/4 = 1.75)
+Response: 30 zsák (or 30 x 100 = 3000 grams)
+Response: 3 zacskó (or 3/4 of a zacskó)
+"Response: 10 houses
+Explanation: According to the question, if a postal worker needs to deliver 5 letters to each house in a neighborhood, and there are 25 letters total, then there must be 25/5 = 5 houses per tumble. Therefore, there are 10 tumbles (5 x 2) of houses in the neighborhood."
+"Response: 5
+Explanation: If there are 20 houses in each tőmb and the postal worker needs to deliver 9 letters to every house, then the total number of letters that can be delivered is:
+
+20 x 9 = 180 letters
+So, the postal worker can deliver 5 letters per household (since there are 5 households in each tőmb)."
+"Response: 1/3 (or 0.33)
+Explanation: The total number of houses in the building is 6. If each house needs 24 pieces of mail, then the total number of pieces of mail needed for all houses is 6 x 24 = 144. Since there are 6 houses in the building, we can divide the total number of pieces of mail by 6 to get the average number of pieces of mail per house, which is 144 / 6 = 1/3 or 0.33."
+Response: 50 houses are in one neighborhood.
+Response: 48 (postal packages).
+"Response: 5
+Explanation: Since there are 78 houses in total and each house has 19 mailboxes, the number of emails that the postal worker needs to deliver is 78 x 19 = 1462. Therefore, the postal worker can deliver 5 emails to each house, which means they will need to deliver 5 x 1462 = 7310 emails in total."
+Response: 16 houses are in each tome.
+"Response: 3
+Explanation: Since there are 81 houses in total and each house has 12 houses in it, the number of emails that can be delivered to each house is 81/12 = 6. Therefore, the total number of emails that can be delivered is 6 x 4 = 24."
+"Response: 50
+Explanation:
+The number of houses in each towner is given by 16houses/towner. Since there are 17 houses per towner, we can write:
+$$ \frac{16}{1} = 17 $$
+So, each towner has $17$ houses. Therefore, the number of packets that the mailman needs to deliver is:
+$$ \boxed{\text {50}} $$
+Since each packet contains $4$ letters, the total number of letters that need to be delivered is:
+$$ \boxed{\text {200}} $$"
+Response: 5 groups.
+Response: 4 groups.
+"Response: 56
+Explanation: If there are 11 people in total and each person has 2 eggs, then the total number of eggs is 11 x 2 = 22 eggs. Since Rebecca has 50% of the eggs, she has 22 / 2 = 11 eggs."
+Response: 24 tojás lesz minden csoportban.
+Response: 30 tojások lesz minden csoportban.
+Response: 4 groups.
+Response: 3 groups.
+"Response: 4
+Explanation: According to the information provided in the question, Rebecca has 20 tojások and 6 golyós. To find out how many tojások Rebecca still has after giving some to each of the 5 groups, we can use division. We know that 20 / 5 = 4, so Rebecca has 4 tojást left after distributing them among the 5 groups."
+"Response: 4
+Explanation: According to the question, Rebecca has 5 golf balls and 12 eggs. If she wants to divide them equally among 30 groups, each group will receive 4 eggs (12 / 30 = 4). Therefore, Rebecca still has 4 eggs left over after dividing them into 30 groups."
+"Response: 3
+Explanation: If Luke scored 154 points in total and he got 11 points per turn, then he played 3 turns (154 / 11 = 3)."
+Response: 234 points
+Response: 20 points.
+Response: 203 points.
+"Response: 40
+Explanation: According to the question, Luke scored 3 points in each round, so he scored a total of 3 x 78 = 234 points. Since there were 40 rounds in the game, Luke played for 40 x 3 = 120 minutes."
+"Response: 4
+Explanation: According to the question, Emily had two gemstones and was able to make 32 necklaces. Therefore, she needed 16 gemstones (32 / 2 = 16) for each necklace."
+Response: 560 gyöngy (28gyöngy/nyaklánc x 11nyaklánc)
+"Response: 4
+Explanation: According to the information provided in the question, Emily has 16 gyöngyek (gyöngy = 1), and she makes necklaces with 8 gyöngyek each. Therefore, Emily can make 4 necklaces (8 gyöngyek/necklace x 4 necklaces)."
+"Response: 3
+Explanation: According to the question, Emily made 18 necklaces and used 6 gemstones for each one. Therefore, she needed a total of 18 x 6 = 108 gemstones to make all the necklaces."
+"Response: 20
+Explanation: If Emily made 4 necklaces with 5 beads each, then she made a total of 4 x 5 = 20 beads."
+"Response: 48
+Explanation: If Emily has 72 friends and each friend receives one necklace with 3 gems per necklace, then Emily can make a total of 72 x 3 = 216 necklaces. Since there are only 6 gems available, Emily cannot make more than 216 / 6 = 36 necklaces. Therefore, the answer is 48."
+"Response: 16
+Explanation:
+To make each necklace, Emily needed 5 gypsies. Since she made 20 necklaces in total, she needed 5 x 20 = 100 gypsies in total. However, there were only 43 friends, so she did not have enough gypsies to make all of the necklaces. Therefore, the answer is 16."
+"Response: 50
+Explanation: According to the question, Emily made 26 necklaces and each necklace contains 2 gypsies. Therefore, the total number of gypsies Emily had is 26 x 2 = 52. Since there are 44 friends, the remaining 9 gypsies (52 - 44) must be Emily's share. So, the answer is 9."
+"Response: 340777
+
+Explanation:
+Let's assume that the number of children who went to camp is x. Since there are 819058 - 668278 = 150776 more children at home than in camp, we can write an equation:
+x + (150776) = 819058
+Now, we need to find out how many children stayed at home. We know that the total number of children is equal to the sum of those who went to camp and those who stayed at home:
+Children = Number of children who went to camp + Number of children who stayed at home
+Children = x + (668278 - 150776)
+Children = x + (-85851)
+Children = x + 85851
+Simplifying the above equation, we get:
+x = 340777
+Therefore, 340777 children stayed at home during the summer break."
+Response: 349156
+Response: 27359 (27359 - 629424 = 898051)
+Response: 90,365 (274865 - 184788)
+"Response: 351833
+
+Question:  A nyári szünetben 907611 gyerek marad otthon, a többi 455682 gyerek pedig táborba megy. Hogy hány gyerek van Lawrence megyában?  
+Formula: Total number of children = Number of children who stay at home + Number of children who go to camp
+
+Answer: Total number of children = 907611 + 455682 = 1363293"
+Response: 764666 (76% of 828521)
+Response: 30458 (61619 - 91676)
+Response: 50984 (34044 + 134867 - 424944)
+"Response: 308485
+
+Explanation:
+The number of children in Lawrence County can be calculated as follows:
+
+Total number of children = Number of children who went to camp + Number of children who stayed at home
+= 610769 + (590796 - 22)
+= 610769 + 588574
+= 1199343
+
+Therefore, there are 1199343 children in Lawrence County."
+Response: 1022216 (644997 + 893835 - 78)
+"Response: 3
+Explanation: According to the question, Adam has three almonds belonging to Jackie. Additionally, Adam has nine almonds of his own, which means that Jackie has 3 + 9 = 12 almonds in total."
+"Response: 2
+Explanation: According to the question, Adam has 10 apples and Jackie has two apples. Therefore, Adam received 8 apples from Jackie (10 - 2 = 8)."
+"Response: 3
+Explanation: According to the question, Adam has 9 apples and Jackie has 10 apples. Therefore, Jackie received 3 more apples from Adam (10 - 9 = 3)."
+Response: 2
+"Response: 3
+Explanation: According to the question, Adam and Jackie together have 6 apples. If they had more than 4 apples together, it would mean that Adam has some apples of his own, which is not mentioned in the question. Therefore, the number of apples Adam has is 3."
+Response: 15 (7 + 8)
+"Response: 4
+Explanation: According to the question, Adam has 8 almonds more than he shares with Jackie. So, if they have 12 almonds together, then Adam has 8 + 12 = 20 almonds in total."
+"Response: 4
+Explanation: According to the information provided in the question, Adam has four apples and Jackie has ten apples. When combined, Adam and Jackie have two apples, which is less than the total number of apples they own (four + ten = 14). Therefore, Adam must have four apples."
+"Response: 5
+Explanation: According to the information provided in the question, Jackie has 89 oranges and 11 apples. Since Adam has 5 apples, he must have 5 - 11 = -6 apples. Therefore, there are no apples belonging to Adam."
+Response:  Helen did not süt any sütemények yesterday evening because it is stated that she had already made 31 sütemények and 270 süteményt this morning, for a total of 419 süteményt before yesterday evening. Therefore, Helen did not make any more sütemények last night.
+"Response: 326
+Explanation: According to the information provided in the question, Helen made 90 cookies yesterday and 51 rosins today, for a total of 326 cookies."
+"Response: 310
+Explanation: According to the information provided in the question, Helen made a total of 527 chicken suts and 86 mazsolas suts yesterday. Today, she made 86 rosin suts and 554 chicken suts, for a total of 310 chicken suts."
+"Response: 267
+Explanation: According to the information provided in the question, Helen made 144 cookies and 397 roses yesterday. Today, she made 85 rose slices and 403 cookie slices. To find out how many macaroni slices Helen made today, we need to add the number of cookies and roses she made yesterday with the number of each she made today. Therefore, the total number of macaroni slices Helen made today is: 144 + 397 = 541 - 85 = 456. So, Helen made 456 macaroni slices today."
+Response:  There are 237 chocolate chip cookies in Helen's collection as of today.
+Response:  Yesterday, Helen made 197 chicken skewers and today she made 75 more. So, yesterday, Helen made a total of 272 chicken skewers (197 + 75).
+"Response: 300
+Explanation: According to the passage, Helen sut 300 mazsolás sütit yesterday and today she sut 280 rosins sütit. So, Helen sut 300 - 280 = 120 mazsolás sütit more than yesterday."
+Response: 20 (Katie has played 81 games, while her friends have played 59 games, so Katie has played 20 more games than her friends).
+Response: 204 (91 + 88 - 53)
+Response: 30 (new games)
+Response: 27 (new games)
+Response: 41
+Response: 6 (Katie has more games than her friends)
+Response: 16 (Katie has more games than her friends)
+Response:  $33 - $19 = $14
+Response: 104 dollars
+"Response:  $40 + $69 = $109
+
+Question:  Az utolsó hetekben az áruházban sok emberek vásárolt, de nem mindenki vette meg a termékeket. A számlákon jól látható, hogy néhány ember sem vett meg egy-egy terméket. Mostanra az áruházban csaknem 500 dollárt kaptunk össze. Hogyan számolhatjuk ki, mennyi pénzre került az árutőzsde?  
+Based on the question, formulate a numeric answer.  Answer: $490
+
+Question:  Az utolsó hetekben az áruházban sok emberek vásárolt, de nem mindenki vette meg a termékeket. A számlázón jól látható, hogy néhány ember sem vett meg egy-egy terméket. Mostanra az áruházban nearly 500 dollars were collected. How can we calculate how much money was made at the market?  
+Based on the question, formulate a numeric answer.  Answer: $490"
+Response:  $78 - $21 = $57
+"Response:  $111 + $40 = $151
+
+Question:  Az utolsó hetekben az áruházban dolgozó emberek fizetéseinek összege 3600 dolláron állt. Az utolsó heti fizetésükhöz tartozó adósságuk 20%-a volt. Hogyan számolhatjuk ki, hogy mennyire maradtak vissza az árutőkekből?  
+Based on the question, formulate a numeric answer.  Answer: $3600 x (1 - 0.20) = $2880"
+Response:  $63
+Response:  $25 (based on the information provided)
+"Response:  $16 + $74 = $90
+Question:  Az utolsó hetekben az áruházban dolgozó emberek fizetése 2%-os növekedéssel nőtt. Ha egy emberek fizetése mostanra 800 forinttal kezdődik, mennyire fog fizetni egy hónap végéig?  
+Based on the question, formulate a numeric answer.  Answer:  $800 x (1 + 0.02) = $816"
+Response: 285 dollars (111 + 34)
+Response: 81 kg
+Response: 54 kg
+Response: 190 kg (Jessie's original weight was 190 kilograms)
+Response: 40 kg (since 35 kg - 69 kg = -34 kg)
+Response: 134 kg (Jessie's current weight)
+Response: 58 kg (Jessie's initial weight was 58 kg)
+Response: 76 kg (Jessie's weight before starting to run was 92 kg - 56 kg = 36 kg + 99 kg = 135 kg)
+"Response: 30
+Explanation: According to the question, there were initially 95 kitties in the cage and then 64 of them hid themselves. This means that 31 kitties did not hide themselves (i.e., 95 - 64 = 31)."
+"Response: 56
+Explanation: According to the question, there were initially 97 alligators in the enclosure. If 40 of them hid, then the number of alligators that did not hide is 97 - 40 = 56."
+Response:  There are 19 aligators that did not hide in the cage.
+"Response: 36
+Explanation: According to the question, there were 79 animals in the enclosure. If 24 kittens and 51 alligators hid themselves, then the number of animals that did not hide themselves is:
+79 - (24 + 51) = 36
+Therefore, 36 animals did not hide themselves."
+"Response: 97
+Explanation: If the farmer had 171 tomatoes in his garden yesterday and today he selected 134 of them, then he has 37 tomatoes left (171 - 134 = 37). After another day, he will have 30 more tomatoes, so he will have 67 tomatoes left (37 + 30 = 67)."
+"Response: 23
+Explanation: If the farmer harvested 160 tomatoes yesterday and today he chose 41 of them, then he has 160 - 41 = 119 tomatoes left after today's harvest."
+"Response: 36
+Explanation: According to the question, the farmer had 90 tomatoes in his garden yesterday and selected 154 of them today. This means he has 68 remaining (90 - 154 = 68). If he picked 50 tomatoes today, then he has 36 tomatoes left in his garden (68 - 50 = 36)."
+Response:  The farmer had 8 paradicsom and 39 krumpli left in his garden after he collected 172 krumplis.
+Response: 94 (paradicsom) and 12 (krumpli).
+"Response: 46
+Explanation: Based on the information provided in the question, if the farmer had 105 green and 71 red tomatoes in his garden before harvesting 137 tomatoes, then he would have 46 tomatoes left after harvesting."
+"Response: 4
+Explanation: According to the question, four right angles are required to secure each large panel to the house walls. Since there are eight panels in total (as mentioned in the problem statement), and each panel requires two right angles to be secured, the number of right angles needed for John to attach all the panels to the house walls is 8 x 2 = 16. Therefore, the answer is 4."
+"Response: 20
+Explanation: To determine how many right triangles are needed to build the house walls, we need to calculate the number of right triangles that can be formed using the given measurements.
+
+From the problem statement, we know that there are 13 large boards and each board requires 17 right angles for attachment. Therefore, the total number of right triangles required is:
+
+13 x 17 = 207
+
+However, since some of these triangles will overlap or be used multiple times, we cannot use all of them in building the house walls. So, let's round up the number of usable right triangles to the nearest whole number, which is 20.
+
+Therefore, John needs 20 right triangles to build the house walls."
+"Response: 5
+Explanation: According to the problem statement, 11 angles are needed for the house walls, and each angle requires 3 pieces of wood (desk). Therefore, the total number of desks required is 11 / 3 = 5."
+Response: 36
+"Response: 8
+Explanation: According to the problem statement, John needs 2 right angles (or 90-degree angles) to attach 16 pieces of wood to the walls of his house. Since each piece of wood requires two right angles, John will need a total of 8 right angles (or 8 x 90 degrees = 720 degrees)."
+"Response: 560
+Explanation:
+The total number of desks required for the house walls is given by the product of the number of walls (8) and the number of desks used per wall (74). Therefore, the total number of desks needed is 8 x 74 = 560."
+"Response: 30
+Explanation: According to the information provided in the question, they used 12 large and 17 small pieces of wood for the house walls. If each large piece is required to make 14 right angles, then there are 12/14 = 8/7 = 1 1/3 large pieces needed for one complete angle. Since there are 360 degrees in a full circle (i.e., 360 x 1/360 = 1), we can calculate the number of small pieces needed as follows: 17 / 25 = 6 1/3. Therefore, John needs 1 + 6 = 7 desks for his house wall."
+"Response: 6
+Explanation: According to the question, there are 42 rágók in total and each package contains 3 rágók. Therefore, the number of packages that Robin has is 42 / 3 = 14. Since there are 14 packages, Robin has 14 packages."
+Response: 150 gumballs
+"Response: 5
+Explanation:
+Let's assume that there are x number of packages in total. Since each package has 7 rugs, and Robin has 6 extra rugs, the total number of rugs is 7x + 6 = 42. As we know that Robin has 6 pieces of every package, so he must have 6/7th of the total number of packages which is equal to 6/7 \* x = 5 packages. Therefore, the answer is 5 packages."
+Response: 56 (rounded)
+Response: 375
+Response: 30 (6 x 5 = 30)
+Response:  The industrial machine can produce 3 poles per minute. Therefore, it took 6 minutes to make all six poles (3 x 6 = 18). So, the gear worked for 6 minutes.
+Response:  The industrial machine can produce 4 poles in one minute, so it produced 4 x 5 = 20 poles during its 5-minute operation.
+Response: 21 minutes. Explanation: If the machine produced 9 poles yesterday and 44 poles today, then it produced 37 poles in total (9 + 44). Since it can produce 3 poles per minute, it worked for 37 / 3 = 12 minutes yesterday and 44 / 3 = 14 minutes today. Therefore, the machine worked for a total of 21 minutes (12 + 14)
+Response: 4 minutes. Explanation: If the machine produced 13 poles yesterday and 3 poles today, then it is producing 8 poles every minute. Therefore, if it took 4 minutes to produce 8 poles, it means that the machine worked for 32 minutes (4 x 8 = 32).
+Response: 3 minutes
+Response: 2 minutes. Explanation: If the industrial machine can produce 3 poles per minute today and produced 4 poles yesterday, then it means that the production rate has increased by 1 pole per minute (from 3 to 4). Therefore, if it took 2 minutes to produce 4 poles yesterday, it will take 1 minute to produce 8 poles today. So, the time taken to produce 8 poles is 1 minute.
+Response:  The industrial machine can produce 14 poles in one hour. Therefore, if it worked for 12 hours yesterday and produced 14 poles today, then it has produced a total of 14 x 12 = 168 poles altogether.
+Response: 48 (12 - 5)
+Response:  $165 / 5 = $33 per day
+Response: 308 dollars (144 x 22)
+Response:  $15/day
+Response: 566 dollars.
+Response:  $120/20 = $6 per day
+Response:  $114/57 = $2.00 per day
+"Response: 3
+Explanation: According to the question, Lucy bought 10 packages of bread and 4 packages of cake. If she took 4 packages of cake instead of bread, then she took 6 packages of bread (10 - 4 = 6)."
+Response: 30 (22 + 8)
+"Response: 9
+Explanation: According to the question, Lucy bought 23 packages of food and ""nagyon"" (meaning ""a lot"") of them were tortillas. This implies that she bought at least 9 packages of tortillas, since 23 is greater than 9."
+"Response: 4
+Explanation: According to the passage, Lucy bought 2 packages of bread and 12 packages of tortillas. If she spent $56 on food, then she must have bought a total of 4 packages of food (since each package costs $14)."
+Response: 40 (based on the information provided)
+Response: 7 ember (12 - 3 = 9)
+"Response: 5
+Explanation: Initially, there were 4 people on the bus. After 13 more people boarded the bus, there are now 9 people on the bus (including the initial 4). Therefore, there are currently 5 people on the bus."
+"Response: 3
+Explanation: Initially, there were 11 people on the train, and 8 more got off at Megálló. Therefore, there are 3 people left on the train."
+Response: 654 (676 - 22)
+Response: 150 (73 + 724 + 744)
+Response: 521 - 174 = 347 diák volt jelen a szülőknél a programban.
+Response: 258 (61 parents + 177 students) - 44 available seats = 258 people present at the program.
+Response:  The depth of the cave is 919 meters and it takes 1307 meters to reach the bottom of the cave. Therefore, the depth of the cave is 2226 meters (919 + 1307).
+Response: 30 hours and 56 minutes.
+Response: 103 days (or approximately 3 months and 1 week)
+"Response: 3
+Explanation: According to the passage, there were initially 6 goldfish left in the pond after the cats had eaten some. Then, Paige raised 8 more goldfish in the pond. Therefore, 3 goldfish have disappeared (i.e., been eaten by the cats)."
+"Response: 5 hal (or ""fish"" in English) disappeared."
+Response: 39 (aranyhal)
+Response: 90
+"Response: 26
+Explanation: According to the question, after you took one small piece of pie, there were still two apples left for the chef. Initially, the chef had 43 apples. Therefore, the number of apples used by you is 26 (43 - 1 = 26)."
+"Response: 23
+Explanation: If the chef had 58 apples and used 35 of them to make a small pie, then he must have left with 23 apples remaining."
+"Response: 16
+Explanation: The total number of almonds was 40, and after he cooked a small piece (pitét), there were 39 left. So, the number of almonds used is 16 (40 - 39 = 16)."
+"Response: 10
+Explanation: According to the question, there are 4 polcs in the room and each pole can hold 2 action figures. Therefore, the total number of action figures that can be placed on the polcs is 4 x 2 = 8. Since there are already 3 action figures placed on the polcs, the remaining 5 action figures can be placed on the shelves (which have 40 compartments)."
+"Response: 2
+Explanation: According to the question, Adam could place 10 action figures in his room and he had space for 8 of them. Therefore, there are 2 free spaces or shelves available in the room for holding action figures."
+Response: 40 (4 polcs x 10 szekrény).
+Response: 1680 (32 x 54)
+"Response: 
+Total number of flowers = Total number of plates x Number of flowers per plate
+= 466 x 53
+= 24980
+Total number of stems = Total number of plates x Number of stems per plate
+= 466 x 181
+= 87360
+Therefore, there are 24980 flowers and 87360 stems in total."
+Response: 638 (71 x 91)
+Response: 10.
+Response: 38.
+Response:  The number of groups of 495 Skittles in Steven's collection is 3941 / 495 = 7.
+Response: 24 groups of Skittles. Explanation: If there are 896 Skittles in total and each group contains 90 Skittles, then there will be 9 groups per container (since 896 / 90 = 10). Since Steven has 5 containers, he has 5 x 9 = 45 groups of Skittles.
+Response:  There are 5 classes in total (since there are 5 students per class). Therefore, there are 5 x 270 = 1350 students in the school.
+Response: 2690 (304 x 75)

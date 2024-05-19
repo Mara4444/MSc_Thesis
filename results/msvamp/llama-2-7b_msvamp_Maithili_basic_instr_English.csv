@@ -1,0 +1,2011 @@
+Response: 12;;;;;;;
+Response: 12;;;;;;;
+Response: 15;;;;;;;
+Response: 16;;;;;;;
+Response: 16 + 12 = 28;;;;;;;
+Response: 14-8=6;;;;;;;
+Response: 20;;;;;;;
+Response: 15 + 18 = 33;;;;;;;
+Response: 15;;;;;;;
+Response: 14 + 16 = 30;;;;;;;
+Response: 32;;;;;;;
+Response: 14 + 2 = 16;;;;;;;
+Response:  The number of days between Julie's birthday and Bhadra's birthday is 11 days. Therefore, on Mangalwar, Bhadra will be 9 days old.;;;;;;;
+"Response: 15 + 18 = 33
+
+Explanation:
+The number of children playing with each other on different days is given in the question as follows:
+
+* Sunday: 15 children play together.
+* Monday: 18 children play together.
+* Tuesday: 7 children play together.
+
+Therefore, the total number of children playing together on all three days is 15 + 18 + 7 = 33 children.";;;;;;;
+Response: 13 + 10 = 23;;;;;;;
+Response: 20;;;;;;;
+Response: 34;;;;;;;
+Response: 38;;;;;;;
+"Response: 30
+Explanation:
+From the given information, we can calculate that Julie played with 5 children on Monday and 6 children on Tuesday. Therefore, the total number of children she played with is 5 + 6 = 11.";;;;;;;
+Response: 20;;;;;;;
+Response: 17;;;;;;;
+Response: 43;;;;;;;
+"Response: 280
+Explanation:
+The question asks how many chocolates Bob can eat in total if he eats 28 of them every day for 43 days. Therefore, the answer is 28 x 43 = 1256 chocolates that Bob can eat in total.";;;;;;;
+Response: 42;;;;;;;
+Response: 38;;;;;;;
+"Response: 18
+Explanation: According to the question, Bob has 20 pieces of candy and he eats 34 pieces. So, he has 7 pieces left (20 - 34 = 7).";;;;;;;
+"Response: 19
+Explanation:
+From the given information, we can calculate the total amount of money that Bob has after selling 5 tons of mica and buying 9 tons of opium.
+Total amount of money = Number of tons of mica sold x Price per ton of mica + Number of tons of opium bought x Price per ton of opium
+= 21 - 5 + 9 - 4
+= 19
+Therefore, the correct answer is 19.";;;;;;;
+Response: 17;;;;;;;
+Response: 20;;;;;;;
+Response: 16;;;;;;;
+"Response: 36
+Explanation: According to the question, Bobi consumed 17 tonnes of rice and Feri consumed 15 tonnes of rice. So, the total amount of rice consumed by both is 32 tonnes (17 + 15). Since Bobi started with 36 tonnes of rice, he will have 34 tonnes left after consuming 17 tonnes (36 - 17 = 19). Therefore, the final amount of rice that Bobi has is 34 tonnes.";;;;;;;
+"Response: 25
+Explanation: According to the question, Bobi has eaten 23 mithais and wants to know how many more he needs to eat to reach 30 mithais. Therefore, the answer is 25 (23 + 1 = 25).";;;;;;;
+Response: 150;;;;;;;
+Response: 30;;;;;;;
+Response: 30;;;;;;;
+Response: 120;;;;;;;
+Response: 10;;;;;;;
+Response: 15000000;;;;;;;
+Response: 13;;;;;;;
+Response: 13;;;;;;;
+Response: 10;;;;;;;
+Response: 12;;;;;;;
+Response: 13;;;;;;;
+Response: 13;;;;;;;
+Response: 30;;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the total area of the park as follows:
+Area of park = Area of ellipse + Area of rectangle
+= (π x radius^2) + (l x w)
+
+where l and w are the lengths of the semi-major and minor axes of the ellipse, respectively.
+
+The radius of the ellipse is half the length of the major axis, which is 7 taulas. Therefore, the radius is 3.5 taulas.
+
+Now, we need to find the length of the semi-major axis, which is twice the radius. So, the length of the major axis is:
+L = 2 x radius = 2 x 3.5 = 7 taulas
+
+Similarly, the length of the minor axis is half the length of the major axis, so it is:
+w = L/2 = 7/2 = 3.5 taulas
+
+Now, we can calculate the area of the ellipse using the formula:
+Area of ellipse = (π x radius^2)
+= (π x (3.5)^2)
+= 12.25 taula^2
+
+Next, we need to find the area of the rectangle that forms the remaining part of the park. The dimensions of the rectangle are:
+Length = 5 taulas
+Width = 4 taulas
+So, the area of the rectangle is:
+Area of rectangle = length x width = 5 x 4 = 20 taula^2
+
+Finally, we add the areas of both the ellipse and the rectangle to get the total area of the park:
+Total area of park = Area of ellipse + Area of rectangle
+= 12.25 taula^2 + 20 taula^2
+= 32.25 taula^2
+
+Therefore, the total area of the park is 32.25 taula^2.";;;;;;;
+Response: 30;;;;;;;
+Response: 120;;;;;;;
+"Response: 120 
+Explanation: According to the given information, Raj can speak English for 2 hours and Chinese for 6 hours in total. So, he can learn 2 x 2 = 4 words of English per hour and 6 x 2 = 12 words of Chinese per hour. Therefore, in 2 hours, he can learn 4 x 2 = 8 words of English and 12 x 2 = 24 words of Chinese.";;;;;;;
+Response: 7 hours and 30 minutes (7:30);;;;;;;
+Response: 120 hours (or approximately 5 days);;;;;;;
+Response: 10;;;;;;;
+Response: 10;;;;;;;
+Response: 70%;;;;;;;
+Response: 6 hours of English and 5 hours of Hindi in one day is possible if you start studying at 7 AM and finish at 12 PM.;;;;;;;
+Response: 1080 minutes;;;;;;;
+Response: 86 days;;;;;;;
+Response: 12 hours (7 + 3);;;;;;;
+Response: 30 minutes (for English) + 58 minutes (for Spanish) = 88 minutes.;;;;;;;
+Response: 20 ;;;;;;;
+Response: 1080;;;;;;;
+Response: 30 minutes.;;;;;;;
+Response: 7 days to learn English and 5 hours per day for Chinese. So, in total, it will take approximately 49 days (7 x 7 = 49) to learn both languages.;;;;;;;
+Response: 1056723489;;;;;;;
+Response: 12000;;;;;;;
+Response: 120;;;;;;;
+Response: 10;;;;;;;
+Response: 108;;;;;;;
+Response: 10;;;;;;;
+Response: 1080;;;;;;;
+Response: 20;;;;;;;
+Response: 20;;;;;;;
+Response: 7;;;;;;;
+Response: 10;;;;;;;
+Response: 16;;;;;;;
+Response: 71;;;;;;;
+Response: 14;;;;;;;
+Response: 30;;;;;;;
+Response: 48;;;;;;;
+Response: 20;;;;;;;
+Response: 20;;;;;;;
+Response: 20;;;;;;;
+Response: 240;;;;;;;
+Response: 40;;;;;;;
+Response: 20;;;;;;;
+Response: 14;;;;;;;
+Response: 120;;;;;;;
+"Response: 4
+Explanation:
+The total number of balls in the basket is 16. If there are 13 red balls and some more green balls, then the number of green balls = Total number of balls - Number of red balls. Therefore, the number of green balls = 16 - 13 = 3. So, there are 4 green balls in the basket.";;;;;;;
+Response: 23;;;;;;;
+Response: 3 tokri.;;;;;;;
+Response: 18;;;;;;;
+"Response: 120
+Explanation:
+The total number of boxes that can be placed in the container is 8 x 4 = 32. Since there are already 8 boxes inside the container, we have space for another 32 - 8 = 24 boxes. Therefore, the maximum number of boxes that can be added to the container is 24.";;;;;;;
+Response: 7;;;;;;;
+"Response: 240
+Explanation:
+The number of pages in a notebook is 220 pages. If we add 6 extra pages at the end, there will be a total of 240 pages in the notebook.";;;;;;;
+"Response: 10
+Explanation:
+From the given information, we can calculate the total weight of books in Jeremy's room as follows:
+Total weight of books = 5 tonnes x 1000 kg/tonne = 5000 kg
+Now, there are 7 shelves in Jeremy's room, and each shelf can hold 300 kg of books. Therefore, the total weight of books that can be placed on each shelf is:
+Total weight of books per shelf = 7 shelves x 300 kg/shelf = 2100 kg
+So, the total number of books that can be placed on each shelf is:
+Total number of books per shelf = Total weight of books per shelf / Weight of one book = 2100 kg / 500 g (weight of one book) = 4200 books
+Since there are 9 textbooks, the total number of books that can be placed on each shelf is:
+Total number of books per shelf x Number of textbooks = 4200 books x 9 = 36,800 books
+Therefore, the total number of books that can fit on all 7 shelves in Jeremy's room is:
+Total number of books = 36,800 books / 7 shelves = 5200 books
+So, the answer to the question is 5200 books.";;;;;;;
+Response: 3214567890.;;;;;;;
+Response: 10;;;;;;;
+Response: 14;;;;;;;
+Response: 150 kg;;;;;;;
+"Response: 10
+Explanation:
+From the given information, we can calculate that there are 5 old tires in the garage and each tire has 4 equal parts (e.g., 4 wheels). Therefore, the total number of parts from all the old tires is 5 x 4 = 20 parts. Since the new tire has 8 equal parts, the difference between the two numbers is 20 - 8 = 12 parts. So, there are 12 parts left over after installing the new tire.";;;;;;;
+"Response: 120
+Explanation:
+The total area of the three rectangles is 36 + 48 + 54 = 138 square meters. Since there are six equal rectangles in each row, and each rectangle has an area of 138/6 = 22.67 square meters. Therefore, the number of rectangles that can be placed horizontally on one shelf is 22.67 x 6 = 133.22.";;;;;;;
+Response: 120;;;;;;;
+Response: 9;;;;;;;
+Response: 10;;;;;;;
+"Response: 30
+Explanation:
+From the given options, option (D) is the correct answer. The sum of the first three numbers in each row is equal to the product of the corresponding letters. Therefore, we have:
+
+Row 1: जे = 10 + 5 = 15
+ Row 2: री = 18 + 9 = 27
+ Row 3: क = 100 + 50 = 150
+
+So, the total number of books in the shelf is 15 + 27 + 150 = 300.";;;;;;;
+Response: 37500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 30;;;;;;;
+Response: 250;;;;;;;
+Response: 120;;;;;;;
+Response: 30;;;;;;;
+Response: 40;;;;;;;
+Response: 13;;;;;;;
+Response: 120;;;;;;;
+Response: 120;;;;;;;
+Response: 43210;;;;;;;
+Response: 120;;;;;;;
+Response: 42;;;;;;;
+Response: 42;;;;;;;
+Response: 27;;;;;;;
+Response: 50;;;;;;;
+Response: 3750124689;;;;;;;
+Response: 26;;;;;;;
+Response: 3;;;;;;;
+Response: 10;;;;;;;
+Response: 37;;;;;;;
+Response: 36;;;;;;;
+Response: 108;;;;;;;
+Response: 23;;;;;;;
+Response: 18;;;;;;;
+Response: 21;;;;;;;
+Response: 310 pages.;;;;;;;
+Response: 10;;;;;;;
+Response: 36;;;;;;;
+Response: 39;;;;;;;
+Response: 39;;;;;;;
+Response: 16;;;;;;;
+Response: 60/7 = 85.7142857142857143;;;;;;;
+Response: 50;;;;;;;
+Response: 25;;;;;;;
+Response:  Yes, there are more campers in Borromeo than in Dupahar. The number of campers in Borromeo is 53 and in Dupahar it is 48. So, there are more campers in Borromeo.;;;;;;;
+Response: 27;;;;;;;
+Response: 40;;;;;;;
+Response: 30;;;;;;;
+"Response: 35
+Explanation:
+From the given information, we can calculate the total number of campers who were either roaring or hibernating as follows:
+Roaring: 41 + 26 = 67
+Hiberning: 0
+Therefore, the total number of campers who were either roaring or hibernating is 67.";;;;;;;
+Response: 26;;;;;;;
+Response: 70%;;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the number of seeds in each apple as follows:
+Number of apples = 4 tons x 100 kg/ton = 400 kg
+Number of seeds per apple = 8 (as mentioned in the question)
+Therefore, total number of seeds in all apples = Number of apples x Number of seeds per apple = 400 kg x 8 = 3200 seeds.
+So, there are 3200 seeds in all the apples.";;;;;;;
+"Response: 30
+Explanation:
+From the given information, we can determine that there are 5 seeds in each pumpkin and 3 pumpkins in total. Therefore, the total number of seeds is:
+5 x 3 = 15 seeds
+So, there are 15 seeds in Rahul's bag.";;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the number of seeds in one gram of each type of apple as follows:
+
+* Red apple: 1 seed per gram (as mentioned in the question)
+* Green apple: 2 seeds per gram (as mentioned in the question)
+* Yellow apple: 3 seeds per gram (as mentioned in the question)
+
+Now, let's find out how many grams of each type of apple are required to make 6 packets of apples with an equal number of seeds in each packet:
+
+* Red apple: 120 grams (6 packets x 20 grams per packet)
+* Green apple: 720 grams (6 packets x 120 grams per packet)
+* Yellow apple: 960 grams (6 packets x 160 grams per packet)
+
+Therefore, the total number of seeds in 6 packets of apples is:
+
+Red apple: 120 grams x 1 seed/gram = 120 seeds
+Green apple: 720 grams x 2 seeds/gram = 1440 seeds
+Yellow apple: 960 grams x 3 seeds/gram = 2880 seeds";;;;;;;
+"Response: 12
+Explanation: The given information can be represented as follows:
+Racheal has 6 apples in her bag. Out of these, she wants to give 2 big apples and 4 medium-sized apples. So, the total number of apples Racheal has is 6 - (2 + 4) = 6 - 6 = 0 apples.";;;;;;;
+Response: 27;;;;;;;
+Response: 12;;;;;;;
+Response: 1307256489;;;;;;;
+"Response: 52
+Explanation: The number of seeds in one gram of apple is approximately 52.";;;;;;;
+Response: 30 seeds.;;;;;;;
+"Response: 29
+Explanation: According to the question, Rahul has 4 seeds in his pocket and he wants to distribute them equally among 7 friends. Therefore, each friend will get 4 seeds / 7 friends = 29 seeds.";;;;;;;
+Response: 20;;;;;;;
+Response: 45;;;;;;;
+Response: 24;;;;;;;
+Response: 27;;;;;;;
+"Response: 19
+Explanation: According to the question, there are 27 goats in total, and each goat has 9 heads. Therefore, the total number of heads is 27 x 9 = 243 heads. Since there are 24 heads in one day, the number of days required to count all the heads is 243 / 24 = 10 days.";;;;;;;
+Response: 30 - 17 = 13;;;;;;;
+Response:  Yes, Ed won the game with a score of 19-8.;;;;;;;
+Response: 91;;;;;;;
+Response:  The number of bulbs required to light up the field is 30. To calculate this, we need to subtract the number of bulbs already lit (20) from the total number of bulbs available (40). Therefore, the remaining number of bulbs that can be used to light up the field is 30.;;;;;;;
+Response: 165;;;;;;;
+Response: 351;;;;;;;
+Response: 310 out of 185 students preferred vegetarian food over non-vegetarian food.;;;;;;;
+Response: 170;;;;;;;
+Response: 120;;;;;;;
+Response: 104;;;;;;;
+Response:  The number of students who will get the same food as their friends is 324. Therefore, out of the total 374 menu options, 128 tamatar dishes will be available for the remaining 150 students.;;;;;;;
+Response: 34;;;;;;;
+Response: 208;;;;;;;
+Response: 1056;;;;;;;
+Response: 27;;;;;;;
+"Response: 409
+Explanation: According to the question, out of 218 students, 351 students are eligible for scholarship and among them, only 351 students can avail the scholarship. Therefore, the number of students who cannot avail the scholarship is 67 (218 - 351).";;;;;;;
+Response: 154;;;;;;;
+Response: 174 (as there are 174 girls in the school).;;;;;;;
+"Response: 27
+Explanation: The number of girls in the school is 34 and the total number of boys is 841. Therefore, the percentage of boys to girls is 841/34 = 27.";;;;;;;
+"Response: 197
+Explanation:
+From the given information, we can deduce that there are 485 students in the school and 232 of them are boys. Therefore, the number of girls in the school is 485 - 232 = 253. So, one girl out of 253 students in the school is absent. Hence, the answer is 197 (since there are 200 students in total).";;;;;;;
+Response: 315;;;;;;;
+"Response: 270
+Explanation:
+Total number of boys in the school = 635
+Number of boys who are not bald = 510 (as per the question)
+Therefore, the number of bald boys in the school = Total number of boys - Number of boys who are not bald = 635 - 510 = 125";;;;;;;
+Response: 347;;;;;;;
+"Response: 700
+Explanation: According to the question, there are 700 students in the school, and if 142 boys have been absent, then the number of girls present is 558 (700 - 142).";;;;;;;
+"Response: 395
+Explanation: According to the question, there are 706 girls and 222 boys in the school. If 418 girls join the school, then the total number of girls in the school will be 706 + 418 = 1124. Therefore, the number of boys in the school is 222 - (1124 - 706) = 395.";;;;;;;
+"Response: 53
+Explanation: According to the given information, there are 902 girls and 811 boys in the school. If 44 of them join the club, then the number of girls in the club will be 902 - 44 = 858. Therefore, there are 53 girls left in the school who are not members of the club.";;;;;;;
+"Response: 278
+Explanation:
+Total number of girls in school = 632 + 410 = 1042
+Number of boys in school = 465
+So, the difference between total number of boys and girls is 1042 - 465 = 278.";;;;;;;
+"Response: 490
+Explanation: According to the given information, there are 732 girls and 761 boys in the school. If 682 girls and 8 boys join the club, then the total number of girls in the club is 732 - 682 = 50. Therefore, there are 490 girls in the club.";;;;;;;
+Response:  There are 910 boys in the school.;;;;;;;
+Response: 294 (308 - 318);;;;;;;
+Response: 476 (315 girls + 309 boys = 476 students).;;;;;;;
+Response: 168;;;;;;;
+"Response: 307
+Explanation:
+The total number of students in the school is given as 458 + 692 = 1140. Since there are already 458 students in the school, the additional number of students that can be accommodated is 1140 - 458 = 682. Therefore, if 692 more students join the school, there will be 682 students left to accommodate.";;;;;;;
+"Response: 198
+Explanation:
+From the given information, we can observe that there are 362 boys in the school and 257 girls. Therefore, the number of boys who have not been selected for the basketball team is 362 - 257 = 105.";;;;;;;
+Response: 20;;;;;;;
+Response: 13 dollars.;;;;;;;
+"Response: 20
+Explanation: According to the question, if Edvard spends $9 on something and then gets change of $1, he will have $8 left. If he spends another $1 on something else, he will have $7 left. Therefore, the final amount of money that Edvard has is $20 ($8 + $7).";;;;;;;
+Response: 16000 - 92 = 15078;;;;;;;
+Response:  $6 \times 12 = 72$ books can be purchased with $60.;;;;;;;
+"Response: 20
+Explanation: According to the question, if Advertisement cost is Rs 60 and he sold his product at Rs 16 per piece, then he made a profit of Rs 44 (Rs 60 - Rs 16). If he sold 19 pieces, then his total profit would be Rs 834 (Rs 44 x 19 = Rs 834).";;;;;;;
+Response:  $30$;;;;;;;
+Response:  $16 - ($8 \times 19) = $40$;;;;;;;
+"Response: 17000
+Explanation:
+The cost of the trip is $17000 and Adward has spent $8000 so far. Therefore, he still needs to pay $9000 more for the remaining part of the trip.";;;;;;;
+Response: 32;;;;;;;
+Response: 51 - 44 = 7;;;;;;;
+Response: 480;;;;;;;
+Response: 51;;;;;;;
+Response: 27;;;;;;;
+"Response: 36
+Explanation:
+From the given information, we can calculate that David has pushed 29 tires and kicked 13 cans. Therefore, the total number of objects moved by David is 29 + 13 = 42.";;;;;;;
+Response: 29;;;;;;;
+Response: 42;;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the total number of push-ups and crunches done by Jamie as follows:
+Total push-ups = 46 + 38 = 84
+Total crunches = 58 + 22 = 80
+Now, let's find out how many crunches Jackie did to complete his squats:
+Crunches per squat = Total crunches / Total squats = 80 / 62 = 12.5
+So, Jackie did approximately 12 crunches for every squat he completed.";;;;;;;
+Response: 26;;;;;;;
+Response: 39;;;;;;;
+Response: 20;;;;;;;
+Response: 37;;;;;;;
+Response: 38;;;;;;;
+Response: 340;;;;;;;
+Response: 36 - 27 = 8.;;;;;;;
+Response: 17;;;;;;;
+Response: 125000;;;;;;;
+Response: 3250146789;;;;;;;
+Response: 3;;;;;;;
+Response: 3;;;;;;;
+Response: 12;;;;;;;
+Response: 12;;;;;;;
+Response: 10 x 3 = 30;;;;;;;
+"Response: 150
+Explanation:
+From the given information, we can calculate the total number of pages in the three books as follows:
+Book 1 has 20 pages, Book 2 has 30 pages, and Book 3 has 10 pages. Therefore, the total number of pages is:
+20 + 30 + 10 = 60 pages.";;;;;;;
+Response: 96;;;;;;;
+Response: 1234567890;;;;;;;
+Response: 10;;;;;;;
+Response: 29;;;;;;;
+Response: 13;;;;;;;
+Response: 10;;;;;;;
+Response: 1234567890;;;;;;;
+Response: 25;;;;;;;
+Response: 10;;;;;;;
+Response: 12;;;;;;;
+Response: 10;;;;;;;
+Response: 20 emails. Explanation: According to the question, Jack sends 6 emails in the morning and 3 emails in the evening, for a total of 9 emails per day. Since he works for one day, he will send a total of 20 emails (9 x 2 = 18).;;;;;;;
+Response: 10;;;;;;;
+Response: 30;;;;;;;
+Response: 30;;;;;;;
+Response: 23;;;;;;;
+Response: 32;;;;;;;
+Response: 32;;;;;;;
+"Response: 10
+Explanation: According to the question, Jack sends 6 emails in the morning and 3 emails in the evening. Therefore, the total number of emails sent by Jack in a day is 6 + 3 = 9 emails.";;;;;;;
+"Response: 108
+Explanation:
+From the given information, we can calculate that Jack has sent 3 emails of size 2 MB each and 64 emails of size 5 MB each in one day. Therefore, the total number of emails sent by Jack in one day is:
+3 x 2 MB = 6 MB + 64 x 5 MB = 320 MB
+So, Jack sends approximately 320 MB of email per day.";;;;;;;
+Response: 10;;;;;;;
+Response: 10;;;;;;;
+Response: 120;;;;;;;
+Response: 350 emails per day;;;;;;;
+Response: 10;;;;;;;
+Response: 7;;;;;;;
+Response: 134567890;;;;;;;
+Response: 10;;;;;;;
+Response: 30 cm;;;;;;;
+Response: 27;;;;;;;
+Response: 20 inches.;;;;;;;
+Response: 30;;;;;;;
+Response: 35 inches;;;;;;;
+Response: 27 inches.;;;;;;;
+"Response: 10
+Explanation:
+From the given information, we can calculate the difference between the height of the tallest and shortest buildings as follows:
+Height of tallest building = 25 inches (as per the question)
+Height of shortest building = 26 inches (as per the question)
+Difference in height = Height of tallest building - Height of shortest building
+= 25 - 26
+= -1
+Therefore, the distance between the two buildings is 10 inches (since they are opposite each other).";;;;;;;
+Response:  Yes, the distance between Chuha and Tiddi is less than 33 inches. Therefore, Chuha can reach Tiddi in less than 33 inches.;;;;;;;
+Response: 20;;;;;;;
+Response: 256;;;;;;;
+Response: 30 inches. Explanation: According to the given information, the height of the Grecian urn is 19 inches and it has been placed on top of a base that is 4 inches high. Therefore, the total height of the structure including the base is 19 + 4 = 23 inches. Since the distance between the two points is 44 inches, the point where the line intersects the base will be 23 - 44 = -21 inches away from the base.;;;;;;;
+Response: 40 inches;;;;;;;
+"Response: 30
+Explanation: According to the given information, the length of the tape measure is 21 inches and it has 25 marks. The distance between each mark is 1 inch. Therefore, the total number of inches in the tape measure is 21 x 25 = 525 inches. Now, we need to find out how many inches are left after cutting off 16 inches from the end of the tape measure. To do this, we can divide the remaining length (525 - 16 = 499) by the distance between each mark (1 inch), which gives us 499 / 1 = 499 inches. So, there are 499 inches left after cutting off 16 inches from the end of the tape measure.";;;;;;;
+Response: 20 inches. Explanation: From the given information, we can calculate the height of the tallest tree as follows: Height of tallest tree = 39 inches - 17 inches = 22 inches The height of the second tree is 17 inches, which is less than the height of the first tree by 5 inches (22 - 17 = 5). Therefore, the distance between the two trees is 5 inches.;;;;;;;
+Response: 42;;;;;;;
+"Response: 20
+Explanation: The height of the grasshopper is 14 inches and that of the mouse is 16 inches. Since the mouse is shorter than the grasshopper by 2 inches (16 - 14 = 2), it can jump over the mouse easily. Therefore, the answer is 20.";;;;;;;
+Response: 14 + 6 = 20.;;;;;;;
+Response: 10;;;;;;;
+Response: 13 + 6 = 19;;;;;;;
+Response: 120;;;;;;;
+Response: 1300 grams;;;;;;;
+Response: 12 + 5 = 17;;;;;;;
+Response: 10 + 9 = 19;;;;;;;
+Response: 140 kgs;;;;;;;
+Response: 12 + 5 = 17 kgs of rice and 49 kgs of wheat are required for 80 people to make 12 kg of pickle. So, 17 x 80 = 1360 kgs of rice is required.;;;;;;;
+Response: 100;;;;;;;
+Response: 12 + 7 = 19;;;;;;;
+Response: 10;;;;;;;
+Response: 13;;;;;;;
+Response: 10 + 9 = 19;;;;;;;
+Response: 120 liters of water is required to make 6 cups of tea using 9 cups of milk and 3 cups of water for each cup of tea. So, 180 liters of water will be needed in total.;;;;;;;
+Response: 140/5 = 28;;;;;;;
+Response: 100;;;;;;;
+Response: 13;;;;;;;
+Response: 140 kgs;;;;;;;
+Response: 120;;;;;;;
+Response: 15;;;;;;;
+Response: 140;;;;;;;
+Response: 10 + 7 = 17;;;;;;;
+Response: 13 + 6 = 19;;;;;;;
+"Response: 70
+Explanation: From the given information, we can calculate that 70 kgs of rice are required to make 100 kgs of atta. So, the answer is 70.";;;;;;;
+Response: 120 kgs (of rice) + 140 kgs (of atta) = 260 kgs. So, you need to carry 260 kgs of foodgrains.;;;;;;;
+"Response: 190
+Explanation:
+The given information can be summarized as follows:
+* The number of trees in the forest is 190.
+* Each tree has 50 branches.
+* Each branch has 3 leaves.
+* There are 60 parrots living in the forest.
+
+Now, to calculate the total number of leaves in the forest, we need to multiply the number of trees with the number of branches and then multiply it by the number of leaves per branch. Therefore, the total number of leaves in the forest is:
+190 x 50 = 9500
+9500 x 3 = 28500
+So, there are approximately 28500 leaves in the forest.";;;;;;;
+Response: 10564328759267377;;;;;;;
+"Response: 20
+Explanation: According to the information provided in the question, there are 20 families living in the hills who have been affected by the recent floods.";;;;;;;
+"Response: 40
+Explanation: According to the given information, there are 85 tiger families in the forest area of ​​850 square kilometers. If 23 tiger families migrate to Africa and 37 tiger families migrate to Asia, then the number of tiger families left in the forest is 40.";;;;;;;
+Response: 31;;;;;;;
+"Response: 94
+Explanation:
+The given information can be represented in the following table:
+
+| Location | Number of Birds |
+| --- | --- |
+| India | 38 |
+| Africa | 47 |
+| Asia | 94 |
+
+Therefore, the total number of bird families that migrate to different continents is:
+India - 38 birds x 1 = 38
+Africa - 47 birds x 1 = 47
+Asia - 94 birds x 1 = 94
+So, there are 38 + 47 + 94 = 179 bird families that migrate to different continents.";;;;;;;
+Response:  The number of penguins that can fit in a hot air balloon is zero.;;;;;;;
+"Response: 247
+Explanation:
+The given information can be represented in the following table:
+
+| Distance (km) | Number of Pairs | Total distance covered by pigeons |
+| --- | --- | --- |
+| 0-8 | 1 | 8 km |
+| 8-16 | 2 | 16 km |
+| 16-24 | 3 | 24 km |
+| 24-32 | 4 | 32 km |
+| 32-40 | 5 | 40 km |
+| 40-48 | 6 | 48 km |
+| 48-56 | 7 | 56 km |
+| 56-64 | 8 | 64 km |
+| 64-72 | 9 | 72 km |
+| 72-80 | 10 | 80 km |
+| 80-88 | 11 | 88 km |
+| 88-96 | 12 | 96 km |
+| 96-104 | 13 | 104 km |
+| 104-112 | 14 | 112 km |
+| 112-120 | 15 | 120 km |
+| 120-128 | 16 | 128 km |
+| 128-136 | 17 | 136 km |
+| 136-144 | 18 | 144 km |
+
+Therefore, if 18 pigeons are released from near the mountain peak at an altitude of 8700 feet and they fly in a straight line, the total distance covered by all the pigeons will be 18 x 87 = 1596 km.";;;;;;;
+Response:  The number of families that have at least one member who has gone abroad for work is 49. Out of these, 24 families have returned after working abroad for 2-3 years, and 15 families are still abroad. Therefore, the total number of families that have someone abroad is 69.;;;;;;;
+"Response: 35
+Explanation:
+From the given information, we can calculate the number of pigeon families that are within a distance of 27 trees from each other as follows:
+Total number of pigeon families = 27 x 26 = 692
+Now, let's find out how many pigeon families are within a distance of 41 trees from each other:
+Number of pigeon families within distance of 41 trees = Total number of pigeon families - Number of pigeon families within distance of 27 trees
+= 692 - (692 / 27) = 35
+Therefore, there are 35 pigeon families within a distance of 41 trees from each other in the mountain range.";;;;;;;
+"Response: 120
+Explanation:
+The given information can be interpreted as follows:
+* The population of pheasants in a particular area is 86 tonnes.
+* Out of these, 45 tonnes are males and 41 tones are females.
+* Each male pheasant has an average of 3.5 chicks per year, while each female pheasant has an average of 2.7 chicks per year.
+* The survival rate of chicks is 50%.
+Now, to calculate the total number of pheasants after one year, we need to consider both the births and deaths.
+Births:
+Males: 45 x 3.5 = 157.5 chicks
+Females: 41 x 2.7 = 111.7 chicks
+Total births: 157.5 + 111.7 = 269.2 chicks
+Deaths:
+Males: 45 x 0.5 = 22.5 chicks (since only 50% survive)
+Females: 41 x 0.5 = 20.5 chicks (since only 50% survive)
+Total deaths: 22.5 + 20.5 = 43 chicks
+So, the total number of pheasants after one year will be:
+Total born: 269.2 - Total died: 43 = 226.2 pheasants
+Therefore, the answer is 120.";;;;;;;
+Response: 41;;;;;;;
+Response:  The number of penguins that can fit in a small car is 3-4.;;;;;;;
+"Response: 253
+Explanation: According to the question, if we have 253 pens and we want to distribute them equally among 70 people, each person will get approximately 3.6 pens (253 / 70 = 3.6). Since we cannot give fraction of pen, rounding off 3.6 to nearest whole number gives us 4 pens per person, so total number of pens distributed is 280 (4 x 70 = 280).";;;;;;;
+"Response: 178
+Explanation: According to the information provided in the question, there are 551 students in the school and each student has to bring Rs. 10 as examination fee. Therefore, the total amount of money that needs to be collected is Rs. 551 x Rs. 10 = Rs. 5510. However, since the school has only 178 pens, the number of pens required for each student is 5510 / 178 = 31.";;;;;;;
+"Response: 1265738942
+
+Explanation:
+The given information can be represented in the following table:
+
+| Year | Number of Polls | Number of Votes | Total Votes |
+| --- | --- | --- | --- |
+| 2019 | 440 | 1111 | 5555 |
+| 2020 | 440 | 1010 | 5555 |
+| 2021 | 440 | 1111 | 5555 |
+
+From the above table, we can see that the total number of votes cast in all three years is 5555. Therefore, the probability of any particular color (e.g., red) being chosen in one poll is 5555/440 = 1265738942.";;;;;;;
+Response: 213;;;;;;;
+"Response: 589
+Explanation:
+The number of pensils required to fill one box is 589. This can be calculated by multiplying the number of colors (571) by the number of pensils in each color (6).";;;;;;;
+"Response: 412
+Explanation:
+The number of pensils required to fill 110 boxes of different colors is 412. This can be calculated by multiplying the total number of boxes (110) by the number of pensils required for one box (90). Since each box has 90 pensils, we need 90 x 110 = 9900 pensils in total. However, since we are asked about the number of pensils required to fill the boxes, we subtract the number of pensils already filled in each box (90), resulting in 9900 - 90 = 9810 pensils left over. Therefore, the answer is 412.";;;;;;;
+Response: 352;;;;;;;
+Response: 492;;;;;;;
+Response: 321;;;;;;;
+"Response: 391
+Explanation:
+The number of pencils required to fill 531 boxes of 38 pencils each is 391.";;;;;;;
+"Response: 382
+Explanation:
+The number of poles in the first ring is 601 and the number of rods in the second ring is 406. The total number of rods in both rings together is 1007 (601 + 406). Since there are 336 threads in each rod, the total number of threads in both rings together is 336 x 1007 = 336,570. However, since one thread does not fit inside another, the actual number of threads that can be woven into the fabric is 336,570 - 336 = 333,234. Therefore, the answer is 382.";;;;;;;
+Response: 315;;;;;;;
+"Response: 308
+Explanation:
+From the given information, we can calculate the number of pensils required to fill one box as follows:
+Number of boxes = Total number of pensils / Number of pensils in each box
+= 267 pensils / 10 pensils per box
+= 26.7 boxes
+Since there are 308 friends, the total number of pensils required to give one penil to each friend is:
+Total number of pensils required = Number of friends x Number of pensils in each box
+= 308 friends x 10 pensils per box
+= 3080 pensils
+Therefore, the answer is 308.";;;;;;;
+"Response: 320
+Explanation:
+The question is asking for the number of years that will pass between the current year (1945) and the time when the speaker's son will be 52 years old. The speaker's son was born in 1938, so he will be 52 years old in 1990. Therefore, the difference between the current year and the year when the speaker's son will be 52 years old is 52 - 1945 = -1993. Since negative numbers are not possible, the answer must be 0 or a positive integer. In this case, the answer is 320 since it takes approximately 320 years for a person to reach the age of 52 starting from birth.";;;;;;;
+Response: 1234567890;;;;;;;
+Response: 3;;;;;;;
+Response: 5;;;;;;;
+"Response: 5
+Explanation: According to the question, there are 14 customers in front of the water cooler and 5 customers behind it. Therefore, the number of customers who have not yet taken a turn is 5 (14 - 5 = 9).";;;;;;;
+Response: 13;;;;;;;
+"Response: 20
+Explanation: The total number of water bottles required for 12 customers is 12 x 15 = 180 liters. Since there are 14 new customers, we need to add another 180 liters, making the total requirement 360 liters. Therefore, the answer is 20.";;;;;;;
+Response: 3;;;;;;;
+Response: 45000;;;;;;;
+Response: 14;;;;;;;
+Response: 0;;;;;;;
+Response: 37500;;;;;;;
+"Response: 23000
+Explanation:
+The total amount of money in the Danish bank account is $9900. Each chocolate bar costs $3 and there are 30 chocolate bars in total. Therefore, the total cost of all the chocolate bars is $3 x 30 = $90. So, after buying all the chocolate bars, there will be $9900 - $90 = $9810 left in the bank account.";;;;;;;
+"Response: 30000 
+Explanation:
+The cost of three chocolate bars is $18, so the cost of one chocolate bar is $18/3 = $6 per bar.";;;;;;;
+Response: 20;;;;;;;
+Response: 20;;;;;;;
+Response: 107 dollars.;;;;;;;
+"Response: 10875
+Explanation:
+The cost of one chocolate is $6. So, the total cost of 3 chocolates = $6 x 3 = $18. Since you have paid $3 for 2 chocolates, you still owe $15 ($18 - $3) for the remaining 1 chocolate. Therefore, the amount due to be paid for the last chocolate = $15.";;;;;;;
+Response: 20 dollars;;;;;;;
+"Response: 10800 
+Explanation:
+The cost of one chocolate bar is $2. So, if you buy 8 chocolate bars, the total cost will be $16 (8 x $2). If your friend buys 5 chocolate bars and gives you $5 as change, then you have spent a total of $11 ($16 - $5). Therefore, you have $5 left with you.";;;;;;;
+Response: 10875.;;;;;;;
+"Response: 3000 
+Explanation: According to the question, Dan bought three chocolates for $1 each and spent a total of $3 on them. Therefore, he has $2 left over.";;;;;;;
+"Response: 12000
+Explanation:
+The cost of each chocolate is Rs 50, so the total cost of 4 chocolates = 4 x 50 = 200.
+Since there are 3 boxes of chocolates, the total cost of all the chocolates = 3 x 200 = 600.
+So, the price of one chocolate = 600 / 4 = 150.";;;;;;;
+Response: 2000;;;;;;;
+"Response: 1200 - 7 = 1193
+Explanation:
+The cost of one chocolate is $2, and you bought 8 chocolates. So, the total cost of all the chocolates you bought is $2 x 8 = $16. You also sold 4 chocolates at $1 each, so the total amount of money you made from selling them is $4. Therefore, your profit is $16 - $4 = $12.";;;;;;;
+Response: 78000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 105;;;;;;;
+"Response: 1080
+Explanation:
+The given information can be represented as follows:
+Polak has 1080 books to sell. Out of these, he wants to give 350 books to his friend. He will get 620 books in return from his friend. Therefore, Polak's final number of books is 1080 - 350 = 730 books.";;;;;;;
+Response: 25000;;;;;;;
+Response: 102000;;;;;;;
+"Response: 30000
+Explanation:
+The cost of 21 tonnes of potatoes is given as Rs 42 per tonne. To find out how much money will be required to buy 15 tonnes of potatoes at this rate, we need to multiply the cost of 1 tonne by 15, which gives us Rs 630 (Rs 42 x 15 = Rs 630). So, if you want to buy 15 tonnes of potatoes, it will cost you Rs 630.";;;;;;;
+Response: 38000;;;;;;;
+"Response: 1080 - 55 = 1025
+
+Explanation:
+The given information can be represented as follows:
+
+Polak has 1080 books and he wants to sell them in parts of 55 books each. So, he will have 1080 / 55 = 20 books left after selling one part.
+Now, he has 20 books left and he wants to sell them in parts of 66 books each. So, he will have 20 / 66 = 3 books left after selling one part.
+Therefore, Polak will have 3 books left after selling both parts.";;;;;;;
+"Response: 140
+Explanation:
+From the given information, we can calculate the total number of books as follows:
+Total number of books = Number of books in the first box + Number of books in the second box
+= 51 x 106 = 5,106 books
+Now, let's find out how many books are left after selling 82 books from the first box and 14 books from the second box:
+Number of books left = Total number of books - Number of books sold
+= 5,106 - 82 = 4,924 books
+So, there are 4,924 books left in the store.";;;;;;;
+Response: 270;;;;;;;
+"Response: 1340
+Explanation:
+The total number of books in the first lot is 1340 (13 x 100). The remaining books after selling 39 books to the friend are 1301 (1340 - 39 = 1301). Therefore, the number of books available for sale at the garage sale is 680 (1301 - 621 = 680).";;;;;;;
+"Response: 1530
+Explanation:
+From the given information, we can calculate the total number of books as follows:
+Number of books = Total amount in polka dot notes x Exchange rate
+= 950 x 153
+= 1530
+Therefore, the answer is 1530.";;;;;;;
+Response: 50;;;;;;;
+Response: 10;;;;;;;
+"Response: 23
+Explanation: According to the question, there are 23 gulabs in the flower bed.";;;;;;;
+Response: 23;;;;;;;
+Response: 17;;;;;;;
+"Response: 21000
+Explanation:
+The total number of flowers in the garden is 21000. The number of roses is 34 x 21 = 684, and the remaining flowers are 21000 - 684 = 19316.";;;;;;;
+Response: 59;;;;;;;
+"Response: 120
+Explanation: According to the question, there are 120 gulabs in the flower garden.";;;;;;;
+"Response: 230
+Explanation:
+The total number of flowers in the first row is 15 + 62 = 77.
+The total number of orchids in the second row is 17 + 96 = 113.
+So, the difference between the two rows is 113 - 77 = 36.";;;;;;;
+Response: 10;;;;;;;
+"Response: 120
+Explanation: According to the question, there are 120 flowers in the garden and out of them, 36 are red roses, 48 are yellow daisies, and 36 are blue lilies. Therefore, the number of orange marigolds is 120 - (36 + 48) = 120 - 84 = 36.";;;;;;;
+"Response: 108
+Explanation: According to the question, there are 11 flowers in each pot of Gulab and 20 pots of Orkid in total. Therefore, the number of flowers in all the pots is 11 x 11 = 1211. However, since some of the pots may have more than one flower, we need to round up the answer to the nearest integer, which gives us 108 as the final answer.";;;;;;;
+Response: 19000;;;;;;;
+Response: 9102567342;;;;;;;
+Response: 24;;;;;;;
+Response: 21;;;;;;;
+Response: 13;;;;;;;
+"Response: 20
+Explanation: According to the question, if Robin's height is reduced by 17 inches, his new height will be 53 inches (13 inches less than his original height).";;;;;;;
+Response: 25 inches.;;;;;;;
+Response:  The length of Robin's kite is 16 inches and its tail is 11 inches long. If it flies for 12 minutes, how long will it be after that time?  Based on the information provided in the question, the length of Robin's kite after 12 minutes of flying will be 17 inches (16 x 1.1 = 17).;;;;;;;
+Response: 20 inches.;;;;;;;
+"Response: 20
+Explanation: According to the question, Robin cut off 13 inches of his hair and started growing it again from 14 inches long. If he had grown it for another 20 inches, then its current length would be 40 inches (20 + 14).";;;;;;;
+Response: 14 inches.;;;;;;;
+Response: 120;;;;;;;
+Response: 107;;;;;;;
+"Response: 35
+Explanation:
+The number of bottles in the first park is 63, and the number of old flasks is 51. Therefore, the total number of bottles and flasks in both parks together is 63 + 51 = 114.";;;;;;;
+Response: 21;;;;;;;
+"Response: 42
+Explanation: The total number of bottles in the park is 30 + 63 = 93 bottles. Since there are 42 bottles in the collection, the remaining bottles must be in the park.";;;;;;;
+Response: 105;;;;;;;
+"Response: 175
+Explanation:
+The total number of bottles in the park is 22 + 30 = 52 bottles. Out of these, 17 bottles are empty and 35 bottles have liquid inside them. Therefore, the final answer is 175 (52 x 17).";;;;;;;
+"Response: 25
+Explanation: According to the question, there are 30 bottles in one park and 14 bottles in another park. Therefore, the total number of bottles in both parks is 30 + 14 = 44 bottles. Since there are 7 bottles in each row, the total number of rows of bottles in both parks is 44 / 7 = 6 rows.";;;;;;;
+"Response: 108
+Explanation: According to the question, there are 11 bottles in the park and each bottle contains 28 liters of water. Therefore, the total volume of water in all the bottles is 11 x 28 = 308 liters. Since we need to find out how many packs of 51 bottles can be filled with water from the park, we divide the total volume of water by 51, which gives us 308 / 51 = 6.07 packs. So, approximately 6 packs of 51 bottles can be filled with water from the park.";;;;;;;
+"Response: 350
+Explanation:
+From the given information, we can calculate the total number of bottles in the park as follows:
+Total number of bottles = Number of bottles in one row x Number of rows
+= 71 bottles x 7 rows
+= 497 bottles
+
+Since there are 28 bottles per band, the total number of bands is:
+Total number of bands = Total number of bottles / Number of bottles per band
+= 497 bottles / 28 bottles per band
+= 18 bands
+
+So, there are 18 bands with 28 bottles each, and hence the total number of bottles in the park is:
+Total number of bottles = Number of bands x Number of bottles per band
+= 18 bands x 28 bottles per band
+= 350 bottles";;;;;;;
+"Response: 270
+Explanation:
+The total number of bottles in the park is 10 + 62 = 72 bottles. Out of these, 27 bottles are empty and need to be collected. Therefore, the answer is 270 (27 empty bottles x 10 bottles per pack).";;;;;;;
+Response: 25;;;;;;;
+Response: 32;;;;;;;
+"Response: 67
+
+Explanation:
+The given question is based on a simple arithmetic problem. The total number of bottles in the first row is 30 + 28 = 58. Similarly, the total number of bottles in the second row is 40 + 30 = 70. Therefore, the total number of bottles in both rows together is 58 + 70 = 128. Finally, the remaining 12 bottles are left over after distributing them equally among all the rows, which is equal to 12 / 6 = 2 bottles per row. So, there are 2 bottles leftover.";;;;;;;
+Response: 105000;;;;;;;
+Response: 36;;;;;;;
+Response: 43;;;;;;;
+"Response: 108
+Explanation:
+The total number of bottles in the park is 66 + 39 = 105. Since there are 16 bottles in each package, the total number of packages is 105 / 16 = 6.75. Therefore, Denny has 6 packages left after giving one to each of his friends.";;;;;;;
+Response: 350;;;;;;;
+Response: 31000;;;;;;;
+"Response: 150
+Explanation:
+The total number of bottles in the park is 58 + 25 = 83 bottles. Out of these, 11 are empty and 7 are full. Therefore, the remaining number of full bottles is 7 - 11 = 6 full bottles.";;;;;;;
+Response: 67000;;;;;;;
+Response: 10;;;;;;;
+Response: 10;;;;;;;
+"Response: 20
+Explanation: The given information can be represented as follows:
+Jack's height is 18 cm less than Steve's height. Jack's height is 13 cm more than Jill's height. Jill's height is 19 cm tall.
+Therefore, Jill's height is 20 cm (19 + 13) tall.";;;;;;;
+"Response: 30
+Explanation:
+From the given information, we can calculate that there are 30 beats in one minute.
+
+1. The speed of Jack's heart is 8 beats per minute. So, he has 8 x 60 = 480 beats in one hour.
+2. Since there are 60 minutes in an hour, Jack has 480 / 60 = 8 beats per minute.
+
+Therefore, the number of beats in one minute for Jack is 8.";;;;;;;
+Response: 10;;;;;;;
+"Response: 20
+Explanation:
+The distance between station 7 and station 9 is 4 km. The distance between station 9 and the starting point (station 1) is 3 km. Therefore, the total distance traveled by Jack is 4 + 3 = 7 km.";;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can calculate the total number of steps required to reach the station from home as follows:
+Station distance = 7 km - 8 km = -1 km (since negative distances are not possible)
+Journey time = 8 km / 30 km/h = 0.267 hours (or 16 minutes and 40 seconds)
+Since the train starts at 8 am, we need to add the journey time to get the arrival time at the station: Arrival time = 8 am + 0.267 hours = 8:26 am
+Now, we know that Jack has to be at the station by 8:30 am, so he needs to leave his house at the latest by: Latest departure time = 8:30 am - 8:26 am = 4 minutes
+Therefore, Jack needs to take 4 steps to reach the station.";;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can calculate the number of beads in each row and then add them up to get the total number of beads.
+Row 1 has 9 beads, Row 2 has 18 beads, and Row 3 has 16 beads. Therefore, the total number of beads is:
+9 + 18 + 16 = 43
+So, there are 43 beads in the station.";;;;;;;
+Response: 18000 - 6 = 17994.;;;;;;;
+"Response: 180
+Explanation:
+The distance between station San 5 and the base camp is 18 km. The base camp is located at an altitude of 3600 m above sea level. To calculate the height of Jack's position, we need to subtract the altitude of the base camp from his position. Therefore, Jack's position is at an altitude of 2740 m (3600 - 180) above sea level.";;;;;;;
+"Response: 30
+Explanation:
+From the given information, we can calculate the total area of the station as follows:
+Station area = 16 km x 8 km = 128 km²
+Now, let's find out how much area is left after subtracting the station area from the total area of the district:
+Total area of the district - Station area = 150 km² - 128 km² = 22 km²
+So, there are 22 km² of land left in the district after subtracting the area of the station.";;;;;;;
+"Response: 35
+Explanation:
+From the given information, we can calculate the total number of apples and oranges as follows:
+Apples = 12 x 100 = 1200
+Oranges = 79 x 100 = 7900
+So, there are 35 units (1200 + 7900) of fruit in the store.";;;;;;;
+Response: 5 seeds are required to plant 3 basil plants in a 3x2 square foot garden with 9 rows and 8 columns each. So Jack needs 5 seeds to plant all 3 basil plants.;;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can calculate the number of seeds in each basil plant as follows:
+Number of seeds per basil plant = Number of basil plants / Total number of seeds
+= 8 basil plants / 34 seeds (from 6 jackfruits)
+= 2.35 basil plants per seed
+Since there are 17 tamarinds and 16 seeds in one basil plant, we can calculate the number of tamarind seeds required to fill one basil plant as follows:
+Number of tamarind seeds required for one basil plant = Number of tamarind seeds / Number of seeds per basil plant
+= 16 seeds / 2.35 basil plants per seed
+= 7.09 tamarind seeds per basil plant
+Therefore, if 8 basil plants require 20 seeds, then 1 basil plant requires 7.09 tamarind seeds.";;;;;;;
+"Response: 30
+Explanation:
+From the given information, we can calculate the number of seeds in Jack's station as follows:
+Number of seeds = Total number of seeds / Number of basins
+= 300 seeds / 10 basins
+= 30 seeds per basin
+Now, from the second part of the question, we know that there are 12 tomatoes and 15 beets in each basin. So, the total number of seeds in Jack's station is:
+Total number of seeds = Number of tomato plants x Number of seeds per tomato plant + Number of beet plants x Number of seeds per beet plant
+= 12 x 30 + 15 x?
+Substituting the values, we get:
+Total number of seeds = 12 x 30 + 15 x?
+= 480 + 225
+= 705 seeds
+Therefore, the answer to the question is 705.";;;;;;;
+Response: 47000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 30;;;;;;;
+Response: 72;;;;;;;
+"Response: 140
+Explanation:
+The distance between station 1 and station 2 is 14 km. The distance between station 2 and station 3 is 6 km. Therefore, the total distance between station 1 and station 3 is 14 + 6 = 20 km.";;;;;;;
+"Response: 40
+Explanation:
+From the given information, we can calculate the total number of apples and seeds as follows:
+Apples = 84 tons x 10 kg/ton = 840 kg
+Seeds = 10 tons x 500 g/ton = 5000 kg
+Now, we need to find out how many apples are required to produce 10 tons of seeds. We know that 1 ton of seeds produces 50 kg of apples, so:
+Number of apples = Seeds / (50 kg/ton) = 5000 kg / 50 kg/ton = 100 tons
+Therefore, Jack has 40 tons of apples left after giving away 64 tons.";;;;;;;
+Response:  Jack has 13 tonnes of seeds and wants to distribute them equally among 17 farmers. He has 8 tonnes of seeds left after distributing them. So, Jack has 12 tonnes of seeds left.;;;;;;;
+"Response: 25
+Explanation:
+From the given information, we can calculate the total number of seeds as follows:
+Number of seeds = 8 + (10 x 3) = 8 + 30 = 38
+Therefore, there are 38 seeds in the station.";;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can calculate that Jack has 3 bags of seeds and he needs to fill 4 baskets with 15 tomatoes each. Therefore, the total number of tomatoes required is 60 (4 x 15 = 60). Since there are 19 tomato plants in the garden, Jack will have 20 extra tomatoes left over after filling all the baskets (60 - 19 = 20).";;;;;;;
+Response: 78000;;;;;;;
+Response: 45;;;;;;;
+Response: 200 dollars.;;;;;;;
+Response:  $49 \times 10 = 490$;;;;;;;
+Response:  $53 - ($91 \times 0.6) = $27$;;;;;;;
+Response:  $106 \times 26 = 2660$  dollars;;;;;;;
+Response: 35000;;;;;;;
+Response:  $38 - ($128 \times 0.5) = $25.20$;;;;;;;
+Response: 20;;;;;;;
+"Response: 20
+Explanation: The given information can be interpreted as follows:
+* Dev made 18 calls in total.
+* After making those calls, he had 5 minutes of break time.
+* He started making calls from his phone at 9 AM.
+Therefore, the number of calls Dev made per minute is:
+(Number of calls / Total duration) = (18 / 5) = 3.6
+So, Dev made approximately 3-4 calls per minute.";;;;;;;
+Response: 1024376589437658943765894;;;;;;;
+"Response: 350
+Explanation:
+The given information can be represented as follows:
+
+Deepak's phone has 21 apps installed. Out of these, 89 apps were downloaded but not installed. After uninstalling them, he had 24 apps left.
+So, the total number of apps installed on Deepak's phone is:
+21 + (89 - 24) = 350
+Therefore, the answer is 350.";;;;;;;
+Response: 20;;;;;;;
+Response: 40;;;;;;;
+Response: 13;;;;;;;
+Response: 30;;;;;;;
+Response: 20 - 18 = 2.;;;;;;;
+Response: 20;;;;;;;
+Response: 48;;;;;;;
+Response: 50;;;;;;;
+"Response: 15
+Explanation:
+From the given information, we can calculate the total number of files in Dev's phone as follows:
+Total number of apps = 24 x 3 = 72
+Total number of files = Total number of apps x Number of files per app
+= 72 x 9
+= 664
+
+Since there are 5 files left after deleting 12 apps, the remaining number of files is:
+Remaining number of files = Total number of files - Number of deleted files
+= 664 - 5
+= 659
+
+Therefore, the answer to the question is 15 (the number of remaining files).";;;;;;;
+Response: 24;;;;;;;
+"Response: 243
+Explanation: The number of cards in Neel's collection is 243.";;;;;;;
+"Response: 301
+Explanation: According to the question, Neel has 301 cards in his collection and he wants to know how many cards Jeff has. Therefore, the answer is 301.";;;;;;;
+Response: 528 cards.;;;;;;;
+"Response: 234
+Explanation: The total number of cards in the collection is 566. Out of these, 234 are from Jeff's deck and 334 are from other players. So, the percentage of cards that belong to Jeff is (234/566) x 100 = 42%.";;;;;;;
+"Response: 326
+Explanation:
+From the given information, we can find out that there are 309 basball cards in total. Out of these, 10 cards belong to Neil. So, the number of baseball cards left with Neil is 309 - 10 = 299.
+Now, we know that among the remaining 299 cards, 415 cards belong to Jeff. Therefore, the number of baseball cards left with Jeff is 415.
+Finally, we have found that there are 10 cards belonging to Neil and 415 cards belonging to Jeff, so the total number of baseball cards left with both Neil and Jeff together is 10 + 415 = 425.";;;;;;;
+"Response: 326
+Explanation:
+The number of cards in the deck that have the letter ""N"" is 326.";;;;;;;
+"Response: 357
+Explanation: According to the question, there are 573 cards in total and John has already taken 195 cards. So, the number of cards left for Neil is 357 (573 - 195 = 357).";;;;;;;
+"Response: 236
+Explanation:
+From the given information, we can calculate the total number of cards in Neil's collection as follows:
+Number of baseball cards = 438 - 18 = 420
+Number of basketball cards = 10 - 5 = 5
+Total number of cards = 420 + 5 = 425
+Therefore, the answer is 236.";;;;;;;
+"Response: 425
+Explanation:
+The number of cards in each set is given as follows:
+
+* नेल (Neel) - 376 cards
+* ओ (O) - 239 cards
+* बेसबॉल (Baseball) - 10 cards
+
+So, the total number of cards in all sets together is:
+376 + 239 = 615 cards.";;;;;;;
+Response: 20;;;;;;;
+Response: 280;;;;;;;
+Response: 37000;;;;;;;
+Response: 100;;;;;;;
+Response: 1800000;;;;;;;
+Response: 250 kg;;;;;;;
+Response: 23;;;;;;;
+Response: 30;;;;;;;
+Response: 108;;;;;;;
+Response: 360 (three hundred sixty);;;;;;;
+Response: 250 gm;;;;;;;
+Response: 20 + 34 = 54;;;;;;;
+Response: 36000;;;;;;;
+Response: 3600;;;;;;;
+Response: 32;;;;;;;
+Response: 30;;;;;;;
+Response: 150;;;;;;;
+Response: 30 (twenty-six + thirteen);;;;;;;
+Response: 27;;;;;;;
+Response: 280;;;;;;;
+Response: 30 dollars (7 x 5 = 35);;;;;;;
+"Response: 18000 - 240 = 15600 
+Explanation: According to the question, Gwen's birthday is on August 8th and she spent $800 on decorations and gifts for her party. The remaining amount of money that Gwen has after spending on decorations and gifts is $15600.";;;;;;;
+Response: 10800;;;;;;;
+Response: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+"Response:  $400$
+Explanation:
+From the given information, we can calculate that Gwen's father gave her $6000 as a gift for her birthday. Out of this, she spent $400 on something. So, the remaining amount that Gwen received from her father is:
+
+$$ \therefore 6000 - 400 = 5600 $$
+
+Therefore, Gwen received $5600 from her father.";;;;;;;
+Response: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+"Response:  $120$
+Explanation:
+From the given information, we can calculate the total amount of money that Gene's father has spent as follows:
+
+* The cost of the birthday party is $5 dollars per person, and there are 20 people in total (including Gene). So, the total cost of the party is $5 x 20 = $100.
+* In addition to the party cost, Gene's father also gave each person $2 dollars as a gift. So, the total amount of money he spent on gifts is $2 x 20 = $40.
+* Therefore, the total amount of money Gene's father has spent is $100 + $40 = $140.";;;;;;;
+Response: 5;;;;;;;
+"Response: 30
+Explanation: According to the question, Josh has 21 gumballs in his collection and he wants to know how many gumballs he will have if he adds 12 more gumballs to his collection. Therefore, the answer is 30 (21 + 12).";;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can calculate the total number of gots in Josh's collection as follows:
+Number of gots = 19 + 5 = 24
+So, there are 24 gots in Josh's collection.";;;;;;;
+Response: 16000 kg;;;;;;;
+"Response: 1080
+Explanation:
+The given information can be interpreted as follows:
+* Josh has 7 bags of gobber (gold coins).
+* Each bag contains 8 gold coins.
+* There are 8 golds coins in each bag.
+* Therefore, the total number of gold coins is 7 x 8 = 56.
+* The remaining 524 gold coins are with other people.
+So, the final answer is 524 + 56 = 1080 gold coins.";;;;;;;
+Response: 9;;;;;;;
+Response: 20 golds.;;;;;;;
+Response:  Josh has 22 goblars in his collection and Jack has 20 goblars. So, there are 2 more goblars in Josh's collection than in Jack's collection.;;;;;;;
+Response: 19;;;;;;;
+"Response: 20
+Explanation: According to the question, Josh has 22 gottabars in his collection and he has given away 13 of them as gifts. He still has 10 gottabars left with him. So, the number of gottabars Josh has now is 20 (10 remaining + 22 initial).";;;;;;;
+"Response: 10
+Explanation: From the given information, we can calculate that Josh has 15 gots in his collection and he has lent 8 of them to Janki. So, Josh has 7 gots left with him (15 - 8 = 7). Now, from the second part of the question, it is mentioned that Janki has borrowed 23 gots from someone else. Therefore, the total number of gots that Janki has is 23 + 8 = 31.";;;;;;;
+"Response: 1087234926
+
+Explanation:
+The given question is based on a simple arithmetic operation of multiplication. The product of three numbers - 3, 4 and 5 - is calculated as follows:
+
+3 × 4 = 12
+12 × 5 = 60
+60 × 3 = 180
+
+Therefore, the final answer is 1087234926.";;;;;;;
+Response: 20;;;;;;;
+"Response: 20
+Explanation:
+Marko's weight is 35 pounds and his father's weight is 13 pounds. To find out how many times Marko's weight is less than his father's weight, we divide Marko's weight by his father's weight, which gives us 20. Therefore, Marko's weight is 20 times less than his father's weight.";;;;;;;
+Response: 13;;;;;;;
+Response: 16.;;;;;;;
+Response: 105000;;;;;;;
+"Response: 36
+Explanation: According to the question, Marko has 36 pounds of strawberries and he wants to share them equally among his four friends. Each friend will get 9 pounds of strawberries.";;;;;;;
+Response: 48 pounds (or 21.7 kg);;;;;;;
+Response: 20;;;;;;;
+Response: 25;;;;;;;
+Response: 26 pounds.;;;;;;;
+Response: 15;;;;;;;
+Response: 40;;;;;;;
+Response: 14;;;;;;;
+"Response: 25
+Explanation: The total number of children in the bus is 41. Since there are 25 children sitting in each row, the total number of rows with children is 41/25 = 16 rows. Therefore, there are 16 rows of children in the bus.";;;;;;;
+"Response: 17
+Explanation: According to the information provided in the question, there are 43 children in total, and 21 of them are boys. Therefore, the number of girls is 21 - 21 = 0. So, there are no girls in the bus stop.";;;;;;;
+"Response: 20
+Explanation: According to the question, there are 41 children in the bus and 18 of them are sitting in the back row. So, the number of children sitting in front of the back row is 23 (41 - 18).";;;;;;;
+"Response: 20
+Explanation: The question states that there are 21 children in the bus and asks how many will be left after 5 stop at each of the next 10 stops. Since each child can only leave or get off the bus once, the total number of children who will be left on the bus after 10 stops is 20.";;;;;;;
+"Response: 10
+Explanation: According to the question, there are 63 children in the bus and 14 of them are sitting inside the bus. Therefore, 59 children (63 - 14) are outside the bus.";;;;;;;
+"Response: 40
+Explanation: According to the question, there are 36 children in the bus and 68 children get off at the stop. So, the total number of children who got off the bus is 68 - 36 = 32. Therefore, 40 children remained in the bus after 32 children got off.";;;;;;;
+"Response: 16
+Explanation: According to the question, there are 22 children in one bus and 40 children in another bus. After stopping at a crossing, 8 children get off from each bus, leaving 16 children in each bus. Therefore, the number of children who will be left on the second bus after it stops at the crossing is 16.";;;;;;;
+"Response: 15
+Explanation: According to the question, out of 28 children in the bus, 82 children got off at the stop. So, the number of children who remained inside the bus is 82 - 28 = 54. Since there are 30 children outside the bus, the difference between the number of children inside and outside the bus is 54 - 30 = 24. Therefore, 15 children remained inside the bus.";;;;;;;
+"Response: 18
+Explanation: According to the question, there are 23 children in one bus and 24 children in another bus. Therefore, the total number of children who went to school is 23 + 24 = 47 children. Since the question asks how many more children went to school than those who were already in the first bus, we subtract the number of children in the first bus from the total number of children who went to school, which gives us 47 - 23 = 24 children.";;;;;;;
+Response: 51000;;;;;;;
+Response: 13000000;;;;;;;
+Response: 207;;;;;;;
+Response: 2000000;;;;;;;
+Response: 75000 tonnes (approximately);;;;;;;
+Response: 13000 + 910 = 14910;;;;;;;
+Response: 31;;;;;;;
+Response: 75;;;;;;;
+Response: 71000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 2000000;;;;;;;
+"Response: 203
+Explanation:
+From the given information, we can calculate the total number of posts that Becker can sell in one day as follows:
+Total number of posts = Number of beakers x Number of posts per beaker
+= 7 x 148
+= 1030
+Since Becker wants to sell at least 153 posts per day, we need to subtract this number from the total number of posts available for sale:
+Number of posts left for sale = Total number of posts - Minimum required sales per day
+= 1030 - 153
+= 877
+Therefore, Becker will have 877 posts left for sale after selling 153 posts per day for 7 days.";;;;;;;
+Response: 30;;;;;;;
+Response: 70;;;;;;;
+Response: 203480;;;;;;;
+Response: 27000;;;;;;;
+Response: 108000;;;;;;;
+Response: 1000000;;;;;;;
+Response: 1690;;;;;;;
+Response: 250 - 86 = 164 kgs.;;;;;;;
+Response: 1670000;;;;;;;
+Response: 1390000;;;;;;;
+Response: 38000 kgs (or 79500 lbs);;;;;;;
+Response: 92000;;;;;;;
+Response: 24000;;;;;;;
+Response: 30879;;;;;;;
+Response: 102;;;;;;;
+Response: 2080;;;;;;;
+Response: 207689;;;;;;;
+Response: 78000;;;;;;;
+Response: 22 x 140 = 3080;;;;;;;
+Response: 24;;;;;;;
+"Response: 91 
+Explanation: The number of games played by Kohli in Test cricket is 91 as of March 2023.";;;;;;;
+Response: 30;;;;;;;
+Response: 3120;;;;;;;
+Response: 31;;;;;;;
+Response: 40;;;;;;;
+Response: 72;;;;;;;
+Response: 14;;;;;;;
+"Response: 58
+Explanation:
+The total number of blocks required to build a house with an area of 27 square meters is 58 blocks. The first part of the question asks for the number of blocks required to build a random rectangular block of size 5x5 = 25 square meters, which is 30 blocks. Since we need more blocks to build the entire house, we add 30 + 25 = 55 blocks. Finally, since we have already used 27 square meters of space, we subtract that amount from the total number of blocks, leaving us with 58 blocks remaining.";;;;;;;
+Response: 37 + 33 = 70;;;;;;;
+Response: 104;;;;;;;
+Response: 36;;;;;;;
+Response: 95 + 20 = 115 blocks required for construction of a house with an area of 40 feet by 60 feet.;;;;;;;
+"Response: 90 
+
+Explanation:
+The given question is based on a scenario where Randiik has 90 blocks and wants to know how many blocks he can use for different purposes at home or outside. The options provided are for various uses such as building a house, making a road, etc. Based on these options, we can calculate that Randiik can use 89 blocks for external purposes (building a house, making a road, etc.) and 63 blocks for internal purposes (fixing things around the house). Therefore, the answer is 90.";;;;;;;
+Response: 20;;;;;;;
+Response: 7;;;;;;;
+Response: 22;;;;;;;
+Response: 20;;;;;;;
+Response: 19 books and 13 films.;;;;;;;
+"Response: 19
+Explanation: The question asks for the number of books and movies in the library and film club respectively that are different from each other. Since there are 19 books and 61 movies in the library, the answer is 19.";;;;;;;
+"Response: 10
+Explanation: The question asks for the number of books and movies that are different from each other in the list provided. Out of the 10 books listed, only 5 are the same as the ones mentioned in the previous question (i.e.";पागल मूर्ख स्कूल';श्रृंखला';किताब';फिल्म', and 'अछि'). Therefore, the number of books that are different from each other is 5. Similarly, out of the 11 movies listed, only 4 are the same as the ones mentioned in the previous question (i.e.;पागल मूर्ख स्कूल';श्रृंखला';किताब', and 'फिल्म'). Therefore, the number of movies that are different from each other is 7.
+Response: 17;;;;;;;
+Response: 14;;;;;;;
+Response: 42;;;;;;;
+Response: 7;;;;;;;
+Response: 20;;;;;;;
+"Response: 25
+Explanation:
+From the given options, there are 17 films and 11 books that have been mentioned in the passage. Therefore, if we assume that the student has read all the 17 films and watched all the 11 books, then the number of times they have seen or heard something related to ""Paagal Mukh School"" is 17 + 11 = 28. So, the correct answer is 28.";;;;;;;
+"Response: 20
+Explanation: The question asks for the number of books and films that are different from each other in the ""pagal murchak school"" library and movie collection. Since there are 10 different books and 6 different films, the answer is 20 (10 x 6 = 60).";;;;;;;
+Response: 19;;;;;;;
+Response: 70%;;;;;;;
+"Response: 20
+Explanation: According to the question, Dev has 12 tickets and he wants to buy 14 more tickets. So, if he buys all the remaining tickets (14), then he will have a total of 26 tickets (12 + 14).";;;;;;;
+Response: 18000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 19000;;;;;;;
+"Response: 13
+Explanation: According to the question, Dev has won 13 tickets out of 24 tickets played. Therefore, the probability of winning a ticket is 13/24 = 0.54.";;;;;;;
+"Response: 14
+Explanation: According to the question, if Dev wins 14 tickets and loses 2 tickets, then he will have 12 tickets left with him.";;;;;;;
+Response: 14 - 9 = 5;;;;;;;
+Response: 13 + 6 = 19;;;;;;;
+"Response: 15
+Explanation: According to the question, Helly has 20 kg of ghee in her house and she cooked 3 kg of ghee for breakfast. So, there are 20 - 3 = 17 kg of ghee left in the house after cooking breakfast. As per the next line, one and half times the amount of ghee is required to make chapatis, so the number of chapatis that can be made with the remaining ghee is 17 kg / (1.5 x 3) = 15 chapatis.";;;;;;;
+"Response: 9
+Explanation:
+The number of dogs that can be accommodated in Helly's house is 9. If she has already kept 5 dogs and then keeps another 12 dogs, it means she will have a total of 9 dogs in her house.";;;;;;;
+Response: 50000;;;;;;;
+Response: 36;;;;;;;
+"Response: 13
+Explanation:
+The given information can be represented as follows:
+Total weight of goods = 13 tons
+Time taken to unload = 3 hours
+Weight per hour = Total weight / Time taken
+= 13 tons / 3 hours
+= 4.33 tons/hour
+Therefore, in one and half hours (90 minutes), 4.33 tons x 90 minutes = 378.5 tons will be unloaded.";;;;;;;
+Response: 1057432689;;;;;;;
+Response: 66000 (approximately);;;;;;;
+Response: 24;;;;;;;
+Response: 380;;;;;;;
+"Response: 38
+Explanation: According to the given information, Ojha has been working for 49 days and has harvested 42 bags of wheat per day. Therefore, he has harvested a total of 38 bags of wheat in 49 days.";;;;;;;
+Response: 10349.;;;;;;;
+Response: 120 (in minutes);;;;;;;
+Response: 80 days.;;;;;;;
+"Response: 35
+Explanation:
+The given information can be represented in a table as follows:
+
+| Day | Number of Apples | Total Number of Apples |
+| --- | --- | --- |
+| Monday | 12 | 67 |
+| Tuesday | 8 | 49 |
+| Wednesday | 10 | 57 |
+| Thursday | 15 | 85 |
+| Friday | 18 | 103 |
+| Saturday | 12 | 70 |
+| Sunday | 10 | 67 |
+Total number of apples = 35
+Therefore, the answer is 35.";;;;;;;
+"Response: 74000
+Explanation:
+The question asks about the number of days it takes for 74 tons of wheat to be prepared for sowing after being threshed. To find this number, we need to divide the total quantity of wheat (74 tons) by the weight of one bag of wheat (50 kg). This gives us an average weight per day of 1460 kg/day. Then, we multiply this number by the number of days required for preparation (51 days), which gives us a total weight of wheat prepared for sowing of 74000 kg.";;;;;;;
+"Response: 120
+Explanation:
+The question states that there are 76 borewells and each one requires 50 buckets of water per day. Therefore, the total number of buckets required daily is 76 x 50 = 3800 buckets. However, since some wells may not be in use due to various reasons, let's assume that only 64 wells are actually in use every day. So, the number of buckets available for irrigation is 64 x 50 = 3200 buckets. Since each well provides 250 buckets of water per day, the total number of wells that can provide water for irrigation is 3200 / 250 = 120 wells.";;;;;;;
+Response: 307419.;;;;;;;
+"Response: 108
+Explanation: According to the question, in 25 days, the wheat crop will grow to be 108 boras tall.";;;;;;;
+Response:  The time taken by the seed to germinate is 7 days (31 boras + 24 boras = 55 days). Therefore, after 45 days of sowing, the seed will start sprouting.;;;;;;;
+"Response: 440
+Explanation:
+The given information can be summarized as follows:
+* The time taken to reach the destination (from the starting point) is 4 hours and 25 minutes (4:25).
+* The speed of the vehicle is 25 km/h.
+* The distance traveled during this time is 440 meters (4 x 110 = 440).";;;;;;;
+"Response: 120
+Explanation:
+The given information can be represented in a table as follows:
+
+| Day | Number of Apples | Number of Bananas | Total Fruits |
+| --- | --- | --- | --- |
+| Monday | 5 | 74 | 89 |
+| Tuesday | 6 | 83 | 109 |
+| Wednesday | 7 | 92 | 120 |
+
+Therefore, the total number of fruits available on each day is:
+Monday - 89 apples + 74 bananas = 163 fruits
+Tuesday - 109 fruits (as per previous day) + 83 bananas = 192 fruits
+Wednesday - 120 fruits (as per previous day) + 92 bananas = 212 fruits
+
+So, the total number of fruits available on all three days is 163 + 192 + 212 = 667 fruits.";;;;;;;
+Response: 36 days.;;;;;;;
+Response: 56;;;;;;;
+Response:  The number of days between the two dates is 73 days.;;;;;;;
+Response: 120 (out of 180);;;;;;;
+Response:  The number of days taken to complete 41 bores and 86 boreholes is 30 days. Therefore, the answer is 30.;;;;;;;
+Response: 354289.;;;;;;;
+Response: 12 feet x 11 feet = 132 square feet;;;;;;;
+Response: 14 feet.;;;;;;;
+Response: 14 feet.;;;;;;;
+Response: 20 feet.;;;;;;;
+Response: 12;;;;;;;
+Response: 20 feet.;;;;;;;
+Response: 35 feet. Explanation: According to the question, the length of the first compartment is 19 feet and the width is 8 feet. The area of the first compartment is therefore 19 x 8 = 152 square feet. Similarly, the area of the second compartment is 20 x 8 = 160 square feet. Therefore, the total area of both compartments is 152 + 160 = 312 square feet.;;;;;;;
+Response:  The length of Jessie's room is 10 feet and the height is 8 feet. If the width of the room is 5 feet longer than its length, then the width of the room is 13 feet (5 + 10 = 13). Therefore, the area of the room is 10 x 13 = 130 square feet.;;;;;;;
+Response:  The length of Jessie's room is 12 feet and the height is 8 feet. Therefore, the volume of the room is 960 cubic feet (12 x 8 x 8 = 960). If Oker's room has an area of 24 square feet, then its length is 3 feet less than its width. So, the length of Oker's room is 21 feet (24 - 3 = 21).;;;;;;;
+Response: 20 feet.;;;;;;;
+"Response: 176
+Explanation:
+From the given information, we can calculate that each t-shirt costs $23. So, if Arkansa sells 230 t-shirts during the tournament, he will make a total of $5290 ($23 x 230). Therefore, the answer is 176.";;;;;;;
+Response: 30 dollars;;;;;;;
+Response:  $87 \times 47 = 3969$;;;;;;;
+"Response: 135
+
+Explanation:
+The total number of t-shirts that can be sold in 242 days is calculated as follows:
+
+Total number of days = 242 days
+Number of t-shirts per day = 106 t-shirts / 242 days = 0.437 t-shirts/day
+Therefore, the total number of t-shirts that can be sold in 242 days is:
+0.437 x 242 = 106 t-shirts
+So, out of 242 t-shirts, 135 t-shirts can be sold during the duration of the game.";;;;;;;
+Response: 16300;;;;;;;
+Response:  $172 \times 78 = 13040$;;;;;;;
+"Response: 183
+Explanation:
+The total cost of 183 t-shirts at $62 each is $11,540 ($62 x 183). The total cost of 31 hoodies at $99 each is $3,099 ($99 x 31). Therefore, the total revenue earned by selling all 183 t-shirts and 31 hoodies together is $14,639 ($11,540 + $3,099).";;;;;;;
+Response: 208439.;;;;;;;
+Response: 157000;;;;;;;
+Response: 190457.;;;;;;;
+"Response: 200
+Explanation: According to the question, each t-shirt costs $51 and there are 8 t-shirts in total. If they sell all 8 t-shirts at this price, they will make a profit of $408 ($8 x $51). However, since they have to give a discount of $32 per t-shirt, their actual profit from selling one t-shirt is $68 ($51 - $32). Therefore, if they sell 200 t-shirts, they will make a profit of $13,600 ($68 x 200).";;;;;;;
+Response: 35476.;;;;;;;
+Response: 1000000;;;;;;;
+Response: 370;;;;;;;
+Response:  $2150 - $5 = $2145$;;;;;;;
+Response: 158000;;;;;;;
+Response:  $177 \times 3 = 531$  dollars;;;;;;;
+"Response: 108
+Explanation:
+The cost of 115 dresses is $113 each, and the cost of 25 t-shirts is $25 each. Therefore, the total cost of buying all the dresses and t-shirts together would be:
+
+$113 x 115 = $12,795
++ $25 x 25 = $625
+Total cost = $13,420
+So, one t-shirt costs $625 / 25 = $25 per t-shirt.";;;;;;;
+Response: 150;;;;;;;
+Response: 120;;;;;;;
+Response: 30;;;;;;;
+Response: 13;;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can calculate that there are 10 tables in the party and each table has 6 cups. Therefore, the total number of cups is 10 x 6 = 60 cups. If 11 glasses of water are filled from one cup, then the total number of glasses of water filled is 60 / 11 = 5.45 (approximately). So, the answer is 20.";;;;;;;
+Response: 120;;;;;;;
+Response: 320 ( rounded off to two decimal places);;;;;;;
+Response: 90;;;;;;;
+Response:  $460 \times 5 = 2300$ dollars per month.;;;;;;;
+Response: 1216 dollars per week = 50 weeks of work = 26,040 dollars in total income for the year.;;;;;;;
+Response: 2160 (USD 216);;;;;;;
+Response: 1357028469.;;;;;;;
+"Response: 4567
+Explanation:
+From the given information, we can calculate the total income of Louis for each week as follows:
+Weekly Income = Daily Income x Number of Weeks
+Daily Income = Monthly Income / Number of Days in a Week
+Monthly Income = $28 x 4 weeks = $112
+Number of Days in a Week = 7 days
+Therefore, the weekly income of Louis is:
+Weekly Income = $112 / 7 days = $16 per day
+Now, let's find out how much money Louis makes during the rainy season:
+Rainy Season Income = Total Income x Percentage of Rainy Season
+Total Income = $16 x 4 weeks = $64
+Percentage of Rainy Season = (Number of Rains x 100) / Total Income
+Number of Rains = 4 months x 4 weeks/month = 16 weeks
+Therefore, the rain percentage is:
+Percentage of Rainy Season = (16 x 100) / $64 = 25%
+So, Louis makes $64 x 25% = $160 during the rainy season.";;;;;;;
+"Response:  $16598$
+
+Explanation:
+
+From the given information, we can calculate the total amount earned by Louis in 233 weeks as follows:
+
+Total amount earned = Number of weeks x Weekly income
+= 233 x $403
+= $93,730
+
+Now, let's find out how much money Louis made each week:
+
+Weekly income = Total amount earned / Number of weeks
+= $93,730 / 233
+= $403
+
+So, Louis made $403 per week for 233 weeks, which is equal to $16598.";;;;;;;
+Response:  The total amount of money earned by Louis in one year is $368 per week x 52 weeks = $18,744 per year. During the growing season (April to October), he earns $388 per week x 26 weeks = $9,068. Therefore, his annual income during the growing season is $9,068 + $9,676 = $18,744.;;;;;;;
+Response: 3057;;;;;;;
+Response: 133 / 7 = 18.929  dollars per week.;;;;;;;
+"Response: 17800 / 52 = 346
+Explanation:
+To calculate the amount of money earned by growing wheat in each week, we need to divide the total amount of money borrowed ($17800) by the number of weeks (52). Therefore, the answer is $346 per week.";;;;;;;
+"Response: 108 
+Explanation: The height of the mountain is given as 9 feet in one measurement and 108 feet in another measurement. Therefore, the correct answer is 108 feet.";;;;;;;
+Response: 14 feet.;;;;;;;
+Response: 30 feet.;;;;;;;
+"Response: 20
+Explanation: The height of Ron is 13 feet and that of Kyaalak is 5 feet 6 inches. Therefore, the difference in their heights is 7 feet 4 inches (13 - 5.6).";;;;;;;
+Response:  The height of Ron is 9 feet and that of Kyaalak is 16 feet. Therefore, the difference in their heights is 7 feet (9 - 16 = 7).;;;;;;;
+"Response: 15000 
+Explanation: The length of Ron's body is given as 15 feet and his height as 6 feet. Therefore, the total length of Ron's body including his head is 15 + 6 = 21 feet.";;;;;;;
+Response: 34/2 = 17;;;;;;;
+"Response: 190
+Explanation:
+The total number of books Brain can hold is 42. If each book contains 2 pages, then the total number of pages Brain can hold is 84 (42 x 2). Therefore, Brain can hold approximately 190 pages in total.";;;;;;;
+Response: 270 books.;;;;;;;
+Response: 46000;;;;;;;
+Response: 230;;;;;;;
+Response: 14;;;;;;;
+Response: 38;;;;;;;
+Response: 40%;;;;;;;
+"Response: 30
+Explanation: From the given information, we can infer that there are 30 friends in total, and each friend has received 3 packets of cake. Therefore, the total number of packets of cake distributed is 30 x 3 = 90 packets.";;;;;;;
+Response: 10;;;;;;;
+"Response: 140
+Explanation:
+From the given information, we can calculate the total cost of gifts for each friend as follows:
+For 5 friends, the cost of each gift is ₹140 = ₹700 (since there are 5 friends).
+So, the total cost of gifts for all 5 friends is ₹3500 ( since there are 5 friends).
+Now, let's find out how many packets of 6 candies each can be purchased with this amount:
+Total cost of gifts = ₹3500
+Cost per packet = ₹700 / 6 candies = ₹116.67 per packet
+Number of packets that can be purchased = Total cost of gifts / Cost per packet
+= ₹3500 / ₹116.67
+= 30 packets
+Therefore, approximately 30 packets of 6 candies each can be purchased with the given amount.";;;;;;;
+Response: 10;;;;;;;
+Response: 36;;;;;;;
+Response: 320.;;;;;;;
+Response: 79;;;;;;;
+Response: 35;;;;;;;
+"Response: 91
+Explanation:
+From the given information, we can see that Melisa has scored 13 out of 91 marks in all the games combined. Therefore, to find out how many marks each game contributed towards her overall score, we need to divide the total number of marks by the number of games she played. So, for every game, she scored approximately 7 marks (91/9 = 7).";;;;;;;
+"Response: 20
+Explanation: According to the question, in each seat of the ferry, there are 20 goats. Therefore, the total number of goats that can be accommodated in all seats of the ferry is 20 x 4 = 80 goats.";;;;;;;
+Response: 24;;;;;;;
+Response: 20;;;;;;;
+"Response: 180
+Explanation:
+The number of gots in each seat is given as 15. If 10 seats are vacant, then there will be 15 x 10 = 150 gots in total. Since 18 seats have been filled, the remaining 150 - 18 = 132 gots will be seated on the ferry.";;;;;;;
+Response: 24;;;;;;;
+Response: 23;;;;;;;
+Response: 30;;;;;;;
+Response: 16;;;;;;;
+"Response: 10
+Explanation: According to the question, if each seat can hold 4 people, and there are 36 seats in total, then the maximum number of people that can be accommodated in the park is 36 x 4 = 144. However, since each person requires at least one seat, the actual number of people that can be accommodated in the park is 144 / 4 = 36. Therefore, the answer is 36.";;;;;;;
+"Response: 14
+Explanation:
+From the given information, we can calculate the total number of slips required for each pizza as follows:
+
+Number of slips per pizza = Total number of slips / Number of pizzas
+= 70 / 7
+= 10
+
+Since there are 7 pizzas in total, the total number of slips required is:
+Total number of slips = Number of slips per pizza x Number of pizzas
+= 10 x 7
+= 70
+
+Therefore, if there are 14 slips in total, then each pizza would have:
+Number of slips per pizza = Total number of slips / Number of slips in total
+= 70 / 14
+= 5
+So, each pizza has 5 slips.";;;;;;;
+Response: 28;;;;;;;
+Response: 250 gms;;;;;;;
+Response: 108;;;;;;;
+"Response: 30
+Explanation: Based on the given information, there are 45 flowers in each pot and we have to distribute them equally among 10 pots. Therefore, each pot will contain 4.5 flowers (45 / 10 = 4.5).";;;;;;;
+"Response: 45000
+Explanation:
+The number of flowers in each pot is equal to the number of beads in one row of the abacus. Since there are 9 pots and 45 beads in one row, the total number of beads in all 9 rows is 45 x 9 = 405 beads. Therefore, the number of flowers in each pot is 405 / 9 = 45000 flowers.";;;;;;;
+"Response: 36
+Explanation:
+The number of flowers in each pot is given by the equation:
+Number of flowers = Number of pots x Number of flowers per pot
+In this case, there are 12 pots and 58 flowers in total. Therefore, the number of flowers in each pot is:
+Number of flowers per pot = Total number of flowers / Number of pots = 58 / 12 = 4.5
+So, there are approximately 4.5 flowers in each pot.";;;;;;;
+"Response: 50
+Explanation: According to the question, each flower pot contains 15 seeds and there are 55 flower pots in total. Therefore, the total number of seeds present in all the flower pots is 55 x 15 = 825 seeds.";;;;;;;
+Response: 1080;;;;;;;
+Response: 16;;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can infer that there are 11 friends of Mathieu and each friend has to carry 2 bags of potatoes. Therefore, the total number of bags of potatoes that Mathieu needs to carry is 11 x 2 = 22 bags.";;;;;;;
+Response: 4;;;;;;;
+Response: 150/5 = 30. So, each friend will get 30 packets of chips.;;;;;;;
+"Response: 17
+Explanation:
+From the given information, we can calculate that Mathew has eaten 24 trays of food and has 3 friends who have also eaten food. Since each friend has eaten an equal number of trays as Mathew, there are a total of 24 + 3 = 27 trays of food consumed by all 4 individuals together. Therefore, Mathew's share of the remaining 17 trays of food is 17/4 = 4.25 trays.";;;;;;;
+Response: 1056789421;;;;;;;
+Response: 15;;;;;;;
+Response: 35;;;;;;;
+Response: 360/18 = 20;;;;;;;
+Response: 36;;;;;;;
+"Response: 12
+Explanation: According to the question, there are 23 tonnes of mithu in total and 11 tonnes of it have been packed. So, each mitra (friend) has to share 2 tonnes of mithu equally among themselves. Therefore, the number of mitras is 2/2 = 1.";;;;;;;
+Response: 270645897;;;;;;;
+"Response: 320
+Explanation:
+The total number of sweets required to distribute equally among 98 people is 320 sweets. Each person will get 3 sweets (3 x 98 = 294). Since there are 3 extra sweets left over after distribution, the final answer is 320.";;;;;;;
+Response: 10/8 = 1.25;;;;;;;
+"Response: 20
+Explanation: According to the question, if there are 28 friends and each friend eats 2-3 khichoris, then the total number of khichoris consumed will be 2 x 28 = 56 khichoris. However, since 13 friends have eaten 15 khichoris, the remaining 43 friends have not eaten any khichoris, so the total number of khichoris consumed by all 28 friends is 56 - 15 = 41 khichoris.";;;;;;;
+"Response: 109
+Explanation: According to the question, Debi had 109 bottles of kinnik khana in her store and sold 74 bottles in 7 days. Therefore, she has 35 bottles left in stock after selling for 7 days.";;;;;;;
+Response: 206.;;;;;;;
+Response: 15000;;;;;;;
+Response: 257;;;;;;;
+Response: 250 liters of water can fill 88 tanks to capacity of 13 liters each and leave 4 liters in reserve. Therefore, it will take 25 days for all the tanks to be filled completely.;;;;;;;
+Response: 3120 ( rounded off to two decimal places);;;;;;;
+Response: 70;;;;;;;
+Response: 240 liters of water can be filled in a container with a capacity of 180 liters per day by using 15 liters of water from a tank that contains 540 liters of water.;;;;;;;
+Response: 54 days;;;;;;;
+Response: 250 tonnes.;;;;;;;
+Response: 120 pencils can be placed in each of the three boxes. Each box can hold 40 pencils.;;;;;;;
+Response: 320;;;;;;;
+Response: 240;;;;;;;
+Response: 35000 x 7 = 245000 pans.;;;;;;;
+Response: 27;;;;;;;
+Response: 360;;;;;;;
+Response: 31250.;;;;;;;
+"Response: 30 
+Explanation: Based on the given information, there are 30 pens in total and each pen has 5 points. Therefore, the total number of points is 30 x 5 = 150 points.";;;;;;;
+Response: 60 tonnes.;;;;;;;
+Response: 35;;;;;;;
+Response: 31;;;;;;;
+Response: 30 pencils of size 71 mm are required to fill 24 pencil cases of size 56 mm x 98 mm each. How many pencil cases will fit in one box of size 30 cm x 15 cm x 5 cm?;;;;;;;
+Response: 30;;;;;;;
+"Response: 32
+Explanation:
+From the given information, we can determine that there are 21 classes in the school and each class has 98 students. Since there are 7 buses available, the number of students who can travel in each bus is 98/7 = 14. Therefore, the total number of students who can travel in all 7 buses is 7 x 14 = 98.";;;;;;;
+Response: 2360 (approximately);;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the total number of students in each school as follows:
+Total number of schools = 67
+Total number of students in each school = Total number of classes x Number of students in each class
+= 66 x 6
+= 396
+Now, let's assume that each bus has a seating capacity of 6 students.
+Number of buses required to transport all students = Total number of students / Seating capacity of each bus
+= 396 / 6
+= 66
+Therefore, there are 66 buses required to transport all students from these 67 schools.";;;;;;;
+Response: 104;;;;;;;
+Response: 36;;;;;;;
+"Response: 36
+Explanation:
+From the given information, we can calculate the total number of seats available in each bus as follows:
+Total number of students = 102
+Number of buses = 8
+Number of seats per bus = 7 (as there are 7 rows in each bus)
+Total number of seats available = Number of buses x Number of seats per bus = 8 x 7 = 56
+Now, let's assume that 22 students do not go for the trip. To find out how many students will be left behind, we need to subtract the number of students who did not go from the total number of students:
+Total number of students - Number of students who did not go = 102 - 22 = 80
+Therefore, 36 students will be left behind if 22 students do not go for the trip.";;;;;;;
+Response: 3;;;;;;;
+"Response: 150
+Explanation:
+From the given information, we can calculate the number of students who will be traveling in each bus as follows:
+Number of students = Total number of students / Number of buses
+= 720 students / 3 buses
+= 240 students per bus
+Since there are 3 buses, the total number of students traveling in all three buses is:
+Total number of students = 240 + 240 + 240
+= 720 students
+Therefore, 720 students will be traveling in all three buses.";;;;;;;
+Response: 30 seats. Explanation: From the given information, we know that there are 17 classes in the school and 46 students in each class. Therefore, the total number of seats available in all classes is 17 x 46 = 802 seats. Since there are 92 students in the school, the number of students per class is 92 / 46 = 2.04 students per seat (round off to 2 students per seat). So, there will be 2 seats for every student in the school.;;;;;;;
+"Response: 120
+Explanation:
+The number of balls required to fill all the boxes is calculated as follows:
+Number of boxes = 11 (as per the question)
+Capacity of each box = 9 gobbars (as per the question)
+Total capacity of all boxes = Number of boxes x Capacity of each box
+= 11 x 9
+= 100
+Since we cannot have a fraction of a ball, we round off the total number of balls required to fill all the boxes to the nearest integer, which is 120.";;;;;;;
+"Response: 20
+Explanation: In this question, there are five options for each of the five boys, and one option is selected randomly from each group. Therefore, the probability of selecting any particular boy to give 5 balls is (1/5) × (1/5) = 1/25 or 4%.";;;;;;;
+"Response: 40
+Explanation: According to the question, there are 4 boys and each boy has 7 balls. Therefore, the total number of balls is 4 x 7 = 28 balls. Additionally, there are 2 more girls than boys, so the total number of balls for all children is 28 + (4 - 2) = 32 balls.";;;;;;;
+"Response: 130
+Explanation:
+The number of balls required to fill 50 bags of size 2 kg each is 130.";;;;;;;
+"Response: 20
+Explanation: According to the question, there are 20 balls in total, and each boy has 5 balls. Therefore, the number of balls each boy has is 5.";;;;;;;
+Response: 14;;;;;;;
+Response: 392 days;;;;;;;
+Response: 220;;;;;;;
+Response: 120;;;;;;;
+Response: 555 pages.;;;;;;;
+Response: 15 days;;;;;;;
+Response: 249 days;;;;;;;
+Response: 1086375;;;;;;;
+Response: 30;;;;;;;
+Response: 108 days;;;;;;;
+"Response: 125
+Explanation: According to the question, there are 450 pages in the book and Frank has to read it within 30 days. Therefore, he will have to read approximately 125 pages per day.";;;;;;;
+Response: 352;;;;;;;
+Response: 2045 days;;;;;;;
+Response: 350 USD.;;;;;;;
+Response: 42000;;;;;;;
+"Response: 45
+Explanation:
+The cost of each DeviDeck pack is $107. If there is a discount of $106 on each pack, then the final price per pack would be $107 - $106 = $1. So, you can buy 45 DeviDeck packs for $1 x 45 = $45.";;;;;;;
+Response: 25000;;;;;;;
+Response: 268 dollars;;;;;;;
+Response: 14 dollars.;;;;;;;
+Response: 18;;;;;;;
+Response: 235;;;;;;;
+Response: 95;;;;;;;
+Response: 356;;;;;;;
+Response: 392;;;;;;;
+Response: 180;;;;;;;
+Response: 290;;;;;;;
+Response: 3450;;;;;;;
+Response: 38000 liters of water can be stored in a container with a capacity of 19000 liters.;;;;;;;
+Response: 14000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 17000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 18000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 14000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 100;;;;;;;
+Response: 42;;;;;;;
+"Response: 10
+Explanation: According to the question, there are 26 tonnes of chocolates in Borivali and 33 tonnes of chocolates in Okhla. To find out how many chocolates are left in Okhla after taking 10 tonnes from it, we need to subtract 10 tonnes from 33 tonnes, which gives us 23 tonnes. Therefore, there are 23 tonnes of chocolates left in Okhla after taking 10 tonnes from Borivali.";;;;;;;
+Response: 30 bags of 9 tukda each = 270 tukdars.;;;;;;;
+"Response: 105
+Explanation:
+The total weight of each bag is 11 kg, and there are 22 bags in total. Therefore, the total weight of all the bags is 11 x 22 = 105 kg.";;;;;;;
+Response: 24000;;;;;;;
+Response: 140;;;;;;;
+Response: 10;;;;;;;
+"Response: 35
+Explanation:
+The total number of bottles in the store is 67. Out of these, 9 bottles are diet soda. So, the remaining 58 bottles are regular soda (67 - 9 = 58). Since there are 10 bottles in each row, the number of rows of regular soda bottles is 58 / 10 = 5. Therefore, there are 5 rows of regular soda bottles in the store (5 x 10 = 50).";;;;;;;
+"Response: 39
+Explanation:
+From the given information, we can see that there are 22 bottles of soft drinks in the store and 61 bottles of diet soda were sold. So, the number of bottles left in the store after selling 61 bottles of diet soda is:
+
+22 - 61 = -39
+
+Therefore, there are -39 bottles of soft drinks left in the store after selling 61 bottles of diet soda.";;;;;;;
+Response: 25 botls.;;;;;;;
+"Response: 42
+
+Explanation:
+The given information can be represented as follows:
+
+79 - 53 = 26
+26 x 42 = 1088
+
+Therefore, if 79 bottles of diet soda are sold and 53 bottles are returned, then the total number of bottles sold is 26. If each bottle contains 42 tablespoons of seeds, then the total amount of seeds sold is 1088.";;;;;;;
+"Response: 120
+Explanation:
+The store has 54 bottles of diet soda and sold 83 bottles. So, there are 31 empty bottles left in the store.";;;;;;;
+"Response: 17
+Explanation:
+From the given information, we can calculate the total number of bottles as follows:
+Total number of bottles = Number of small bottles x Number of large bottles
+= 9 x 29
+= 261
+Therefore, there are 261 bottles in total.";;;;;;;
+"Response: 19 - 6 = 13
+
+Explanation:
+The given information can be represented as follows:
+
+* एक किराना स्टोरमे १९ बोतल डाइट सोडा (19 bottles of diet soda)
+* ६० बोतल नियमित सोडा (60 bottles of regular soda)
+
+Now, we need to find out how many bottles of regular soda will fit in 19 bottles of diet soda. To do this, we divide the number of regular soda bottles by the number of diet soda bottles:
+
+60 / 19 = 3
+
+So, 3 regular soda bottles will fit in 19 bottles of diet soda.";;;;;;;
+"Response: 72
+Explanation: According to the question, there are 72 bottles of soft drink in a store and 32 bottles of diet soda. Therefore, the total number of bottles is 72 + 32 = 104 bottles.";;;;;;;
+Response: 21;;;;;;;
+"Response: 20
+Explanation: According to the question, there are 30 bottles of oil in total, and 28 bottles of oil are regular sodium oil. Therefore, the number of bottles of dietary salt oil is 20.";;;;;;;
+"Response: 35
+Explanation:
+The given information can be represented as follows:
+Total number of bottles = 4 x 79 = 316
+Number of diet sodas consumed by each person = 4
+So, total number of diet soda bottles consumed = Number of people x Number of diet sodas per person = 4 x 20 = 80
+Therefore, the remaining 266 bottles are regular soda bottles.";;;;;;;
+Response: 27;;;;;;;
+Response: 200 liters.;;;;;;;
+Response: 40;;;;;;;
+Response: 317 - 295 = 22;;;;;;;
+Response: 307;;;;;;;
+Response: 100;;;;;;;
+Response: 195;;;;;;;
+Response: 407613.;;;;;;;
+Response: 43;;;;;;;
+Response: 391;;;;;;;
+Response: 257;;;;;;;
+Response: 365;;;;;;;
+Response: 368;;;;;;;
+Response: 359 grams;;;;;;;
+Response: 357 grams;;;;;;;
+Response: 204 grams;;;;;;;
+Response: 34 grams;;;;;;;
+Response: 170 grams;;;;;;;
+Response: 492 grams;;;;;;;
+Response: 940 days;;;;;;;
+"Response: 2660
+Explanation:
+The given information can be used to calculate the number of days required for an ant to move from one end of a rectangular garden to the other. Let's assume that the length and width of the garden are 90 meters each.
+
+1. The distance between two opposite corners of the garden is equal to the length of the garden multiplied by the cosine of the angle between them (since the angles are complementary). In this case, the distance between two opposite corners is 90 x cos(30) = 135 meters.
+2. Since the ant starts at one corner of the garden, it needs to travel 135 meters to reach the opposite corner where its food is located.
+3. To find out how many days the ant takes to cover this distance, we need to divide the distance by its speed in meters per day. According to the question, the ant moves at a rate of 2660 meters per day. Therefore, the time taken by the ant to cover the distance of 135 meters is:
+Time = Distance / Speed = 135 / 2660 = 0.05 days
+So, the ant takes approximately 0.05 days or 4 hours to move from one end of the garden to the other.";;;;;;;
+Response: 2940 days (approximately 8 years and 3 months);;;;;;;
+Response: 2350 days (approximately 6 years and 9 months);;;;;;;
+Response: 108 days;;;;;;;
+Response: 360 days.;;;;;;;
+Response: 52 tonnes.;;;;;;;
+Response: 40 tonnes of salt are required to preserve 20 animals in each enclosure.;;;;;;;
+"Response: 56000 / 10 = 5600
+
+Explanation:
+The given information can be summarized as follows:
+
+* The weight of one piece of namak (salt) is 56 grams.
+* There are 560 pieces of namak in 1 kilogram.
+* The weight of 10 pieces of namak is 560 grams.
+
+Therefore, the weight of 10 pieces of namak is 5600 grams.";;;;;;;
+"Response: 256000
+Explanation:
+The question states that there are 74 goats and each goat produces 8 liters of milk per day. Therefore, the total amount of milk produced by all goats in one day is:
+74 x 8 = 592 liters
+Now, we need to calculate how much water is required to mix with this milk to make it equal to 1 liter of milk. The question states that 1 liter of milk contains 1/22 part of water. So, we can calculate the number of liters of water required as follows:
+1 liter of milk / 1/22 = 46 liters of water
+Therefore, the total amount of water required to mix with the milk produced by all goats in one day is:
+592 liters + 46 liters = 638 liters
+So, the answer is 638 liters.";;;;;;;
+"Response: 43000
+Explanation:
+The number of animals that can be accommodated in each enclosure is 19. Since there are 62 enclosures, the total number of animals that can be accommodated is:
+43 x 62 = 2686
+So, the total number of animals that can be accommodated in the zoo is 2686.";;;;;;;
+Response: 40;;;;;;;
+"Response: 240 
+Explanation:
+From the given information, we can calculate the number of t-shirts in each package as follows:
+Package A contains 6 packages of t-shirts, and each package contains 3 t-shirts, so there are 6 x 3 = 18 t-shirts in Package A.
+Similarly, Package B contains 5 packages of t-shirts, and each package contains 3 t-shirts, so there are 5 x 3 = 15 t-shirts in Package B.
+Therefore, the total number of t-shirts is 18 + 15 = 33 t-shirts.";;;;;;;
+Response: 10;;;;;;;
+Response: 42;;;;;;;
+"Response: 510
+Explanation: The mother has 510 rupees to buy t-shirts for her three children. She can afford to buy three t-shirts of Rs 3 each and one t-shirt of Rs 2 each. Therefore, she will have Rs 510 left after buying the t-shirts.";;;;;;;
+"Response: 70
+Explanation: According to the question, Maa has bought 70 packets of white T-shirts. Each packet contains 14 T-shirts, so in total, Maa has bought 70 x 14 = 980 T-shirts.";;;;;;;
+Response: 36/4 = 9;;;;;;;
+Response: 330;;;;;;;
+"Response: 410
+
+Explanation:
+The given information can be represented in a table as follows:
+
+| Borrower | Loan Amount (in Rs.) | Repayment Period (in months) | Interest Rate (%) | Total Interest Paid (in Rs.) |
+| --- | --- | --- | --- | --- |
+| A | 410 | 36 | 12% | 49,600 |
+| B | 530 | 36 | 12% | 67,840 |
+| C | 410 | 36 | 12% | 49,600 |
+
+From the above table, we can see that each borrower has taken a loan of 410, and the repayment period is 36 months. The interest rate is 12%, which means that the total interest paid by each borrower is also 49,600 rupees. Therefore, the answer to the question is 410.";;;;;;;
+Response: 280 bags of 14 kg each = 3520 kg (approximately);;;;;;;
+Response: 210;;;;;;;
+Response: 260 kg;;;;;;;
+Response: 280 bags of rice (28 x 10 = 280);;;;;;;
+"Response: 10
+Explanation:
+From the given information, we can calculate that Dakshayani has 5 tonnes of jaggery in each block and there are 25 blocks in total. Therefore, the total amount of jaggery Dakshayani has is:
+
+5 tonnes/block x 25 blocks = 125 tonnes
+Now, we are asked how many houses Dakshayani has in one block. Since she has 25 blocks in total, if she has 5 houses in each block, then she has:
+
+5 houses/block x 25 blocks = 125 houses
+Therefore, Dakshayani has 125 houses in total.";;;;;;;
+Response: 200 tonnes of junk mail can be collected from each block of 20 houses. Therefore, if there are 9 blocks in total, the total amount of junk mail that can be collected is 1800 tonnes (9 x 200).;;;;;;;
+Response: 120;;;;;;;
+"Response: 20
+Explanation:
+From the given information, we can conclude that Dakia has 14 tanks of water to distribute among 16 houses in one block. Since each house requires 1 tank of water, Dakia will have to distribute 14 tanks of water among 16 houses, which means there is only 1 tank of water left over after distributing 14 tanks. Therefore, there are 20 houses in the block.";;;;;;;
+Response: 160 tonnes.;;;;;;;
+Response: 24;;;;;;;
+Response: 16;;;;;;;
+Response: 3600 (approximately);;;;;;;
+Response: 250 tonnes. Explanation: According to the question, each block has 4 houses with an average of 17 tons of junk per house. Therefore, the total amount of junk in all blocks is 4 x 17 = 68 tons. Since there are 16 blocks in total, the total amount of junk in all blocks is 68 x 16 = 1064 tons or 250 tonnes.;;;;;;;
+Response: 10 out of 20 groups can be formed with 10 members each.;;;;;;;
+Response: 15000;;;;;;;
+Response: 21;;;;;;;
+Response: 40.;;;;;;;
+"Response: 30
+Explanation: According to the question, Rebeka has three groups of 15 andhakas each, for a total of 45 andhakas. Each group contains four andhas, so there are 12 andhas in each group. Therefore, the answer is 30.";;;;;;;
+Response:  The number of groups Rebeka can form with 6 members each is 3. Rebeka has 18 andesite rocks that weigh 72 kg each, for a total weight of 660 kg. Therefore, there are 3 groups of size 6 that Rebeka can form.;;;;;;;
+"Response: 30
+Explanation:
+From the given information, we can calculate that Rebeka has 99 kg of rice and 27 kg of gold. To find out how much money she will get from selling these items, we need to convert the weight of each item into money.
+Rice costs Rs 15 per kg, so Rebeka will get Rs 1345 (99 x 15) for her 99 kg of rice.
+Gold is worth Rs 4800 per kg, so Rebeka will get Rs 12680 (27 x 4800) for her 27 kg of gold.
+Adding up the amounts she will get from both items, Rebeka will have a total of Rs 13935 (Rs 1345 + Rs 12680).";;;;;;;
+"Response: 25000 
+Explanation: According to the question, Rebeka has 5-5 groups of 20-6 members each and wants to divide them into smaller groups of 4-4 members each. Therefore, the total number of groups that can be formed is 250 (5 x 4 = 20).";;;;;;;
+Response: 20;;;;;;;
+Response: 20 rounds are required to complete 154 points.;;;;;;;
+Response: 352;;;;;;;
+Response: 24;;;;;;;
+Response: 157 rounds of 4 players each = 638 games played.;;;;;;;
+Response: 78;;;;;;;
+"Response: 320
+Explanation:
+The number of hara (हार) required to make one moti (मोती) is given by the equation:
+
+Number of hara = Number of motis x Size of each hara
+
+From the question, we know that there are 2 motis in 1 mitra (मित्र), and the size of each hara is 8 taulas (टा). Therefore, we can calculate the number of hara required as follows:
+
+Number of hara = 2 motis x 8 taulas/moti = 16 taulas
+
+So, there are 16 taulas of hara required to make one moti.";;;;;;;
+"Response: 280
+Explanation:
+The number of motes required to fill one haram is given as 28 motes per haram in the question. Since there are 11 harams, the total number of motes required to fill them all is 11 x 28 = 280 motes.";;;;;;;
+"Response: 16
+Explanation: According to the question, each friend lost Rs 100 in gambling. There are 5 friends in total, so the total amount of money lost by all of them is 5 x Rs 100 = Rs 500. Since Amilie lost more than half of that amount (Rs 500 / 2 = Rs 250), she has Rs 250 left after losing everything.";;;;;;;
+Response: 18000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 20;;;;;;;
+"Response: 120
+Explanation:
+The number of times Amilie can make Har lose is 72. If she bets 6 taels of silver every time and wins, then after 12 rounds (or 72 games), Har will have lost 72 taels of silver. Therefore, the answer is 120.";;;;;;;
+"Response: 20
+Explanation: According to the question, if Amilie has 43 friends and each friend gives her 5 motik (a unit of measurement), then she will have 20 har (units) in total.";;;;;;;
+Response: 260;;;;;;;
+Response: 34;;;;;;;
+Response: 78;;;;;;;
+"Response: 34762
+Explanation:
+The number of children who are not at home during summer vacation is 34762. This can be calculated by subtracting the number of children who are in camp (6294) from the total number of children (41036).";;;;;;;
+Response: 31473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473285609473;;;;;;;
+Response: 355682;;;;;;;
+Response: 828521/60 = 134687. So, approximately 134687 bachchhas are living in homes.;;;;;;;
+"Response: 91672540
+
+Explanation:
+The given information can be represented in the following table:
+
+| Age Group | Number of Children | Percentage of Total Children |
+| --- | --- | --- |
+| 0-3 years | 616 | 6.8% |
+| 4-6 years | 316 | 3.5% |
+| 7-9 years | 216 | 2.5% |
+| 10-12 years | 161 | 1.8% |
+| 13-15 years | 111 | 1.3% |
+| 16-18 years | 71 | 0.8% |
+| 18+ years | 516 | 5.8% |
+
+Therefore, the total number of children in the camp is 91672540.";;;;;;;
+Response: 348675;;;;;;;
+"Response: 610794538
+Explanation:
+The given question consists of two parts - (i) number of children who attended the summer camp and (ii) number of children who stayed at home.
+
+Part (i): Number of children who attended the summer camp = 610794538
+This is calculated by adding the numbers of children mentioned in each part of the question:
+610794538 + 22 = 610796750
+
+Part (ii): Number of children who stayed at home = 590794538
+This is calculated by subtracting the number of children who attended the summer camp from the total number of children mentioned in the second part of the question:
+590794538 - 610794538 = -51000000
+Therefore, the answer to the question is 610794538.";;;;;;;
+Response: 1024 (or any other appropriate number);;;;;;;
+Response:  Jack has 3 more trays of basil than Adam. Jack has 12 trays of basil (3 more than Adam).;;;;;;;
+Response: 30;;;;;;;
+Response: 30 seeds are required to cover 10 tonnes of land.;;;;;;;
+Response: 10/8 = 1.25;;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the total number of apples as follows:
+Total number of apples = Number of apples in one basket x Number of baskets
+= 6 x 3 = 18
+Similarly, the number of apples in the other basket is:
+Number of apples in second basket = Number of apples in one basket x Number of baskets
+= 4 x 3 = 12
+Therefore, the difference between the two baskets is:
+Difference between the two baskets = Total number of apples in first basket - Total number of apples in second basket
+= 18 - 12 = 6
+So, there are 6 more apples in the first basket than in the second basket.";;;;;;;
+Response: 10;;;;;;;
+"Response: 120
+Explanation:
+The total number of seeds in 12 trays is 12 x 3 = 36 seeds.
+Jackie has 9 trays with 3 seeds each, so he has 9 x 3 = 27 seeds.
+Edam has 8 trays with 4 seeds each, so he has 8 x 4 = 32 seeds.
+Therefore, there are 36 + 27 + 32 = 120 seeds in total.";;;;;;;
+Response: 10;;;;;;;
+"Response: 25
+Explanation:
+From the given information, we can calculate that Jack has 89 orange apples and 110 blackberries. Therefore, the total number of apples he has is 89 + 110 = 199 apples.";;;;;;;
+Response: 419;;;;;;;
+"Response: 376
+Explanation: According to the question, Helen made 376 chocolate chip cookies yesterday morning.";;;;;;;
+"Response: 301
+Explanation: According to the question, Helena has 527 chocolates and 86 kishmishes in total. If she gives away 86 of them as gifts, then she will have 527 - 86 = 441 chocolates and kishmishes left. Since she already had 301 chocolates and kishmishes before giving any away, the final number of chocolates and kishmishes she has after giving some away is 441 + 301 = 742.";;;;;;;
+"Response: 850
+Explanation:
+The number of chocolate chips in Helen's bag is 144 + 397 = 541. Since there are 850 grams in a pound, we can calculate the total weight of chocolate chips as follows:
+541 chocolate chips x 850 grams/pound = 462,500 grams
+Therefore, the weight of chocolate chips in Helen's bag is approximately 462.5 kilograms or 850 pounds.";;;;;;;
+Response: 231;;;;;;;
+"Response: 205
+Explanation:
+The number of chocolate chips in Helen's bag is 197 + 46 = 243. Dividing this by 75 (the number of cookies in each batch) gives us 3.2. Therefore, there are approximately 3 and a half batches of chocolate chips in Helen's bag.";;;;;;;
+"Response: 280
+Explanation: According to the question, Helen made 280 chocolate chip cookies and 300 rice krispy treats. Therefore, the total number of sweets she made is 280 + 300 = 580.";;;;;;;
+Response: 32;;;;;;;
+Response: 91-88=63;;;;;;;
+Response: 120;;;;;;;
+Response: 205;;;;;;;
+Response: 208;;;;;;;
+Response: 21;;;;;;;
+Response: 21;;;;;;;
+Response: 23;;;;;;;
+Response: 32000;;;;;;;
+Response: 40 dollars.;;;;;;;
+Response:  $21 - $114 = -$93$.;;;;;;;
+"Response:  $35$ 
+Explanation:
+The total amount of money that Fred spent in the previous week is $111$. Jessie earned $40$ dollars during the same period. After deducting the amount earned by Jessie from the amount spent by Fred, we get $71$ dollars left with Fred. Since Jessie's earnings are also included in the total amount spent by Fred, we need to subtract Jessie's earnings from the total amount spent by Fred before calculating the remaining amount. Therefore, the remaining amount of money that Fred has is $71 - $40 = $31$.";;;;;;;
+Response:  $50 - $3 = $47$ ;;;;;;;
+"Response:  $90$
+Explanation:
+The total amount of money earned by Fred in the previous week is $78 + $31 = $109. However, he spent $14 on car maintenance and other expenses, leaving him with $95. Therefore, the amount of money left in his account after one week is $95.";;;;;;;
+"Response: 38500
+Explanation:
+The total amount of money earned by Fred in the previous week is $33 + $95 = $128. After deducting his expenses of $16 and car loan of $74, he has made a profit of $128 - ($16 + $74) = $38500.";;;;;;;
+"Response: 135
+Explanation:
+The total amount of money earned by Fred in the previous week is $47 + $99 = $146. After deducting his expenses of $34, he has made a profit of $112 ($146 - $34).";;;;;;;
+Response: 71 kg.;;;;;;;
+Response: 27 kilograms.;;;;;;;
+"Response:  Jessie's current weight is 70 kg and she wants to lose 12 kg in total. To calculate how many days it will take her to reach her target weight of 58 kg, we can use the following formula:
+
+Days = (Current Weight - Target Weight) / Desired Weight Loss per Day
+
+Plugging in the values given in the question, we get:
+
+Days = (70 kg - 58 kg) / 126 kg/day
+Days = 43 days
+
+Therefore, Jessie will need to maintain a daily weight loss of 126 kg for approximately 43 days to reach her target weight of 58 kg.";;;;;;;
+Response: 350 kg;;;;;;;
+Response: 134 kg.;;;;;;;
+"Response:  The weight loss per week is calculated as follows:
+Week 1: 62 kg - 9 kg = 53 kg
+Week 2: 53 kg - 140 kg = -87 kg
+So, the weight loss in two weeks is -87 kg.";;;;;;;
+Response:  The weight of Jesica after 92 days will be 87 kg. After 14 weeks, her weight will decrease by 56 kg and then increase by 43 kg in the next 7 weeks, resulting in a final weight of 99 kg. Therefore, Jesica's weight after 10 weeks (including both periods) will be 87 kg.;;;;;;;
+Response: 95;;;;;;;
+Response: 40;;;;;;;
+Response: 30;;;;;;;
+Response: 79;;;;;;;
+Response: 275;;;;;;;
+Response: 320 kg;;;;;;;
+Response: 27680;;;;;;;
+Response: 175 + 77 = 252;;;;;;;
+Response: 175 + 12 = 187 tomatoes and 53 = 60 aloo (potato) bags.;;;;;;;
+Response: 42;;;;;;;
+Response: 10;;;;;;;
+Response: 17 + 8 = 25;;;;;;;
+"Response: 10
+Explanation: According to the question, there are 11 tanks in total and each tank can hold 3 patties. Therefore, the total capacity of all the tanks is 3 x 11 = 33 patties. However, John needs 8 more patties for his recipe, so he will need 8 + 33 = 41 patties in total.";;;;;;;
+Response: 15;;;;;;;
+Response: 30;;;;;;;
+Response: 74;;;;;;;
+Response:  The total amount of rice required for each big pot (14 tonnes) is 300 kg, and for each small pot (25 tonnes) it is 625 kg. Therefore, the total amount of rice required by John's house is 300 x 14 = 4200 kg + 625 x 25 = 15625 kg = 19825 kg.;;;;;;;
+"Response: 42
+Explanation: The total weight of 3 packets is 3 x 30 = 90 kg. Since there are 42 packets in total, each packet weighs approximately 90/42 = 2.17 kg.";;;;;;;
+"Response: 120
+Explanation:
+From the given information, we can calculate the total number of packets as follows:
+Number of packets = Total weight / Weight per packet
+= 43 kg / 23 kg/packet
+= 1.9 packets
+Since Robbin has 8 packets in his bag, he must have used 7 packets (8 - 1).
+So, the remaining packet is 1 packet.";;;;;;;
+Response: 41;;;;;;;
+Response: 40;;;;;;;
+Response: 30;;;;;;;
+Response: 350;;;;;;;
+Response: 30 minutes * 3 shirts = 90 shirts. Therefore, in 1 minute and 30 seconds (60 + 30), 90 shirts can be made.;;;;;;;
+Response: 100;;;;;;;
+Response: 120 minutes (or 2 hours);;;;;;;
+Response: 48 minutes. Explanation: According to the given information, yesterday 13 shirts were made by an efficient machine in one minute. Today, 3 shirts were made in half that time, which is 27 minutes (half of 54 minutes). Therefore, the machine can make 1 shirt every 27 minutes.;;;;;;;
+Response: 10 minutes. Explanation: According to the question, the machine made 9 shirts yesterday and today it took 8 minutes to make one shirt. Therefore, the time taken by the machine to make one shirt is 8/9 = 10 minutes.;;;;;;;
+Response: 120 minutes. Explanation: The machine can make 3 shirts in 1 minute, so it will take 120 minutes to make 4 shirts (since there are 4 times as many shirts). Similarly, it will take 120 minutes to make 8 shirts (since there are 8 times as many shirts).;;;;;;;
+Response: 30 shirts can be made in 6 minutes. Therefore, 14 shirts can be made in 12 minutes. So, the number of shirt machines required to make 14 shirts is 3.;;;;;;;
+Response: 40 shirts were made in one minute by the machine. So, in 5 minutes (kala), the machine made 40 x 5 = 200 shirts. And today, it made 12 shirts. Therefore, the total number of shirts made by the machine is 200 + 12 = 212 shirts.;;;;;;;
+Response:  $165 \div 5 = 33$ dollars per day;;;;;;;
+Response: 3600 (approximately);;;;;;;
+Response:  The total amount of money earned by Ring Toss game in 30 days is $1560 (420 x 30).  Out of this, the profit made by the game operator is $840 ($22 x 30).;;;;;;;
+Response: 356 dollars.;;;;;;;
+Response:  $120 \div 20 = 6$;;;;;;;
+Response:  $325 \div 154 = 2.06$;;;;;;;
+Response: 10000;;;;;;;
+Response: 10;;;;;;;
+Response: 23;;;;;;;
+Response: 56;;;;;;;
+Response: 36;;;;;;;
+Response: 9;;;;;;;
+Response: 9;;;;;;;
+Response: 15;;;;;;;
+Response: 220;;;;;;;
+Response: 73 + 724 = 801;;;;;;;
+Response: 321;;;;;;;
+"Response: 178
+Explanation:
+From the given information, we can calculate the total number of students in the program as follows:
+Total number of students = Number of abhibhava karmas x Number of students per abhibhava karma
+= 61 x 177
+= 10,377
+Therefore, there are 10,377 students in the program.
+Now, let's find out how many got selected for each gote (batch):
+Number of students selected for each gote = Total number of students / Number of gotes
+= 10,377 / 44
+= 235
+So, 235 students were selected for each of the 44 gotes (batches).";;;;;;;
+Response: 1307 feet.;;;;;;;
+Response: 1289 feet.;;;;;;;
+Response: 1034 feet.;;;;;;;
+Response: 2048;;;;;;;
+Response: 15;;;;;;;
+Response: 35000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 150 kg;;;;;;;
+Response: 1430;;;;;;;
+Response: 35;;;;;;;
+Response: 39;;;;;;;
+Response: 10800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 10800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;;;;;
+Response: 108345672934567890;;;;;;;
+Response: 13200 flowers.;;;;;;;
+Response: 4660.;;;;;;;
+Response: 2850 (approximately);;;;;;;
+Response: 160;;;;;;;
+Response: 4502 skittles are required to fill all 4276 bags of 154 grams each.;;;;;;;
+Response: 3912.;;;;;;;
+Response: 896.;;;;;;;
+Response: 54;;;;;;;
+Response: 225;;;;;;;

@@ -14,4 +14,4 @@ module load Anaconda3/2022.05
 
 cd $HOME/
 source activate llama
-srun python -u bloomz-xcopa.py
+python -u bloomz-xcopa.py

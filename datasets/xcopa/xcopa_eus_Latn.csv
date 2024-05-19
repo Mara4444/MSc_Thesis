@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Produktua kaxa batean sartuta zegoen. ;cause;Hauskorra zen. ;Txikia zen. ;0
+Poltsikoak hustu nituen. ;effect;Sarrera-ontziko beste bi kopia ditut. ;Arma bat aurkitu dut. ;0
+Termitak sartu ziren etxean. ;effect;Termitak joan egin dira etxetik. ;Termitek gure etxea jaten zuten. ;1
+Bidaiariak muga iritsi ziren. ;effect;Patruila batek pasaporteak miatu ditu. ;Patruila batek salaketa jarri zuen kontrabandoan. ;0
+Bulegoa itxita zegoen. ;cause;Oporretan nengoen. ;Uda batean izan zen. ;0
+Neskak ez zuen energiarik, beraz, eman egin nion. ;cause;Dantzan egiten zuen. ;Soka batetik salto egin zuen. ;1
+Emakumeak bere lekua galdu zuen lerroan. ;cause;Jende gehiago zegoen ilaran. ;Ilara oztopatzen ari da. ;1
+Neskak sudurra apurtu du. ;cause;Haurrak listuontzia zulatu du. ;Haurrak pixoihala zikindu dio. ;1
+Taldeak arrakasta handia izan zuen abestia jo zuen. ;effect;Entzuleek musikari jarraiki, txalo egin zuten. ;Entzuleek, adeitasunez, isiltasunean entzun zuten. ;0
+Neskak eskerrak eman nahi zizkion matematika irakasleari. ;effect;Neska eskolatik kanpo dago. ;Neskak sagarra ekarri dio irakasleari. ;1
+Presoak ikaratu zituen. ;cause;Beren udaletxeko tutoreak mamuen istorio bat kontatu zien. ;Sua piztu eta marmelada atera zuten. ;0
+Burua kolpatu zuen. ;effect;Pentsatzen hasi zen. ;Garuneko bihotzekoa dela uste dut. ;1
+Ez zen nire txekea. ;cause;Nire banku-kontua hutsik zegoen. ;Soldata igoera bat merezi dut. ;0
+Gizon horren e-mail kutxa spam-z betea zegoen. ;effect;Spamak ezabatu zituen. ;Mezu asko bidali zizkion. ;0
+Marinela berrogeialdian dago. ;cause;Gaixotasunaz kutsatuta zegoen. ;Gaixotasunetik osatu zen. ;0
+Neskak kode bat idatzi du. ;cause;Bere buruari errezitatu dio. ;Ahaztu egin zaio idaztea. ;0
+Ura edalontzian sartu nuen. ;effect;Urak nire egarria askatzen du. ;Edalontzia beteta zegoen. ;1
+Gizona isilik geratu zen lagunak bukatu zuenean hitz egiten. ;cause;Laguntzeko eskatu dio. ;Lagunaren hitzak gogoan izan ditu. ;1
+Istripua nire errua izan zen. ;effect;Errudun sentitzen nintzen. ;Salaketa jarri dut. ;0
+Katea puskatu da. ;cause;Katea gurpil bati atxikita zegoen. ;Katean kate bat zen. ;1
+Bikoteak konpromisoa hartzea erabaki zuen. ;cause;Eztabaidaren kontu horrek ez zien ongi egiten. ;Ez zuten arazoa eztabaidatu. ;0
+Emakumeak erabaki zuen kargu publikorik ez hartzea. ;effect;Kanpainako zuzendari bat kontratatu zuen. ;Auzitegian deklaratu zuen. ;0
+Gizon honek eguraldi hotza aurreikusten zuen bere bidaian. ;effect;Arropa beroa zeraman maletategian. ;Maleta handi batekin bidaiatzen zuen. ;0
+Ikasleak galdera horren erantzuna zekien. ;effect;Eskua altxatu zuen. ;Ergelontzi bat da. ;0
+Begiak malkotan zituen. ;cause;Hautsa begietan sartu zaio. ;Betaurrekoak zituen. ;0
+Jokalariak bost partida irabazi zituen jarraian. ;effect;Bere aurkariak engainatzea leporatu zion. ;Bere aurkariak pena sentitzen zuen. ;0
+Irakasleak ikaslearen azterketa urratu zuen. ;cause;Ikasleari iruzur egiten harrapatu dio. ;Ikaslearen erantzunak okerrak ziren. ;0
+Isildu egin naiz, hitz egin gabe. ;cause;Ahotsa galdu dut. ;Arnasarik gabe geratu nintzen. ;1
+Janari izoztua desizoztu da. ;cause;Mikrouhin-labean jarri dut, nik ez... ;Plastikozko zorrotzarekin estali dut. ;0
+Langileak gaixo itxura egin zuen. ;cause;Tripako minarekin itzuli zen. ;Egun libre bat nahi zuen. ;1
+Neska igerilekuan zegoen. ;cause;Ur-gainean zegoen. ;Jauzi bat egin zuen. ;1
+Antzokiko sarrerak agortu dira. ;cause;Filmaren estreinaldiko eguna zen. ;Filmak kritika eskasak jaso zituen. ;0
+Gizonak pisua galdu du. ;effect;Jendeak baztertu egiten zuen. ;Jendeak zorionak ematen zizkion. ;1
+Eskuak ez dauzka ondo. ;cause;Gutun bat idatzi zuen. ;Soka batetik igo zen. ;1
+Zirku-jotzaileak malabarismoa egin zuen monoziklo bat gidatzen ari zela. ;effect;Entzuleek txalo egin zuten, harrituta. ;Akrobata batek trapezio batetik salto egin zuen. ;0
+Pazientzia galdu dut. ;cause;Lagunak zain eduki nau. ;Nire laguna garaiz iritsi da. ;0
+Herrialde gatazkatsuek bakea nahi zuten. ;effect;Arma nuklearrak garatu dituzte. ;Akordio batetara iritsi ziren. ;1
+Gizon horrek pilula batzuk hartu ditu. ;effect;Logale bihurtu zen. ;Sukarra izan du. ;0
+Emakumeak tupust egiten zuen sofan. ;effect;Sofa gaineko zangoa askatu da. ;Belauna urratu du. ;1
+Mutikoak baloia estutu zuen. ;effect;Puxika lehertu egin da. ;Puxika horrek hegaz egin du. ;0
+Bidaiari batzuei logela bat erreserbatu zaie hotelean. ;effect;Maletak askatu eta dena prest. ;Aireportura joan dira. ;0
+Kosk egin diot bati. ;effect;Mertxika-likorea aurkitu dut. ;Zukugailu bat. ;1
+Eskuak gogortu zaizkit. ;cause;Donut bat jan dut. ;Gozokiak gustatzen zitzaizkidan. ;0
+Atea bultza egin dut. ;effect;Atea ireki zen. ;Atea itxita dago. ;0
+Ekintzaileek boikota egin zieten produktuei. ;cause;Produktuak kalitate bermeari dagokionez probatuak izan dira. ;Produktuak haurren lanaren bidez egin ziren. ;1
+Zulo bat egin nuen paretan. ;effect;Arratoi bat irten da zulotik. ;Hautsa kendu diote. ;1
+Emakumeak bere ahizparen inbidia izan zuen. ;cause;Bere ahizpa pozik zegoen. ;Bere ahizpa dibortziatu egin zen. ;0
+Ardoa bota dut alkandora gainera. ;effect;Aterpe bat utzi nuen. ;Alkandora aldatu dut. ;1
+Kutxazainak kutxa ireki du. ;cause;Bezeroak kartera miatu du. ;Bezeroak dirua eman zion. ;1
+Kale musikariak jendetza erakarri zuen. ;effect;Jendeak txanponak ematen zizkion. ;Jendea bidal zezakeen atzera. ;0
+Ume txikiak negar egin zion zaindariari. ;cause;Gurasoen falta izan du. ;Gosariaren ordua. ;0
+Pilotuaren radarrak erradarra detektatu du. ;effect;Pilotuak ekaitzetik ihes egin du. ;Pilotuak ekaitza pasa du. ;0
+Zuhaitzak hostoak erortzen ditu. ;effect;Hostoek kolorea hartu zuten. ;Hostoak lurrean pilaturik. ;1
+Umore txarrez zegoen. ;effect;Kartetan jolastu nahi izan zuen arrebarekin. ;Bere ahizpari txantxa bat egitea erabaki zuen. ;1
+Haurra negarrez ari zen, komunera joan behar zuelako. ;effect;Aitak eman zion freskagarri bat. ;Aitak autoa gasolinaz beteko du. ;1
+Haurrak arrain-janaria bota zuen ur-ontzira. ;effect;Arrainak uretatik atera dira. ;Arrainak janariaren bila joan ziren igerian. ;1
+Emakumearen iritzi politikoa aldatu zen. ;effect;Alderdia utzi du. ;Protesta bat egin zuen. ;0
+Komunean sekulako pixa zegoen. ;effect;-Iturria piztu dut. ;Estoldetako garbigailua jarri diot. ;1
+Bidaiariak trenetik jaitsi dira. ;cause;Trena geltokira iritsi zen. ;Trenak txistu egin zuen. ;0
+Gizonak estutu zuen ezkutuko botoia. ;effect;Zigilu bat jarri du gutunazalean. ;Gutun-azala itxi du. ;1
+Lagunak urrundu egin ziren. ;cause;Elkarrekin egotea maite zuten. ;Hiri desberdinetara joan ziren. ;1
+Kontulariak enpresako funtsak gaizki kudeatzen zituen. ;effect;Kaleratu egin zuten. ;Amatasun-bajan zegoen. ;0
+Erlojuari begiratu diot. ;cause;Erlojua martxan entzun dut. ;Zer ordu den ikusi nahi nuen. ;1
+Eskuak krampean dauzkat. ;cause;Eskuaz idatzi nuen idazlana. ;Emazteak eta biok elkarri eskutik helduta. ;0
+Bolantea itxi egin zen. ;cause;Etengailuak aldatu nituen. ;Giltza bihurtu dut. ;1
+Bikoteak alokairu kontratua sinatu zuen. ;effect;Bikotea pisura joan zen bizitzera. ;Udalak ez du etxebizitza hau onartuko. ;0
+Emakumea kanpoan esertzen zen, atarian. ;cause;Ilunabarra ikustera etorri da. ;Tximista bat ikusi duela uste du. ;0
+Gizonak salba-gerrikoa zeraman uretan. ;cause;Ez zekien igeri egiten? ;Ura mehe zegoen. ;0
+Emakumeak akats bat idatzi du idazketan. ;effect;Dokumentu hori ezabatu zuen. ;Etengailuarekin. ;1
+Neska bere lagunekin harropuzten zen. ;cause;Nota txarra jaso zuen. ;Lehiaketa bat irabazi zuen. ;1
+Belarra lokatzetan zegoen. ;cause;Gauez euria egin zuen. ;Belar gaiztoz betea zegoen. ;0
+Emakumeak lo hartu du. ;cause;Gaua hotelean pasatu du. ;Alarma jartzea ahaztu zitzaion. ;1
+Eguzkitako krema jarri diot. ;cause;Itzalean eseri zen. ;Hondartzara joan zen. ;1
+Ikertzaileek frogatu dute teorema. ;effect;Ikertzaileek teoria hori eztabaidatu dute. ;Batzuek onartu egin zuten. ;1
+Zaleek oihu egin zuten. ;cause;Partida luzapenetara heldu da. ;Arbitroak ez zuen balio izan. ;1
+Sarrailan nire nortasun-kodea dago. ;effect;Sarraila jarri nuen. ;Atea ireki da eta ireki egin da. ;1
+Jendea gero eta gehiago zeuden. ;effect;Aitak semeari diru pixka bat eman zion. ;Aitak semearen eskua hartu zuen. ;1
+Elurrak kalea estali du. ;effect;Elurra bildu nuen elur-bola baten moduan. ;Elurra kentzekoa nintzen. ;1
+Kayakean ibili behar dugu arraunean. ;effect;Kayak-a lehorrera iritsi zen. ;Kayakean olatu batekin egin genuen topo. ;0
+Neskak kontrola galdu du. ;effect;- Agur. - Utzi joaten. ;Hesia gurutzatu eta jarraitu egin zuen. ;1
+Haizagailu bat piztu dut. ;effect;Ura azalean sartzen zait. ;Aire freskoa igotzen ari zela sentitu nuen. ;1
+Surflariak hondartzara itzuli ziren. ;cause;Bustiak zeuden. ;Marrazo bat ikusi zuten. ;1
+Bainuontziko estolda-zuloa ireki dut. ;effect;Bainuontziko ura joaten ari zen. ;Ura lurreraino irristatu zen. ;0
+Senarrak errudun sentitzen zen traizio egin ziolako. ;effect;Traizioaz akusatu zuen. ;Bere desleialtasuna aitortu zion. ;1
+Kartelaren tinta hautsi zen. ;cause;Itxoin nuen idatzitakoa argitu arte. ;Ura irakin nuen kartel hartan. ;1
+Haurra garrasika esnatu zen. ;cause;Amesgaizto bat izan zuen. ;Ohean txiza egin du. ;0
+Umeak oinak mahai gainean jarri zituen. ;effect;Aita mahaian zegoen. ;Aitak erakutsi zion nola egin. ;1
+Lagunak burua jiratu zidan. ;cause;Bere izena oihukatu nuen. ;Besoak astindu ditut. ;0
+Gobernuak herritarrak zapaldu zituen. ;effect;Herritarrak matxinatu egin ziren. ;Herritarrek izena eman dute hauteskundeetara joateko. ;0
+Mutikoa basoan galdu zen. ;effect;Denda bat jarri du. ;Laguntza eskatu zidan. ;1
+Emakumeak atzerrira joan behar izan zuen. ;cause;Marrazten ikasi nahi zuen. ;Beste kultura batzuk ezagutu nahi zituen. ;1
+Gizonak jeloskor zegoen lankidearekin. ;cause;Bere lankideak igoera izan du. ;Lankideak berandu arte lan egin du. ;0
+Estralurtarren antzekoak dira. ;cause;Haluzinazioak izan ditu. ;Meditatzen ari zen. ;0
+Gizonaren ilea urdindu egin zen. ;cause;Zikin-zikina dago. ;Xanpua ematen dio. ;0
+Artistak lan berriak sortu zituen. ;cause;Bere aurreko lana kritikatu zuen. ;Inspirazio-kolpe bat izan zen. ;1
+Semea etxetik joan zen. ;cause;Soldadutzatik kaleratu dute. ;Unibertsitatera joango zen. ;1
+Liburuak erori egin dira. ;cause;Apalak hautsez beteta zeuden. ;Lurrikara batek liburu-oihala astindu du. ;1
+Argindarra moztu dute nire etxean. ;effect;Argia piztu dut. ;Etengailuak berrabiarazi. ;1
+Ur-lasterretan ibili gara. ;cause;Beldurra ematen zuen. ;Dibertigarria zirudien. ;1
+Krispetak pilatzen hasi ziren. ;cause;Gurina bota diot zakuari. ;Mikrouhinetan berotu dut. ;1
+Zuhaitz bat erori da kondentsadorearen kablean. ;effect;Auzoetan argindarra moztu zen. ;Eguraldi iragarpenak iragartzen du haize gogorrak. ;0
+Hizlariak esaldi politiko okerrak egin zituen. ;effect;Publikoa aspertu zuen. ;Publikoa iraindu egin zuen. ;1
+Nire buruari pin hori bota nion. ;effect;Izerdi tantak erortzen zaizkit masailetatik. ;Odol tanta bat erori zait hatzean. ;1
+Arrainak ur gainean zebilen. ;cause;Goseak zeuden. ;Hilda zegoen. ;1
+Gizonak ahots ahula zuen. ;cause;- Katarroa zeukan. ;Erretzeari utzi dio. ;0
+Igogailuko ateak ireki ziren. ;cause;Igogailua heldu da. ;Igogailua bi solairu artean trabatuta dago. ;0
+Neska etxetik atera zen. ;cause;Gurasoei gezurra esan zien. ;Gurasoek sekula ez zuten aurkitu. ;1
+Komuna urez beteta dago. ;cause;Komuna hautsita dago. ;Ur berogailua apurtuta dago. ;0
+Txakurkumeak bere jabearen ondoan geratu zen. ;cause;Nagusiak txakurra lepoan du. ;Jabeak txakurra uhalean zuen. ;1
+Gizonak bere isla harrapatu zuen. ;cause;Zuhaitz baten azpian zegoen. ;Aintzira lasaiaren ondoan zegoen. ;1
+Neskalagunaren deiaren zain nengoen. ;effect;Nik deitu egin nion. ;Afaltzeko hitzordua nuen. ;0
+Auzokoak miatu zituen. ;cause;Txakurra etxetik ihes egin du. ;Bitxi garestiak falta ziren beren etxetik. ;0
+Nire arnasa ikusi dut botaka egiten duenean. ;cause;Eguraldi hotza zegoen. ;Bularra estututa nuen. ;0
+Langileek sindikatu bat sortu zuten. ;cause;Lan-baldintza hobeak nahi zituzten. ;Nagusiak soldata igoera aipatu du. ;0
+Pastela egin dut. ;effect;Usain txarra sukaldean. ;Usain goxoa zegoen sukaldean. ;1
+Emakumeak nekez ibiltzen zen. ;cause;Takoi altukoak zituen. ;Zapatak kendu zituen. ;0
+Lurrunak gora egin zuen uraren ontzitik. ;cause;Ura irakiten zegoen. ;Nik ordaintzen dut dena. ;0
+Galtzerdi guztiak garbitegian zeuden. ;effect;Sandailak jantzi nituen. ;Botak jantzi nituen. ;0
+Politikariaren argudioak zentzugabekeria bat izan zen. ;effect;Hautesleen babesa galdu zuen. ;Ustelkerian leporatzen zitzaion. ;0
+Denek ez zuten onartu bikotearen ezkontza. ;effect;Bikotea haurdun geratu zen. ;Bikotea desagertu egin zen. ;1
+Eraikina aberatsari eskainita zegoen. ;cause;Milionarioak eraikina bota nahi zuen. ;Milionarioak dirua jarri zuen hau eraikitzeko. ;1
+Saltzaileak neska lapurtu zuela esan zion. ;cause;Saltzaileak ikusi zuen neskak bere poltsan... gauza batzuk sartzen. ;Saltzaileak neska lagundu zuen maleta aurkitzen. ;0
+Herrialdeak gerra deklaratu zion auzoko lurraldeari. ;effect;Soldaduak borrokara bidaltzen dituzte. ;Soldaduak eta beren familiak bildu ziren. ;0
+Auzitegiak apelazioaren alde egin zuen, eta sententzia berretsi zuen. ;effect;Istilu bat sortu da auzitegiaren aurrean. ;Bikote batek zin egin zuen epaitegiaz. ;0
+Neskak zer edo zer erre zuela sumatu zuen. ;cause;Opil madarikatuak irteten ari da ontzitik. ;Labean utzi ditu biskotxak. ;1
+Euria ari zuen. ;effect;Ekaitza gero eta bortitzagoa da. ;Barrura sartu nintzen. ;1
+Eraikina ebakuatu dute. ;cause;Igogailua geldituta dago. ;Suteetako alarma piztu da. ;1
+Aitak semea alkoholikoa zelakoan, haserre zegoen. ;effect;Aitak garagardo bat erosi zion semeari. ;Aitak semea etxetik bota zuen. ;1
+Abokatuak eskailerak igo ditu. ;cause;Idazkaria etxera joan da. ;Igogailua puskatuta dago. ;1
+Gizona bere lagunarekin haserretu zen. ;cause;Lagunak eten egin du. ;Lagunak janaria eskaini dio. ;0
+Neskak kutxazainari eman zion dirua. ;effect;Kutxazainak neskari txanpona eman zion. ;Kutxazainak ez zion neskari ordainagiria eman. ;0
+Emakume hori gurpildun aulkian ibiltzen da. ;cause;Istripu batean harrapatu zuten. ;Ospitalean sartu zen bizkarrezurrean. ;0
+Herritarrek bandera nazionala zintzilikatu zuten etxeen kanpoaldean. ;cause;Herriak bere independentzia ospatzen zuen. ;Herrialdeak arazo ekonomikoak zituen. ;0
+Taldeak txapelketa galdu zuen. ;effect;Pena ematen diete jarraitzaileei. ;Fan batzuk inspiratu dituzte. ;0
+Lagunak janaria hortzetan nuela esan zidan. ;effect;Lotsatuta nago. ;Harro nengoen hartaz. ;0
+Mutilak ez zuen historiako azterketa gainditu. ;cause;Arreta jartzen zuen gelan. ;Ikastea ahaztu zaio. ;1
+Eraikin nagusia eraitsi egin zen. ;cause;Lurrikara batek hiri hau astindu zuen. ;Hirian delitu kopurua handitu egin zen. ;0
+Neskak alde egin dio. ;effect;-Berriz etxean izateko erregutu zion. ;Bere gurasoei aurkeztu zien. ;0
+Bi haurrek, aldi berean, eskua luzatu zuten pilota ateratzeko. ;effect;Pilota erori egin zen. ;Buruak elkartu dituzte. ;1
+Basurdea zakarrontzia arakatu du. ;cause;Kartoizkoa da, zabor poltsan. ;Zabor-ontziaren estalkia hartuta zegoen. ;1
+Mutilak arkatza zorroztu zuen. ;cause;Merkeak dira. ;Aspergarria zen. ;1
+Kutxazainak ez zion soinekoaren ordaina eman. ;cause;Ordainagiria galdu du. ;Soinekoa ez zen ondo geratu. ;0
+Urratu bat, oso sakona. ;effect;Azkar sendatu zen. ;Orbain bat utzi zidan. ;1
+Bidaiari batzuek modu arraroan begiratzen zioten gizonari. ;cause;Lurrera begira zegoen. ;Bakarrik hitz egiten ari zen. ;1
+Haurrak ogi-puskak lurrean utzi zituen. ;effect;Inurriak joan eta jan egin zituen. ;Haurrak ogia gorde zuen. ;0
+Emakumeak eskumuturreko bat eman zion bere arrebari. ;cause;Emakumearen ahizpak eskuak erantsi zituen. ;Emakumearen ahizpa negarrez hasi zen. ;1
+Gizon horrek dirua irabazi zuen! ;cause;Ezpainak bihurrituz. ;Beldur zen aireak ez ote zuen usain txarra. ;1
+Bikotea goiz joan zen ikuskizunera. ;cause;Trafikoa zegoen antzeztokiaren inguruan. ;Antzokirako bidea badakite. ;0
+Emakume hori ez dago etxean, lanean baizik. ;effect;Bere nagusiak zoriondu egin zuen. ;Lankideak estaltzen saiatu zen. ;1
+Gizon horrek sinatu zuen erreferentzia. ;cause;Euren alde jarri da. ;Erotuta zeudela esaten zien. ;0
+Aktorearen bihotza taupaka hasi zen emanaldiaren aurretik. ;cause;Beldur eszenikoa zuen. ;Lerroak buruz ikasten zituen. ;0
+Galduta nengoen. ;effect;Dirua kontatu dut. ;Mapa bat asmatu dut. ;1
+Fruta helduak eguzkitan gelditu ziren. ;effect;Jan egin zuten. ;Zimurtuta dago. ;1
+Autoa puskatu zait. ;cause;-Bultzatu egin dut. ;Motorra berotuta. ;1
+Gizon horrek min hartu du bizkarrean. ;effect;Psikiatrarengana joan zen. ;Ohean egon zen egun batzuetan. ;1
+Sutea eragin nuen tximinian. ;cause;Ez neukan egurrik. ;Hotz egiten zuen etxean. ;1
+Emakumeak lasterka egiteari utzi dio. ;cause;Kolpe bat saihetsaren aldean. ;Beste bizi bat bizi du. ;0
+Auzokoaren atea jo nuen. ;effect;Bizilagunak gonbidatu ninduen. ;Auzokideak etxea utzi zuen. ;0
+Emakumeak hasperen egin zuen etsiak jota. ;cause;Senarrak ez zuen bere kezka bereizi. ;Senarrak musu eman zion agur esateko. ;0
+Irakasleak zoriondu egin zuen ikaslea. ;cause;Ikasleak zuzen erantzun du galdera. ;Ikasleak zalantzak zituen galdera erantzuteko. ;0
+Emakumeak ez zuen arrautzarik. ;effect;Baserrira joan da. ;Supermerkatura joan da ;1
+Aspaldiko lagun batekin topo egin dut. ;effect;Sekretu bat esan nion. ;Besarkatu egin dut. ;1
+Emakumeak ez zuen aintzirara joan nahi. ;cause;Arrain bat harrapatu du. ;Kutsatua zirudien. ;1
+Ikaslea klasean sartu zen, blai-blai. ;cause;Aterkia puskatuta zeukan. ;Bere bizikleta lapurtu dute. ;0
+Ordenagailuaren pantailako kurtsorea mugitu egin da. ;cause;Erabiltzaileak klik egin zuen. ;Erabiltzaileak arratoia mugitu zuen. ;1
+Gidariak desbideratu egin du. ;cause;Istripu bat izan da errepide nagusian. ;Aurrean zihoan kamioiari jarraitu zion. ;0
+Oihal zikinak zintzilikatu ditut kaleko arroparen erdian. ;effect;Oihal zikinak lehortu egin dira. ;Oihal zikinak dauzkat. ;0
+Emakumeak betaurrekoak jarri zituen. ;cause;Eguzkiaren argia oso distiratsua zen. ;Taxi bat eskatu dit. ;0
+Gizonak gaueko zeruari so egin zion. ;cause;Uda izan nahiko zuen. ;Ederra zela uste zuen. ;1
+Leher eginda nengoen. ;effect;Goiz oheratu naiz. ;Gau osoa zutik pasa nuen. ;0
+Gizona ileapantzailearenera joan zen. ;cause;Ilea luzatzen zuen. ;Bere ilea luzatzen ari da. ;1
+Mutikoak truko txarrak egin zizkion ikaskide berriari. ;cause;Mutikoak bere gelakide berria ongietorria eman zion. ;Mutikoari ez zitzaion klasekide berria gustatu. ;1
+Baso bat esne edan nahi nuen. ;cause;Gailetak jaten ari nintzen. ;Ogia egiten ari nintzen. ;0
+Euria hasi zuen. ;effect;Gidariak aurreko farola piztu du. ;Gidariak atzerako martxa sartu du. ;0
+Aparkalekua hutsik zegoen. ;effect;Kalearen beste aldera aparkatua nintzen. ;Sarrerako lekuan utzi dut autoa. ;1
+Idazleak ez zuen idatzi proiektua entregatzeko epea. ;cause;Blokea jarri diote. ;Berak editatu zuen zirriborroa. ;0
+Hark telefonoa eseki du. ;cause;Nagusiarekin hitz egin nahi dut. ;Nire identifikazio zenbakia emango dizut. ;0
+Haizeak leihatila irekian zehar jotzen zuen. ;effect;Atean jo zuten. ;Errezelak biratu dira. ;1
+Argindarra moztu dute nire etxean. ;cause;Argia itzali dut. ;Fusiblea erre egin zait. ;1
+Pisu-jasotzaileak isilune bat egin zuen. ;cause;Muskuluak ispilura mugitu zituen. ;Berak barra altxatu zuen. ;1
+Ikasleak buruan kalkulatu nahi zuen. ;effect;Kalkulagailu bat hartu du. ;Nahastu egin da. ;1
+Haurra lokartu egin zen. ;cause;Aitak haurraren pixoihala aldatu zion. ;Aitak astiro astindu zuen umea. ;1
+Neskak ur-baldea bota zion mutilari. ;effect;Mutilak buruko mina dauka. ;Busti egin da. ;1
+Argazkilariak ez du kargatzen fokutik. ;effect;Argazkiak lausoak izan ziren. ;Argazkietako edonork ez du irribarre egin nahi. ;0
+Ezetz esan nion urtebetetze festako gonbidapenari. ;cause;Bakarrik sentitzen nintzen. ;Ez nengoen hirian. ;1
+Ariketa egiten egon naiz, hori da egiten ibili naizena. ;cause;Energiaz beteta sentitzen nintzen. ;Beldur nintzen. ;0
+Ekarri dut hondar erregalizkoa. ;effect;Ura sartzen ari da! ;Ura sartzen hasi zen. ;1
+Oporretakoek ferry bat hartu zuten oporlekutik. ;cause;Bidea itxita zegoen. ;Uharte batean zegoen. ;1
+Neskak tatuaje bat dauka. ;cause;Orratzekin izututa zegoen. ;Matxinatu egin nahi du. ;1
+Ezezagun bat nire etxe aurrean aparkatua. ;effect;Susmatzen hasi nintzen. ;Poliziari deitu diot. ;0
+Gaizkileak bere burua entregatu du. ;cause;Frogek diote hura izan zela. ;Ez zegoen bere aurkako frogarik. ;0
+Gizontxoak pisua galtzea erabaki zuen. ;effect;Gozokiak utzi ditu. ;Kafeina ez hartzeagatik. ;0
+Neska izotzean sartu da. ;effect;Irristatu egin da. ;Dardarka hasi zen. ;0
+Emakumeak begi-zuloak zituen. ;cause;Gau osoa bueltaka eman du. ;Bere semea ohera eraman zuen. ;0
+Labaz irekitzen da sumendi batetik. ;cause;Sumendia lehertzen da. ;Sumendia ia izoztuta zegoen. ;0
+Emakumeak zapatak jantzi zituen. ;cause;Festetako guztiak ezagutzen zituen. ;Jaietatik joan nahi zuen. ;1
+Bidaiari-zerbitzariari ordaindu diot. ;effect;Sarrera galarazi zidan eta joan egin nintzen. ;Geltokian gelditu ninduen. ;0
+Enpresaburuak porrot egin du. ;cause;Bere enpresako akzioak saldu zituen. ;Dirutza xahutu zuen. ;1
+Medikuarengana joan da. ;cause;Medikua bajan zegoen. ;Gizon horrek gaixotasun bat izan du. ;1
+Leihotik atera nintzen. ;cause;Etxea sutan zegoen. ;Etxea hutsik zegoen. ;0
+Umeari haginak zulatu zizkioten. ;cause;Dutxa luze bat hartu zuen. ;Eskuak xaboiarekin zikindu zituen. ;0
+Esnea atera dut. ;cause;Esneak garratza zekien. ;Ahoa lehortu zitzaidan. ;0
+Autobusa galdu dut. ;effect;Goiz lan egin behar dut. ;Berandu noa lanera. ;1
+Kamioiak talka egin du autoarekin. ;effect;Kamioiak abiadura hartu du. ;Autoa txikitu dute. ;1
+Taldeak lasterketa aintzat hartu du. ;effect;Irabazi egin dute! ;Eskola utzi zuten. ;0
+Soda botila ireki zen. ;cause;Botilatik edan nuen. ;Kapelarekin hasi nintzen. ;1
+Mutikoa etxean giltzapean zegoen. ;effect;Leiho bat zabalik zegoen, eta berehala igaro zen barrura. ;Teilatura igo zen. ;0
+Atean jo zuten. ;effect;Bisitariak atea jo zuen. ;Emakumeak atearen zulotik begiratu zuen. ;1
+Gizonak soinekoa zikindu dio. ;effect;Garbiketa gelan dago. ;Armairuan ezkutatu du. ;0
+Neskak hortzetako pasta irabazi zuen. ;effect;Hortzetako pasta hodi horretatik irten da. ;Neskak hortzetako pasta bota du. ;0
+Zibilek guda garaian egin zuten. ;effect;Bakezaleek protesta egin dute. ;Bakezaleek desfilea egin zuten. ;0
+Neskak zinta kendu zuen iletik. ;cause;Zinta bat lotu zuen. ;Haur batena bezalako begirada sakona izan du une horretan. ;1
+Gizon horrek kirurgia plastikoa egin zuen. ;effect;Zahartu egin da. ;Gazteagoa ematen zuen. ;1
+Oilo bat atera zen arrautzatik. ;cause;Arrautza ireki zen. ;Arrautza apurtu dut. ;0
+Presoa gosez hiltzen ari zen. ;effect;Hil egin zen. ;Ihes egin zuen. ;0
+Gizon horrek bere burua galdu du eskaileretan. ;effect;Eskaileretan gora igotzen ari da. ;Eskailera batetik erori zen. ;1
+Umeak oka egin zuen. ;cause;Soda bat hartu zuen. ;Soda bat ireki zuen. ;0
+Haize hotz bat sartzen zen leihotik. ;effect;Lasaitu naiz. ;Dardarka hasten nintzen. ;1
+Ikasleak beka bat jaso zuen unibertsitatera joateko. ;cause;Bere ikaskideek errespetatzen zuten. ;Nota onak ateratzen zituen. ;1
+Neskak adarra jo zion mutikoari. ;cause;Ondoan bizi zen. ;Harekin maiteminduta zegoen. ;1
+Goseak ziren, jatekoa lapurtu zuten. ;cause;Errukiagatik lagunduko dizu. ;Ez zuen dirurik. ;1
+Lagun bati deitu nion. ;cause;Pribatutasuna nahi nuen. ;Bakarrik sentitzen nintzen. ;1
+Gizon horrek eskua luzatu dit. ;effect;Eskua eman nion. ;Zaplastakoa eman nion. ;0
+-Ez, ez. ;cause;Su artifizialak airera botatzen dituzte. ;Frisbiak jo eta jo egin zidan. ;1
+Neskak azkazalak hozka egin zizkion. ;cause;Kezkatuta zegoen. ;Harritu egin zen. ;0
+Orrialde buelta eman dut agendan. ;cause;Hitzordua jarri diat hilekoaren ondoren. ;Hilabete berri bat hasi da. ;1
+Senarrak jakin du bere emazteak abentura bat izan duela. ;effect;Bere abokatua kaleratu zuen. ;Dibortziatu egin nahi du. ;1
+Neskak gomazko pilota jaurti zuen. ;effect;Baloia erori egin da. ;Pilota distiratsu dago. ;0
+Neskak akats bat egin du azterketan. ;effect;Erantzuna asmatu du. ;Bere erantzuna ezabatu zuen. ;1
+Jokalariak aurkariari eraso egin dio. ;effect;Bere aurkariak pasea atzeman zuen. ;Bere aurkaria lurrera erori da. ;1
+Tomateak hartzen ditut mahastietatik. ;cause;Helduak zeuden. ;Nik ureztatu dut. ;0
+Gizonak jo egin nahi zuen, baina bitxoak jo zituen. ;effect;Bere neskalagun ohia ezagutu zuen. ;Bere neskalagunari txokolateak erosi zizkion. ;1
+Termometroaren barruan, azidoa sartu zen. ;cause;Termometroa erori zait. ;Eguraldia beroagoa da. ;1
+Tornado bat etortzen ikusi nuen. ;effect;Epaitegiko teilatua lehertu zen. ;Errepidea izoztu egin zen. ;0
+Ikasleak eskolak hartzen ditu. ;effect;Bere notak hobetu ziren. ;Tranpa egin zuen azterketan. ;0
+Erosoago sentitzen nintzen. ;cause;Lurrera erori nintzen. ;manta batean bildu nintzen. ;1
+Harria poltsikoan sartu dut. ;effect;Irristakorra zen. ;Dirdiratsuago bihurtu da. ;1
+Azukrea jarri diot kafeari. ;effect;Kafeak usain gogorra zuen. ;Kafeak gozo zaporea zuen. ;1
+Gizon horrek egunkarietan begiratu zuen. ;effect;Paperean ebaki bat egin zuen. ;Egunkariak zatikatu zituen. ;0
+Nik mailua jo nuen iltzearekin. ;effect;Iltzea puskatu zen egurrezko enborrean. ;Iltzea herdoilduta dago. ;0
+Arrainak paletatik joan ziren. ;effect;Arrantzaleak hartu zuen arraina. ;Arrantzaleak hartu, eta denak eseri ziren hura jatera. ;0
+Nerabea lotsatu egiten zen eskolara joateaz. ;cause;Akne bat dauka. ;Ortopedikoa da. ;0
+Nire aurpegiko espresioa egiazkoa izan zen. ;cause;Berri onak ditut. ;Pazientzia galdu dut. ;0
+Eskuak toalla batekin garbitu ditut. ;cause;Eskuoihala bustia zegoen. ;Eskuak bustiak nituen. ;1
+Gizon horrek apalanka bat galdu zuen aulkian. ;cause;Aulkia erori egin zitzaion. ;-Eskudelean pintura bota zuen. ;0
+Taldekideek elkarri botatzen diote errua. ;cause;Jokoan galdu zuten. ;Entrenatzaileak entrenamendua bertan behera utzi du. ;0
+Barkamena eskatu dizut. ;cause;Damu naiz hutsegite hori egiteaz. ;Helburua lortu dut. ;0
+Emakumeak aspertu egiten zuen gizona. ;cause;Bere buruaz galderak egiten hasi zen. ;Etengabe hitz egiten zuen bere buruaz. ;1
+Neskak irribarre egin zuen. ;effect;Masailak gorritu zitzaizkion. ;Bere ziztada txikiak erakutsi dizkio. ;1
+Etsaiaren untzia lehertzear dago. ;cause;Meategian zehar joan zen. ;Portuan barrena sartu zen. ;0
+Gizon horrek bere oina zulatu du. ;cause;Zingira batera sartu zen. ;Beira puskak zapaldu zituen. ;1
+Detektibeek hatz markak aztertu dituzte. ;effect;Hiltzailearen nortasuna deskubritu dute. ;Arma aurkitu zuten krimenaren kokalekuan. ;0
+Autobidean trafiko handia zegoen. ;effect;Saihesbidea hartu dut. ;Eskatu dut autoa. ;0
+Herrialdearen ekonomia ahuldu zen. ;effect;Jende asko gaixotu zen. ;Jende asko zegoen langabezian. ;1
+Goardia zibilak txilibitua jo zuen umeen aurrean. ;cause;Trafikoaren aurrean aurre egin behar izan zuten. ;Auzokoengandik ezagutu zituen. ;0
+Begiak gurutzatu ditut andregaiari begira. ;cause;Egia esan zidan. ;Iruzkin sarkastikoa egin zuen. ;1
+Autoa gasolinaz betea dago. ;effect;Gidaria errepidean geldirik zegoen. ;Gidariak ospa egin du. ;0
+Emakumeak hasi ziren erditze-oinazeak eragiten. ;effect;Haurra jaio egin da. ;Emakumeak goragalea zuen. ;0
+Kapela kendu dio aireari. ;cause;Kapela erantzi zuen. ;Haizea zegoen. ;1
+Neska bere ikaskidearen urtebetetze festara joan zen. ;cause;Gonbidapen bat jaso zuen. ;Opari bat erosi dit. ;0
+Mutikoaren bekokia bero zegoen. ;effect;Amak tenperatura neurtzen zion. ;Amak parkean utzi du. ;0
+Gizon horrek koloniaz puztuta zuen bere burua. ;cause;Morroiak izugarri harritu du. ;Ilea geldaz estali du. ;0
+Argindarra moztu dute. ;effect;Linterna baten bila nenbilen. ;Eskuetan palarekin jo dut. ;0
+Familia etxe handiago batera joan zen bizitzera. ;cause;Semeak institutuan ikasi zuen. ;Amak bikiak izan zituen. ;1
+Maratontarrak astiroago joaten jarraitu zuen. ;cause;Energia aurreztu nahi zuen. ;Helmuga ikusi zuen. ;0
+Mutilak aparkatu du makina. ;cause;Makinak guztia egiten du. ;Patata-purea ez zen atera. ;1
+Lagun baten txakurra hil da. ;effect;Begiak gurutzatu ditut. ;Besarkatu egin dut. ;1
+Negozio gizonezkoaren kreditu-txartela baliogabetu dute. ;effect;Zorretan zegok. ;Dirutan ordaindu du. ;1
+Gizon hori madarikatuta dago. ;cause;Azkazalak moztu ditu. ;Oinean kolpe bat hartu du. ;1
+Gizon hura bere anaiarekin harro zegoen. ;cause;Bere anaia eta gurasoak borrokan hasi ziren. ;Haren anaia Judu eskolara eraman zuten. ;1
+Neska gauza zen eguzki sistema osoa zer den jakiteko. ;effect;Liburutegira joan da. ;Izarrei begira zegoen. ;0
+Kartela paretan itsatsi zen. ;cause;Kartela atean jarri nuen. ;Kartelaren atzealdean jarri dut. ;1
+Bezeroak arkitektoaren eraikinaren planoak onartu zituen. ;effect;Arkitektoak eraikina eraiki zuen. ;Arkitektoak egin zuen bertsio berri bat. ;0
+Gizon batek koilara bat erori zaio hanka gainetik. ;cause;Eskuak dardarka zeuzkan. ;Koilara zupatu zuen. ;0
+Enpresako zuzendariak uko egin du. ;effect;Zuzendaritza batzordeak enpresa desegin zuen. ;Zuzendaritzak ordezko bat aurkitu du. ;1
+Berandu iritsi nintzen hitzaldietara. ;effect;Atzealdean eseri nintzen. ;Podiumera gerturatu nintzen. ;0
+Presoa askatua izan da. ;cause;Bere familiak fidantza ordaindu zuen. ;Kartzela-lagun bati eraso dio. ;0
+Familia bere ondasun guztiak galdu zituen. ;cause;Etxea saldu zuten. ;Bere etxeak su hartu zuen. ;1
+Aluminioa erretzen aritu naiz eta ez zaio ezer gertatu. ;effect;Puxika berrerabilitako konbinazioa da. ;Ontzia hautsi da. ;1
+Neska bat atera da debatean. ;effect;Ordenagailu bat erabiltzen ikasi zuen. ;Komunikatzen ikasi zuen. ;1
+Nire aldartea hobetu egin da. ;cause;Musika entzun dut. ;Platerak garbitu ditut. ;0
+Fundazioaren helburua dirua biltzea zen. ;effect;Etxegabeak elikatzen dituzte. ;Enkante bat egin zuten. ;1
+Ur-lasterra jauzi handitik behera jaitsi zen. ;effect;Bidaiariek barre egin zuten. ;Bidaiariek garrasi egiten zuten. ;1
+Oso haserre nengoen. ;effect;Etxetik irten orduko postontzira begiratzen nuen. ;Atea itxi nuen etxetik irten nintzenean. ;1
+Gizonak egunsentia ikusi nahi zuen. ;effect;Iparrera joan da. ;Goiz esnatu da. ;1
+Aldizkari bat hartu dut. ;effect;Paperak birziklatu ditut. ;Papera urratu egin da. ;1
+Herriak hondamendi natural bat jasan behar izan zuen. ;effect;Beste herri batzuetako buruzagiek aliantza bat sortu zuten. ;Beste herrialde batzuetako buruzagiek laguntza bidali zuten. ;1
+Mutikoaren arropa zikina zegoen. ;cause;Igerilekutik irten zen. ;Igerilekuan sartu da. ;1
+Ikasleak azkar bukatu zuen liburua. ;cause;Liburutegian egon beharko luke. ;Lagun bati utzi zion. ;0
+Hiltzailea exekutatu egin zuten. ;cause;Kartzelan sartu zuten. ;Hilketaz akusatu zuten. ;1
+Eguzki-izpiak sartu ziren gelan. ;cause;Errezelak zabaldu ditut. ;Atea ireki dut. ;0
+Iletik tira egin diot. ;effect;Ileordea kentzera doa. ;Burusoila zen. ;0
+Editoreak eskuizkribuaren esaldi bat aldatu zuen. ;cause;Eskuizkribua interesgarria iruditu zitzaion. ;Sententzia ez zela garbia izan esan du. ;1
+Kreditu txartela baliogabetu dio. ;cause;Txartel hau galdu zuela uste du. ;Txartelen iraungitze data nonbait ikusten zuen. ;0
+Gizona eta emakumea maitemindu egin ziren. ;effect;Unibertsitatera joan ziren. ;Ezkondu ziren. ;1
+Musika oso ahula zen. ;effect;Bolumena igo dut. ;Neure abestia sortu dut. ;0
+Mutikoari ilea askatzen ari zitzaion. ;cause;Neskak apurtu egin du. ;Neskak berak egin du. ;0
+Zomorroak zapaldu egin du. ;cause;Intsektu uxatzaileaz bustita nago. ;Zomorroari zapaldu diodala uste dut. ;1
+Begiak ireki ditut. ;cause;Esnatu egin nintzen. ;Lasaitu naiz. ;0
+Bizilagunaren musika oso ozen zegoen. ;effect;-Jaitsi egin beharko luke. ;CD bat uzteko eskatu nion. ;0
+Bere familia oso txiroa zen. ;cause;Bere irabaziekin zuhurki jokatu zuen. ;Gutxieneko soldata kobratzen zuen. ;1
+Ikasleak unibertsitatea amaitu zuen. ;effect;Lan bila ibili da. ;Zaletasun bat hartu zuen. ;0
+Artistak pintura horia pintura urdinarekin nahastu zuen. ;effect;Pintura nonahi dago. ;Berde bihurtzen da. ;1
+Gaia aldatu dut. ;cause;Ez dut ezertxo ere ez esateko. ;Elkarrizketa beroa izan zen. ;1
+Nire anaia ospitaletik atera dute. ;effect;Ongi etorri etxera. ;Ez nion garrantzirik eman. ;0
+Agertokiko oihala altxatu da. ;effect;Antzezlanaren hasiera eszena hasten da. ;Antzezlaneko aktoreak agertokitik atera ziren. ;0
+Bahitua azkenean bere bahitzailearen aginduak betetzera iritsi da. ;cause;Bahitzaileak bahitua mehatxatu du. ;Bahitzaileak bahitua bakarrik utzi du. ;0
+Boom handi bat entzun zen agertokian. ;cause;Musikariak oina zapaldu zion. ;Musikariak danborra jo zuen. ;1
+Gurasoak arin joan ziren umearen gelara. ;cause;Haurra esnatu egin zen, negarrez, amets gaizto bat zuelako. ;Haurra izututa zegoen ohepean begiratzen zerion. ;0
+Emakumeak keinuz bakarrik hitz egiten du. ;cause;Garaia baino lehen jaio da. ;Gorra jaio zen. ;1
+Lehorte bat gertatu zen eskualdean. ;effect;Ura kutsatuta zegoen. ;Uztak porrot egin du. ;1
+Katuak txoriari jarraitu zion. ;effect;Txoria hegan joan zen. ;Txoriak zizarea harrapatu du. ;0
+Neska eskolaz aldatu da. ;cause;Eskola udarako bakarrik da. ;Herri berrira joan da. ;1
+Lantegiko jabeak ez zuen langileen soldata igotzea nahi izan. ;effect;Jabeak gerente berria izendatu zuen. ;Langileak greban daude. ;1
+Buruzagiak etsaiak egin ditu bere herriko estremistekin. ;effect;Muturrekoek gehiegi eragin zioten. ;Muturrekoek hil zuten. ;1
+Oinutsik ibili nintzen hondartzan. ;effect;Harea nire hankan dago. ;Olatuak lauak ziren eta itsasertzeko era guztietako uhinak. ;0
+Gauerdian esnatu nintzen, hotz handia zegoen. ;effect;Txandala jantzi dut. ;Baso bat ur hartu nuen. ;0
+Amak semea isildu egin zuen. ;cause;Semeak irribarre egin zuen. ;Semea negarrez ari zen. ;1
+Galtza bakeroak hautsi zizkidan. ;cause;Praka irekiak ditut. ;Estropezu egin dut errepidean. ;1
+Mutikoak eskumuturrekoak zituen. ;effect;- Kakaren zuloa du. ;Hortzak zuzendu dizkiote. ;1
+Atzo ariketa egin nuen gimnasioan. ;effect;Gaur goizean giharretan mina dudala esnatu naiz. ;Gaur goizean eztarriko mina izan dut. ;0
+Neska elkarri xuxurlatzen ari zen bazkaltzeko mahaian. ;effect;Beste ikasle batzuk bazkaltzeko mahaian eseri ziren. ;Bazkalorduko beste ikasle batzuk atzean gelditu ziren. ;1
+Haurra tranpolinera erori zen. ;effect;Airean zeraman berriro. ;Erabaki zuen zerbait egitea. ;0
+Gutuna postontzian utzi dut. ;effect;Postetxeak gutuna eman zuen. ;Postetxeak gutuna azkartu zuen. ;0
+Jokalariak konfiantza zuen bere buruaz. ;effect;Diru guztia jokatzen zuen. ;Porrot egin zuen. ;0
+Basoan sua zabaldu da. ;cause;Haizea gero eta bortitzagoa da. ;Suhiltzaileak atxilotuak izan dira. ;0
+Umeak belauna urratu du. ;effect;Amak bere gelara bidali zuen. ;Amak zauria sendatu du. ;1
+Gizon honek gaixotasun hilgarria jasan du. ;cause;Bere testamentua sinatu du. ;Organo-transplantea egin zioten. ;1
+Edalontzi bat kafe hartu nuen, eta edan egin nuen. ;effect;Mihiari kosk egin diot. ;Mihiarekin erre egin naiz. ;1
+Editoreak kalera bota du idazlea. ;cause;Idazleak bere istorioetan alderdikeria saihesten zuen. ;Idazleak ez zuen idatzi helburu jakin baterako. ;1
+Leher eginda nengoen. ;cause;Egun osoa eman dut lo. ;Egun osoa daramat ikasten. ;1
+Medikuak pazienteari diagnosia egin zion. ;cause;Gaixoaren sintomak identifikatu ditu. ;Pilulak eman zizkion gaixoari. ;0
+Azala urratu dut. ;cause;Izerditan blai, hau da hau. ;Azkura handia ematen zidan. ;1
+Gizon honek berehalako ebakuntza bat egin behar izan zuen. ;cause;Haserrea galdu zuen. ;Bihotzekoa izan zuen. ;1
+Gizonaren besoak, luzea. ;cause;Besoak gurutzatu zituen. ;Besoak igurzten zituen. ;0
+Gizonak bekainak altxatu zituen. ;cause;Harritu egin zen. ;Atsekabetuta zegoen. ;0
+Nire lankideari barkamena eskatu diot. ;cause;Nik uste nuen asmo oneko gizona zela. ;Uste nuen berak gehiago zekiela. ;0
+Erretzeari utzi dio. ;effect;Ariketa fisikoa gehiago egin zuen. ;Lehenago esnatzen hasi zen. ;0
+Emakumeak erasotzaileari aurpegian ostiko bat eman zion. ;effect;Hiltzailea ez da bizirik irten. ;Erasotzailea odola dario. ;1
+Gezi honek ez du hutsik egiten. ;cause;Gizonak ez zuen ezer apuntatzen. ;Partida galtzen ari zen. ;0
+Etxe jabeak eskatu du zaindari bat ekartzeko. ;cause;Arratoiak aurkitu zituen sotoan. ;Haren gelan baziren inurriak. ;0
+Gonbidatuari afaltzera gonbidatzeko proposatu nion. ;cause;Oso nekatuta nengoen eta ez nuen ezer prestatu. ;Nire gonbidatua berandu heldu zen. ;0
+Neskak anaia harrapatu zuen bere egunerokoa irakurtzen. ;effect;Egunerokoa ezkutatzen hasi zen. ;Eguneroko berri bat du. ;0
+Ez zuen alokairu kontraturik ordaintzeko dirurik. ;effect;Ordu estrak egiten ditu. ;Lana utzi zuen. ;0
+Umearen eskua berehala urrundu zen. ;cause;Labe beroa ukitu du, eta epelak eman ditu. ;Txakurraren burua ukitu zuen. ;0
+Konpainiak bezeroen asebetetzea neurtu nahi zuen. ;effect;Deskontu bat eskaini zioten bezero berriei. ;Inkesta bat egin ziguten. ;1
+Zoruak, haritzezko egurrezkoak guztiak. ;cause;Mutikoak kuxinak jaurti zituen sofa gainetik. ;Mutikoak aulki bat arrastaka eraman zuen lurrean zehar. ;1
+Nire aurpegia babesten ari nintzen. ;cause;Etsaiak burla egin zidan. ;Nire etsaiak bere indar guztiekin egin zuen. ;1
+Estatua famatua erre egin da. ;cause;Tximistak jo zuen. ;Jendea berari laguntzera etortzen zen. ;0
+Fruta mahai gainean utzi dut. ;effect;Fruta honek haziak ditu. ;Euliek fruta erdi eroriak jan zituzten. ;1
+Dantzariari orkatila bihurritu zaio. ;cause;Hatz puntak erakutsi zizkidan. ;Orkatila bihurritu du. ;1
+Haurrak lotuta zituen lokarriak askatu egin ziren. ;cause;Ikasi du hari nola lotu. ;Korrika joan zen jolastokira. ;1
+Liburuak liluratuta geratu nintzen. ;effect;Liburua itzuli dut. ;Denboraren zentzua galdu dut. ;1
+Gizonak bere gurasoen sinesmen berberak zituen. ;cause;Bere gurasoek eragina izan zuten. ;Gurasoek arbuiatu egin zuten. ;0
+Autoa pixkanaka moteltzen joan zen eta gelditu egin zen. ;cause;Gasolinarik gabe geratu zen. ;- Gidaria lo geratu zen. ;0
+Gizonak izozkia jan zuen eguzkitan. ;effect;Izozkiak zaporea galdu du. ;Izozkia ilaratik isuri zen. ;1
+Artelanak eskegi ditut gelan. ;cause;Alfonbra zikina zegoen. ;Hormak ia hutsik zeuden. ;1
+Lanetik goiz irten naiz. ;cause;Buruko mina neukan. ;Nire nagusiak bilera bat izan du. ;0
+Txakurrak alfonbra zikindu du. ;effect;Jabeak txakurra zigortu zuen. ;Jabeak txakurrari oparia eman zion. ;0
+Barkamena eskatu diot lagunari. ;effect;Nire lagunak barkatu nau. ;Nire laguna oso haserre dago. ;0
+Gizona nabarmentzen zen jendearen artean. ;cause;Motxila zeukan. ;Neonezko txalekoa zeraman. ;1
+Lekukoak gezurra esan du, zinpean. ;effect;Lekukotza amaitu du. ;Gezurrezko lekukotasuna emateagatik atxilotu zuten. ;1
+Emakumeak ilea tindatu zuen. ;cause;Itxura berria nahi zuen. ;Denen artean egon nahi zuen. ;0
+Herrialdean legez kanpo egonda atxilotu zituzten etorkinak. ;effect;Lan bat aurkitu dute. ;Deportatu egin zituzten. ;1
+Bozeramaileak txiste bat egin zuen. ;effect;Ikusleak barre egiten du. ;Ikusleak zutik jarri ziren. ;0
+Eguzkiari begiratu diot. ;effect;Eguzkiak itsutu egin nau. ;Eguzkiak kolorea egin zidan. ;0
+Aspertuta nengoen. ;effect;Arnas egin dut. ;-Oihu egin dut. ;1
+Txuleta hori mozteko zaila izan da. ;cause;Labana zartatua du. ;Xerra ia gordina, eta ondorioak... ;0
+Bankarrota egin du. ;cause;Pentsioak ordaindu behar izan zituen. ;Zor handiak ditu. ;1
+Lagunaren etxean argia zegoen. ;effect;Galdetu nahi nuen ea bera ote zegoen. ;Bisitatzea erabaki nuen. ;1
+Lorea sudurretik sartu nuen. ;effect;Ostoak jausi egin dira. ;Lorearen usaina hartu dut. ;1
+Emakumeak nostalgia zuen. ;cause;Txikitako lagun batekin egin du topo. ;Bere seme-alabei garrasika hasi zen. ;0
+Ikasleak atzeratu egin du. ;effect;Paperak aurkeztu zituen zortzi hilabete lehenago. ;Osorik eman gabe utzi zuen. ;1
+Autoa puskatu zait. ;effect;Merkataritza gunera joan naiz. ;Mekanikariari deitu nion. ;1
+Oharra bota egin nuen. ;cause;Anonimoa zen. ;Ezin irakurri nuen. ;1
+Txoriak hegoak astindu zituen. ;effect;Arrautzak erruten ari zen. ;Gorantz. ;1
+Aparkalekuan utzi dut. ;cause;Garajea irekita zegoen. ;Garajea beteta zegoen. ;1
+Kriminalak bere biktimari apuntatu zion pistola. ;effect;Kriminalak arma utzi du. ;Biktimak eskuak altxatu ditu. ;1
+Asteburuan etortzeko irrikatzen nengoen. ;cause;Osabaren hiletara joateko asmoa nuen. ;Lagun baten ezkontzara joateko asmoa nuen. ;1
+Denboraren zentzua galdu dut. ;cause;Ametsetan ari nintzen. ;Goragalea sentitu nuen. ;0
+Dokumentuak deszifratze bat zuen. ;cause;Inprimagailua puskatuta dago. ;Ez zegoen paperik. ;0
+Estadioa abesti nazionala jotzen hasi zen. ;effect;Zaleek bandera ikusi zuten. ;Zaleak zelaira erori ziren. ;0
+Zopa ez dago hain garbia. ;effect;Zerbitzatu egin nuen. ;Gatza bota diot. ;1
+Toalla jarri diot, eta jarri dut hor. ;effect;Toalla likidoa xurgatzen ari zen. ;Isurketak arrasto sendo bat utzi du. ;0
+Emakumeari liburua irakurtzen ari zirela esan diote. ;effect;Bere orria markatu zuen. ;Liburua berriz irakurri zuen. ;0
+Hegazkinak turbulentziak ditu. ;effect;Gizonak gerrikoa estutu zuen. ;Gizonak leihotik begiratu zuen. ;0
+Mutikoa dardarka hasi zen. ;cause;Neskak ez zion jaramonik egin. ;Neskak astindu egin zuen. ;1
+Medikuek pazienteari beso eta zango artifiziala eman zioten. ;cause;Hanka anputatu zioten. ;Bizi-adierazleak irakurtzen ditu. ;0
+Mutilak neskaren ukondoa estutu zuen. ;effect;Sorbaldak mugitu zituen. ;Besoa kendu zion. ;1
+Lagunari aholkua eskatu nion. ;cause;Bere iritzia balioesten nuen. ;Banekien arrazoi nuela. ;0
+Mutikoa lokatzetan sartu da. ;effect;Lokatza oinetakoetara itsatsita geratu zen. ;Lokatzak aurpegian jo zuen. ;0
+Herrian euri pila egin zuen. ;effect;Eskolak itxi zituzten. ;Jendea ezkutatu egiten zen, lurpean. ;0
+Langilearen txanda amaitu da. ;effect;Etxera joan da. ;Lana utziko zuela esan zuen. ;0
+Zuhaitzak kalte egin dio etxeari. ;cause;Zuhaitza teilatuaren kontra erori da. ;Zuhaitzak atzeko patioa itzaldu zuen. ;0
+Egurra zatitan zatitu zen. ;cause;Egurra labean sartu dut. ;Aizkora hartu nuen. ;1
+Familiak zorionak eman zizkien. ;cause;Bikoteak bereizten ari zirela iragarri zuen. ;Bikoteak jakinarazi zuen haur bat izango zutela. ;1
+Neskak San Valentineko txartela bidali zion mutilari. ;cause;Gustatzen zitzaion. ;Berak eman zion musu. ;0
+Burua makurtu dut bere aitorpenarekin. ;cause;Nahastuta nengoen. ;Ados nengoen berarekin. ;1
+Lagunek txanpon bat bota zuten. ;cause;Konpromiso bat bilatzen ari ziren. ;Erabaki zuzena hartu nahi zuten. ;1
+Sukaldeko argia piztu da. ;effect;Gizonak erosketak deskargatu zituen hozkailuan. ;Gizonak pizza atera du laberatik. ;1
+Emakumeak helburu handiko helburu bat zuen. ;effect;Lasaitu zen. ;Gogor egin zuen lan. ;1
+Gizon aberatsa zahartzaroz hil zen. ;effect;Semea arazoetan sartu zen. ;Bere semeak bere aberastasuna heredatu zuen. ;1
+Emakumeak su gainean ibiltzen dira. ;effect;Sugarra joan egin da. ;Kea zegoen suaren artean. ;0
+Emakumearen autoa tailerrean zegoen. ;cause;Gidabaimena kendu zioten. ;Auto istripu bat izan zuen. ;1
+Alarma itzalita zegoen. ;effect;Gosaria prestatu dut. ;Gosaririk gabe gelditu naiz. ;1
+Pertsonaia bat atera zen limusina batetik. ;effect;Kamerek sartzen zituzten. ;Bere familia prentsaurrekoan agertu zen. ;0
+Emakumea bainuontzian geratu zen. ;effect;Bainuontziko ura epela zegoen. ;Bainuontziko ura ezabatu da. ;0
+Unibertsitateko ikasleak ezagutu nahi zituen. ;effect;Konbentzio batean sartu zen. ;Ingeniaritza ikasi zuen. ;0
+Kuxinak gora. ;cause;Diru bila etorri naiz. ;Egongela apaintzen ari nintzen. ;0
+Erleak mutikoaren aurka egin zuen hegan. ;effect;Mutikoa korrika atera zen. ;Mutilak lore bat jaso zuen. ;0
+Emakume hori delitu arruntez errudun izendatu zuten. ;effect;Komunitatearen aldeko zerbitzua egin zuen. ;Heriotza zigorrera kondenatu zuten. ;0
+Azukrea tea berotzeko sartu nuen. ;effect;Tea lurrindu egin zen. ;Azukrea desagertu egin da. ;1
+Beteranoak herren ibiltzen ziren. ;cause;Gerrara joan zen. ;Borrokan zauritu zuten. ;1
+Gaizkileak poliziatik ihes egin du. ;effect;Poliziak biktima eraman du. ;Poliziak gaizkileari jarraitu zion. ;1
+Ordenagailua ez dabil. ;cause;Erori egin zait. ;Kargatu egin nuen. ;0
+Emakumeak ez zuen ezer gordetzen bere komunean. ;cause;Jantzi-jantzi zabala egin zuen. ;Arropa garbitzen zuen. ;0
+Bihotza hautsia zuen. ;cause;Emazteak erditu egin zuen. ;Emazteak utzi egin zuen. ;1
+Titulua atera eta probetxuzkoak izateko, ;effect;Nahi zuen lanerako kualifikatu egin zen. ;Bere lan eskaintza baliogabetu zuten. ;0
+Haren ahotsa argi eta garbi entzun zen areto osoan zehar. ;cause;Jendea agurtu zuen. ;Mikrofonora sartu zen. ;1
+Txanpon bat bota nuen iturrian. ;effect;Txanponak lurrera! ;Txanpona erdibitu egin da. ;0
+Jokalariak zuloaren alde jo du baloia. ;effect;Baloia zuloan sartu da. ;Baloia itzultzen zaio. ;0
+Ganbarako hautsak estali nituen. ;effect;Zotina dut. ;- Ez, ez dut egin. ;1
+Dendako kutxazainak deitu du. ;cause;Bezeroak gezurrezko dirua erabiltzen zuen. ;Bezeroak argiak piztuta utzi ditu. ;0
+Zaborra atera dut. ;cause;Zaborrak sukaldean usain txarra eragiten zuen. ;Erosketen zerrenda bat bota dut, nahi gabe. ;0
+Familia zoologikora joan zen. ;effect;Haurrek animaliak miresten zituzten. ;Haurrek animalia horiek ehizatu zituzten. ;0
+Haren arnasa, berriz, ozenago zen. ;cause;Bere giltzurrunak ez ziren funtzionatzen ari. ;Birikak itxi zitzaizkion. ;1
+Baziren kontzertu baterako sarrera. ;effect;Lagun bati galdetu nion, non zegoen. ;Lagun bati galdetu nion ea joango zen. ;1
+Etxeko aire girotua hondatu egin da. ;effect;Manta batzuk ekarri ditut. ;Leihoak ireki ditut. ;1
+Mutilak bizkarreko mina du. ;cause;Motxila irekita zeukan. ;Motxila pisutsuegia zeukan. ;1
+Opari bat erosi diot amari. ;cause;Tarta bat egin diot. ;Bere urtebetetzea da! ;1
+Lorategiko perla guztiak suntsitu ziren. ;cause;Erle batek lorezaina ziztatu zuen. ;Astigarrak izan ziren. ;1
+Nik eman dut su. ;effect;Sugarra desagertu egin da. ;Poxpoloak sua ematen du. ;1
+Eztabaidaren alde guztiek akordio bat lortu zuten. ;cause;Ez dute epaiketan eztabaidatu nahi. ;Beren harremana berreskuratu nahi zuten. ;0
+Haurrak umezurztegi batera bidali zituzten. ;cause;Gurasoak hil dizkiote. ;Gurasoek gaizki hezi dituzte. ;0
+Meteorito bat ozeanoan jausi da. ;effect;Tsunami bat gertatu zen. ;Izugarrizko ekaitza zegoen. ;0
+Mendizalea suge pozoitsu batekin topo egin zuen. ;effect;Deshidratatuta zegoen. ;Izutu egin da. ;1
+Labea berotuta dago. ;cause;Labea irekita dago. ;Platera labean daukat. ;0
+Limoizko pastela daukat. ;effect;Limoia zimeldua zegoen. ;Limoizkoa. ;1
+Herrialdeak lurralde berriak aurkitu zituen. ;effect;Herriak lurra abandonatu zuen. ;Herrialdeak lurra kolonizatzen du. ;1
+Edalontzia erori da. ;effect;Lurrera bota dute. ;Garbitegi batean erori da. ;0
+Mahaiak dardarka zeuden. ;cause;Zorua ez zen laua. ;Zorua zikin zegoen. ;0
+Aitak semeari gezurretan harrapatu zuen. ;effect;Bere semeak egia esan zuen. ;Aitak semeaz fidatzen zen. ;0
+Gizon honek min handia izan du. ;effect;Eztulerako jarabea hartu du. ;Aspirina hartu du. ;1
+Trena gelditu egin zen. ;cause;Geltokira hurbiltzen ari zen. ;Atzeratuta gabiltza. ;0
+Terapia egin behar izan zuen. ;cause;Buruko gaixotasun bat zuen. ;Depresio psikotikoak jota zegoen. ;1
+Emakumeak lepotik heldu zion. ;cause;Janaria irentsi egin du. ;Ito egin zen bere janariarekin. ;1
+Emakumeak eztarriko mina zuen. ;effect;Bere ahotsa urduri samar zebilen. ;Azentu batekin hitz egin du. ;0
+Txakurrak xerra zukuzkoa begiratu zuen mahai gainean. ;effect;Dilin-dalan ari zen, komunera joan beharrean. ;Etzan egin da. ;0
+Negozioa aurrera egiten ari zen. ;effect;Bere langileak kaleratu zituen. ;Aberastu egin zen. ;1
+Ikasleak gelatik irten ziren. ;cause;Kanpaiak jo du. ;Irakasleak etxeko lanak banatu dizkio. ;0
+Emakumeak dio mamu bat ikusi duela. ;effect;Bere ezagunek eszeptizismoa adierazi zuten. ;Bere ezagun guztiek zekiten nolakoa zen. ;0
+Gorra zegoen. ;cause;Itsasoan itota hil zen ia. ;Ia hil egin zen leherketan. ;1
+Haurrak baloia askatu du. ;effect;Globoa hustu egin da. ;Globoa airera igo zen. ;1
+Gizon horrek ezin zuen hitz egin. ;cause;Bihotzekoa izan zuen. ;Arnasa sakon hartu zuen. ;0
+Emakume bat lurrera bota zuten. ;cause;Zementuan zuloa zegoen. ;Bere izena esaten entzun zuen. ;0
+Gizon horrek puzker bat bota du bainuontzian. ;effect;Salbamendukoak atzetik ditu gurdian. ;Gizonak soroslea itotzen ari zen. ;1
+Antibiotikoak hartu ditut. ;effect;Infekzioa sendatu egin zait. ;Infekzioa izan nuen. ;0
+Semaforoak horiak hartu zituen. ;effect;Gidariak balazta zapaldu zuen. ;Gidariak klaxona jo zuen. ;0
+Plastikozko ontzia urtu egin da. ;cause;Ontzia ur beroarekin bustitzen dut. ;Berogailua sukaldean jarri dut. ;1
+Autoa txikituta dago. ;cause;Gidariak zutoin bat hartu du! ;Gidariak semaforo gorrian utzi du. ;0
+Mutilak gau osoan ikasi du. ;effect;Ez zuen azterketa egin. ;Azterketa gainditu du. ;1
+Mutikoak igerilekuaren ertza ukitu zuen. ;cause;Igeri egiten ikasteko beldurra zuen. ;Salbamendua lanean ari zen. ;0
+Eskua bularrean sartu nuen. ;effect;Nire bihotz taupadak sentitzen ditut. ;Bihotza taupada bizian ari zitzaidan. ;0
+Nire bulegoaren ondoko eraikina eraikitzen ari ziren. ;effect;Nire bulegoa beteta zegoen. ;Nire bulegoa zaratatsua zen. ;1
+Familia gure bizilagun berriak ezagutu nahi zuen. ;effect;Familiak auzokideak afaltzera gonbidatu zituen. ;Familiak auzokoei agur esan zien patioaren bestaldetik. ;0
+Urak isuri egiten zuen igerilekutik. ;cause;Igerilariak igerilekuan murgildu zen. ;Igerilariak igerian egin zuen igerilekuan. ;0
+Meloi zati bat jan dut. ;effect;Ezbeharrez hazia irentsi dut. ;Hortz bat ireki zitzaidan. ;0
+Mutikoa erori egin da. ;cause;Berokia kendu zioten. ;Lokarria askatuta zuen. ;1
+Emakumeak tapoiak jartzen zizkion belarrietan. ;cause;Burrunba batek erakarri zuen. ;Belarriak zulatu zizkioten. ;0
+Ura ekarri dut. ;cause;Ur guztia edan dut. ;Hozkailuan utzi dut. ;0
+Telebistako programa hura itxi egin zuten. ;cause;Hizkera lotsagarriz mintzo zen. ;Historia zaila zen. ;0
+Ontzia hondoratu zen. ;effect;Gizonak itota hil ziren. ;Piratak ditugu barkuan. ;0
+Mutikoa bere onetik aterata zegoen. ;effect;Asmakizuna ebatzi du. ;Pista bat nahi zuen. ;1
+Telefonoak jo du. ;effect;Gizonak eskegi egin du. ;Telefonoa hartu du. ;1
+Emakume hori niri begira zegoen. ;effect;Besarkatu egin nuen. ;Ez nengoen gustura. ;1
+Taldea joan egin zen museoa. ;cause;Argazkiak atera zituzten erakusketen ondoren. ;Erakusketa guztiak ikusi dituzte. ;1
+Gizon horrek errieta egin zidan. ;effect;Lagun batek aurkeztu zidan. ;Nire lagunak defendatu ninduen. ;1
+Nire bizikletaren gurpila apurtuta zegoen. ;effect;Gurpila puztu behar nuen. ;Bizikletaz aldatu nuen. ;0
+Neska zurbil zegoen. ;effect;Aitak ipuin bat irakurri zion. ;Aitak palak jarri zizkion paparrean. ;1
+Luma tintatu gabe gelditu zen. ;effect;Nik arkatz bat erabili dut. ;Nire izena sinatu dut. ;0
+Tipoari ez diote mailegu bat emango. ;cause;Zor asko zituen. ;Negozio bat abiatu zuen. ;0
+Neska ez zen eskolara joan. ;cause;Amarauna zen. ;Matematikak ikasteak asko gustatzen zitzaion. ;0
+Zakarrontzia beteta zegoen. ;effect;Zakarrontzira bota dut. ;Komunean bota dut. ;0
+Alfonbra garbitu nuen. ;cause;Gelako lagunak ponpa bota dit. ;Nire txakurrak ilea galdu du. ;1
+Gizon hori erotu egin da. ;effect;Ordenagailua itzali du. ;Aulki bat bota du gelara. ;1
+Neskak adar bat jaurti zuen suan. ;effect;Adarrak erre egin dira. ;Sua itzali egin da. ;0
+Dutxatik atera da. ;cause;Ur beroa desagertu zen. ;Ez du toalla bat aurkitu. ;0
+Gurasoek nahi zuten haien seme-alabak unibertsitatera joan zitezen. ;effect;Aurreztu egin zuten. ;Haurrak kanpoan jolastera animatzen zituzten. ;0
+Gizonak zapatak askatu zituen. ;effect;Zapata askeak. ;Zapata horiek erabili egin dira. ;0
+Gizon horrek erdi jan zuen plater nagusia. ;effect;Soberakinak izoztu zituen. ;Errezeta berak gorde zuen. ;0
+Orkatila handituta daukat. ;effect;Izotza jarri dut. ;Lozioa eman diot. ;0
+Nire bulegoko atea irekita zegoen. ;effect;Nire lankidearekin hitz egin dut. ;Entzun dut korridorean esaten. ;1
+Ilaran egon behar izan dut. ;effect;Eseri egin naiz. ;Aldizkari bat hartu dut. ;1
+Gizonak arretaz begiratu zion hegaztiari. ;effect;Euliak ihes egin du. ;Euliak ez zer eginik. ;0
+Testamentu bat egin zuen. ;cause;Hiltzen ari zen. ;Alarguntzak on egin zion. ;0
+Korrikalariak sentitzen zuen bere aurkariak atzean harrapatzen zuela. ;effect;Ihes egin du. ;Azkarrago joan zen. ;1
+Ondo pentsatu dut arazoa. ;effect;Aholku bat eskatu dizut. ;Irtenbide bat topatu dut. ;1
+Bidaiariak oinez joan zen zintzilik dagoen zubiaren gainean. ;effect;Ikaratuta zegoen. ;Harrituta zegoen. ;0
+Gizon honek irabazi dezan espero du. ;effect;Lagunekin elkartu zen partida ikusteko. ;Lagunekin apustu egin du. ;1
+Mutilak ez zuen lo egin. ;effect;Alarma itzali du. ;Ardiak zenbatu zituen. ;1

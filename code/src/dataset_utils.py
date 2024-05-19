@@ -259,6 +259,12 @@ def get_translated_dataset_df(name,lang):
 
         return df
     
+    elif name == 'xstorycloze':
+
+        df = pd.read_csv('./datasets/xstorycloze/' + lang + '.csv',sep=',') 
+
+        return df
+    
     else:
         print("Dataset name is not correctly specified. Please input 'mgsm' or 'xcopa'.")
 
@@ -267,7 +273,7 @@ def get_dataset_df(name,lang):
     Loads a test dataset from huggingface in the requested language.
     
     Parameters:
-    name: name of the dataset ['mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum']
+    name: name of the dataset to load.
     lang: language of the dataset to load.
     
     Returns:
@@ -332,49 +338,20 @@ def get_dataset_df(name,lang):
         
         return dataset
     
+    elif name == "xstorycloze":
+
+        dataset = load_dataset("juletxara/xstory_cloze",lang)
+
+        df = pd.DataFrame(data={'input_sentence_1' : dataset["eval"]["input_sentence_1"],
+                                'input_sentence_2' : dataset["eval"]["input_sentence_2"],
+                                'input_sentence_3' : dataset["eval"]["input_sentence_3"],
+                                'input_sentence_4' : dataset["eval"]["input_sentence_4"],
+                                'sentence_quiz1' : dataset["eval"]["sentence_quiz1"],
+                                'sentence_quiz2' : dataset["eval"]["sentence_quiz2"],
+                                'answer_right_ending' : dataset["eval"]["answer_right_ending"]
+                                })
+        
+        return df
+    
     else:
         print("Dataset name is not correctly specified. Please input 'mgsm', 'msvamp', 'xcopa', 'coinflip' or 'shuffled_objects'.")
-
-# def get_exemplars_df(name,lang):
-#     """
-#     Loads a train dataset from huggingface in the requested language.
-    
-#     Parameters:
-#     name: name of the dataset ['mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum']
-#     lang: language of the dataset to load.
-    
-#     Returns:
-#     Dataset in the specified language as dataframe.
-#     """
-#     dataset = get_dataset(name,lang)
-    
-#     if name == "mgsm":
-#         df = pd.DataFrame(data={'question' : dataset["train"]["question"],
-#                                 'answer' : dataset["train"]["answer"]
-#                                 })
-        
-#         return df
-    
-#     elif name == "xcopa" and lang == "en":
-#         df = pd.DataFrame(data={'premise' : dataset["train"]["premise"],
-#                                 'choice1' : dataset["train"]["choice1"],
-#                                 'choice2' : dataset["train"]["choice2"],
-#                                 'question' : dataset["train"]["question"],
-#                                 'label' : dataset["train"]["label"]
-#                                 })
-        
-#         return df
-    
-#     elif name == "xcopa":
-#         df = pd.DataFrame(data={'premise' : dataset["validation"]["premise"],
-#                                 'choice1' : dataset["validation"]["choice1"],
-#                                 'choice2' : dataset["validation"]["choice2"],
-#                                 'question' : dataset["validation"]["question"],
-#                                 'label' : dataset["validation"]["label"]
-#                                 })
-        
-#         return df
-    
-    
-#     else:
-#         print("Dataset name is not correctly specified. Please input 'mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")

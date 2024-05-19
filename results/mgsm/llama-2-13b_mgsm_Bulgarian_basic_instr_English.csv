@@ -1,0 +1,745 @@
+"Response:  To calculate how much money Janet makes selling eggs at the market each day, we need to know how many eggs she has left after giving three to her friends in the morning and how many she sells at the market. Let's assume she has 16 eggs left after giving three to her friends. If she sells all 16 eggs at the market for $2 per egg, then she would make:  
+16 x $2 = $32 per day  
+So, Janet makes $32 per day selling eggs at the market."
+Response:  To make a halter, we need two bolts of blue fabric and half as much white fabric. Therefore, we need 2 + (1/2) = 3 bolts in total.
+Response:  The profit made by Josh is $30,000 (150% of $20,000).
+Response:  To find out how many meters James runs in one week, we need to multiply the distance he runs each time by 7 (since there are 7 days in a week). So, if James runs 60 meters each time, he runs a total of 60 x 7 = 420 meters per week.
+Response:  If Wendy has 20 pigs and gives them three separate meals per day with 15 cups of food in the morning, 25 cups of food at midday, and she wants to give them the same amount of food for their last meal of the day, then she should give them 25 x 3 = 75 cups of food for their last meal.
+Response:  To find out how much Kylar needs to pay for 16 cups of coffee, we need to calculate the total cost of all 16 cups first. Since each cup costs $5 except every second cup which costs 60% of the price, we can write an equation to represent this situation as follows: Let x be the number of regular cups (i.e., not every second cup) and y be the number of every second cups. Then, the total cost of all cups is given by: Total Cost = x \* 5 + y \* 0.6\*5 Total Cost = x \* 5 + 0.6x \* 5 We know that Kylar wants to buy 16 cups in total, so we can substitute 16 for x + y: Total Cost = (16 - y) \* 5 + 0.6(y) \* 5 Substituting y = 8 (since there are 8 every second cups), we get: Total Cost = (16 - 8) \* 5 + 0.6(8) \* 5 Total Cost = 8 \* 5 + 4.8 \* 5 Total Cost = 40 + 24 Total Cost = 64 Now we have found the total cost of all 16 cups: Kylar needs to pay $64 for 16 cups of coffee.
+"Response:  To find out how many sheep there are in total among Toulouse, Charleston, and Seattle, we need to multiply the number of sheep each city has by the number of cities (3). So, if Charleston has 4 times as many sheep as Seattle, and Toulouse has twice as many sheep as Charleston, then:
+
+Toulouse = 2 x 4 = 8 times as many sheep as Seattle
+Charleston = 4 x 2 = 8 times as many sheep as Seattle
+Seattle = 20 sheep
+
+So, together they have:
+
+Toulouse = 8 x 20 = 160 sheep
+Charleston = 8 x 20 = 160 sheep
+Seattle = 20 sheep
+
+Therefore, they have a total of:
+
+160 + 160 + 20 = 340 sheep."
+Response:  To calculate how much time it will take to download a file of 200 GB with an initial download speed of 2 GB/minute and a 40% loss in speed due to Windows updates, we can use the formula: Time = (File Size / Download Speed) x (1 - Loss Percentage). Plugging in the values, we get: Time = (200 GB / 2 GB/min) x (1 - 0.4) = 100 minutes x 0.6 = 60 minutes. Therefore, it will take approximately 60 minutes to download the 200 GB file.
+Response:  To find out how far John is from home after driving for 4 hours, we need to calculate his total distance traveled during that time. We know that he drove for 3 hours at a speed of 60 miles per hour, and then spent 2 hours stuck in traffic, driving at a constant speed of 30 miles per hour. Therefore, the total distance traveled by John can be calculated as follows: Distance = Speed x Time + (Speed x Time) x (1/2) +... + (Speed x Time) x (1/n), where n is the number of intervals of constant speed. In this case, there are three intervals of constant speed: 3 hours at 60 mph, 2 hours at 30 mph, and 1 hour at 80 mph. Using the formula above, we get: Distance = 60 mi/h x 3 h + 30 mi/h x 2 h + 80 mi/h x 1 h = 180 mi + 60 mi + 80 mi = 320 mi So, John is 320 miles away from home after driving for 4 hours.
+"Response:  To calculate how much Elizabeth earns for the week, we need to first calculate her total hours worked. We know that she works 40 hours per week at $10 per hour, so her total hours worked is:  
+
+Total Hours Worked = 40 hours x 1 week = 40 weeks  
+
+Next, we know that she also works overtime and receives 1.2 times her normal hourly rate for overtime pay. So, if she worked 5 extra hours (45 - 40 = 5), her overtime pay would be:  
+
+Overtime Pay = 5 hours x $10/hour x 1.2 = $60  
+
+Now, let's add up all of Elizabeth's earnings for the week:  
+
+Total Earnings = Total Hours Worked x Normal Hourly Rate + Overtime Pay  
+= 40 hours x $10/hour + $60  
+= $400 + $60  
+= $460  
+Therefore, Elizabeth earns $460 for the week."
+"Response:  The program was downloaded 60 times in the first month and three times as many downloads occurred during the second month (180). However, there was a 30% decrease in downloads during the third month, so the total number of downloads for the three months is:
+
+60 + 180 - 54 = 296
+
+Therefore, the program was downloaded 296 times over the course of the three months."
+"Response:  To find out how much everything cost in total, we need to calculate the cost of each type of pastry and then add them up. Let's do that:  
+1. Понички (3 души): 3 x 68 = 204 $  
+2. Мини кексчета (2 души): 2 x 80 = 160 $  
+3. Мини чийзкейкчета (6 души): 6 x 55 = 330 $  
+Total Cost: 204 + 160 + 330 = 794 $"
+"Response:  To calculate how many years it will take for Carlos to start making a profit from his lemon tree, we need to consider the following costs and revenues:
+
+* Initial cost of planting the tree: $90
+* Annual maintenance costs (fertilizer and irrigation): $3 per year
+* Annual revenue from selling lemons: $7 per year
+
+To break even, or start making a profit, Carlos needs to earn enough money from selling lemons to cover the annual maintenance costs plus the initial investment in planting the tree. We can calculate this by setting up an equation:
+
+$7 (annual revenue) - $3 (annual maintenance costs) = $6 (profit)
+
+Since Carlos wants to make a profit of at least $6 per year, he needs to sell lemons for at least $6 per year. This means that the price of each lemon should be at least:
+
+$6 (profit) / 7 (number of lemons sold per year) = $1.43 (minimum price per lemon)
+
+Now, let's calculate how many years it will take for Carlos to reach this minimum price per lemon:
+
+$90 (initial investment) / ($1.43 (minimum price per lemon)) = 62.86 years
+
+Therefore, it will take approximately 63 years for Carlos to start making a profit from his lemon tree, assuming he sells all 7 lemons per year and there are no other expenses or changes in market conditions."
+Response:  If Melanie started with 5 praxiums and sold one-third of them in the green house, two in the red house, and half of what was left in the orange house, then she would have had 5 + (1/3) + (2) + (1/2) = 5 + 1 + 2 + 2 = 10 praxiums at the end.
+Response:  To find out what percentage of all students have enrolled in hip-hop dance, we need to use the information that 20% of the students are enrolled in modern dance and 25% of the remaining students (i.e., those who did not choose modern dance) are enrolled in jazz dance. Let X be the number of students who have enrolled in hip-hop dance. Since 20% of the students are enrolled in modern dance, there are 20/100 \* 20 = 4 students enrolled in modern dance. Similarly, since 25% of the remaining students (i.e., 80% of the total number of students) are enrolled in jazz dance, there are 80/100 \* (20 - 4) = 16 students enrolled in jazz dance. Therefore, the total number of students enrolled in either modern or jazz dance is 4 + 16 = 20. Now, we can calculate the percentage of students who have enrolled in hip-hop dance as follows: Percentage of students enrolled in hip-hop dance = (X / 20) * 100% X is the number of students enrolled in hip-hop dance, which we want to find out. We know that there are 20 students enrolled in either modern or jazz dance, so we can set up the following equation: X + 4 + 16 = 20 Solving for X, we get: X = 20 - 4 - 16 = 20 - 20 = 0 Since there are no students enrolled in hip-hop dance, the percentage of students who have enrolled in hip-hop dance is 0%.
+"Response:  To determine which option would provide a higher profit at the end of the month, we need to calculate the expected percentage change in the value of each item and then compare them. Let's assume that the current price of the jewelry is $5,000 and the current price of the electronics is $8,000.  
+For the jewelry:  
+Expected percentage change = (2.5%/100) x ($5,000) = 0.025 x $5,000 = $125  
+New value after one month = $5,000 + $125 = $5,125  
+For the electronics:  
+Expected percentage change = (1.2%/100) x ($8,000) = 0.012 x $8,000 = $96  
+New value after one month = $8,000 + $96 = $8,096  
+Since the new value of the electronics after one month is higher than the new value of the jewelry, it would be more profitable for the trader to choose the electronics plan."
+"Response:  The distance traveled by each train for the two days is as follows:
+Day 1 (westward journey):
+Train A travels for 80 miles.
+Train B travels for 80 miles.
+Total distance = 80 + 80 = 160 miles
+
+Day 2 (northward journey):
+Train A travels for 240 km.
+Train B travels for 240 km.
+Total distance = 240 + 240 = 480 km
+
+Therefore, the total distance traveled by both trains over the two days is:
+160 + 480 = 640 km"
+Response:  To calculate Jill's annual salary, we need to first determine how many hours she works as an instructor and as a coach per week. Let's assume that she works 35 hours per week as an instructor (50 weeks/year x 35 hours/week) and 15 hours per week as a coach (50 weeks/year x 15 hours/week). Next, let's calculate her hourly wage for each job: Instructor: $20/hour Coach: $30/hour Now, let's multiply her weekly hours by her hourly wage to get her total weekly earnings for each job: Instructor: $35/week x 35 hours/week = $1,225/week Coach: $15/week x 15 hours/week = $450/week Finally, let's add up her weekly earnings from both jobs to get her total weekly income: Total weekly income = $1,225 + $450 = $1,675 per week Since there are 52 weeks in a year (ignoring any vacation time), Jill's annual salary would be: Annual salary = Total weekly income x Number of weeks worked per year Total weekly income x 52 weeks/year = $1,675 x 52 = $89,300 per year
+Response:  If Клеър makes 3 omelets with 3 eggs each per day for 4 weeks (4 seдмици), then she will use 3 x 3 = 9 eggs per day or 9 x 28 = 252 eggs for the entire period.
+Response:  To find out how fast Marisa needs to go for the remaining distance, we can use the formula d = rt, where d is the distance left, r is the rate (speed), and t is time. We know that she has already walked 4 miles in an hour, so the distance left is: d = 12 - 4 = 8 miles. Since she wants her average speed to be 4 miles per hour, we set up the equation: 8 = 4r, where r is the rate (speed). Solving for r, we get: r = 8/4 = 2 miles per hour. Therefore, Marisa needs to walk at a rate of 2 miles per hour for the remaining 8 miles.
+Response:  There are 24 liters of ananassovata naimka left after pouring one liter of portokalova naimka. To find out how much water is in the remaining 24 liters, we need to subtract the volume of the portokalova naimka that was poured (one liter) from the total volume of the ananasovata naimka (24 liters). So, there are 23 liters of water in the remaining ananasovata naimka.
+Response:  If Samantha is currently 31 years old and Raymond had his son 23 years ago, then Raymond's son was born when Samantha was 8 years old. Therefore, Raymond's son is now 31 - 8 = 23 years old.
+Response:  Billy sold 3 + 2 \* 2 = 3 + 4 = 7 DVDs on Tuesday.
+"Response:  If the candle burns at a rate of 2 centimeters per hour, then it will burn for 4 hours (from 13:00 to 17:00). Therefore, the total distance that the flame will have traveled is:  
+
+2 cm/hour x 4 hours = 8 cm
+
+So, after burning from 13:00 to 17:00, the candle will be 8 centimeters shorter."
+Response:  The initial price of the book was $30 (25% discount = $30 x 0.75 = $22.50).
+Response:  To find out how many boxes of pizza Marry ordered, we need to divide the total amount she paid (50 dollars) by the price of one box of pizza (8.50 dollars). So, we have: 50 / 8.50 = 6 Therefore, Mary ordered 6 boxes of pizza.
+"Response:  To find out how much Mishka has spent in total for all the clothes, we need to multiply the number of each type of clothing by its price and then add up all these amounts. Let's do this step by step:  
+1. Shirts: 3 x 16.50 = 49.50 
+2. Pants: 3 x 22.50 = 67.50 
+3. Shoes: 3 x 42 = 126 
+Total cost: 49.50 + 67.50 + 126 = 243.00"
+Response:  To calculate how much Cynthia will spend on ice cream in 60 days, we need to know the cost per cup and the number of cups she consumes in that time period. Let's break down the information given:  Cost per cup = $4/cup Number of cups consumed per day = 1 cup/day Total number of cups consumed in 60 days = 60 days x 1 cup/day = 60 cups Now, let's calculate the total amount spent on ice cream in 60 days: Total amount spent = 60 cups x $4/cup = $240 So, Cynthia will spend $240 on ice cream in 60 days.
+Response:  To find out how many miles Henry traveled between his first and second stops, we need to subtract the distance he traveled before his first stop from the total distance he traveled during his trip. Let's break down the information given in the problem:  Total distance = 60 miles Distance traveled before first stop = 20 miles (Henry stopped after 20 miles) Distance traveled before second stop =? (We want to find this out) We can set up an equation based on the information above: Total distance - Distance traveled before first stop = Distance traveled before second stop + 15 miles (since he stopped again 15 miles before the end of the trip) Using the values we know, let's plug them into the equation: 60 - 20 = x + 15 Where x is the distance traveled between the two stops. Solving for x, we get: 60 - 20 = 40 + 15 40 + 15 = 55 So, Henry traveled 55 miles between his first and second stops.
+"Response:  Let's denote the cost of one pair of boots as B and the cost of one pair of high heels as HH. We know that Gloria has a budget of $50 for her shoes. The total cost of the two pairs of shoes she is considering is:  
+
+Boots + High Heels = B + 2HH  
+We also know that the combined cost of the two pairs of shoes should not exceed Gloria's budget of $50:  
+
+B + 2HH <= 50  
+Simplifying the equation, we get:  
+
+B + 2HH = 50  
+Subtracting HH from both sides gives us:  
+
+B = 40  
+So, the cost of one pair of boots is $40."
+"Response:  If Darrel and Alan's combined age is currently 162 years old, and their ages are in the ratio of 7:11, then after 10 years, Alan's age will be:
+
+Alan's age = (7 x 162) / (11 x 10) = 1154 / 110 = 105 years old."
+"Response:  To find the median estimate, we need to first convert each of the given estimates into a common unit (e.g., percentages or decimals). Let's assume that Gunter has x balls in his bucket:
+
+1. First estimate: 80
+	* As a percentage, this is 80/100 = 0.8
+2. Second estimate: 20 more than half of the first one
+	* Half of 80 is 40, so the second estimate is 20 + 40 = 60
+	* As a percentage, this is 60/100 = 0.6
+3. Third estimate: 25% more than the first one
+	* 25% of 80 is 20, so the third estimate is 80 + 20 = 100
+	* As a percentage, this is 100/100 = 1
+
+Now, we need to find the median estimate, which is the middle value when the estimates are arranged in order from smallest to largest. Since there are three estimates, we have:
+
+Median = (0.6 + 0.8 + 1) / 3 = (2.4)/3 = 0.8
+
+So, the median estimate is 0.8, which means that Gunter has approximately 80 balls in his bucket."
+Response:  John spends half an hour per day caring for each of his 10 dogs, so he spends 5 hours per week (30 minutes x 10 dogs) and 20 hours per month (5 hours/week x 4 weeks/month) caring for his dogs.
+Response:  Grechon has 110 coins in total. There are 30 more golden coins than silver coins, so there are 30 + 80 = 110 zlatni монети (golden coins).
+Response:  If R...
+Response:  If Mike plays ping-pong for 40 minutes and in the first 20 minutes he scores 4 points, then in the next 20 minutes he will score 4 x 1.25 = 5 points. Therefore, Mike will score a total of 4 + 5 = 9 points.
+"Response:  If Teri eats 2 kilograms of cheese per day and there are 30 days in the month, then she will consume a total of 60 kilograms of cheese for the month (2 kg/day x 30 days). The cost of this amount of cheese at $5.00 per kilogram is:  
+
+60 kg x $5.00/kg = $300.00"
+Response:  The number of Lego sets John has left is 5. Explanation: Let's break down the information given in the problem: John sold all his toys and received $15 x 13 = $195. He spent $20 x 8 = $160 on video games, so he has $195 - $160 = $35 left. Since each Lego set cost $15, John can buy $\frac{35}{15} = 5$ more sets. Therefore, he has 5 Lego sets left.
+Response:  To find out how fast John runs, we need to know his distance and time. Let's use the formula: Speed = Distance / Time. Since we know that John runs for 3 hours on the first day and for less time on the other two days, we can calculate his speed for each day separately. Day 1: John runs for 3 hours, so he covers a distance of: Distance = Speed x Time = 3 hours x 3 km/h = 9 km On the other two days, John runs for less time, so let's assume he covers half the distance of the first day: Day 2 and 3: Distance = Speed x Time = 9 km / 2 = 4.5 km Now, we add up all three distances to get John's total weekly distance: Total distance = 9 km + 4.5 km + 4.5 km = 18 km We also know that John runs for 7 days a week, so we can multiply his total weekly distance by 7 to get his monthly distance: Monthly distance = 18 km x 7 = 126 km Finally, we can divide John's monthly distance by his number of training days (3) to get his average speed per training day: Average speed per training day = 126 km / 3 = 42 km/day
+Response:  To find out how many miles Dan can cover in 6 hours if he spends one third of his time running and two thirds of his time walking, we need to first calculate how far he can run in an hour and then multiply that by the number of hours he has available. Since Dan can run at a speed of 3 miles per hour, he can cover 3 x 1 = 3 miles in one hour while running. Since he spends two thirds of his time walking, he will spend 2/3 x 6 = 4 hours walking at a speed of x miles per hour (where x is the speed at which he walks). Therefore, the total distance Dan covers in 6 hours is: 3 + (4 x x) = 3 + (4 x w), where w is the speed at which Dan walks. We want to find out what value of w will give us the correct answer. So, we set up the equation:  3 + (4 x w) = 6(x + 3) Solving for w, we get:  w = 2 Now we know that Dan's walking speed is 2 miles per hour. Therefore, the total distance Dan covers in 6 hours is: 3 + (4 x 2) = 3 + 8 = 11 miles.
+Response:  The iPhone of Brandon is four times older than that of Ben. The iPhone of Ben is twice as old as that of Suzi. If Suzi's iPhone is one year old, then Brandon's iPhone is 4 x 2 = 8 years old.
+Response:  Based on the information provided, if Polly holds the sapphire and throws the golden spear, she can hit the dragon at a distance of 3 times 400 feet = 1200 feet from the dragon's flames. Therefore, Polly can stand at a distance of 1200 - 1000 = 200 feet away from the dragon and still hit it with the golden spear.
+Response:  The guests took 14 - 8 = 6 pieces of apple pie.
+"Response:  To determine how many grams of chips you can eat to reach your daily calorie goal of 2000 while already having consumed 1800 calories, we need to calculate the remaining calories needed to be consumed. We know that each portion of chips contains 250 calories and there are 5 portions in the 300g bag. Therefore, the total calories in the bag are:  
+
+250 x 5 = 1250 calories
+
+Since you have already consumed 1800 calories, the remaining calories needed to be consumed are:  
+
+Remaining calories = Daily calorie goal - Calories consumed so far  
+= 2000 - 1800  
+= 200 calories
+
+To find out how many grams of chips you can eat, we divide the remaining calories by the number of calories per serving (250):  
+
+Grams of chips = Remaining calories / Calories per serving  
+= 200 / 250  
+= 0.8 grams
+
+Therefore, you can eat approximately 0.8 grams or 800 grams of chips to reach your daily calorie goal of 2000 while already having consumed 1800 calories."
+"Response:  If Charlie sells each candle for $2 and he makes 10 cones of wax per kilogram, then his net profit from selling 20 candles would be:  
+
+$2 x 20 = $40  
+
+Subtracting the cost of the wax and wicks:  
+
+$40 - ($10 x 2) = $40 - $20 = $20  
+
+Therefore, Charlie's net profit from selling 20 candles would be $20."
+Response:  To calculate the total number of hours Meredith spent writing articles during those three days, we need to first determine how many articles she wrote each day and then multiply that by the time it takes her to write one article. Let's break down the information given in the problem:  - On Monday, she wrote 5 articles and each article took her 4 hours to write. Therefore, on Monday, she spent 5 x 4 = 20 hours writing articles.  - On Tuesday, she wrote 2/5 more articles than on Monday, which means she wrote (5 x 2/5) + 5 = 16 + 5 = 21 articles. Since each article took her 4 hours to write, she spent 21 x 4 = 84 hours writing articles on Tuesday.  - On Wednesday, she wrote twice as many articles as she did on Tuesday, so she wrote 2 x 21 = 42 articles. Each article still took her 4 hours to write, so she spent 42 x 4 = 168 hours writing articles on Wednesday.  Total number of hours spent writing articles during those three days: 20 + 84 + 168 = 272 hours.
+Response:  There were 23 - 2 = 21 Post-it notes in the package that Candice bought.
+Response:  John has spent $200 for blue ribbons that cost $40 each, so he has spent $800 in total (2 x $40).
+Response:  Tracy has used a piece of string with a length of 4 feet to support homegrown plants in her garden. Provoke was cut into pieces with a length of 15 cm. How many pieces did she receive?  To find out how many pieces Tracy received, we need to divide the length of the string (in feet) by the length of each piece (in centimeters):  4 ft / 15 cm =?  Since there are 12 inches in 1 foot and 2.54 cm in 1 inch, we can convert the lengths as follows:  4 ft x 12 in/ft = 48 in  48 in x 2.54 cm/in = 123.68 cm   Therefore, Tracy received approximately 124 pieces of provoke.
+Response:  To find the total number of free apartments in the building, we need to calculate the total number of units in each floor and then multiply that by the number of floors. Since there are 8 units per floor and 3/4 of the building is occupied, the total number of free apartments can be calculated as follows: Total number of free apartments = (8 x 15) / 4 = 600 / 4 = 150 Therefore, there are 150 free apartments in the building.
+"Response:  To find out how much Loyd earns from eggs per week, we need to multiply the number of eggs produced by the price per dozen. So, the calculation is:  
+252 eggs/day x 7 days/week = 1,764 eggs/week  
+1,764 eggs/week x $2/dozen = $3,528/week  
+Therefore, Loyd earns $3,528 per week from his egg business."
+"Response:  To find out how long it will take Tom's boat to return, we need to calculate the total distance traveled by the boat. The boat travels at a speed of 10 miles per hour from 1 to 4 hours, so the distance traveled during this time is:  
+Distance = Speed x Time = 10 mi/h x 4 h = 40 mi  
+After that, the boat returns at a speed of 6 miles per hour, so the distance traveled during this time is:  
+Distance = Speed x Time = 6 mi/h x (Total time - Travel time) = 6 mi/h x (4 h - 3 h) = 6 mi/h x 1 h = 6 mi  
+Therefore, the total distance traveled by the boat is:  
+Total Distance = Distance + Distance = 40 mi + 6 mi = 46 mi  
+The time it takes for the boat to return is:  
+Time = Total Distance / Speed = 46 mi / 6 mi/h = 7.67 h or approximately 8 hours and 2 minutes."
+Response:  If Chantata wants to reduce his weight by 5 kilograms and each comic book weighs 1 kilogram, he needs to get rid of 5 kilograms - 30 comic books = 2 kilograms. Since each toy weights 1 kilogram, he needs to get rid of 2 kilograms / 1 kilogram per toy = 2 toys.
+Response:  The mechanic earned more money in the day with higher revenues because he repaired 12 cars (40 dollars x 12 = 480 dollars) but did not repair any tires, so his total earnings for that day were 480 dollars.
+Response:  Family Duffy has 3 x 12 = 36 kittens in total.
+Response:  Dжийн може да napълне 15 торбички (2 ledenci x 8 torbi = 16 torbi).
+Response:  If Peter has $42 for the week and each ticket costs $7 and popcorn costs $7, he can go to the cinema 6 times (42 / 7 = 6).
+"Response:  The maximum number of boxes that can be loaded onto the truck without exceeding the weight limit of the bridge is calculated as follows: 
+Maximum load = Bridge weight limit - (Truck weight + Driver and empty truck weight) 
+Maximum load = 5000 - (3755 + 5 x 5000) 
+Maximum load = 5000 - (3755 + 25000) 
+Maximum load = 5000 - 28555 
+Maximum load = 1645 
+Therefore, the maximum number of boxes that can be loaded onto the truck without exceeding the weight limit of the bridge is 1645."
+"Response:  The final cost of Stevan's groceries would be calculated as follows:
+
+$40.00 (purchase price) + $3.00 (delivery fee) + $4.00 (tip) = $47.00
+
+So, the final cost of Stevan's groceries would be $47.00."
+"Response:  To find out how many malinis there are in total, we need to add up all the clusters and individual fruits. Let's do that:  
+Clusters of 20 fruits each: 6 x 20 = 120 fruits  
+Individual fruits: 67 + 120 = 187 fruits  
+Therefore, there are 187 malinis in total."
+Response:  There are 25 portokala in total, and we know that 1 is bad, which means there are 24 good ones.
+Response:  To calculate how much Janet pays for the bracelet, we need to first find out how much she paid for the materials and the craftsmanship. Materials cost $500, and craftsmanship costs $800, so in total, Janet paid $500 + $800 = $1300. Then, if she paid an additional 10% of that amount as insurance, she would have paid 10% of $1300, which is $130 (10% of $1300). Therefore, the final answer is $1300 + $130 = $1430.
+"Response:  If Mars works for the same company for 40 years and receives an annual pension of $50,000 after 20 years of service, and has the right to receive 5% of the value of her pension annually starting from the 21st year of service, then her annual pension after 30 years of service would be:  
+Pension = $50,000 x (1 + 0.05/year)^(30-20) = $50,000 x (1 + 0.05/year)^10 = $50,000 x 1.6789 = $83,945"
+Response:  To calculate the total amount paid for the streaming service by the end of the year, we need to first find out how much Alina paid in the first half of the year and then add that amount to the reduced price she paid for the second half of the year. Let's break down the information given in the problem:  First half of the year: $140 per month x 6 months = $840 Second half of the year: $140 per month x 6 months = $840 Reduced price for second half of the year: 10% less than $840 = $752 So, the total amount paid for the streaming service by the end of the year is: $840 + $752 = $1,592
+Response:  If Sofia has driven 160 km since her last fill-up and needs to put in 4 gallons of gasoline to refill her tank, then she has used up 160/4 = 40 gallons of gasoline. Since her tank can hold 12 gallons, she has 12 - 40 = -28 gallons left in her tank. Therefore, Sofia can travel an additional 28 miles before running out of gas.
+Response:  To find out how many hours Jim spends watching TV and reading for 4 weeks, we need to calculate the total time he spends on these activities each week and then multiply it by 4. Let's break down the information given in the problem:  Weekly time spent watching TV: 2 hours x 3 times = 6 hours per week Weekly time spent reading: Half of the time spent watching TV, so 6 hours / 2 = 3 hours per week Total weekly time spent on both activities: 6 + 3 = 9 hours per week Now, let's multiply this by 4 to get the total time for 4 weeks: 9 hours/week x 4 weeks = 36 hours So, Jim spends 36 hours watching TV and reading over the course of 4 weeks.
+Response:  There are four schools participating in the basketball tournament, each school has sent one team of five players (a total of 20 players) and one coach for each team (a total of 8 coaches). Therefore, there are a total of 20 + 8 = 28 people who have been sent by all the schools.
+"Response:  There were 175 diamonds, 35 rubies (less than diamonds), and twice as many emeralds as rubies. Let's call the number of emeralds x. Then we can write an equation based on the information given:  
+x + 2x = 35 + 175  
+3x = 210  
+x = 70  
+So there were 70 emeralds in the treasure chest."
+Response:  There are 60 girls and 5 students per teacher, so there will be 60/5 = 12 teachers needed for the school.
+"Response:  If Baily started with $x dollars and received a weekly addition of $5 for 8 weeks, then she would have had a total of $x + (8 x $5) = $x + $40 at the end of the 8 weeks. Since she ended up with $100, we can set up the equation:
+
+$x + $40 = $100
+
+Solving for $x$, we get:
+
+$x = $60
+
+So, Baily started with $60 dollars."
+Response:  During the weekdays (Monday to Friday), Judy teaches 5 hours of dance classes per day x 15 students per class = 75 students per day x $15 per student = $1,125 per day. For the weekend (Saturday and Sunday), she teaches 8 hours of dance classes per day x 15 students per class = 120 students per day x $15 per student = $1,800 per day. Therefore, for one week (7 days), Judy earns: $1,125 x 7 days + $1,800 x 2 days = $8,600 + $3,600 = $12,200.
+Response:  To prepare two dishes using Kelian's recipes, he needs to read 40 instructions (2 x 20).
+"Response:  If Tomi sells 43 brownies and 23 pieces of cheesecake at $3 per brownie and $4 per piece of cheesecake, then he will collect:  
+43 x $3 = $130 + 23 x $4 = $92 = $222."
+Response:  To calculate the monthly payment for each phone, we need to use the formula for loan payments with fixed interest rate and fixed term. Let's denote the total amount borrowed as $150 (since she buys 5 phones at once), and the interest rate as 2% per month. The number of months is 3.  First, let's calculate the total interest paid over 3 months: Total Interest = Principal x Rate x Time Total Interest = $150 x 2% x 3 = $90 Next, let's calculate the monthly payment: Monthly Payment = Principal + Interest Monthly Payment = $150 + $90 = $240 So, Shilpa will have to pay $240 per month for 3 months to buy 5 mobile phones at $150 each with an interest rate of 2% per month.
+"Response:  To calculate how much Artie will earn from selling 12 gerneta with marigolds, 9 gerneata with petunias, and 17 gerneta with begonias, we need to multiply the number of gerneta by the price per gernet.  For marigolds, the price is $2.74 per gernet, so:  
+12 x $2.74 = $33.08  
+For petunias, the price is $1.87 per gernet, so:  
+9 x $1.87 = $16.83  
+For begonias, the price is $2.12 per gernet, so:  
+17 x $2.12 = $35.52  
+Therefore, Artie will earn a total of $33.08 + $16.83 + $35.52 = $85.43."
+Response:  The median square area of each level of the sand castle is half the square area of the previous level. If Luke builds a four-level sand castle with the topmost level having an area of 16 square meters, then the median square area of each level will be half of 16, which is 8 square meters.
+"Response:  To determine how many bags of dog food Seecilia will use during her puppy's first year, we need to calculate the total number of meals she needs to feed her puppy during that time. Since each bag contains 110 servings and her veterinarian recommends feeding her puppy 1 serving per day for the first 180 days, we can calculate the total number of meals as follows:  
+Total number of meals = (180 days) x (1 serving/day) = 180 meals  
+Since Seecilia needs to feed her puppy 2 servings per day after the first 180 days, we can calculate the additional number of meals as follows:  
+Additional number of meals = (365 days - 180 days) x (2 servings/day) = 185 meals  
+Therefore, in total, Seecilia will need to use 180 + 185 = 365 bags of dog food during her puppy's first year."
+Response:  If R...
+Response:  If Vinson buys 18 flowers in packs of 3 for $2.50 each, he will spend $2.50 x 6 = $15. If he buys them in packs of 2 for $1 each, he will spend $1 x 9 = $9. Therefore, by buying the flowers in packs of 2, Vinson will save $15 - $9 = $6.
+"Response:  To calculate the cost of grooming, we need to first find out how much John will pay for the service after the discount. We can do this by multiplying the original price of $100 by the discount percentage of 30%. This gives us:  
+$100 x 0.3 = $30  
+So, John will pay $30 for the grooming service."
+Response:  There are 24 liters of water in total and two girls took 1/6 of it, which is 4 liters (2 x 2 = 4). So, there are 20 liters of water left (24 - 4 = 20).
+Response:  There are 5 stykeres left for Charlie after he gave 9 to his sister and used 28 for decorating the birthday card.
+Response:  Gracie weighs 125 pounds, which is equal to 56.7 kilograms (125 x 0.453592). Alex weighs 2 pounds less than 4 times as much as Gracie, so Alex weighs 56.7 - 2 = 54.7 kilograms.
+Response:  There are 3 x 25 = 75 roses in total. Each rose has 8 petals, so there are 75 x 8 = 600 petals in total.
+Response:  The football team won 8 times more than they lost. Let's denote the number of wins as W and the number of losses as L. We know that W + L = 22 (the total number of matches played), so we can write: W = 8L + 16 (since the team won 8 times). Therefore, the number of wins is 8 times the number of losses plus 16.
+Response:  There are 11 parts of coveralls in total (4 rows x 23 years x 2 pieces per year = 11).
+"Response:  The alarm has sounded three times today. The first time it sounded for four beeps, the second time it sounded for three longer beeps than the first time, and the third time it sounded for half as long as the second time. Therefore, the total number of beeps is:
+4 + 3 + (1/2) \* 3 = 4 + 3 + 1.5 = 8.5
+So, the alarms have sounded 8.5 times today."
+"Response:  If Silvi has worked for the company for 5 years as of December last year and the company increases salaries by 10% each year for those who have remained with the company for five years, then her annual salary after three more years of work would be:  
+600 x (1 + 0.10) ^ 3 = $847.20 per month."
+Response:  If Marilyn's first album sold 10 times more than Harald's, and Marilyn sold 88,000 copies, then Harald sold 88,000 / 10 = 8,800 copies.
+"Response:  To calculate how much Christina will spend on party favors, we need to know the number of guests she plans to invite and the cost of each favor. If she has invited 16 friends and wants to buy 75 party favors for each guest (since 1/4 of them may not show up), then she will spend:  
+
+16 guests x 75 favors per guest = 1200 party favors  
+1200 favors x $2 per favor = $2400  
+Therefore, Christina will spend $2400 on party favors."
+"Response:  To determine how many kilograms of coleslaw Ted needs to bring to the picnic, we need to calculate the total amount of food needed for both adults and children. Let's start by calculating the amount of food needed for each group separately:
+
+For adults (20 x 10 = 200 pounds or 90 kg)
+For children (5 x 5 = 25 pounds or 11 kg)
+Total amount of food needed = 90 + 11 = 101 kg
+
+So, Ted needs to bring approximately 101 kilograms of coleslaw to the picnic to ensure that everyone has enough to eat."
+Response:  To find out how many pets all three have in total, we need to add up the number of pets each one has:  Yan has 3 times more pets than Marsha, so Yan has 3 x 2 = 6 pets.  Marsha has 2 pets, so together they have 6 + 2 = 8 pets.  Cindy has 4 pets, so altogether they have 8 + 4 = 12 pets.
+Response:  Djaxton is 8 years old.
+Response:  If Li runs 400 meters with obstacles in 38 seconds and Gerald improves his speed by 10% after changing his diet, then Gerald can run 400 meters with obstacles in 35.2 seconds (38 x 1.1 = 41.8).
+Response:  There are 60 cu...
+Response:  There are 200 students in the fifth grade, and 2/5 of them are boys. Since 2/3 of the girls are in the girl scouts, we can find out how many girls are not in the girl scouts by subtracting 2/3 from 200. So, there are 200 x (1 - 2/3) = 200 x 1/3 = 66.67 girls who are not in the girl scouts. Therefore, there are 66.67 girls who are not in the girl scouts.
+"Response:  To find out how many more hours Hailey slept than James, we need to subtract the number of hours that James slept from the number of hours that Hailey slept.  Let's do this:  
+Hailey slept for 9 hours, and James slept for 2/3 of 9 hours.  
+To find out how many hours James slept, multiply 9 by 2/3:  
+9 x 2/3 = 6 hours  
+So, James slept for 6 hours. Now let's subtract the number of hours that James slept from the number of hours that Hailey slept:  
+9 - 6 = 3 hours  
+Therefore, Hailey slept 3 hours more than James."
+"Response:  To find out how many tomatoes Fred used, we need to divide the amount of tomato sauce by the number of tomatoes in each cup. We know that there are three tomatoes in each cup and we want to find out how many cups Fred used. So, we can start by dividing 32 ounces (the amount of tomato sauce) by 3 (the number of tomatoes in each cup): 
+
+32 ÷ 3 =?
+
+The result is:
+
+32 ÷ 3 = 10
+
+So, Fred used 10 cups of tomatoes."
+Response:  There were 15 cars that passed through the bottleneck during the first 15 minutes of the delay.
+Response:  After giving one plant to each of her 20 friends and family members, Meri will have 18 - 20 = 8 plants left in her garden.
+Response:  The total number of ringing times for Jerome's doorbell is 20 + (1/4) x 20 = 28 times.
+Response:  To determine how many pages Solo needs to read each day for the remaining four days, we need to divide the total number of pages by the number of days left. Total pages = 4 (science) + 20 (social sciences) + 7 (history) + 8 (geography) = 39 pages. Number of days left = 4 days. Therefore, daily pages to read = total pages / number of days left = 39 pages / 4 days = 9.75 pages per day.
+"Response:  To calculate how many glasses of water John drinks in a week, we need to know how many glasses he drinks per day and how many days there are in a week. Let's assume that John drinks 3 glasses of water per day (on average). Therefore, the total number of glasses of water John drinks in a week is:  
+3 glasses/day x 7 days/week = 21 glasses of water/week  
+So, John drinks approximately 21 glasses of water per week."
+"Response:  To calculate how many minutes it will take for the fog to cover the entire city, we need to divide the distance between the coast and the city by the rate at which the fog covers distance. Let's assume that the fog covers 3 miles in 10 minutes (as given in the problem). Therefore, to cover the entire city (which is 42 miles long), the fog would take:  
+
+42 miles / 3 miles/10 minutes = 140 minutes or approximately 2 hours and 20 minutes."
+Response:  There are 750 parts of the puzzle remaining to be placed (1000 - (1/4) x 250 = 750).
+Response:  If Amir eats 5 biscuits and each of them eats three times as many biscuits as Amir, then together they will eat 3 x 5 = 15 biscuits.
+"Response:  The total internal volume of all three boxes is:  
+5 inches x 6 inches x 4 inches = 120 cubic inches  
+or 120 cu in"
+Response:  The number of 30-minute episodes watched in Wednesday is 4.
+Response:  Last year, Henry baked 110 - 5 = 105 biscuits for the local baking competition.
+Response:  If someone buys 10 gallons of gasoline at $3 per gallon and receives a cashback offer of $20 per gallon from the application company, they will have $60 in cashback ($3 x 10 gallons = $30 + $20 cashback = $60).
+Response:  To find out how much fruit each of them has eaten, we need to calculate the total area of the packages they have consumed. Marcel had three packages with width 3 and length 14, so his total area is 3 x 14 = 42 square units. Beatrice had two packages with width 2 and length 24, so her total area is 2 x 24 = 48 square units. Therefore, Marcel ate 42 square units of fruit, while Beatrice ate 48 square units of fruit. So, their average consumption is (42 + 48) / 2 = 90 / 2 = 45 square units per person.
+"Response:  To find out how much water was in the boat when Julia reached the shore, we need to know that the boat took 16 seconds to travel 20 feet (or 20 x 10 = 200 feet) and that the shore is 64 seconds away from the starting point. So, we can set up the following equation:  
+
+Let X be the number of liters of water in the boat at the start. Then, the distance traveled by the boat can be calculated as follows:  
+
+Distance = Speed x Time = 2 L/10 ft x 20 ft = 400 ft  
+Since the boat traveled for 16 seconds to cover this distance, we can calculate the time it would take to travel the remaining distance to the shore as follows:  
+
+Time left = Distance left / Speed = 64 sec - 400 ft / 2 L/10 ft = 320 ft / 2 = 160 sec  
+Now, we can equate the amount of water in the boat at the start with the amount of water left in the boat after traveling for 160 seconds:  
+
+X + 160 sec \* 2 L/10 ft = 320 ft  
+Simplifying the equation, we get:  
+
+X = 80 L  
+Therefore, there were 80 liters of water in the boat when Julia reached the shore."
+Response:  The tablo will be cleaned 6 times in one day (3 x 2 = 6).
+"Response:  If Ryan plants 2 flowers per day and it takes 15 days for 5 of them to grow, then after 15 days he will have planted a total of:
+
+2 x 15 = 30 flowers
+
+However, only 5 of these flowers will have grown, so there will be 5 + 30 - 5 = 35 flowers in total."
+Response:  The number of penguins that can be seen in the picture of Djalal on penguins at the zoo is 32 times greater than the number of birds that can be stored on Britney's phone. If Britney's phone can store 50 times more photos than the number of birds on Djalal's photo, then the number of penguins on Djalal's photo is 32 x 50 = 1600.
+"Response:  If Sasha sells all of her lumber for double what she paid for it (i.e., $20 per dusk and $32 per fence board), she will make a profit of:
+
+$20 x 10 = $200 (from the dusk) + $32 x 5 = $160 (from the fence boards) = $360 total profit."
+Response:  To find out how many tea spoons of sugar Katy used, we need to divide the total amount of sugar by the ratio of sugar to water. So, if Katy used 120 tea spoons of water and 7 tea spoons of sugar, we can calculate the number of tea spoons of sugar as follows: 120 / 7 = 17 Therefore, Katy used 17 tea spoons of sugar.
+Response:  To find out how much John paid for his children's shoes, we need to calculate the total cost of three pairs of shoes at $60 each. Therefore, the total cost would be:  3 x $60 = $180
+"Response:  To find out how many containers were brought in on the second day, we need to divide the total number of transportation means (30) by the number of transportation means in each container (5). Therefore, the number of containers brought in on the second day is:  
+30 / 5 = 6 containers."
+Response:  To find out the total salary that Adrien and Laila were receiving four years later, we need to calculate the increase in their salaries over the past four years. Let's assume that their salaries increased by x% over the past four years.  We know that Adrien's salary was 30% higher than Laila's before four years ago, so we can set up an equation based on this information:  Adrien's salary = Laila's salary + (Adrien's salary - Laila's salary) = Laila's salary + (30% of Laila's salary)  Since Adrien's salary increased by 40% over the past four years, his new salary is:  New Adrien's salary = Old Adrien's salary + (40% of Old Adrien's salary)  Now we have two equations and two unknowns (Laila's salary and Adrien's salary). Solving these equations simultaneously, we get:  Laila's salary = $50,000  Adrien's salary = $70,000  Therefore, four years later, Adrien was earning $70,000, and Laila was earning $50,000.
+Response:  If Miguel uses 2 sheets of paper per week for his drawings and has 30 sheets of paper per notebook, then he will use 60 sheets of paper per month (2 x 30).
+Response:  Общо имаме 5 + 2 \* (2 x 5) = 5 + 2 \* 10 = 5 + 20 = 25 плодова.
+Response:  If Seidi slept for 8 hours on Monday and then slept for 2 hours less each of the next two days (for a total of 6 hours), and she slept for an additional hour each night for the rest of the week, she would have slept a total of 8 + 6 + 6 = 20 hours during the week.
+Response:  If Rosie can run at a speed of 10 miles per hour for 3 hours, she will cover a distance of 3 x 10 = 30 miles in those 3 hours. After that, if she runs at a speed of 8 kilometers per hour (which is equivalent to 5 miles per hour), she will cover a distance of 7 x 5 = 35 miles in the remaining 4 hours. Therefore, the total distance Rosie can cover in 7 hours is 30 + 35 = 65 miles.
+Response:  There were 20 letters in the cup that had not been stamped when Jenny started working on them.
+Response:  Djuilia had 12 luljices in total (3 from the new pack and 9 from her husband's pack). To find out how many luljices were in her husband's pack, we need to subtract the number of luljices she used (3) from the total number of luljices she had (12): 12 - 3 = 9. Therefore, there were 9 luljices in her husband's pack.
+Response:  To find out how many nade...
+Response:  If Amy has 20 more friends than Lily and Lily has 50 friends, then Lily has 50 - 20 = 30 friends. Therefore, both Amy and Lily have 30 + 20 = 50 friends in total.
+Response:  To find out how much Dylan will spend if each pepper costs $15, we need to calculate the cost of the items he wants to buy first. The cost of 4 di...
+Response:  The hospital incurs an operating loss of $37,500 per day ($150 x 24 minutes x 500 patients / 8 hours = $37,500).
+Response:  There are 40 elves left (60 x 2/3 = 40).
+Response:  The total expenses for May and June were $500 + ($60 x 2) = $500 + $120 = $620.
+Response:  To find out how many tickets Pam and Fred have used in total, we need to calculate the number of rides they took separately and then add them up.  For Pam: 2 rides x 2 trips per ride = 4 tickets  For Fred: 4 rides x 2 trips per ride = 8 tickets Total: 4 + 8 = 12 tickets
+"Response:  In order to find out how many miles Walt ran on Wednesday, we need to use the information that he ran 6 km on Monday and that he ran 6 times more miles on Wednesday than he did on Monday. Let's start by converting kilometers to miles: 6 km = 3.75 mi (since there are 1.60934 km in a mile). Now, let's calculate how far Walt ran on Wednesday:  
+Wednesday distance = Monday distance x 6 + 3.75 mi (Monday distance)  
+= 3.75 mi x 6 + 3.75 mi  
+= 22.5 mi + 3.75 mi  
+= 26.25 mi  
+Therefore, Walt ran 26.25 miles on Wednesday."
+"Response:  If Tom has 4 automivhes and each costs $15 per month, then he pays:  
+$15 x 4 = $60 per month  
+$60 x 12 = $720 per year"
+Response:  If Brian has 20 video games and lost 5 exactly before making the comparison, then Bobby has 15 video games (20 - 5 = 15).
+Response:  Two-thirds of the one-horned sheep in Scotland are female. Therefore, if there are two-thirds of 27 = 18 females among the total number of one-horned sheep in Scotland.
+"Response:  The total cost of Rory's order will be:
+
+$7.50 (2 x underpants) + $1.50 (2 x tortilla chips) + $1.00 (2 x biscuits) = $9.00
+
+Plus delivery fee of 20% of $9.00 = $1.80
+
+Total cost including delivery and tip = $9.00 + $1.80 + $5.00 = $16.80"
+Response:  If Mark took 8 hours to finish the first test with 75 questions and spent 6 hours on the second test with 100 questions, then he has left unfinished 25 questions from the first test (8 hours / 75 questions = 0.11 hours per question) and 40 questions from the second test (6 hours / 100 questions = 0.06 hours per question). Therefore, Mark has left 25 + 40 = 65 questions unfinished.
+"Response:  There are 4 times as many pink dumbbells as blue dumbbells, and there are 12 blue dumbbells. So, if x is the number of blue dumbbells, then there are 4x pink dumbbells. We know that the total number of dumbbells is 22, so we can set up the equation:
+
+4x + 12 = 22
+
+Solve for x to find out how many pink dumbbells there are."
+Response:  There are 20 cars in total, of which 12 are automatic, 4 are manual, and the remaining 4 are semi-automatic. Therefore, the percentage of semi-automatic cars is (4/20) x 100% = 20%.
+Response:  There are 2 times more worker bees than queen bees and 2 times more pbees than worker bees. So there are 2 x 2 = 4 times as many worker bees as queen bees. Therefore, there are 700 x 4 = 2800 worker bees.
+"Response:  If Jordan spends 2 hours playing video games every day and earns $10 per hour at his part-time job, he would have earned a total of:  
+
+2 hours/day x 7 days/week = 14 hours/week x $10/hour = $140/week  
+
+Therefore, if Jordan spent all seven days of the week playing video games instead of working, he would have earned $140 less than what he actually earned from his part-time job."
+"Response:  To calculate the total cost with a 10% tax, we need to first find the cost of each item without the tax and then add the tax to each item.  The cost of milk is $2, eggs are $3, bread is $3, cups are $3, and napkins are $4.  Without the tax, the total cost is:  
+Milk: $2 x 1 = $2  
+Eggs: $3 x 1 = $3  
+Bread: $3 x 1 = $3  
+Cups: $3 x 1 = $3  
+Napkins: $4 x 1 = $4  
+Total Cost Without Tax: $2 + $3 + $3 + $3 + $4 = $15  
+Now, let's apply the 10% tax rate to each item:  
+Milk: $2 x 1.10 = $2.20  
+Eggs: $3 x 1.10 = $3.30  
+Bread: $3 x 1.10 = $3.30  
+Cups: $3 x 1.10 = $3.30  
+Napkins: $4 x 1.10 = $4.40  
+Total Cost With Tax: $2.20 + $3.30 + $3.30 + $3.30 + $4.40 = $17.60"
+Response:  To calculate Lucas's weekly profit in dollars, we need to subtract his total expenses from his total income. Total income = $2 x 3 clients + $5 x 5 potential clients = $6 + $25 = $31 Total expenses = $2 x 2 bottles per client + $5 x 1 package per client = $4 + $5 = $9 Therefore, Lucas's weekly profit is: Profit = Total income - Total expenses = $31 - $9 = $22 per week.
+"Response:  To find out how many ananas John can collect in one year, we need to calculate how many ananas he can collect per harvest and then multiply that by the number of harvests he can have in a year. Let's break it down:  
+1. Number of ananas per harvest: 100 ananas/hectare x 10 hectares = 1,000 ananas per harvest.  
+2. Number of harvests per year: 3 harvests/year x 10 months (since each harvest takes 3 months) = 30 harvests per year.  
+3. Total number of ananas per year: 1,000 ananas/harvest x 30 harvests/year = 30,000 ananas per year."
+Response:  If Johnny collects all the Lego pieces, he will have 500 + (3 x 500) + (1/4 x 500) = 500 + 1500 + 125 = 3250 blocks.
+Response:  To find out how many bees returned to the hive in the last 6 hours, we need to subtract half of the initial number of bees that left the hive from twice the number of bees that flew back during that time period. Let's break down the information given in the problem:  * Initially, 30 bees left the hive.  * Half of the initial number of bees that left the hive (15) returned after 6 hours.  * Twice the number of bees that flew back during the second period (2 x 15 = 30) also returned during the same period.  Now let's calculate the total number of bees that returned to the hive in the last 6 hours:  Total number of bees returning = Number of bees that flew back - Half of the initial number of bees that left  Total number of bees returning = 30 - 15  Total number of bees returning = 15  Therefore, there were 15 bees that returned to the hive in the last 6 hours.
+Response:  The mother gave $8 to the cashier and received $10 for the child's ticket and $12 for the adult ticket, so she paid a total of $22.
+Response:  If Charlie has 12 friends in Facebook and James has four times as many friends as Charlie, then James has 4 x 12 = 48 friends in Facebook.
+Response:  To find out how long the winner will wait in their house before the loser finishes the race, we need to calculate the time it takes for both participants to reach the finish line. Let's start by calculating the time it takes for Steve to reach the finish line: Time = Distance / Speed = (3 miles) / (440 ft/min) = 7 minutes Now let's calculate the time it takes for Tim to reach the finish line: Time = Distance / Speed = (2 miles) / (264 ft/min) = 4 minutes and 30 seconds Since Steve reaches the finish line faster than Tim, the winner will wait for 7 - 4 minutes and 30 seconds = 2 minutes and 40 seconds before the loser finishes the race.
+Response:  The total amount of money earned that day is $1.75 (5 x $0.25 + 3 x $0.25 + $0.25).
+"Response:  If Karl pays $10 with 10 dollars, he will receive 
+
+$10 / $0.10 = 100 biсквитки
+
+So, Karl will receive 100 biscuits if he pays $10."
+Response:  There were 14 carrots in the package when Dave bought it.
+Response:  To find out how many hours Kim spends in class per semester, we need to calculate the total number of hours he attends classes each week and then multiply it by the number of weeks in one semester.  Weekly hours = (3 x 1) + (2 x 2) = 3 + 4 = 7 hours Per week. Number of weeks in one semester = 16 weeks Total hours spent in class per semester = 7 hours/week x 16 weeks = 112 hours Therefore, Kim spends 112 hours in class per semester.
+Response:  If Bill places all his baked goods end to end, they will be 300 x 4 = 1200 inches long. Since each croissant is 6 inches long and there are 120 of them, they will add another 120 x 6 = 720 inches. Finally, since each bagel is 2 feet long and there are 60 of them, they will add another 60 x 2 = 120 inches. In total, Bill's baked goods will measure 1200 + 720 + 120 = 2040 inches or approximately 170 feet.
+Response:  To feed all the monkeys in the zoo for 2 months, the zookeeper needs to purchase 200 + 400 + 100 = 700 bananas every 2 months.
+"Response:  The winner (Blake) will be 70 yards ahead of the loser (Kelly). To calculate this, we need to add up the distances that each person travels:  
+* Blake moves forward and backward 15 times, so he travels 15 x 100 = 1500 yards.  
+* Kelly moves forward and backward once, then starts moving towards the 40-yard line and back again 34 times, for a total distance of 34 x 40 = 1360 yards.  
+Therefore, the winner (Blake) will be 70 yards ahead of the loser (Kelly): 1500 - 1360 = 70."
+"Response:  To calculate how much Rafael spent in total, we need to add up the prices of all the items he bought:  
+4 x $1.5 = $6 (chemicals) + $4 x 2 = $8 (notebooks) + $20 = $34 (bond paper).  So Rafael spent $34 in total."
+Response:  FIn sees 6 puppies swimming in the lake and then sees 2 of them hiding under a rock. Therefore, Fin sees a total of 6 + 2 = 8 puppies in the lake.
+"Response:  In order to find the depth of water in the reservoir on Wednesday (the third day), we need to calculate two-thirds of the depth of water on Tuesday (the second day). So, if the depth of water on Tuesday was 7 feet more than on Monday, then the depth of water on Wednesday would be:  
+Depth of water on Wednesday = Depth of water on Tuesday + 7 feet  
+= (Depth of water on Monday) + 2 \* 7 feet  
+= 5 meters + 2 * 7 feet  
+= 5 meters + 14 feet  
+= 19 feet  
+Therefore, the depth of water in the reservoir on Wednesday is 19 feet."
+"Response:  To find out how many fish the two friends caught in total, we need to add up the number of each type of fish that they caught. Let's do this step by step:  
+* Anaikan caught 10 marine stars, 6 marine horses, and 3 clownfish. So, he caught a total of 10 + 6 + 3 = 19 fish.  
+* Loxin caught 5 marine stars less than Anakin (i.e., 5 - 10 = 5), 3 marine horses less than Anakin (i.e., 3 - 6 = 3), and 2 clownfish more than Anakin (i.e., 3 + 2 = 5). So, Loxin caught a total of 5 + 3 + 5 = 13 fish.  
+Therefore, the total number of fish caught by both friends is 19 + 13 = 32 fish."
+"Response:  If the price of a bag with toppings increases by 20% of the initial price every two months, after 36 months (3 years), the price of the bag will be:  
+P = P0 x (1 + 0.2) ^ (3 \* 2) = P0 x (1 + 0.2)^(6)  
+where P0 is the initial price of the bag and P is the price after 36 months."
+Response:  The total cost of all toys is $5 + 4 + 5 = $14.
+Response:  If Jaki pays $90 to hire an accountant and saves $35 per hour by not having to work as a freelancer, then she will have $90 - $35 = $55 more after paying for the accountant's services.
+Response:  Based on the information provided, Elvira will have €1500 as her birthday gift and she spends €1090 on a computer with an screen, keyboard, and mouse. She also buys a scanner for €157, a CD-holder for €74, and a printer for €102. To calculate how much money she will have left for clothes, we need to subtract the total amount she spent from the gifted amount: €1500 - €1090 - €157 - €74 - €102 = €281. Therefore, Elvira will have €281 left for dреха.
+Response:  To make 15 Spanish flan, Sandra needs 3 eggs per flan x 15 flans = 45 eggs. Since her neighbor gives her 9 eggs every time she looks at her baby, Sandra will need to look at her baby 45/9 = 5 times to get all the eggs she needs.
+"Response:  Seth is twice as old as Brook, so Seth's age = 2 x Brook's age. After 2 years, their combined age will be 28, so we can set up an equation:  
+Seth's age + Brook's age = 28  
+2xBrook's age + Brook's age = 28  
+2Brook's age = 14  
+Brook's age = 7  
+Seth's age = 2 x 7 = 14"
+Response:  If Eatal has eight dollars and Jimmy has two more than Eatal, then Jimmy has eight + two = ten dollars.
+Response:  During the weekdays (5 days), Punch walks for 30 km per day, so he walks a total of 30 x 5 = 150 km during the week. Additionally, during the weekends (2 days), he walks for 10 miles (16 km) each day, so he walks a total of 2 x 16 = 32 km during the weekend. Therefore, Pancho walks a total of 150 + 32 = 182 km in one week.
+Response:  The cost of each uniform is $30 (25 dollars for the hat + 5 dollars for the pants).
+"Response:  To find out how many legs Jake sees in total, we need to add up the number of legs of all the creatures he sees. Let's do it step by step:  
+* Spiders with 8 legs each: 80 x 8 = 640 legs  
+* Insects with 6 legs each: 90 x 6 = 540 legs  
+* Rare mutated creatures with 10 legs each: 3 x 10 = 30 legs  
+Adding up all these numbers gives us a total of: 640 + 540 + 30 = 1210 legs. So, Jake sees 1210 legs."
+"Response:  The sum of the ages of the four birds is:
+Sali 2 + Sali 30 + Sali 4 = (3 + 8) + 4 = 15 + 4 = 19 years old."
+Response:  To calculate how much Jessica will pay for the year if she pays 50% more than the minimum, we need to first calculate the total amount of money she needs to pay each month.  Minimum monthly payment for student loans = $300  Minimum monthly payment for credit card = $200  Monthly payment for mortgage = $500 Total minimum monthly payments = $300 + $200 + $500 = $1,000 If Jessica wants to pay 50% more than the minimum, her monthly payments will be: 1.5 x $1,000 = $1,500 per month For one year, this would be: 12 x $1,500 = $18,000 So, Jessica would pay $18,000 in one year if she pays 50% more than the minimum.
+"Response:  To calculate how long it will take Billy to finish the potatoes, we need to first find out how many minutes he spends on each potato. We know that he spends around 1 minute and 30 seconds (1.5 minutes) to peel one potato, and around 5 seconds to cut it into wedges. Therefore, the total time spent on each potato is:
+
+Time per potato = 1.5 minutes + 5 seconds = 2.5 minutes per potato
+
+Since there are 60 potatoes in total, we can multiply the time per potato by 60 to get the total time required:
+
+Total time = 2.5 minutes/potato x 60 potatoes = 150 minutes
+
+Therefore, it will take Billy approximately 150 minutes (or 2 hours and 30 minutes) to finish all the potatoes for the barbecue."
+"Response:  To find out how much they spent on lemons, we need to know that they sold 20 gallons of lemonade and each gallon costs $3 for lemons and $2 for sugar. So, the total cost of lemons is:  
+3 x 20 = 60 dollars  
+for lemons."
+Response:  Let's use algebra to solve this problem. We know that there are 240 participants in total and 80 of them are Japanese. This means that there are 240 - 80 = 160 non-Japanese participants. Since 60 of these participants are male, we can find out how many female participants there are by subtracting 60 from 160: 160 - 60 = 100. Therefore, there are 100 female participants in the Chinese team.
+Response:  After all expenses and donations, Zayid will have $3,580 left ($6,000 - $1,500 - $200 - $700 = $3,580).
+"Response:  The total number of raci that Ran, Monik and Bo have together is:  
+Ran has 10 more than Monik, so Ran's number of raci is:  
+Monik has 4 less than Bo, so Bo's number of raci is:  
+Adding these two expressions gives us the total number of raci that all three have together:"
+Response:  During the first week, Lloyd earned $5 x 5 = $25 and during the second week, he earned $5 x 8 = $40, so in total, he has earned $25 + $40 = $65 for the first two weeks.
+Response:  Let's denote the number of votes received by the winning candidate as x and the number of votes received by the losing candidate as y. Since the winning candidate received 3/4 of the total votes, we can write: x = 3/4 \* 80 = 60. The losing candidate received the remaining 1/4 of the total votes, so y = 1/4 \* 80 = 20. Therefore, the winning candidate received 60 votes and the losing candidate received 20 votes.
+"Response:  To determine how many red roses Fred needs to deliver to Sandra by 17:00, we need to calculate the total number of roses that were ordered and compare it with the number of roses that have been delivered so far. Let's break down the information given in the problem:
+
+* Sandra ordered four times more red roses than white gvosdei (let's call this ""x""): x = 4 \* 30 = 120 red roses
+* Sandra also ordered 200 pink lilies, which is five times more than the number of white gvosdei (let's call this ""y""): y = 5 \* 40 = 200 pink lilies
+* The total number of flowers ordered by Sandra is the sum of the number of red roses and the number of pink lilies: Total = 120 + 200 = 320 flowers
+* However, only some of the flowers have been delivered so far, and Sandra has received 160 flowers (which includes both red roses and pink lilies). So, we need to find out how many more flowers need to be delivered by 17:00: Missing = Total - Delivered = 320 - 160 = 160 flowers
+
+Since Sandra threatened to switch to another supplier if the missing flowers are not delivered by 17:00, we know that all 160 missing flowers must be red roses. Therefore, Fred needs to deliver 160 red roses to Sandra by 17:00."
+Response:  If Jean is 30 years old and Mark is two years older than Jean, then Mark is 30 + 2 = 32 years old.  Since Mark was five years older than Jean two years ago, we can calculate that Jean was 30 - 5 = 25 years old two years ago. Therefore, Gene is 25 + 2 = 27 years old.
+"Response:  To determine how many seconds the faster team will win by, we need to calculate the total time it takes for each team to complete the race. Let's start with the slower team:  
+Team B (slow):  
+1st runner: 400 m in 60 sec = 200 m/min  
+2nd runner: 200 m in 3 sec = 67 m/min  
+3rd runner: 200 m in 3 sec = 67 m/min  
+4th runner: 200 m in 3 sec = 67 m/min  
+Total time: 60 + 3 + 3 + 3 = 72 sec  
+Now let's calculate the total time for Team A (fast):  
+1st runner: 400 m in 55 sec = 220 m/min  
+2nd runner: 220 m in 3 sec = 73 m/min  
+3rd runner: 220 m in 3 sec = 73 m/min  
+4th runner: 220 m in 3 sec = 73 m/min  
+Total time: 55 + 3 + 3 + 3 = 64 sec  
+The difference between the two teams' total times is:  
+72 - 64 = 8 sec  
+Therefore, the faster team will win by 8 seconds."
+Response:  To determine the probability of throwing six-sided dice and getting two consecutive even numbers, we need to calculate the number of ways in which this can happen. Let's consider each case:  Case 1: The first number is even, and the second number is also even. In this case, there are 4 even numbers on the die (2, 4, 6, 8), so the probability of getting two consecutive even numbers is 4/6 = 0.67 or 67%.  Case 2: The first number is odd, and the second number is even. In this case, there are 3 even numbers on the die (2, 4, 6), so the probability of getting two consecutive even numbers is 3/6 = 0.5 or 50%.  Therefore, the total probability of throwing six-sided dice and getting two consecutive even numbers is:  Probability = 0.67 + 0.5 = 1.17 or 117%  So, it is more likely (117%) that you will throw two consecutive even numbers when hrowing six-sided dice than not (83%).
+Response:  If Jenna has collected half of the apples that her mother received (20), then she has collected 10 apples.
+"Response:  To find out how many mice are in each cage, we need to divide the total number of pieces of straw given to all the small animals by the number of pieces of straw given to each mouse. We can set up an equation based on this information:  
+Number of mice per cage = Total number of pieces of straw / Number of pieces of straw per mouse  
+We know that there are 160 pieces of straw in total and each mouse gets 6 pieces of straw. So we can plug these numbers into our equation:  
+Number of mice per cage = 160 / 6  
+Simplifying, we get:  
+Number of mice per cage = 26  
+Since there are 3 cages with mice, we can multiply the number of mice per cage by 3 to find out how many mice there are in total:  
+Total number of mice = Number of mice per cage x Number of cages  
+Total number of mice = 26 x 3  
+Total number of mice = 78"
+Response:  If Mandy paid $100 to Benedict with a monthly interest rate of 2%, after 3 months she would owe Benedict $100 x (1 + 0.02)^3 = $106.
+Response:  The trader sold 200 torbas (100 x 2) of wheat at $30 per torba, since he made an overall profit of $400 and transportation cost is $2 per torba.
+Response:  To calculate how much each person will pay, we need to first find out how much they spent in total for the fair and food. Then, we can divide that amount by three to get the cost per person.  Total cost of fair and food = $20.25 + $4.50 = $24.75  Cost per person = $24.75 / 3 = $8.25 Each person will pay $8.25.
+"Response:  To find out how many prawns John collects in 3 hours, we need to calculate how many minutes he spends collecting them and then multiply that by his collection rate per minute. There are 60 minutes in an hour, so:  
+
+3 hours x 60 minutes/hour = 180 minutes  
+
+Since John can collect 2 prawns per minute, we can now calculate how many prawns he collects in total:  
+
+180 minutes x 2 prawns/minute = 360 prawns  
+Therefore, John collects 360 prawns in 3 hours."
+Response:  If each chicken needs to eat one kilogram of insects per week to survive, and there are ten chickens in the flock, then each day they will need to eat 10 x 1 = 10 kilograms of insects.
+Response:  After 10 years, Tom has planted 10 trees per year x 10 = 100 trees. He cuts down 2 trees per year x 10 = 20 trees. So, he has 100 - 20 = 80 trees left after 10 years.
+Response:  There were 36 rosy plastic flamingos outside in the courtyard after the prank was completed. To calculate this, we need to add the number of original white plastic flamingos (18) to the number of new pink plastic flamingos (3 x 18 = 54). Therefore, there were 36 + 54 = 90 rosy plastic flamingos outside in the courtyard.
+"Response:  If Viola wants to buy new mollies and has prepared $20 for the purchase, and one molly costs $2, then she can buy:  
+
+$20 / $2 = 10 mollies"
+Response:  Eight pens will cost $8 x $1.20 = $9.60 + $0.30 x 8 = $24.
+Response:  To calculate how many kilograms of potatoes will be used, we need to know that there are 1 pound (lb) = 0.453592 kg. We also know that 2 pounds = 0.907184 kg. Therefore, if 200 pounds of potatoes need to be distributed among 40 restaurants, each restaurant will receive 2 pounds of potatoes. To find out how many kilograms of potatoes will be used in total, we can multiply the number of pounds by the conversion factor: 200 lb x 0.453592 kg/lb = 90.7184 kg.
+Response:  There are 8417 mature men and 9092 mature women in Soda, so there are 8417 + 9092 = 17519 adults in total. The number of children is equal to the total population minus the number of adults, which is: 23786 - 17519 = 6267. Therefore, there are 6267 children in Soda.
+Response:  After one month, Ellen had 20 Pokemon cards and collected three times more, so she had 60 cards (20 x 3 = 60). During the second month, she collected 20 fewer cards than in the first month, so she had 40 cards (60 - 20 = 40). In the third month, she collected twice as many cards as in the first two months, so she had 80 cards (40 + 2 x 60 = 80). Therefore, Ellen has 80 Pokemon cards now.
+"Response:  To calculate how much Mark earns in centavos per week, we need to multiply the number of editorials he edits for each publisher by the price they pay him. For Publisher A, he edits 500 editorials and is paid 5 cents per editorial, so his income from Publisher A is:  
+500 x 5 = 2500 centavos  
+For Publisher B, he edits 500 editorials and is paid 10 cents per editorial, so his income from Publisher B is:  
+500 x 10 = 5000 centavos  
+Therefore, Mark's total weekly income is:  
+2500 + 5000 = 7500 centavos"
+"Response:  To find out how many liters of water Baldur receives each day, we need to calculate the total amount of water he receives in one day and then divide it by the number of liters in each cup. Let's start by calculating the total amount of water he receives in one day:  
+Total amount of water received in one day = Number of cups received in the morning x Number of liters in each cup + Number of cups received at noon x Number of liters in each cup + Number of cups received in the evening x Number of liters in each cup  Total amount of water received in one day = 5 cups x 5 liters/cup + 6 cups x 5 liters/cup + 5 cups x 5 liters/cup  Total amount of water received in one day = 25 liters + 30 liters + 25 liters  Total amount of water received in one day = 75 liters  Therefore, Baldur receives 75 liters of water every day."
+"Response:  To calculate how much John has earned in a year with the prize money and salary increase, we need to first calculate his weekly earnings for the entire year. We know that he earns $2000 per week, so his annual earnings would be:  
+$2000 x 52 weeks = $104,000 per year  
+Next, we add the one-time cash prize of $5000 to his annual earnings:  
+$104,000 + $5000 = $109,000 per year  
+Finally, we apply the 5% salary increase to his annual earnings:  
+$109,000 x 1.05 = $114,950 per year  
+Therefore, John's total earnings for the year are $114,950."
+"Response:  If each acre of grapes produces 5 tons per year and each ton of grapes produces 2 barrels of wine, then the ferrma's annual production of wine would be:  
+5 tons/acre x 12 acres = 60 tons/year  
+60 tons / 2 barrels/ton = 30 barrels/year"
+"Response:  To calculate how many pieces of cheese Carl uses in total, we need to add up all the amounts he consumes during the week.  Here's the calculation:  
+* For lunch (7 days x 2 slices of cheese per day) = 14 pieces of cheese  * For breakfast (3 days x 1 egg dish per day x 1/2 slice of cheese per dish) = 9 pieces of cheese  * For the pasta dish (1 dish for several evenings x 8 slices of cheese used) = 8 pieces of cheese  Total number of pieces of cheese used by Carl = 14 + 9 + 8 = 31 pieces of cheese"
+Response:  After buying 6 packets of blue and 2 packets of red chemicals, Janet has a total of (6 x 9) + (2 x 6) = 54 + 12 = 66 chemicals.
+Response:  To get an average of 93, Brinly needs to score at least 93 - (89 + 71 + 92 + 100 + 86) / 5 = 93 - 465 / 5 = 93 - 93 = 0. Therefore, Brinly should aim for a perfect score of 100 on the sixth test.
+"Response:  To find out how many kilometers Michael has driven in total, we need to calculate the distance he drove each week and then add it up. Let's break down his driving into two parts:
+
+Part 1 (four weeks):
+Michael drives twice a week for four weeks, covering a distance of 25 km each time. Therefore, the total distance he drives in Part 1 is:
+
+25 km/week x 4 weeks = 100 km
+
+Part 2 (three weeks):
+Michael drives twice a week for three weeks, covering a distance of 60 km each time. Therefore, the total distance he drives in Part 2 is:
+
+60 km/week x 3 weeks = 180 km
+
+Now, let's add up the distances from both parts to get the total distance Michael has driven:
+
+100 km + 180 km = 280 km
+
+Therefore, Michael has driven a total of 280 kilometers."
+Response:  To find out how much the bag of candies weighs in grams, we need to first calculate the weight of one chocolate bar and then multiply that by the number of bars. Let's start with the weight of one chocolate bar:  Each chocolate bar has 25 shocholadowe prutki (prickes) and each prutek weights 2 times as much as an confiscated apple. So, the weight of one chocolate bar is: 25 x 2 = 50 grams per bar. Now, let's calculate the total weight of all the chocolate bars:  There are 80 confiscated apples and each apple weighs 40 grams, so the total weight of all the apples is: 80 x 40 = 3200 grams. Since each chocolate bar weighs 50 grams, the total weight of all the chocolate bars is: 3200 / 50 = 64 bars. Therefore, the total weight of the bag of candies is: 64 x 50 = 3200 grams or 3.2 kilograms.
+Response:  To find out how many torte Rose bought in total, we need to calculate the number of torte she bought each day and then add them up. Let's break down the information given in the question:  Monday: 4 torte Tuesday: 3 x (number of torte) = 3 x 4 = 12 torte Wednesday: 5 x (number of torte) = 5 x 12 = 60 torte Total: 4 + 12 + 60 = 76 torte So, Rose bought 76 tortes in total.
+Response:  To find the cost of each cup, we need to divide the price of half a dozen cups by two: $6000 / 2 = $3000 per cup.
+"Response:  To determine how many times Sarah needs to mow the lawn before she can afford the jacket and shoes, we need to calculate how much money she earns from mowing the lawn and compare it to the cost of the items she wants to buy. Let's break down the information given in the problem:
+
+* Sarah earns $5 each time she mows the lawn.
+* The jacket costs $30.
+* The two pairs of shoes together cost $20.
+
+To find out how many times Sarah needs to mow the lawn, we can set up an equation using these values:
+
+$5 x (number of times) = $30 + $20
+
+Solving for the number of times, we get:
+
+Number of times = ($30 + $20) / $5
+= $50 / $5
+= 10
+
+Therefore, Sarah needs to mow the lawn 10 times before she can afford the jacket and shoes."
+Response:  If Jerry has twice as many white pigs as red pigs and each white pig lays 5 eggs per day, then Jerry has 2 x (5-3) = 2 x 2 = 4 more white pigs than red pigs. Therefore, Jerry has 4 + 3 = 7 red pigs.
+Response:  To find out how many hours Garry spends walking in the park, we need to divide the distance he walks by his speed:  Distance = Speed x Time  In this case, the distance is 1.5 miles (2.4 km) and the speed is 5 km/h. So, we can calculate the time as follows:  Time = Distance / Speed  Time = 2.4 km / 5 km/h  Time = 0.48 hours or 29 minutes  Therefore, Garry spends 29 minutes walking in the park.
+Response:  On the third day, Sloan counted 50 more clients than she had on the first day, so if she had 100 clients on the first day, then she had 100 + 50 = 150 clients on the third day.
+"Response:  Let's use ""x"" to represent the amount of water in the small basin and ""4x"" to represent the amount of water in the large basin. We know that before 4 minutes ago, there were twice as much water in the large basin as in the small basin, so we can set up an equation based on this information:  
+2x + 8 = 4(x)  Simplifying the equation by multiplying both sides by 4 gives us:  
+8x = 16  Dividing both sides by 2 gives us:  
+x = 8  So, there are 8 gallons of water in the small basin now."
+Response:  To calculate how many hours Lorri needs to work to buy the shoes and collar, we need to divide the total cost by her hourly wage.  Total Cost = $320 (shoes) + $32 (collar) = $352  Hourly Wage = $8.00 per hour  Number of Hours = Total Cost / Hourly Wage  Number of Hours = $352 / $8.00  Number of Hours = 44 hours  Therefore, Lorri needs to work for 44 hours before she can afford to buy both the shoes and collar.
+Response:  To find the remaining balance of Janet's loan after 12 months, we need to calculate the total amount she will pay over those 12 months and then subtract that from the original principal amount she borrowed. Let's break down the information given in the problem:  Principal amount = $2000 Interest rate = 10% per annum (or 10%/12 for monthly interest) Number of months = 12 So, the total amount Janet will pay over 12 months can be calculated as follows: Total Amount = Principal x Monthly Interest Rate x Number of Months Total Amount = $2000 x 10%/12 x 12 Total Amount = $2400 Now, let's subtract the total amount paid from the principal amount to get the remaining balance: Remaining Balance = Principal - Total Amount Remaining Balance = $2000 - $2400 Remaining Balance = $600 Therefore, after 12 months, Janet will have a remaining balance of $600 on her loan.
+Response:  There are 7 + 4 = 11 flowers in the vase.
+"Response:  To find the average age of Adrian, Harryet and Zak after three years, we need to calculate their ages at that time based on the given information.  First, let's calculate Harryet's age in three years:  
+Harryet is currently 21 years old, so in three years she will be:  
+21 + 3 = 24 years old Now, let's calculate Adrian's age in three years:  Adrian is currently three times as old as Harryet, so he is:  
+3 x 24 = 72 years old Finally, let's calculate Zak's age in three years:  Zak is half as old as Harryet, so he is:  
+21 / 2 = 10.5 years old However, since Zak cannot have a fractional year, we round up his age to 11 years old. Therefore, the average age of Adrian, Harryet, and Zak after three years is: (72 + 24 + 11) / 3 = 98 / 3 = 32.67 years old So, the median age of the three individuals after three years is approximately 32.67 years old."
+"Response:  To find out how many points Joe Joe scored, we can start by using the information that Naomi scored 68 points and Brianah scored 17 more than Naomi. So, Brianah scored 68 + 17 = 85 points. We also know that Yuri scored 10 points more than Naomi, so Yuri scored 68 + 10 = 78 points. Finally, we are told that the four students together scored 251 points, so we can set up an equation based on this information:  
+
+Naomi + Yuri + Brianah + Joe Joe = 251  
+
+We can substitute the values we have found for each student's score into the equation:  
+
+68 + 78 + 85 + x = 251  
+
+Where x is the number of points Joe Joe scored. Solving for x, we get:  
+
+x = 251 - (68 + 78 + 85) = 251 - 223 = 28  
+
+Therefore, Joe Joe scored 28 points."
+Response:  To calculate the time spent by Carmen on crosswords and Sudoku during the weekend, we need to know how many minutes she spent on each activity. Let's assume that she spent 10 minutes on each crossword puzzle and 5 minutes on each Sudoku puzzle. Therefore, the total time spent by Carmen on crosswords is 10 x 3 = 30 minutes, and the total time spent on Sudoku is 5 x 8 = 40 minutes. In total, Carmen spent 70 minutes on these activities during the weekend.
+Response:  There are 30 liters of water left in the reservoir (2 times 90 = 180 - 90 = 30).
+Response:  Andy plants 90 geraniums and 40 petunias less than them. He plants a total of 130 flowers (90 + 40).
+Response:  The total amount that the company has spent on advertising over the two years is $23,333.33 (15,000 x 2/3).
+Response:  To calculate how much Carlos and Benji will pay for their rentals, we need to multiply the number of hours they use the equipment by its hourly rate.  For Carlos:  3 hours x $30/hour = $90  For Benji:  5 hours x $18/hour = $90  So both Carlos and Benji will pay $90 for their rentals.
+Response:  If Andrew plans to travel from New Jersey to Rochester by bus and return by car, he will spend 6 days traveling each way (12 days total).
+Response:  To find the probability that a randomly selected card will be of the water type, we need to divide the number of water cards by the total number of cards before and after James buys new cards.  Probability = (Number of Water Cards Before / Total Number of Cards Before) x (Total Number of Cards After / Total Number of Cards Before)  Since there are 40 water cards before and 32 cards after James buys new cards, the calculation is as follows:  Probability = (40/90) x (32/90) = 0.444 or approximately 44.4%  So, there is about 44.4% chance that a randomly selected card will be of the water type after James buys new cards.
+"Response:  The total cost of Chad's lunch will be:
+
+$6.50 (base burrito) + $2.00 (meat) + $1.00 (cheese) + $1.00 (avocado) + $0.25 (salsa x 2) = $9.75
+
+With the discount card worth $5.00, the final amount Chad needs to pay is:
+
+$9.75 - $5.00 = $4.75"
+Response:  To find out how many hours it will take for Calinda and her mother to finish the puzzle, we need to know how many pieces they can do in one hour. Let's calculate that first.  We know that Calinda can do 4 pieces per minute, so she can do 24 pieces (4 x 6) in an hour. Her mother can do half of that, so she can do 12 pieces (24 / 2) in an hour.  Now, let's calculate the total number of pieces they have to do:  There are 360 pieces in the puzzle, and Calinda and her mother together can do 24 + 12 = 36 pieces per hour.  So, it will take them 360 / 36 = 10 hours to finish the puzzle.
+"Response:  To find out how many pumpkins were not ready for harvest after two weeks, we need to calculate the percentage of pumpkins that were ready for harvest and subtract it from 100%.
+
+Let X be the number of pumpkins that were not ready for harvest after two weeks.
+
+We know that 30% of the pumpkins were ready for harvest after two months, so the number of pumpkins that were ready for harvest is:
+
+30% of 120 = 36
+
+Now, we can set up an equation:
+
+X + 36 = 100
+
+Solve for X:
+
+X = 64
+
+Therefore, there were 64 pumpkins that were not ready for harvest after two weeks."
+Response:  To calculate how much Mark pays for all 12 cars, we need to add the cost of each car and the additional fees (registration fee and tax). Let's break down the costs as follows:  Cost per car = $20,000 x 12 = $240,000  Registration fee per car = $1,000 x 12 = $12,000 Tax rate = 10%  Total cost = $240,000 + $12,000 + ($240,000 x 10%) = $240,000 + $12,000 + $24,000 = $276,000 So, Mark pays a total of $276,000 for all 12 cars.
+Response:  If in Monday, Kaili collected 5 more shells than Robert, then Kaili collected 5 + 20 = 25 shells. On Tuesday, if Kaili collected twice as many shells as on Monday, then she collected 2 x 25 = 50 shells.
+"Response:  If there are 50 mravki in the garden and each mraka has half of the number of bees as the total number of bees in the garden, then the total number of bees in the garden is:  
+
+(1/2) x (50) = 25
+
+Therefore, there are 25 bees in the garden."
+Response:  There are 36 penguins in total. If one-third of them jump and swim in the ocean, that would be 12 (36 x 1/3). If another one-third enters the cave to eat dinner, that would be 12 as well (36 x 1/3). So, there are 12 penguins left to bask in the sun.
+"Response:  To determine how many rows of tomato plants Steve needs to produce 6 tomatoes per day, we need to calculate how many tomatoes one row can produce in a week. We know that one row can produce 3 tomatoes per week, so:  
+
+6 tomatoes/day x 7 days = 42 tomatoes/week  
+
+Therefore, Steve needs 42 / 3 = 14 rows of tomato plants to produce enough tomatoes for his daily consumption."
+Response:  To ensure that each of John's 20 friends can have 4 pieces of pizza, and since pizzas are sold in 8-portion servings, John should order 20 x 4 = 80 portions of pizza.
+Response:  If Ram uses 25 full chemicals to make new ones when his paint runs out, and he can save money by mixing the leftover paint from five empty chemicals, then he will have 25 x (1/5) = 50 half-full chemicals after using all 25 full chemicals.
+Response:  After one year, Johnny had $40 (20 dollars + 10 dollars x 2).
+Response:  To find the sum of the ages of the three girls, we need to calculate each girl's age separately and then add them up.  Meri is 2 years old, Joan is 5 years older than Meri, so Joan is 7 years old (2 + 5 = 7). Jessa is 20 years old. Therefore, the sum of the ages of the three girls is: 2 + 7 + 20 = 39 years old.
+"Response:  To find out how many students have exited through door S, we need to calculate the number of students who have not exited through doors A and B. Let X be the number of students who have not exited through doors A and B. Since 30% of the total number of students have exited through door A, we can write: 
+X = 1000 - (30% of 1000) = 1000 - 300 = 700 
+Since 3/5 of the remaining students have exited through door B, we can write: 
+X = 700 - (3/5 of 700) = 700 - (210) = 490 
+Therefore, there are 490 students who have exited through door S."
+"Response:  To find out how many more bonbons John has than James, we need to subtract the number of bonbons James has from the number of bonbons John has. Let's do that:  
+54 (John) - 6 (James) = 48  
+So, John has 48 more bonbons than James."
+Response:  If Doily and Pandora each have two books of their own and they read each other's books as well, then together they will have read a total of:  2 (Doily's books) + 2 (Pandora's books) = 4 books together by the end.
+"Response:  To calculate how many hours Mike spends writing in a week, we need to first determine how many letters he receives and how long each letter is. Let's assume that each letter is 5 pages long (since they are both sending two letters per week, and each letter has 5 pages).
+
+Mike receives 2 letters per week from each of the 5 friends, so he receives a total of 4 letters per week (2 x 5 = 10, but since there are two weeks, it's 4). Each letter is 5 pages long, so Mike reads and responds to a total of 20 pages per week (4 letters x 5 pages per letter).
+
+Since Mike can write one page every 6 minutes, he can write 20 pages in:
+
+20 pages / 6 minutes per page = 3.33 hours per week
+
+Therefore, Mike spends approximately 3.33 hours per week writing responses to his friends."
+Response:  The total number of minutes Jason has in his phone plan is 1000. He has had 15-minute conversations with his boss every day for 30 days, so he has spent 450 minutes (15 x 30) talking to his boss. Additionally, he has had 300 additional minutes of conversation with other people this month, bringing the total amount of minutes used up to 750 (450 + 300). Therefore, there are 250 minutes left in Jason's phone plan (1000 - 750 = 250).
+Response:  Dijon gave Griffin 5 carrots.
+"Response:  Let's denote the number of fish in each aquarium as x and y, respectively. We know that the difference between the number of oysters in the two aquariums is twice the number of fish in the two aquariums. So we can write an equation based on this information:  
+x + y = 4(x + y)  
+Simplifying the equation:  
+2x + 2y = 8xy  
+Solving for x and y:  
+x = 8/5  
+y = 16/5  
+So there are 8/5 fish in the first aquarium and 16/5 fish in the second aquarium."
+Response:  To calculate how much Diane will pay for Grimior's services, we need to first determine the total amount of work that Grimior did during the 5 weeks of filming. Since she worked for 6 hours per day and there were 4 days of filming per week, Grimior worked a total of 6 x 4 = 24 hours per week. Since there were 5 weeks of filming, Grimior worked a total of 24 x 5 = 120 hours.  Next, we need to calculate the percentage of the total amount that Diane should pay as a tip. Since Grimior is asking for 10%, we can calculate the tip as follows: 10% of $250/hour = $25/hour. Therefore, Diane should pay Grimior a total of $25 x 120 = $3,000 for her services.
+Response:  Isabelle spent $12 + $43 + $15 + $4 + $22 = $98 on party supplies and gifts for her sister's birthday. Since she split the expenses with her parents, each of them paid $98 / 3 = $32.
+Response:  The total cost of the luggage is 4 x 50 = 200 pounds x $1.50 per pound = $300.
+"Response:  To find out how many more calories Sue consumed than her sister, we need to calculate the difference between the number of biscuits she ate and the number of biscuits her sister ate. Let's start by identifying the information given in the problem:
+
+* Sue ate 4 times as many biscuits as her sister on Monday (4x).
+* On Tuesday, Sue ate twice as many biscuits as her sister (2x).
+* Her sister ate 5 biscuits on Monday and 13 on the next day.
+
+Now let's think about how we can use this information to find our answer. We know that each biscuit has 200 calories, so if Sue ate x biscuits on Monday and 2x biscuits on Tuesday, then she consumed a total of:
+
+x + 2x = 3x biscuits \* 200 calories/biscuit = 600calories
+
+On the other hand, her sister ate 5 biscuits on Monday and 13 on the next day, for a total of:
+
+5 + 13 = 18 biscuits \* 200 calories/biscuit = 3600 calories
+
+To find the difference between the two amounts, we subtract the smaller amount from the larger one:
+
+600 - 3600 = -3000 calories
+
+So Sue consumed 3000 fewer calories than her sister over the two days."

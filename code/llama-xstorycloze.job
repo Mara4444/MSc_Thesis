@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu
+#SBATCH --gpus=1
+#SBATCH --job-name=xstorycloze-Llama
+#SBATCH --ntasks=1
+#SBATCH --time=04:00:00
+#SBATCH --output=llama3_xstorycloze_%A.out
+
+module purge
+module load 2022
+module load Anaconda3/2022.05
+
+cd $HOME/
+source activate llama
+python -u llama-xstorycloze.py
