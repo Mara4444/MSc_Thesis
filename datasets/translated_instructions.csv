@@ -1,4 +1,4 @@
-;language;mgsm_basic;mgsm_cot;xcopa_cause;xcopa_effect;cot;xstorycloze
+;language;mgsm_basic;mgsm_cot;xcopa_cause;xcopa_effect;cot;xstorycloze;bnli;bnli2
 0;afr_Latn;"Vraag:  {question} 
 Gebaseer op die vraag, formuleer 'n numeriese antwoord.  Antwoord: ";"Vraag:  {question} 
 Gebaseer op die vraag, formuleer 'n numeriese antwoord.  Antwoord:  Kom ons dink stap vir stap. ";"Voorbeeld:  {premise} 
@@ -17,26 +17,48 @@ Opsie A:  {sentence_quiz1}
 Opsie B: {sentence_quiz2} 
 Watter einde van die verhaal is die waarskynlikste? 
 Kies tussen opsies A en B. 
-Antwoord:  {cot}"
+Antwoord:  {cot}";"Voorbeeld:  {premise} 
+Hipotese:  {hypothesis} 
+Bevat die uitgangspunt die hipotese?  
+Kies tussen ja of nee. 
+Antwoord: 
+";"Voorbeeld:  {premise} 
+Hipotese:  {hypothesis} 
+Bevat die uitgangspunt die hipotese?  
+Opsie A: Ja.  
+Opsie B: Nee.  
+Kies tussen opsie A en B.  
+Antwoord: "
 1;arb_Arab;"سؤال:  {question} 
 بناء على السؤال، صياغة إجابة رقمية.  الجواب: ";"سؤال:  {question} 
 بناء على السؤال، صياغة إجابة رقمية.  الجواب:  دعونا نفكر خطوة بخطوة ";"فرضية:  {premise} 
-الخيار أ:  {choice1} 
-الخيار (ب): {choice2} 
+الخيار A:  {choice1} 
+الخيار B: {choice2} 
 بناء على الفرضية، أي سبب هو الأكثر احتمالا؟ 
-اختر بين الخيارين أ و ب 
+اختر بين الخيارين A و B 
 الجواب:  {cot}";"فرضية:  {premise} 
-الخيار أ:  {choice1} 
-الخيار (ب): {choice2} 
+الخيار A:  {choice1} 
+الخيار B: {choice2} 
 بناء على الفرضية، أي تأثير هو الأكثر احتمالا؟ 
-اختر بين الخيارين أ و ب 
+اختر بين الخيارين A و B 
 الجواب:  {cot}";دعونا نفكر خطوة بخطوة ;"انظر الى القصة التالية:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-الخيار أ:  {sentence_quiz1} 
-الخيار (ب): {sentence_quiz2} 
+الخيار A:  {sentence_quiz1} 
+الخيار B: {sentence_quiz2} 
 أي نهاية للقصة هي الأكثر احتمالاً؟ 
-اختر بين الخيارين أ و ب 
-الجواب:  {cot}"
+اختر بين الخيارين A و B 
+الجواب:  {cot}";"فرضية:  {premise} 
+فرضية:  {hypothesis} 
+هل المفترضة تنطوي على الفرضية؟  
+اختر بين نعم Aو لا 
+الجواب: 
+";"فرضية:  {premise} 
+فرضية:  {hypothesis} 
+هل المفترضة تنطوي على الفرضية؟  
+الخيار A: نعم  
+الخيار B: لا  
+اختر بين الخيارين A و B  
+الجواب: "
 2;ban_Latn;"Pitakén:  {question} 
 Manut pitakén, ngarumusang jawaban numerik.  Bali: Pasaur danene sapuniki: ";"Pitakén:  {question} 
 Manut pitakén, ngarumusang jawaban numerik.  Bali: Pasaur danene sapuniki:  Ngiring iraga mapineh ring pahan-pahan. ";"Premis:  {premise} 
@@ -55,64 +77,108 @@ Pilihan A:  {sentence_quiz1}
 Pilihan B: {sentence_quiz2} 
 Puput sane encen sane pinih becik? 
 Pilih antara pilihan A miwah B. 
-Bali: Pasaur danene sapuniki:  {cot}"
+Bali: Pasaur danene sapuniki:  {cot}";"Premis:  {premise} 
+Hipotesis:  {hypothesis} 
+Napike premis punika nyarengin hipotesis?  
+Pilih antara ya utawi tidak. 
+Bali: Pasaur danene sapuniki: 
+";"Premis:  {premise} 
+Hipotesis:  {hypothesis} 
+Napike premis punika nyarengin hipotesis?  
+Pilihan A: Inggih.  
+Pilihan B: Nenten.  
+Pilih antara pilihan A miwah B.  
+Bali: Pasaur danene sapuniki: "
 3;bel_Cyrl;"Пытанне:  {question} 
 Зыходзячы з запыта, сфармулюйце лічбавы адказ.  Адказ: ";"Пытанне:  {question} 
 Зыходзячы з запыта, сфармулюйце лічбавы адказ.  Адказ:  Давайце падумаем крок за крокам. ";"Перадумовы:  {premise} 
 Варыянт А:  {choice1} 
-Варыянт Б: {choice2} 
+Варыянт B: {choice2} 
 Зыходзячы з папярэдняй высновы, якая прычына больш верагодная? 
 Выберыце паміж варыянтамі А і В. 
 Адказ:  {cot}";"Перадумовы:  {premise} 
 Варыянт А:  {choice1} 
-Варыянт Б: {choice2} 
+Варыянт B: {choice2} 
 Зыходзячы з гэтага, які эфект больш верагодны? 
 Выберыце паміж варыянтамі А і В. 
 Адказ:  {cot}";Давайце падумаем крок за крокам. ;"Разгледзім наступную гісторыю:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 Варыянт А:  {sentence_quiz1} 
-Варыянт Б: {sentence_quiz2} 
+Варыянт B: {sentence_quiz2} 
 Якая з канцоў гісторыі найбольш верагодная? 
 Выберыце паміж варыянтамі А і В. 
-Адказ:  {cot}"
+Адказ:  {cot}";"Перадумовы:  {premise} 
+Гіпотэза:  {hypothesis} 
+Ці ўключае ў сябе гіпотэзу?  
+Выберыце паміж так ці не. 
+Адказ: 
+";"Перадумовы:  {premise} 
+Гіпотэза:  {hypothesis} 
+Ці ўключае ў сябе гіпотэзу?  
+Варыянт А: Так.  
+Варыянт B: Не.  
+Выберыце паміж варыянтам А і В.  
+Адказ: "
 4;ben_Beng;"প্রশ্ন:  {question} 
 প্রশ্নের ভিত্তিতে, একটি সংখ্যাসূচক উত্তর তৈরি করুন।  উত্তর: ";"প্রশ্ন:  {question} 
 প্রশ্নের ভিত্তিতে, একটি সংখ্যাসূচক উত্তর তৈরি করুন।  উত্তর:  ধাপে ধাপে চিন্তা করা যাক। ";"মূলধন:  {premise} 
 বিকল্প A:  {choice1} 
-বিকল্প বিঃ {choice2} 
+বিকল্প B: {choice2} 
 এই প্রমিশনের উপর ভিত্তি করে, কোন কারণটি বেশি সম্ভাব্য? 
 বিকল্প A এবং B এর মধ্যে বেছে নিন। 
 উত্তর:  {cot}";"মূলধন:  {premise} 
 বিকল্প A:  {choice1} 
-বিকল্প বিঃ {choice2} 
+বিকল্প B: {choice2} 
 এই প্রবন্ধের ভিত্তিতে, কোন প্রভাব বেশি প্রাসঙ্গিক? 
 বিকল্প A এবং B এর মধ্যে বেছে নিন। 
 উত্তর:  {cot}";ধাপে ধাপে চিন্তা করা যাক। ;"নিম্নলিখিত গল্পটি বিবেচনা করুন:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 বিকল্প A:  {sentence_quiz1} 
-বিকল্প বিঃ {sentence_quiz2} 
+বিকল্প B: {sentence_quiz2} 
 কোন গল্পের শেষটা সবচেয়ে বেশি সম্ভব? 
 বিকল্প A এবং B এর মধ্যে বেছে নিন। 
-উত্তর:  {cot}"
+উত্তর:  {cot}";"মূলধন:  {premise} 
+অনুমান:  {hypothesis} 
+এই অনুমান কি অনুমানকে সমর্থন করে?  
+হ্যাঁ বা না এর মধ্যে বেছে নিন। 
+উত্তর:  
+";"মূলধন:  {premise} 
+অনুমান:  {hypothesis} 
+এই অনুমান কি অনুমানকে সমর্থন করে?  
+বিকল্প A: হ্যাঁ।  
+বিকল্প B: না।  
+বিকল্প A এবং B এর মধ্যে বেছে নিন।  
+উত্তর: "
 5;bod_Tibt;"དྲི་བ།  {question} 
 དྲི་བའི་གཞི་ནས་གྲངས་ཀྱི་ལན་འདེབས་ཤིག་བཀོད་རོགས།  ལན་སློག ";"དྲི་བ།  {question} 
 དྲི་བའི་གཞི་ནས་གྲངས་ཀྱི་ལན་འདེབས་ཤིག་བཀོད་རོགས།  ལན་སློག  རིམ་བཞིན་བསམ་བློ་གཏོང་དགོས། ";"ཕྱོགས་སྟོན་:  {premise} 
-གདམ་ཁ་དང་པོ།  {choice1} 
+གདམ་ཁ་ A: {choice1} 
 གདམ་ཁ་ B: {choice2} 
 ཇི་ལྟར་ཡིན་ན་དེ་འདྲ་ཡིན་སྲིད་ཀྱི་རེད་དམ། 
 A དང་ B གཉིས་ནས་གཅིག་འདེམས་དགོས། 
-ལན་སློག  {cot}";"ཕྱོགས་སྟོན་:  {premise} 
-གདམ་ཁ་དང་པོ།  {choice1} 
+ལན་སློག :  {cot}";"ཕྱོགས་སྟོན་:  {premise} 
+གདམ་ཁ་ A:  {choice1} 
 གདམ་ཁ་ B: {choice2} 
 ཇི་ལྟར་ཡིན་ན་གང་ཞིག་འབྱུང་སྲིད་དམ། 
 A དང་ B གཉིས་ནས་གཅིག་འདེམས་དགོས། 
-ལན་སློག  {cot}";རིམ་བཞིན་བསམ་བློ་གཏོང་དགོས། ;"རྒྱུད་འདི་ལ་དཔྱད་པ།  
+ལན་སློག : {cot}";རིམ་བཞིན་བསམ་བློ་གཏོང་དགོས། ;"རྒྱུད་འདི་ལ་དཔྱད་པ།  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-གདམ་ཁ་དང་པོ།  {sentence_quiz1} 
+གདམ་ཁ་ A:  {sentence_quiz1} 
 གདམ་ཁ་ B: {sentence_quiz2} 
 རྒྱུད་ཀྱི་མཐའ་གང་ལ་འཇུག་པ་ཆེ་ཤོས་ཡིན་ནམ་ 
 A དང་ B གཉིས་ནས་གཅིག་འདེམས་དགོས། 
-ལན་སློག  {cot}"
+ལན་སློག : {cot}";"ཕྱོགས་སྟོན་:  {premise} 
+རྣམ་གཞག་:  {hypothesis} 
+ཚད་གཞི་འདི་རྣམ་གཞག་དང་འབྲེལ་བ་ཡོད་དམ།  
+ལགས་སམ་མི་བདེན་གཉིས་ལས་གཅིག་འདེམས་དགོས། 
+ལན་སློག :
+";"ཕྱོགས་སྟོན་:  {premise} 
+རྣམ་གཞག་:  {hypothesis} 
+ཚད་གཞི་འདི་རྣམ་གཞག་དང་འབྲེལ་བ་ཡོད་དམ།  
+གདམ་ཁ་ A: ལགས་སོ།།
+གདམ་ཁ་ B: མེད།  
+ཐབས་ལམ་ A དང་ B གཉིས་ནས་གཅིག་འདེམས་དགོས།  
+ལན་སློག :"
 6;bos_Latn;"Pitanje:  {question} 
 Na osnovu pitanja, formuliraj numerički odgovor.  Odgovor: ";"Pitanje:  {question} 
 Na osnovu pitanja, formuliraj numerički odgovor.  Odgovor:  Hajde da razmislimo korak po korak. ";"Predpostavka:  {premise} 
@@ -131,26 +197,48 @@ Opcija A:  {sentence_quiz1}
 Opcija B: {sentence_quiz2} 
 Koji je kraj priče najvjerovatniji? 
 Izaberite između opcija A i B. 
-Odgovor:  {cot}"
+Odgovor:  {cot}";"Predpostavka:  {premise} 
+Hipoteza:  {hypothesis} 
+Da li pretpostavka podrazumijeva hipotezu?  
+Izbor između da ili ne. 
+Odgovor:  
+";"Predpostavka:  {premise} 
+Hipoteza:  {hypothesis} 
+Da li pretpostavka podrazumijeva hipotezu?  
+Opcija A: Da.  
+Opcija B: Ne.  
+Izaberite između opcije A i B.  
+Odgovor: "
 7;bul_Cyrl;"Въпрос:  {question} 
 Въз основа на въпроса формулирайте числов отговор.  Отговор: ";"Въпрос:  {question} 
 Въз основа на въпроса формулирайте числов отговор.  Отговор:  Нека да мислим стъпка по стъпка. ";"Предположението:  {premise} 
 Опция А:  {choice1} 
-Опция Б: {choice2} 
+Опция B: {choice2} 
 Въз основа на предположението, коя причина е по-вероятна? 
-Избирай между варианти А и Б. 
+Избирай между варианти А и B. 
 Отговор:  {cot}";"Предположението:  {premise} 
 Опция А:  {choice1} 
-Опция Б: {choice2} 
+Опция B: {choice2} 
 Въз основа на предпоставката, кой ефект е по-вероятен? 
-Избирай между варианти А и Б. 
+Избирай между варианти А и B. 
 Отговор:  {cot}";Нека да мислим стъпка по стъпка. ;"Да разгледаме следната история:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 Опция А:  {sentence_quiz1} 
-Опция Б: {sentence_quiz2} 
+Опция B: {sentence_quiz2} 
 Кой край на историята е най-вероятен? 
-Избирай между варианти А и Б. 
-Отговор:  {cot}"
+Избирай между варианти А и B. 
+Отговор:  {cot}";"Предположението:  {premise} 
+Хипотеза:  {hypothesis} 
+Премисата включва ли хипотезата?  
+Избери между да или не. 
+Отговор:  
+";"Предположението:  {premise} 
+Хипотеза:  {hypothesis} 
+Премисата включва ли хипотезата?  
+Опция А: Да.  
+Опция B: Не.  
+Избирай между вариант А и В.  
+Отговор: "
 8;ces_Latn;"Otázka:  {question} 
 Na základě otázky formulujte číselnou odpověď.  Odpověď: ";"Otázka:  {question} 
 Na základě otázky formulujte číselnou odpověď.  Odpověď:  Pojďme to udělat krok za krokem. ";"Předpoklad:  {premise} 
@@ -169,7 +257,18 @@ Možnost A:  {sentence_quiz1}
 Možnost B: {sentence_quiz2} 
 Který konec příběhu je nejpravděpodobnější? 
 Vyber si mezi možnostmi A a B. 
-Odpověď:  {cot}"
+Odpověď:  {cot}";"Předpoklad:  {premise} 
+Hypotéza:  {hypothesis} 
+Je předpoklad spojen s hypotézou?  
+Vyber si mezi ano a ne. 
+Odpověď:  
+";"Předpoklad:  {premise} 
+Hypotéza:  {hypothesis} 
+Je předpoklad spojen s hypotézou?  
+Možnost A: Ano.  
+Možnost B: Ne.  
+Vyber si mezi možnostmi A a B.  
+Odpověď: "
 9;cat_Latn;"Pregunta:  {question} 
 Basant-te en la pregunta, formula una resposta numèrica.  Resposta: ";"Pregunta:  {question} 
 Basant-te en la pregunta, formula una resposta numèrica.  Resposta:  Pensem pas a pas. ";"Premissa:  {premise} 
@@ -188,7 +287,18 @@ Opció A:  {sentence_quiz1}
 Opció B: {sentence_quiz2} 
 Quin final de la història és més probable? 
 Escollir entre les opcions A i B. 
-Resposta:  {cot}"
+Resposta:  {cot}";"Premissa:  {premise} 
+Hipòtesi:  {hypothesis} 
+La premissa implica la hipòtesi?  
+Escollir entre sí o no. 
+Resposta: 
+";"Premissa:  {premise} 
+Hipòtesi:  {hypothesis} 
+La premissa implica la hipòtesi?  
+Opció A: Sí.  
+Opció B: No.  
+Escollir entre l'opció A i B.  
+Resposta: "
 10;dan_Latn;"Spørgsmål:  {question} 
 Ud fra spørgsmålet formulér et talmæssigt svar.  Svar: ";"Spørgsmål:  {question} 
 Ud fra spørgsmålet formulér et talmæssigt svar.  Svar:  Lad os tænke trin for trin. ";"Præmis:  {premise} 
@@ -207,7 +317,18 @@ Alternativ A:  {sentence_quiz1}
 Alternativ B: {sentence_quiz2} 
 Hvilken slutning er mest sandsynlig? 
 Vælg mellem A og B. 
-Svar:  {cot}"
+Svar:  {cot}";"Præmis:  {premise} 
+Hypotese:  {hypothesis} 
+Er hypotesen indbygget i præmissen?  
+Vælg mellem ja eller nej. 
+Svar:  
+";"Præmis:  {premise} 
+Hypotese:  {hypothesis} 
+Er hypotesen indbygget i præmissen?  
+Alternativ A: Ja.  
+Alternativ B: Nej.  
+Vælg mellem A og B.  
+Svar: "
 11;deu_Latn;"Frage:  {question} 
 Auf der Grundlage der Frage eine numerische Antwort formulieren.  Antwort: ";"Frage:  {question} 
 Auf der Grundlage der Frage eine numerische Antwort formulieren.  Antwort:  Denken wir Schritt für Schritt. ";"Prämissen:  {premise} 
@@ -226,7 +347,18 @@ Option A:  {sentence_quiz1}
 Option B: {sentence_quiz2} 
 Welches Ende der Geschichte ist am wahrscheinlisten? 
 Wählen Sie zwischen Option A und B. 
-Antwort:  {cot}"
+Antwort:  {cot}";"Prämissen:  {premise} 
+Hypothese:  {hypothesis} 
+Ist die Prämisse mit der Hypothese verbunden?  
+Wählen Sie zwischen Ja oder Nein. 
+Antwort: 
+";"Prämissen:  {premise} 
+Hypothese:  {hypothesis} 
+Ist die Prämisse mit der Hypothese verbunden?  
+Option A: Ja.  
+Option B: Nein.  
+Wählen Sie zwischen Option A und B.  
+Antwort: "
 12;eng_Latn;"Question:  {question} 
 Based on the question, formulate a numeric answer.  Answer: ";"Question: {question} 
 Based on the question, formulate a numeric answer.  Answer:  Let's think step by step. ";"Premise:  {premise} 
@@ -245,7 +377,18 @@ Option A:  {sentence_quiz1}
 Option B: {sentence_quiz2} 
 Which ending to the story is most likely? 
 Choose between options A and B. 
-Answer:  {cot}"
+Answer:  {cot}";"Premise:  {premise} 
+Hypothesis:  {hypothesis} 
+Does the premise entail the hypothesis?  
+Choose between yes or no. 
+Answer:  
+";"Premise:  {premise} 
+Hypothesis:  {hypothesis} 
+Does the premise entail the hypothesis?  
+Option A: Yes.  
+Option B: No.  
+Choose between option A and B.  
+Answer: "
 13;ell_Grek;"Ερώτηση:  {question} 
 Βάσει της ερώτησης, διατυπώστε μια αριθμητική απάντηση.  Απάντηση: ";"Ερώτηση:  {question} 
 Βάσει της ερώτησης, διατυπώστε μια αριθμητική απάντηση.  Απάντηση:  Ας σκεφτούμε βήμα-βήμα. ";"Προκαταθήκη:  {premise} 
@@ -264,7 +407,18 @@ Answer:  {cot}"
 Επιλογή Β: {sentence_quiz2} 
 Ποιο τέλος της ιστορίας είναι πιο πιθανό; 
 Διάλεξε ανάμεσα στις επιλογές Α και Β. 
-Απάντηση:  {cot}"
+Απάντηση:  {cot}";"Προκαταθήκη:  {premise} 
+Υποθεσία:  {hypothesis} 
+Η υπόθεση συνεπάγεται την υπόθεση;  
+Διάλεξε ανάμεσα στο ναι ή στο όχι. 
+Απάντηση:  
+";"Προκαταθήκη:  {premise} 
+Υποθεσία:  {hypothesis} 
+Η υπόθεση συνεπάγεται την υπόθεση;  
+Επιλογή Α: Ναι.  
+Επιλογή Β: Όχι.  
+Διάλεξε ανάμεσα στην επιλογή Α και Β.  
+Απάντηση: "
 14;est_Latn;"Küsimus:  {question} 
 Vastuse põhjal koostada numbriline vastus.  Vastus: ";"Küsimus:  {question} 
 Vastuse põhjal koostada numbriline vastus.  Vastus:  Mõtleme samm-sammult. ";"Eeldus:  {premise} 
@@ -283,7 +437,18 @@ Valimine A:  {sentence_quiz1}
 Valimine B: {sentence_quiz2} 
 Milline lugu lõpp on kõige tõenäolisem? 
 Vali A ja B variandi vahel. 
-Vastus:  {cot}"
+Vastus:  {cot}";"Eeldus:  {premise} 
+Hüpotees:  {hypothesis} 
+Kas eeldus on seotud hüpoteesiga?  
+Vali jah või ei. 
+Vastus:  
+";"Eeldus:  {premise} 
+Hüpotees:  {hypothesis} 
+Kas eeldus on seotud hüpoteesiga?  
+Valimine A: Jah.  
+Valimine B: Ei.  
+Vali A ja B variandi vahel.  
+Vastus: "
 15;fin_Latn;"Kysymys:  {question} 
 Laadi kysymyksen perusteella lukuinen vastaus.  Vastaa: ";"Kysymys:  {question} 
 Laadi kysymyksen perusteella lukuinen vastaus.  Vastaa:  Ajatellaan askel askeleelta. ";"- Mitä?  {premise} 
@@ -302,7 +467,18 @@ Vaihtoehto A:  {sentence_quiz1}
 Vaihtoehto B: {sentence_quiz2} 
 Mikä tarinan loppu on todennäköisin? 
 Valitse vaihtoehdon A ja B välillä. 
-Vastaa:  {cot}"
+Vastaa:  {cot}";"- Mitä?  {premise} 
+Hypoteesi:  {hypothesis} 
+Onko oletus hypoteesin mukainen?  
+Valitse kyllä tai ei. 
+Vastaa:  
+";"- Mitä?  {premise} 
+Hypoteesi:  {hypothesis} 
+Onko oletus hypoteesin mukainen?  
+Vaihtoehto A: Kyllä.  
+Vaihtoehto B: Ei.  
+Valitse vaihtoehdon A ja B välillä.  
+Vastaa: "
 16;fra_Latn;"Question: Vous avez  {question} 
 Sur la base de la question, formulez une réponse numérique.  Réponse: ";"Question: Vous avez  {question} 
 Sur la base de la question, formulez une réponse numérique.  Réponse:  Réfléchissons pas à pas. ";"Prémisse:  {premise} 
@@ -321,7 +497,18 @@ Option A:  {sentence_quiz1}
 Option B: {sentence_quiz2} 
 Quelle fin de l'histoire est la plus probable? 
 Choisissez entre les options A et B. 
-Réponse:  {cot}"
+Réponse:  {cot}";"Prémisse:  {premise} 
+Une hypothèse:  {hypothesis} 
+La prémisse implique-t-elle l'hypothèse?  
+Choisissez entre oui ou non. 
+Réponse:  
+";"Prémisse:  {premise} 
+Une hypothèse:  {hypothesis} 
+La prémisse implique-t-elle l'hypothèse?  
+Option A: Oui, le projet est déjà en cours.  
+Option B: Non, ce n'est pas le cas.  
+Choisissez entre les options A et B.  
+Réponse: "
 17;hat_Latn;"Kesyon:  {question} 
 Ki baze sou kesyon an, fòmile yon repons nimerik.  Repons: ";"Kesyon:  {question} 
 Ki baze sou kesyon an, fòmile yon repons nimerik.  Repons:  Ann panse etap pa etap. ";"Premis:  {premise} 
@@ -340,45 +527,78 @@ Opsyon A:  {sentence_quiz1}
 Opsyon B: {sentence_quiz2} 
 Ki fen istwa a gen plis chans? 
 Chwazi ant opsyon A ak B. 
-Repons:  {cot}"
+Repons:  {cot}";"Premis:  {premise} 
+Ipotèz:  {hypothesis} 
+Èske premisi a enplike ipotèz la?  
+Chwazi ant wi oswa non. 
+Repons: 
+";"Premis:  {premise} 
+Ipotèz:  {hypothesis} 
+Èske premisi a enplike ipotèz la?  
+Opsyon A: Wi.  
+Opsyon B: Non.  
+Chwazi ant opsyon A ak B.  
+Repons: "
 18;heb_Hebr;"שאלה:  {question} 
 בהתבסס על השאלה, תבצע תשובה מספרית.  תשובה: ";"שאלה:  {question} 
 בהתבסס על השאלה, תבצע תשובה מספרית.  תשובה:  בואו נחשוב צעד אחר צעד. ";"הנחה:  {premise} 
-אפשרות א':  {choice1} 
-אפשרות ב': {choice2} 
+אפשרות A:  {choice1} 
+אפשרות B: {choice2} 
 בהתבסס על הנחת היסוד, איזו סיבה היא סבירה יותר? 
-בחר בין אפשרויות א' ו-ב'. 
+בחר בין אפשרויות 'A ו-B'. 
 תשובה:  {cot}";"הנחה:  {premise} 
-אפשרות א':  {choice1} 
-אפשרות ב': {choice2} 
+אפשרות A:  {choice1} 
+אפשרות B: {choice2} 
 בהתבסס על הנחת היסוד, איזו השפעה היא סבירה יותר? 
-בחר בין אפשרויות א' ו-ב'. 
+בחר בין אפשרויות 'A ו-B'. 
 תשובה:  {cot}";בואו נחשוב צעד אחר צעד. ;"ראה את הסיפור הבא:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-אפשרות א':  {sentence_quiz1} 
-אפשרות ב': {sentence_quiz2} 
+אפשרות A:  {sentence_quiz1} 
+אפשרות B: {sentence_quiz2} 
 איזה סיום לסיפור הוא סביר ביותר? 
-בחר בין אפשרויות א' ו-ב'. 
-תשובה:  {cot}"
+בחר בין אפשרויות 'A ו-B'. 
+תשובה:  {cot}";"הנחה:  {premise} 
+השערה:  {hypothesis} 
+האם הנחת היסוד כרוכה בהשערה?  
+בחר בין כן או לא. 
+תשובה:  
+";"הנחה:  {premise} 
+השערה:  {hypothesis} 
+האם הנחת היסוד כרוכה בהשערה?  
+אפשרות A: כן.  
+אפשרות B: לא.  
+בחר בין אפשרות 'A ו-B'.  
+תשובה: "
 19;hin_Deva;"प्रश्न:  {question} 
 प्रश्न के आधार पर, संख्यात्मक उत्तर तैयार करें।  उत्तर: ";"प्रश्न:  {question} 
 प्रश्न के आधार पर, संख्यात्मक उत्तर तैयार करें।  उत्तर:  चलो कदम से कदम सोचो. ";"आधार:  {premise} 
-विकल्प ए:  {choice1} 
-विकल्प बी: {choice2} 
+विकल्प A:  {choice1} 
+विकल्प B: {choice2} 
 इस आधार पर, किस कारण की अधिक संभावना है? 
-विकल्प ए और बी में से चुनें। 
+विकल्प A और B में से चुनें। 
 उत्तर:  {cot}";"आधार:  {premise} 
-विकल्प ए:  {choice1} 
-विकल्प बी: {choice2} 
+विकल्प A:  {choice1} 
+विकल्प B: {choice2} 
 इस आधार पर, किस प्रभाव की अधिक संभावना है? 
-विकल्प ए और बी में से चुनें। 
+विकल्प A और B में से चुनें। 
 उत्तर:  {cot}";चलो कदम से कदम सोचो. ;"एक कहानी सुनिए:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-विकल्प ए:  {sentence_quiz1} 
-विकल्प बी: {sentence_quiz2} 
+विकल्प A:  {sentence_quiz1} 
+विकल्प B: {sentence_quiz2} 
 कहानी का कौन सा अंत सबसे अधिक संभावना है? 
-विकल्प ए और बी में से चुनें। 
-उत्तर:  {cot}"
+विकल्प A और B में से चुनें। 
+उत्तर:  {cot}";"आधार:  {premise} 
+परिकल्पना:  {hypothesis} 
+क्या प्रस्तावना परिकल्पना को शामिल करती है?  
+हाँ या नहीं के Bच चुनें। 
+उत्तर: 
+";"आधार:  {premise} 
+परिकल्पना:  {hypothesis} 
+क्या प्रस्तावना परिकल्पना को शामिल करती है?  
+विकल्प A: हाँ।  
+विकल्प B: नहीं।  
+विकल्प A और B में से चुनें।  
+उत्तर: "
 20;hun_Latn;"Kérdés:  {question} 
 A kérdés alapján számszerű válasszal válaszoljon.  Válasz: ";"Kérdés:  {question} 
 A kérdés alapján számszerű válasszal válaszoljon.  Válasz:  Gondolkozzunk lépésről lépésre. ";"Előfeltétele:  {premise} 
@@ -397,7 +617,18 @@ A. opció:  {sentence_quiz1}
 B. opció: {sentence_quiz2} 
 Melyik a legvalószínűbb a történetnek? 
 Válasszon az A és B lehetőségek közül. 
-Válasz:  {cot}"
+Válasz:  {cot}";"Előfeltétele:  {premise} 
+Feltételezés:  {hypothesis} 
+A premisszák a hipotézist is magukban foglalják?  
+Válasszon igent vagy nemet. 
+Válasz:  
+";"Előfeltétele:  {premise} 
+Feltételezés:  {hypothesis} 
+A premisszák a hipotézist is magukban foglalják?  
+A. opció: Igen.  
+B. lehetőség: Nem.  
+Válasszon az A és a B lehetőség közül.  
+Válasz: "
 21;hrv_Latn;"Pitanje:  {question} 
 Na temelju pitanja, formulirajte numerički odgovor.  Odgovor: ";"Pitanje:  {question} 
 Na temelju pitanja, formulirajte numerički odgovor.  Odgovor:  Razmislimo korak po korak. ";"Predpostavka:  {premise} 
@@ -416,7 +647,18 @@ Opcija A:  {sentence_quiz1}
 Opcija B: {sentence_quiz2} 
 Koji je kraj priče najvjerojatniji? 
 Izaberite između opcija A i B. 
-Odgovor:  {cot}"
+Odgovor:  {cot}";"Predpostavka:  {premise} 
+Hipotetički:  {hypothesis} 
+Da li pretpostavka podrazumijeva hipotezu?  
+Izaberite između da ili ne. 
+Odgovor:  
+";"Predpostavka:  {premise} 
+Hipotetički:  {hypothesis} 
+Da li pretpostavka podrazumijeva hipotezu?  
+Opcija A: Da.  
+Opcija B: Ne.  
+Izaberite između opcije A i B.  
+Odgovor: "
 22;hye_Armn;"Հարց.  {question} 
 Հարցի հիման վրա կազմեք թվային պատասխան:  Պատասխան. ";"Հարց.  {question} 
 Հարցի հիման վրա կազմեք թվային պատասխան:  Պատասխան.  Եկեք քայլ առ քայլ մտածենք: ";"Նախադրյալ:  {premise} 
@@ -435,7 +677,18 @@ B տարբերակ {choice2}
 B տարբերակ {sentence_quiz2} 
 Ո՞ր վերջն է ամենահավանականը: 
 Ընտրեք A եւ B տարբերակների միջեւ: 
-Պատասխան.  {cot}"
+Պատասխան.  {cot}";"Նախադրյալ:  {premise} 
+Ենթադրություն:  {hypothesis} 
+Արդյո՞ք ենթադրությունը ենթադրություն է:  
+Ընտրեք այո կամ ոչ: 
+Պատասխան.  
+";"Նախադրյալ:  {premise} 
+Ենթադրություն:  {hypothesis} 
+Արդյո՞ք ենթադրությունը ենթադրություն է:  
+Այո, կարող եք։  
+Բ տարբերակ՝ ոչ։  
+Ընտրեք A եւ B տարբերակների միջեւ:  
+Պատասխան. "
 23;ind_Latn;"Pertanyaan:  {question} 
 Berdasarkan pertanyaan, buatlah jawaban numerik.  Jawabannya: ";"Pertanyaan:  {question} 
 Berdasarkan pertanyaan, buatlah jawaban numerik.  Jawabannya:  Mari kita berpikir langkah demi langkah. ";"Premis:  {premise} 
@@ -454,7 +707,18 @@ Pilihan A:  {sentence_quiz1}
 Pilihan B: {sentence_quiz2} 
 Apa akhir dari cerita yang paling mungkin? 
 Pilih antara pilihan A dan B. 
-Jawabannya:  {cot}"
+Jawabannya:  {cot}";"Premis:  {premise} 
+Hipotesis:  {hypothesis} 
+Apakah premisnya melibatkan hipotesisnya?  
+Pilih antara ya atau tidak. 
+Jawabannya:  
+";"Premis:  {premise} 
+Hipotesis:  {hypothesis} 
+Apakah premisnya melibatkan hipotesisnya?  
+Pilihan A: Ya.  
+Pilihan B: Tidak.  
+Pilih antara pilihan A dan B.  
+Jawabannya: "
 24;ita_Latn;"Domanda:  {question} 
 Sulla base della domanda, formulare una risposta numerica.  Risposta: ";"Domanda:  {question} 
 Sulla base della domanda, formulare una risposta numerica.  Risposta:  Pensiamo passo dopo passo. ";"Primo:  {premise} 
@@ -473,7 +737,18 @@ Opzione A:  {sentence_quiz1}
 Opzione B: {sentence_quiz2} 
 Quale finale della storia e' piu' probabile? 
 Scegli tra le opzioni A e B. 
-Risposta:  {cot}"
+Risposta:  {cot}";"Primo:  {premise} 
+Ipotesi:  {hypothesis} 
+La premessa implica l'ipotesi?  
+Scegli tra sì o no. 
+Risposta:  
+";"Primo:  {premise} 
+Ipotesi:  {hypothesis} 
+La premessa implica l'ipotesi?  
+Opzione A: Sì.  
+Opzione B: No.  
+Scegli tra l'opzione A e B.  
+Risposta: "
 25;jav_Latn;"Pitakonan:  {question} 
 Adhedhasar pitakonan, formulasi jawaban numerik.  Wangsulan: ";"Pitakonan:  {question} 
 Adhedhasar pitakonan, formulasi jawaban numerik.  Wangsulan:  Ayo dipikir langkah demi langkah. ";"Premis:  {premise} 
@@ -492,7 +767,18 @@ Pilihan A:  {sentence_quiz1}
 Pilihan B: {sentence_quiz2} 
 Apa sing paling mungkin bakal kelakon ing crita iki? 
 Pilih ing antarane opsi A lan B. 
-Wangsulan:  {cot}"
+Wangsulan:  {cot}";"Premis:  {premise} 
+Hipotesis:  {hypothesis} 
+Apa premis kasebut ndadékaké hipotesis?  
+Pilih ya utawa ora. 
+Wangsulan: 
+";"Premis:  {premise} 
+Hipotesis:  {hypothesis} 
+Apa premis kasebut ndadékaké hipotesis?  
+Pilihan A: Ya.  
+Pilihan B: Ora.  
+Pilih ing antarane opsi A lan B.  
+Wangsulan: "
 26;jpn_Jpan;"質問: どこにいる?  {question} 
 質問に基づいて,数値で答えを述べる.  答え: 答えは ";"質問: どこにいる?  {question} 
 質問に基づいて,数値で答えを述べる.  答え: 答えは  段階的に考えましょう ";"仮説:  {premise} 
@@ -511,7 +797,18 @@ Wangsulan:  {cot}"
 オプションB: {sentence_quiz2} 
 物語のどちらの結末が 最もありそうか? 
 選択肢AとBのどちらかを選択する. 
-答え: 答えは  {cot}"
+答え: 答えは  {cot}";"仮説:  {premise} 
+仮説:  {hypothesis} 
+仮説は前提に含まれているか?  
+選択してください. 
+答え: 答えは
+";"仮説:  {premise} 
+仮説:  {hypothesis} 
+仮説は前提に含まれているか?  
+選択肢A:はい  
+選択肢B: 違う  
+選択肢AとBのどちらかを選択する  
+答え: 答えは "
 27;khm_Khmr;"សំណួរ:  {question} 
 ផ្អែកលើសំណួរនេះ សូមរៀបចំចម្លើយតាមចំនួន។  ចម្លើយ: ";"សំណួរ:  {question} 
 ផ្អែកលើសំណួរនេះ សូមរៀបចំចម្លើយតាមចំនួន។  ចម្លើយ:  យើងគិតមួយជំហានៗៗ ";"ការសន្មត:  {premise} 
@@ -530,7 +827,18 @@ Wangsulan:  {cot}"
 ជម្រើស B: {sentence_quiz2} 
 តើ រឿង នេះ អាច បញ្ចប់ ទៅ ដោយ របៀប ណា? 
 ជ្រើសរើសពីចន្លោះជម្រើស A និង B ។ 
-ចម្លើយ:  {cot}"
+ចម្លើយ:  {cot}";"ការសន្មត:  {premise} 
+ការស្រមៃ:  {hypothesis} 
+តើការលើកឡើងនេះមានន័យថាមានអត្ថន័យដូចការលើកឡើងនេះដែរឬទេ?  
+ជ្រើសរើសពីចន្លោះបាទ ឬទេ 
+ចម្លើយ:  
+";"ការសន្មត:  {premise} 
+ការស្រមៃ:  {hypothesis} 
+តើការលើកឡើងនេះមានន័យថាមានអត្ថន័យដូចការលើកឡើងនេះដែរឬទេ?  
+ជម្រើស A: មែន។  
+ជម្រើស B: ទេ  
+ជ្រើសរើសពីចន្លោះជម្រើស A និង B  
+ចម្លើយ: "
 28;kor_Hang;"질문:  {question} 
 질문 에 근거 하여 숫자 로 답 을 정합 하십시오.  답: ";"질문:  {question} 
 질문 에 근거 하여 숫자 로 답 을 정합 하십시오.  답:  한 단계씩 생각해 봅시다. ";"전제:  {premise} 
@@ -549,7 +857,18 @@ Wangsulan:  {cot}"
 옵션 B: {sentence_quiz2} 
 어떤 이야기가 가장 잘 끝날까요? 
 선택 A와 B 중에서 선택하세요. 
-답:  {cot}"
+답:  {cot}";"전제:  {premise} 
+가설:  {hypothesis} 
+전제는 가설을 포함하고 있나요?  
+네 또는 아니오 중 하나를 선택하세요.
+답:   
+";"전제:  {premise} 
+가설:  {hypothesis} 
+전제는 가설을 포함하고 있나요?  
+옵션 A: 네.  
+옵션 B: 아니요.  
+선택 A와 B 중에서 선택하세요.  
+답: "
 29;lao_Laoo;"ຄໍາຖາມ:  {question} 
 ອີງໃສ່ຄໍາຖາມ, ສ້າງຄໍາຕອບເປັນຕົວເລກ.  ຄໍາຕອບ: ";"ຄໍາຖາມ:  {question} 
 ອີງໃສ່ຄໍາຖາມ, ສ້າງຄໍາຕອບເປັນຕົວເລກ.  ຄໍາຕອບ:  ໃຫ້ຄິດເທື່ອລະກ້າວ. ";"ການຕັ້ງໃຈ:  {premise} 
@@ -568,64 +887,108 @@ Wangsulan:  {cot}"
 ທາງເລືອກ B: {sentence_quiz2} 
 ເລື່ອງນີ້ຈະສິ້ນສຸດລົງແບບໃດ? 
 ເລືອກລະຫວ່າງທາງເລືອກ A ແລະ B. 
-ຄໍາຕອບ:  {cot}"
+ຄໍາຕອບ:  {cot}";"ການຕັ້ງໃຈ:  {premise} 
+ທິດສະດີ:  {hypothesis} 
+ການຕັ້ງໃຈແມ່ນມີສ່ວນຮ່ວມກັບການຄາດຄະເນບໍ?  
+ເລືອກລະຫວ່າງແມ່ນ ຫຼື ບໍ່. 
+ຄໍາຕອບ: 
+";"ການຕັ້ງໃຈ:  {premise} 
+ທິດສະດີ:  {hypothesis} 
+ການຕັ້ງໃຈແມ່ນມີສ່ວນຮ່ວມກັບການຄາດຄະເນບໍ?  
+ທາງເລືອກ A: ແມ່ນແລ້ວ.  
+ທາງເລືອກ B: ບໍ່.  
+ເລືອກລະຫວ່າງທາງເລືອກ A ແລະ B.  
+ຄໍາຕອບ: "
 30;mai_Deva;"प्रश्न:  {question} 
 प्रश्नक आधार पर, संख्यात्मक उत्तर तैयार करू।  उत्तर: ";"प्रश्न:  {question} 
 प्रश्नक आधार पर, संख्यात्मक उत्तर तैयार करू।  उत्तर:  चलू, एक-एक कऽ सोचैत छी। ";"आधार:  {premise} 
-विकल्प ए:  {choice1} 
-विकल्प बीः {choice2} 
+विकल्प A:  {choice1} 
+विकल्प B: {choice2} 
 एहि आधार पर, कोन कारण अधिक संभावना अछि? 
-विकल्प ए आ विकल्प बी मे सँ चुनू. 
+विकल्प A आ विकल्प B मे सँ चुनू. 
 उत्तर:  {cot}";"आधार:  {premise} 
-विकल्प ए:  {choice1} 
-विकल्प बीः {choice2} 
+विकल्प A:  {choice1} 
+विकल्प B: {choice2} 
 एहि आधार पर, कोन प्रभाव अधिक संभावना अछि? 
-विकल्प ए आ विकल्प बी मे सँ चुनू. 
+विकल्प A आ विकल्प B मे सँ चुनू. 
 उत्तर:  {cot}";चलू, एक-एक कऽ सोचैत छी। ;"निम्नलिखित कथा पर विचार करू:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-विकल्प ए:  {sentence_quiz1} 
-विकल्प बीः {sentence_quiz2} 
+विकल्प A:  {sentence_quiz1} 
+विकल्प B: {sentence_quiz2} 
 कथाक कोन अंत बेसी संभावना अछि? 
-विकल्प ए आ विकल्प बी मे सँ चुनू. 
-उत्तर:  {cot}"
+विकल्प A आ विकल्प B मे सँ चुनू. 
+उत्तर:  {cot}";"आधार:  {premise} 
+परिकल्पना:  {hypothesis} 
+की प्रस्तावना परिकल्पना केँ अपना संग लैत अछि?  
+हाँ या ना मे सँ चुनू. 
+उत्तर:  
+";"आधार:  {premise} 
+परिकल्पना:  {hypothesis} 
+की प्रस्तावना परिकल्पना केँ अपना संग लैत अछि?  
+विकल्प A: हँ।  
+विकल्प B: नहि।  
+विकल्प A आ विकल्प B मे सँ चुनू.  
+उत्तर: "
 31;mal_Mlym;"ചോദ്യം:  {question} 
 ചോദ്യത്തിന് ഒരു സംഖ്യാ ഉത്തരം ഉണ്ടാക്കുക.  ഉത്തരം: ";"ചോദ്യം:  {question} 
 ചോദ്യത്തിന് ഒരു സംഖ്യാ ഉത്തരം ഉണ്ടാക്കുക.  ഉത്തരം:  നമുക്ക് പടിപടിയായി ചിന്തിക്കാം. ";"പ്രമേയം:  {premise} 
-ഓപ്ഷൻ എ:  {choice1} 
-ഓപ്ഷൻ ബി: {choice2} 
+ഓപ്ഷൻ A:  {choice1} 
+ഓപ്ഷൻ B: {choice2} 
 ഈ പ്രമേയത്തിന്റെ അടിസ്ഥാനത്തില്, ഏത് കാരണമാണ് കൂടുതല് സാദ്ധ്യമായത്? 
-ഓപ്ഷനുകള് എ, ബി എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
+ഓപ്ഷനുകള് A, B എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
 ഉത്തരം:  {cot}";"പ്രമേയം:  {premise} 
-ഓപ്ഷൻ എ:  {choice1} 
-ഓപ്ഷൻ ബി: {choice2} 
+ഓപ്ഷൻ A:  {choice1} 
+ഓപ്ഷൻ B: {choice2} 
 ഈ പ്രമേയത്തിന്റെ അടിസ്ഥാനത്തില്, ഏത് പ്രഭാവമാണ് കൂടുതല് സാദ്ധ്യമായത്? 
-ഓപ്ഷനുകള് എ, ബി എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
+ഓപ്ഷനുകള് A, B എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
 ഉത്തരം:  {cot}";നമുക്ക് പടിപടിയായി ചിന്തിക്കാം. ;"ഒരു കഥ:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-ഓപ്ഷൻ എ:  {sentence_quiz1} 
-ഓപ്ഷൻ ബി: {sentence_quiz2} 
+ഓപ്ഷൻ A:  {sentence_quiz1} 
+ഓപ്ഷൻ B: {sentence_quiz2} 
 കഥയുടെ ഏത് അവസാനം ആണ് ഏറ്റവും സാധ്യത? 
-ഓപ്ഷനുകള് എ, ബി എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
-ഉത്തരം:  {cot}"
+ഓപ്ഷനുകള് A, B എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
+ഉത്തരം:  {cot}";"പ്രമേയം:  {premise} 
+അനുമാനം:  {hypothesis} 
+ആ പ്രമേയം ആ അനുമാനത്തെ ഉൾക്കൊള്ളുന്നുണ്ടോ?  
+അതെ അല്ല എന്നതിൽ നിന്ന് ഒന്ന് തിരഞ്ഞെടുക്കൂ. 
+ഉത്തരം: 
+";"പ്രമേയം:  {premise} 
+അനുമാനം:  {hypothesis} 
+ആ പ്രമേയം ആ അനുമാനത്തെ ഉൾക്കൊള്ളുന്നുണ്ടോ?  
+ഓപ്ഷൻ A: അതെ.  
+ഓപ്ഷൻ B: ഇല്ല  
+ഓപ്ഷൻ A, B എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക.  
+ഉത്തരം: "
 32;mar_Deva;"प्रश्न:  {question} 
 प्रश्नावर आधारित, एक संख्यात्मक उत्तर तयार करा.  उत्तर: ";"प्रश्न:  {question} 
 प्रश्नावर आधारित, एक संख्यात्मक उत्तर तयार करा.  उत्तर:  चला एक एक पाऊल विचार करूया. ";"आधार:  {premise} 
-पर्याय अ:  {choice1} 
-पर्याय ब: {choice2} 
+पर्याय A:  {choice1} 
+पर्याय B: {choice2} 
 या प्रमेयानुसार, कोणत्या कारणामुळे अधिक शक्यता आहे? 
-पर्याय अ आणि ब मधून निवडा. 
+पर्याय A आणि B मधून निवडा. 
 उत्तर:  {cot}";"आधार:  {premise} 
-पर्याय अ:  {choice1} 
-पर्याय ब: {choice2} 
+पर्याय A:  {choice1} 
+पर्याय B: {choice2} 
 या प्रमेयानुसार, कोणता परिणाम अधिक संभव आहे? 
-पर्याय अ आणि ब मधून निवडा. 
+पर्याय A आणि B मधून निवडा. 
 उत्तर:  {cot}";चला एक एक पाऊल विचार करूया. ;"पुढील कथा पाहा:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-पर्याय अ:  {sentence_quiz1} 
-पर्याय ब: {sentence_quiz2} 
+पर्याय A:  {sentence_quiz1} 
+पर्याय B: {sentence_quiz2} 
 कथेचा कोणता शेवट सर्वात जास्त संभव आहे? 
-पर्याय अ आणि ब मधून निवडा. 
-उत्तर:  {cot}"
+पर्याय A आणि B मधून निवडा. 
+उत्तर:  {cot}";"आधार:  {premise} 
+गृहीते:  {hypothesis} 
+प्रमेय गृहीतेला सूचित करते का?  
+हो किंवा नाही यापैकी एक निवडा. 
+उत्तर:  
+";"आधार:  {premise} 
+गृहीते:  {hypothesis} 
+प्रमेय गृहीतेला सूचित करते का?  
+पर्याय A: होय.  
+पर्याय B: नाही.  
+पर्याय A आणि B मधून निवडा.  
+उत्तर: "
 33;mya_Mymr;"မေးခွန်းက  {question} 
 မေးခွန်းကို အခြေခံပြီး အဖြေကို ဂဏန်းနဲ့ ရေးပါ။  အဖြေက ";"မေးခွန်းက  {question} 
 မေးခွန်းကို အခြေခံပြီး အဖြေကို ဂဏန်းနဲ့ ရေးပါ။  အဖြေက  တစ်ဆင့်ပြီး တစ်ဆင့် တွေးကြည့်ရအောင်။ ";"အခြေခံသဘောတရား:  {premise} 
@@ -633,18 +996,29 @@ Wangsulan:  {cot}"
 ရွေးချယ်စရာ B: {choice2} 
 အဆိုကြမ်းကို အခြေခံပြီး ဘယ်အကြောင်းတရားက ဖြစ်နိုင်ခြေ ပိုများလဲ။ 
 ရွေးချယ်စရာ A နဲ့ B အကြားမှာ ရွေးပါ။ 
-အဖြေက  {cot}";"အခြေခံသဘောတရား:  {premise} 
+အဖြေက:  {cot}";"အခြေခံသဘောတရား:  {premise} 
 ရွေးချယ်စရာ A:  {choice1} 
 ရွေးချယ်စရာ B: {choice2} 
 အဆိုပြုချက်ကို အခြေခံပြီး ဘယ်အကျိုးသက်ရောက်မှုက ပိုဖြစ်နိုင်ခြေရှိလဲ။ 
 ရွေးချယ်စရာ A နဲ့ B အကြားမှာ ရွေးပါ။ 
-အဖြေက  {cot}";တစ်ဆင့်ပြီး တစ်ဆင့် တွေးကြည့်ရအောင်။ ;"[စာမျက်နှာ ၂၃ ပါ ရုပ်ပုံ]  
+အဖြေက:  {cot}";တစ်ဆင့်ပြီး တစ်ဆင့် တွေးကြည့်ရအောင်။ ;"[စာမျက်နှာ ၂၃ ပါ ရုပ်ပုံ]  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 ရွေးချယ်စရာ A:  {sentence_quiz1} 
 ရွေးချယ်စရာ B: {sentence_quiz2} 
 ဘယ်အဆုံးသတ်က ဖြစ်နိုင်ခြေအရှိဆုံးလဲ။ 
 ရွေးချယ်စရာ A နဲ့ B အကြားမှာ ရွေးပါ။ 
-အဖြေက  {cot}"
+အဖြေက:  {cot}";"အခြေခံသဘောတရား:  {premise} 
+အဆိုကြမ်း:  {hypothesis} 
+အဆိုကြမ်းဟာ အဆိုကြမ်းနဲ့ ကိုက်ညီလား။  
+ဟုတ်၊ မဟုတ် ရွေးလိုက်ပါ။ 
+အဖြေက:
+";"အခြေခံသဘောတရား:  {premise} 
+အဆိုကြမ်း:  {hypothesis} 
+အဆိုကြမ်းဟာ အဆိုကြမ်းနဲ့ ကိုက်ညီလား။  
+ရွေးချယ်စရာ A: ဟုတ်တယ်။  
+B ရွေးချယ်မှု- မရပါ။  
+ရွေးချယ်စရာ A နဲ့ B အကြားမှာ ရွေးပါ။  
+အဖြေက: "
 34;nno_Latn;"Spørsmål:  {question} 
 Basert på spørsmålet, formulera eit numerisk svar.  Svar: ";"Spørsmål:  {question} 
 Basert på spørsmålet, formulera eit numerisk svar.  Svar:  Lat oss tenkja skritt for skritt. ";"Utgangspunktet:  {premise} 
@@ -663,7 +1037,18 @@ Alternativ A:  {sentence_quiz1}
 Alternativ B: {sentence_quiz2} 
 Kva for ein slutt på historia er mest sannsynleg? 
 Velg mellom alternativ A og B. 
-Svar:  {cot}"
+Svar:  {cot}";"Utgangspunktet:  {premise} 
+Hypotese:  {hypothesis} 
+Fører premissa med seg hypotesen?  
+Velg mellom ja eller nei. 
+Svar: 
+";"Utgangspunktet:  {premise} 
+Hypotese:  {hypothesis} 
+Fører premissa med seg hypotesen?  
+Alternativ A: Ja.  
+Alternativ B: Nei.  
+Velg mellom alternativ A og B.  
+Svar: "
 35;nld_Latn;"Vraag:  {question} 
 Gebaseerd op de vraag, formuleer een numeriek antwoord.  Antwoord: ";"Vraag:  {question} 
 Gebaseerd op de vraag, formuleer een numeriek antwoord.  Antwoord:  Laten we stap voor stap denken. ";"Voorwaarde:  {premise} 
@@ -682,26 +1067,48 @@ Optie A:  {sentence_quiz1}
 Optie B: {sentence_quiz2} 
 Welk einde van het verhaal is het meest waarschijnlijk? 
 Kies tussen optie A en B. 
-Antwoord:  {cot}"
+Antwoord:  {cot}";"Voorwaarde:  {premise} 
+Hypothese:  {hypothesis} 
+Volgt de premisse de hypothese?  
+Kies tussen ja of nee. 
+Antwoord: 
+";"Voorwaarde:  {premise} 
+Hypothese:  {hypothesis} 
+Volgt de premisse de hypothese?  
+Optie A: Ja.  
+Optie B: Nee.  
+Kies tussen optie A en B.  
+Antwoord: "
 36;npi_Deva;"प्रश्न:  {question} 
 प्रश्नको आधारमा, संख्यात्मक उत्तर तयार पार्नुहोस्।  उत्तर: ";"प्रश्न:  {question} 
 प्रश्नको आधारमा, संख्यात्मक उत्तर तयार पार्नुहोस्।  उत्तर:  अब एक-एक गरेर सोचौं। ";"आधार:  {premise} 
-विकल्प ए:  {choice1} 
-विकल्प बी: {choice2} 
+विकल्प A:  {choice1} 
+विकल्प B: {choice2} 
 यो आधारमा, कुन कारण बढी सम्भावना छ? 
-विकल्प ए र बी बीचमा छनौट गर्नुहोस्। 
+विकल्प A र B बीचमा छनौट गर्नुहोस्। 
 उत्तर:  {cot}";"आधार:  {premise} 
-विकल्प ए:  {choice1} 
-विकल्प बी: {choice2} 
+विकल्प A:  {choice1} 
+विकल्प B: {choice2} 
 यो आधारमा, कुन प्रभाव बढी सम्भावना छ? 
-विकल्प ए र बी बीचमा छनौट गर्नुहोस्। 
+विकल्प A र B बीचमा छनौट गर्नुहोस्। 
 उत्तर:  {cot}";अब एक-एक गरेर सोचौं। ;"[पृष्ठ २३-मा भएको चित्र]  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-विकल्प ए:  {sentence_quiz1} 
-विकल्प बी: {sentence_quiz2} 
+विकल्प A:  {sentence_quiz1} 
+विकल्प B: {sentence_quiz2} 
 कथाको कुन अन्त हुने सम्भावना बढी छ? 
-विकल्प ए र बी बीचमा छनौट गर्नुहोस्। 
-उत्तर:  {cot}"
+विकल्प A र B बीचमा छनौट गर्नुहोस्। 
+उत्तर:  {cot}";"आधार:  {premise} 
+परिकल्पना:  {hypothesis} 
+के यो आधारमा परिकल्पनालाई समावेश गरिएको छ?  
+हो वा होइन भन्ने बीचमा छनौट गर्नुहोस्। 
+उत्तर:  
+";"आधार:  {premise} 
+परिकल्पना:  {hypothesis} 
+के यो आधारमा परिकल्पनालाई समावेश गरिएको छ?  
+विकल्प A: हो  
+विकल्प B: होइन।  
+विकल्प A र B बीचमा छनौट गर्नुहोस्।  
+उत्तर: "
 37;pol_Latn;"Pytanie:  {question} 
 Na podstawie pytania sformułuj odpowiedź numeryczną.  Odpowiedź: ";"Pytanie:  {question} 
 Na podstawie pytania sformułuj odpowiedź numeryczną.  Odpowiedź:  Pomyślmy krok po kroku. ";"Wniosek:  {premise} 
@@ -720,7 +1127,18 @@ Opcja A:  {sentence_quiz1}
 Opcja B: {sentence_quiz2} 
 Który koniec tej historii jest najbardziej prawdopodobny? 
 Wybierz opcję A lub B. 
-Odpowiedź:  {cot}"
+Odpowiedź:  {cot}";"Wniosek:  {premise} 
+Hipoteza:  {hypothesis} 
+Czy założenie zawiera hipotezę?  
+Wybierz między tak lub nie. 
+Odpowiedź:  
+";"Wniosek:  {premise} 
+Hipoteza:  {hypothesis} 
+Czy założenie zawiera hipotezę?  
+Opcja A: Tak.  
+Opcja B: Nie.  
+Wybierz opcję A lub B.  
+Odpowiedź: "
 38;por_Latn;"Pergunta:  {question} 
 Com base na pergunta, formule uma resposta numérica.  Resposta: ";"Pergunta:  {question} 
 Com base na pergunta, formule uma resposta numérica.  Resposta:  Vamos pensar passo a passo. ";"A premissa:  {premise} 
@@ -739,7 +1157,18 @@ Opção A:  {sentence_quiz1}
 Opção B: {sentence_quiz2} 
 Qual é o final mais provável da história? 
 Escolhe entre as opções A e B. 
-Resposta:  {cot}"
+Resposta:  {cot}";"A premissa:  {premise} 
+Hipótese:  {hypothesis} 
+A premissa implica a hipótese?  
+Escolhe entre sim ou não. 
+Resposta: 
+";"A premissa:  {premise} 
+Hipótese:  {hypothesis} 
+A premissa implica a hipótese?  
+Opção A: Sim.  
+Opção B: Não.  
+Escolhe entre a opção A e B.  
+Resposta: "
 39;slk_Latn;"Otázka:  {question} 
 Na základe otázky formulovať číselnú odpoveď.  Odpoveď: ";"Otázka:  {question} 
 Na základe otázky formulovať číselnú odpoveď.  Odpoveď:  Poďme sa zamyslieť krok za krokom. ";"Predpoklad:  {premise} 
@@ -758,26 +1187,48 @@ Možnosť A:  {sentence_quiz1}
 Možnosť B: {sentence_quiz2} 
 Ktorý koniec príbehu je najpravdepodobnejší? 
 Vyberte si medzi možnosťami A a B. 
-Odpoveď:  {cot}"
+Odpoveď:  {cot}";"Predpoklad:  {premise} 
+Hypotéza:  {hypothesis} 
+Predstavuje predpoklad hypotézu?  
+Vyber si medzi áno alebo nie. 
+Odpoveď:  
+";"Predpoklad:  {premise} 
+Hypotéza:  {hypothesis} 
+Predstavuje predpoklad hypotézu?  
+Možnosť A: Áno.  
+Možnosť B: Nie.  
+Vyberte si medzi možnosťami A a B.  
+Odpoveď: "
 40;quy_Latn;"Tapukuy:  {question} 
 Chay tapuymanjina, uj númerowan kutichiy.  Rikun: ";"Tapukuy:  {question} 
 Chay tapuymanjina, uj númerowan kutichiy.  Rikun:  Imatachus ruwasun chayta tʼukurisun. ";"Imachus kasqanta:  {premise} 
 A:  {choice1} 
-Imachus kanman chayta ajllay: {choice2} 
+B: {choice2} 
 ¿Imawantaj chay llakiyqa ruwakunman? 
 A, B nisqamanta akllay. 
 Rikun:  {cot}";"Imachus kasqanta:  {premise} 
 A:  {choice1} 
-Imachus kanman chayta ajllay: {choice2} 
+B: {choice2} 
 ¿Imachus aswan allin kanman? 
 A, B nisqamanta akllay. 
 Rikun:  {cot}";Imatachus ruwasun chayta tʼukurisun. ;"Kay willakuypi tʼukurina:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 A:  {sentence_quiz1} 
-Imachus kanman chayta ajllay: {sentence_quiz2} 
+B: {sentence_quiz2} 
 ¿Mayqen tukukuynin aswan allin kanman? 
 A, B nisqamanta akllay. 
-Rikun:  {cot}"
+Rikun:  {cot}";"Imachus kasqanta:  {premise} 
+Imaynatataq?  {hypothesis} 
+¿Chay sutillatachu yuyanchik?  
+Chaypaqqa, ""arí"" chayri ""mana"" ninayki tiyan. 
+Rikun:  
+";"Imachus kasqanta:  {premise} 
+Imaynatataq?  {hypothesis} 
+¿Chay sutillatachu yuyanchik?  
+A: Arí.  
+B: Mana.  
+A, B nisqamanta akllay.  
+Rikun: "
 41;ron_Latn;"Întrebare:  {question} 
 Pe baza întrebării, formulaţi un răspuns numeric.  Răspuns: ";"Întrebare:  {question} 
 Pe baza întrebării, formulaţi un răspuns numeric.  Răspuns:  Să ne gândim pas cu pas. ";"Prezenta:  {premise} 
@@ -796,26 +1247,48 @@ Opțiunea A:  {sentence_quiz1}
 Opțiunea B: {sentence_quiz2} 
 Care este cel mai probabil final al poveştii? 
 Alege între opţiunile A şi B. 
-Răspuns:  {cot}"
+Răspuns:  {cot}";"Prezenta:  {premise} 
+Ipoteza:  {hypothesis} 
+Presupunerea implică ipoteza?  
+Alege între da sau nu. 
+Răspuns:  
+";"Prezenta:  {premise} 
+Ipoteza:  {hypothesis} 
+Presupunerea implică ipoteza?  
+Opțiunea A: Da.  
+Opţiunea B: Nu.  
+Alege între opţiunea A şi B.  
+Răspuns: "
 42;rus_Cyrl;"Вопрос:  {question} 
 На основании вопроса сформулируйте числовой ответ.  Ответ: ";"Вопрос:  {question} 
 На основании вопроса сформулируйте числовой ответ.  Ответ:  Давайте подумаем шаг за шагом. ";"Предмет:  {premise} 
 Вариант А:  {choice1} 
-Вариант Б: {choice2} 
+Вариант B: {choice2} 
 Исходя из предположения, какая причина более вероятна? 
 Выбирай между вариантами А и В. 
 Ответ:  {cot}";"Предмет:  {premise} 
 Вариант А:  {choice1} 
-Вариант Б: {choice2} 
+Вариант B: {choice2} 
 Исходя из предпосылки, какой эффект более вероятен? 
 Выбирай между вариантами А и В. 
 Ответ:  {cot}";Давайте подумаем шаг за шагом. ;"Рассмотрим следующую историю:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 Вариант А:  {sentence_quiz1} 
-Вариант Б: {sentence_quiz2} 
+Вариант B: {sentence_quiz2} 
 Какой конец истории наиболее вероятен? 
 Выбирай между вариантами А и В. 
-Ответ:  {cot}"
+Ответ:  {cot}";"Предмет:  {premise} 
+Гипотеза:  {hypothesis} 
+Предположение влечет за собой гипотезу?  
+Выбирай между да или нет. 
+Ответ: 
+";"Предмет:  {premise} 
+Гипотеза:  {hypothesis} 
+Предположение влечет за собой гипотезу?  
+Вариант А: Да.  
+Вариант B: Нет.  
+Выбирай между вариантами А и В.  
+Ответ: "
 43;slv_Latn;"Vprašanje:  {question} 
 Na podlagi vprašanja oblikujte numerični odgovor.  Odgovor: ";"Vprašanje:  {question} 
 Na podlagi vprašanja oblikujte numerični odgovor.  Odgovor:  Razmislimo korak za korakom. ";"Predpostavka:  {premise} 
@@ -834,7 +1307,18 @@ Možnost A:  {sentence_quiz1}
 Možnost B: {sentence_quiz2} 
 Kateri konec zgodbe je najverjetnejši? 
 Izbiraj med možnostma A in B. 
-Odgovor:  {cot}"
+Odgovor:  {cot}";"Predpostavka:  {premise} 
+Hipoteza:  {hypothesis} 
+Ali premisa vključuje hipotezo?  
+Izbiraj med ja ali ne. 
+Odgovor: 
+";"Predpostavka:  {premise} 
+Hipoteza:  {hypothesis} 
+Ali premisa vključuje hipotezo?  
+Možnost A: Da.  
+Možnost B: Ne.  
+Izbiraj med možnostma A in B.  
+Odgovor: "
 44;spa_Latn;"¿ Qué es lo que dice?  {question} 
 Basado en la pregunta, formule una respuesta numérica.  La respuesta es: ";"¿ Qué es lo que dice?  {question} 
 Basado en la pregunta, formule una respuesta numérica.  La respuesta es:  Pensemos paso a paso. ";"El argumento:  {premise} 
@@ -853,26 +1337,48 @@ Opción A:  {sentence_quiz1}
 Opción B: {sentence_quiz2} 
 ¿Qué final de la historia es más probable? 
 Elige entre las opciones A y B. 
-La respuesta es:  {cot}"
+La respuesta es:  {cot}";"El argumento:  {premise} 
+¿ Qué es lo que está pasando?  {hypothesis} 
+¿La premisa implica la hipótesis?  
+Elige entre sí o no. 
+La respuesta es:  
+";"El argumento:  {premise} 
+¿ Qué es lo que está pasando?  {hypothesis} 
+¿La premisa implica la hipótesis?  
+Opción A: Sí.  
+Opción B: No.  
+Elige entre la opción A y B.  
+La respuesta es: "
 45;srp_Cyrl;"Питање:  {question} 
 На основу питања, формулишите нумерички одговор.  Одговор: ";"Питање:  {question} 
 На основу питања, формулишите нумерички одговор.  Одговор:  Размислимо корак по корак. ";"Предмет:  {premise} 
 Опција А:  {choice1} 
-Опција Б: {choice2} 
+Опција B: {choice2} 
 На основу претпоставке, који је разлог вероватнији? 
-Изаберите између опција А и Б. 
+Изаберите између опција А и B. 
 Одговор:  {cot}";"Предмет:  {premise} 
 Опција А:  {choice1} 
-Опција Б: {choice2} 
+Опција B: {choice2} 
 На основу претпоставке, који је ефекат вероватнији? 
-Изаберите између опција А и Б. 
+Изаберите између опција А и B. 
 Одговор:  {cot}";Размислимо корак по корак. ;"Размислимо о следећој причи:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 Опција А:  {sentence_quiz1} 
-Опција Б: {sentence_quiz2} 
+Опција B: {sentence_quiz2} 
 Који крај приче је највероватнији? 
-Изаберите између опција А и Б. 
-Одговор:  {cot}"
+Изаберите између опција А и B. 
+Одговор:  {cot}";"Предмет:  {premise} 
+Хипотеза:  {hypothesis} 
+Да ли претпоставка подразумева хипотезу?  
+Изаберите између да или не. 
+Одговор:  
+";"Предмет:  {premise} 
+Хипотеза:  {hypothesis} 
+Да ли претпоставка подразумева хипотезу?  
+Опција А: Да.  
+Опција B: Не.  
+Изаберите између опција А и B.  
+Одговор: "
 46;swe_Latn;"Fråga:  {question} 
 Utgå från frågan och formulera ett numeriskt svar.  Svar: ";"Fråga:  {question} 
 Utgå från frågan och formulera ett numeriskt svar.  Svar:  Vi tänker steg för steg. ";"Förutsättning:  {premise} 
@@ -891,7 +1397,18 @@ Alternativ A:  {sentence_quiz1}
 Alternativ B: {sentence_quiz2} 
 Vilket slut på historien är mest troligt? 
 Välj mellan alternativ A och B. 
-Svar:  {cot}"
+Svar:  {cot}";"Förutsättning:  {premise} 
+Hypotesen:  {hypothesis} 
+Innebär premissen hypotesen?  
+Välj mellan ja eller nej. 
+Svar:  
+";"Förutsättning:  {premise} 
+Hypotesen:  {hypothesis} 
+Innebär premissen hypotesen?  
+Alternativ A: Ja.  
+Alternativ B: Nej.  
+Välj mellan alternativ A och B.  
+Svar: "
 47;swh_Latn;"Swali:  {question} 
 Kwa kutegemea swali hilo, andika jibu la namba.  Jibu: ";"Swali:  {question} 
 Kwa kutegemea swali hilo, andika jibu la namba.  Jibu:  Hebu tufikirie hatua kwa hatua. ";"Msingi:  {premise} 
@@ -910,7 +1427,18 @@ Chaguo A:  {sentence_quiz1}
 Chaguo B: {sentence_quiz2} 
 Ni mwisho gani wa hadithi hiyo ambao huenda ukawa wa kweli zaidi? 
 Chagua kati ya chaguo A na B. 
-Jibu:  {cot}"
+Jibu:  {cot}";"Msingi:  {premise} 
+Dhana:  {hypothesis} 
+Je, dhana hiyo inatia ndani nadharia?  
+Chagua kati ya ndiyo au hapana. 
+Jibu: 
+";"Msingi:  {premise} 
+Dhana:  {hypothesis} 
+Je, dhana hiyo inatia ndani nadharia?  
+Chaguo la A: Ndiyo.  
+Chaguo la B: La.  
+Chagua kati ya chaguo A na B.  
+Jibu: "
 48;tam_Taml;"கேள்வி:  {question} 
 கேள்விக்குரிய விடையை அடிப்படையாகக் கொண்டு, ஒரு எண் விடையை உருவாக்குங்கள்.  விடை: ";"கேள்வி:  {question} 
 கேள்விக்குரிய விடையை அடிப்படையாகக் கொண்டு, ஒரு எண் விடையை உருவாக்குங்கள்.  விடை:  படிப்படியாக சிந்திப்போம். ";"முன்நிபந்தனை:  {premise} 
@@ -929,7 +1457,18 @@ A மற்றும் B விருப்பங்களில் ஒன்�
 விருப்பம் B: {sentence_quiz2} 
 கதைக்கு எந்த முடிவு மிகவும் சாத்தியம்? 
 A மற்றும் B விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுங்கள். 
-விடை:  {cot}"
+விடை:  {cot}";"முன்நிபந்தனை:  {premise} 
+கருதுகோள்:  {hypothesis} 
+முன்நிபந்தனை கருதுகோளை உள்ளடக்குகிறதா?  
+ஆம் அல்லது இல்லை இடையே தேர்வு. 
+விடை: 
+";"முன்நிபந்தனை:  {premise} 
+கருதுகோள்:  {hypothesis} 
+முன்நிபந்தனை கருதுகோளை உள்ளடக்குகிறதா?  
+விருப்பம் A: ஆம்.  
+விருப்பம் B: இல்லை.  
+A மற்றும் B விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுங்கள்.  
+விடை: "
 49;tel_Telu;"ప్రశ్న:  {question} 
 ప్రశ్న ఆధారంగా, ఒక సంఖ్యా జవాబును రూపొందించండి.  జవాబు: ";"ప్రశ్న:  {question} 
 ప్రశ్న ఆధారంగా, ఒక సంఖ్యా జవాబును రూపొందించండి.  జవాబు:  యొక్క అడుగు ద్వారా అడుగు ఆలోచించండి లెట్. ";"ప్రమేయం:  {premise} 
@@ -948,7 +1487,18 @@ A மற்றும் B விருப்பங்களில் ஒன்�
 ఎంపిక B: {sentence_quiz2} 
 కథకు ఏ ముగింపు ఎక్కువగా ఉంటుంది? 
 ఎంపికలు A మరియు B మధ్య ఎంచుకోండి. 
-జవాబు:  {cot}"
+జవాబు:  {cot}";"ప్రమేయం:  {premise} 
+పరికల్పన:  {hypothesis} 
+ఆవరణలో పరికల్పన ఉందా?  
+అవును లేదా కాదు మధ్య ఎంచుకోండి. 
+జవాబు: 
+";"ప్రమేయం:  {premise} 
+పరికల్పన:  {hypothesis} 
+ఆవరణలో పరికల్పన ఉందా?  
+ఎంపిక A: అవును.  
+ఎంపిక B: లేదు.  
+ఎంపిక A మరియు B మధ్య ఎంచుకోండి.  
+జవాబు: "
 50;tgl_Latn;"Tanong:  {question} 
 Batay sa tanong, mag-formula ng numerikong sagot.  Sagot: ";"Tanong:  {question} 
 Batay sa tanong, mag-formula ng numerikong sagot.  Sagot:  Mag-isip tayo nang dahan-dahan. ";"Ang premisa:  {premise} 
@@ -967,7 +1517,18 @@ Pagpipilian A:  {sentence_quiz1}
 Pagpipilian B: {sentence_quiz2} 
 Alin ang malamang na wakas ng kuwento? 
 Pumili sa pagitan ng mga pagpipilian A at B. 
-Sagot:  {cot}"
+Sagot:  {cot}";"Ang premisa:  {premise} 
+Ang hipotesis:  {hypothesis} 
+Ang premisa ba ay sumasailalim sa hipotesis?  
+Piliin sa pagitan ng oo o hindi. 
+Sagot: 
+";"Ang premisa:  {premise} 
+Ang hipotesis:  {hypothesis} 
+Ang premisa ba ay sumasailalim sa hipotesis?  
+Pagpipilian A: Oo.  
+Pagpipilian B: Hindi.  
+Pumili sa pagitan ng pagpipilian A at B.  
+Sagot: "
 51;tha_Thai;"คําถาม:  {question} 
 จากคําถามนี้ สร้างคําตอบด้วยตัวเลข  ตอบ: ";"คําถาม:  {question} 
 จากคําถามนี้ สร้างคําตอบด้วยตัวเลข  ตอบ:  ลองคิดดูทีละขั้นตอน ";"ประเด็น:  {premise} 
@@ -986,7 +1547,18 @@ Sagot:  {cot}"
 ตัวเลือก B: {sentence_quiz2} 
 เรื่องนี้จบลงแบบไหนดี 
 เลือกระหว่างตัวเลือก A และ B 
-ตอบ:  {cot}"
+ตอบ:  {cot}";"ประเด็น:  {premise} 
+สมมุติการณ์:  {hypothesis} 
+หลักฐานนั้นมีผลต่อสมมุติฐานหรือไม่  
+เลือกระหว่างใช่หรือไม่ 
+ตอบ: 
+";"ประเด็น:  {premise} 
+สมมุติการณ์:  {hypothesis} 
+หลักฐานนั้นมีผลต่อสมมุติฐานหรือไม่  
+ตัวเลือก A: ใช่  
+ตัวเลือก B: ไม่  
+เลือกระหว่างทางเลือก A และ B  
+ตอบ: "
 52;tur_Latn;"Soru:  {question} 
 Soruya dayanarak, sayısal bir cevap formüle edin.  Cevap: ";"Soru:  {question} 
 Soruya dayanarak, sayısal bir cevap formüle edin.  Cevap:  Adım adım düşünelim. ";"Özet:  {premise} 
@@ -1005,7 +1577,18 @@ Seçenek A:  {sentence_quiz1}
 Seçenek B: {sentence_quiz2} 
 Hikayenin hangi sonu daha muhtemel? 
 A ve B seçenekleri arasında seçim yap. 
-Cevap:  {cot}"
+Cevap:  {cot}";"Özet:  {premise} 
+Hipotez:  {hypothesis} 
+Önerge hipotezi gerektiriyor mu?  
+Evet ya da hayır arasında bir seçim yap. 
+Cevap:  
+";"Özet:  {premise} 
+Hipotez:  {hypothesis} 
+Önerge hipotezi gerektiriyor mu?  
+Seçenek A: Evet.  
+Seçenek B: Hayır.  
+A ve B seçenekleri arasında seçim yap.  
+Cevap: "
 53;ukr_Cyrl;"Питання:  {question} 
 Визначте число, яке ви можете дати за допомогою числа.  Відповідь: ";"Питання:  {question} 
 Визначте число, яке ви можете дати за допомогою числа.  Відповідь:  Давайте подумаємо крок за кроком. ";"Попередня:  {premise} 
@@ -1024,26 +1607,48 @@ Cevap:  {cot}"
 Вариант В: {sentence_quiz2} 
 Який кінець історії найбільш ймовірний? 
 Вибирай між варіантами А і В. 
-Відповідь:  {cot}"
+Відповідь:  {cot}";"Попередня:  {premise} 
+Гіпотеза:  {hypothesis} 
+Чи передбачає це гіпотезу?  
+Вибирай між ""так"" або ""ні"". 
+Відповідь: 
+";"Попередня:  {premise} 
+Гіпотеза:  {hypothesis} 
+Чи передбачає це гіпотезу?  
+Вариант А: Так.  
+Вариант B: Ні.  
+Вибирай між варіантами А і В.  
+Відповідь: "
 54;urd_Arab;"سوال:  {question} 
 سوال کی بنیاد پر، ایک عددی جواب تیار کریں.  جواب: ";"سوال:  {question} 
 سوال کی بنیاد پر، ایک عددی جواب تیار کریں.  جواب:  چلو قدم بہ قدم سوچتے ہیں. ";"پیش گوئی:  {premise} 
 آپشن A:  {choice1} 
-آپشن بی: {choice2} 
+آپشن B: {choice2} 
 اس بنیاد پر، جس وجہ سے زیادہ امکان ہے؟ 
 اختیارات A اور B میں سے انتخاب کریں. 
 جواب:  {cot}";"پیش گوئی:  {premise} 
 آپشن A:  {choice1} 
-آپشن بی: {choice2} 
+آپشن B: {choice2} 
 اس فرض پر مبنی، کون سا اثر زیادہ امکان ہے؟ 
 اختیارات A اور B میں سے انتخاب کریں. 
 جواب:  {cot}";چلو قدم بہ قدم سوچتے ہیں. ;"ایک کہانی پر غور کریں:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
 آپشن A:  {sentence_quiz1} 
-آپشن بی: {sentence_quiz2} 
+آپشن B: {sentence_quiz2} 
 کہانی کا کون سا اختتام زیادہ امکان ہے؟ 
 اختیارات A اور B میں سے انتخاب کریں. 
-جواب:  {cot}"
+جواب:  {cot}";"پیش گوئی:  {premise} 
+مفروضہ:  {hypothesis} 
+کیا فرض سے مفروضہ منسلک ہے؟  
+ہاں یا نہیں کے درمیان منتخب کریں. 
+جواب:  
+";"پیش گوئی:  {premise} 
+مفروضہ:  {hypothesis} 
+کیا فرض سے مفروضہ منسلک ہے؟  
+آپشن A: ہاں۔  
+آپشن B: نہیں  
+آپشن A اور B میں سے انتخاب کریں۔  
+جواب: "
 55;vie_Latn;"Câu hỏi:  {question} 
 Dựa trên câu hỏi, hãy xây dựng một câu trả lời bằng số.  Trả lời: ";"Câu hỏi:  {question} 
 Dựa trên câu hỏi, hãy xây dựng một câu trả lời bằng số.  Trả lời:  Hãy suy nghĩ từng bước một. ";"Tiền đề:  {premise} 
@@ -1062,45 +1667,78 @@ Tùy chọn A:  {sentence_quiz1}
 Tùy chọn B: {sentence_quiz2} 
 Câu chuyện này có kết thúc như thế nào? 
 Chọn giữa lựa chọn A và B. 
-Trả lời:  {cot}"
+Trả lời:  {cot}";"Tiền đề:  {premise} 
+Giả thuyết:  {hypothesis} 
+Liệu tiền đề có liên quan đến giả thuyết?  
+Chọn giữa có hay không. 
+Trả lời:
+";"Tiền đề:  {premise} 
+Giả thuyết:  {hypothesis} 
+Liệu tiền đề có liên quan đến giả thuyết?  
+Tùy chọn A: Có.  
+Tùy chọn B: Không.  
+Chọn giữa lựa chọn A và B.  
+Trả lời: "
 56;yue_Hant;"提問:  {question} 
 根據問題,填出一個數值  答案: ";"提問:  {question} 
 根據問題,填出一個數值  答案:  我哋一步一步諗下 ";"基本原理:  {premise} 
-選擇A:  {choice1} 
+選擇 A:  {choice1} 
 選擇 B: {choice2} 
 根據呢個假設,邊個原因係最有可能發生嘅呢? 
 喺選項A同B之間做決定 
 答案:  {cot}";"基本原理:  {premise} 
-選擇A:  {choice1} 
+選擇 A:  {choice1} 
 選擇 B: {choice2} 
 根據呢個假設,邊個影響係最有可能發生嘅呢? 
 喺選項A同B之間做決定 
 答案:  {cot}";我哋一步一步諗下 ;"嚟睇下呢一個故事:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-選擇A:  {sentence_quiz1} 
+選擇 A:  {sentence_quiz1} 
 選擇 B: {sentence_quiz2} 
 呢個故事到底會點樣結束呢? 
 喺選項A同B之間做決定 
-答案:  {cot}"
+答案:  {cot}";"基本原理:  {premise} 
+假設:  {hypothesis} 
+假設有冇同假設有關?  
+你可以揀""係""或者""唔係"". 
+答案: 
+";"基本原理:  {premise} 
+假設:  {hypothesis} 
+假設有冇同假設有關?  
+選擇A:係  
+選擇 B:無  
+喺選項A同B之間做決定  
+答案: "
 57;zho_Hant;"問題:  {question} 
 根據問題, 編寫數字上的答案.  答案:沒有 ";"問題:  {question} 
 根據問題, 編寫數字上的答案.  答案:沒有  我們先來一步一步思考. ";"預設:  {premise} 
-選擇A:  {choice1} 
-選擇B: {choice2} 
+選擇 A:  {choice1} 
+選擇 B: {choice2} 
 根據前提, 哪個原因更有可能? 
 選擇A和B的選項. 
-答案:沒有  {cot}";"預設:  {premise} 
-選擇A:  {choice1} 
-選擇B: {choice2} 
+答案:  {cot}";"預設:  {premise} 
+選擇 A:  {choice1} 
+選擇 B: {choice2} 
 根據前提, 哪一項影響更有可能發生? 
 選擇A和B的選項. 
-答案:沒有  {cot}";我們先來一步一步思考. ;"請考慮以下故事:  
+答案:  {cot}";我們先來一步一步思考. ;"請考慮以下故事:  
 {input_sentence_1} {input_sentence_2} {input_sentence_3} {input_sentence_4} 
-選擇A:  {sentence_quiz1} 
-選擇B: {sentence_quiz2} 
+選擇 A:  {sentence_quiz1} 
+選擇 B: {sentence_quiz2} 
 這故事的結局是什麼? 
 選擇A和B的選項. 
-答案:沒有  {cot}"
+答案:  {cot}";"預設:  {premise} 
+假設:  {hypothesis} 
+這項假設是否包含假設?  
+選擇是或不是. 
+答案: 
+";"預設:  {premise} 
+假設:  {hypothesis} 
+這項假設是否包含假設?  
+選擇A:是的.  
+選擇B:沒有.  
+選擇在A和B兩個選項中.  
+答案:"
 58;zsm_Latn;"Soalan:  {question} 
 Berdasarkan soalan, formulakan jawapan berangka.  Jawapan: ";"Soalan:  {question} 
 Berdasarkan soalan, formulakan jawapan berangka.  Jawapan:  Mari kita fikirkan langkah demi langkah. ";"Asas:  {premise} 
@@ -1119,7 +1757,18 @@ Pilihan A:  {sentence_quiz1}
 Pilihan B: {sentence_quiz2} 
 Yang mana akhir cerita yang paling mungkin? 
 Pilih antara pilihan A dan B. 
-Jawapan:  {cot}"
+Jawapan:  {cot}";"Asas:  {premise} 
+Hipotesis:  {hypothesis} 
+Adakah premis itu melibatkan hipotesis?  
+Pilih antara ya atau tidak. 
+Jawapan: 
+";"Asas:  {premise} 
+Hipotesis:  {hypothesis} 
+Adakah premis itu melibatkan hipotesis?  
+Pilihan A: Ya.  
+Pilihan B: Tidak.  
+Pilih antara pilihan A dan B.  
+Jawapan: "
 59;zul_Latn;"Umbuzo:  {question} 
 Ngokusekelwe embuzweni, nikeza impendulo enomboro.  Impendulo: ";"Umbuzo:  {question} 
 Ngokusekelwe embuzweni, nikeza impendulo enomboro.  Impendulo:  Ake sicabange ngesinyathelo ngesinyathelo. ";"Isisekelo:  {premise} 
@@ -1138,7 +1787,18 @@ Okukhethwa kukho A:  {sentence_quiz1}
 Okukhethwa kukho B: {sentence_quiz2} 
 Yikuphi ukuphela kwendaba okungenzeka kakhulu? 
 Khetha phakathi kwezinketho A no-B. 
-Impendulo:  {cot}"
+Impendulo:  {cot}";"Isisekelo:  {premise} 
+Umbono:  {hypothesis} 
+Ingabe isisekelo sihilela umbono?  
+Khetha phakathi kokuthi yebo noma cha. 
+Impendulo:  
+";"Isisekelo:  {premise} 
+Umbono:  {hypothesis} 
+Ingabe isisekelo sihilela umbono?  
+Okukhethwa kukho A: Yebo.  
+Okukhethwa kukho B: Cha.  
+Khetha phakathi kokukhethwa kukho okungu-A no-B.  
+Impendulo: "
 60;eus_Latn;"Galdera bat:  {question} 
 Galdera horren arabera, erantzun numerikoa formulatu.  Erantzuna: ";"Galdera bat:  {question} 
 Galdera horren arabera, erantzun numerikoa formulatu.  Erantzuna:  Urratsez urrats pentsatu behar dugu. ";"Helburua:  {premise} 
@@ -1157,4 +1817,15 @@ A aukera: {sentence_quiz1}
 B aukera: {sentence_quiz2} 
 Zein da istorioaren bukaera? 
 A eta B aukerak. 
-Erantzuna:  {cot}"
+Erantzuna:  {cot}";"Helburua:  {premise} 
+Hipotesi bat da:  {hypothesis} 
+Premisa hipotesiarekin bat dator?  
+Bai edo ez? 
+Erantzuna: 
+";"Helburua:  {premise} 
+Hipotesi bat da:  {hypothesis} 
+Premisa hipotesiarekin bat dator?  
+A aukera: bai  
+B aukera: ez.  
+A eta B aukerak.  
+Erantzuna: "

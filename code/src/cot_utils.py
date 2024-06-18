@@ -320,35 +320,11 @@ def get_prompt(row,task,prompt_setting,instr_lang):
                                     sentence_quiz2 = row['sentence_quiz2'],
                                     cot = cot)
         
-    # elif task == 'coinflip':
+        elif task == 'bnli':
 
-    #     if prompt_setting == 'cot':
-            
-    #         return generate_message("Question: {question} \nOption A: Yes \nOption B: No \nBased on the question, which option is true? \nPick between options A and B. \nAnswer: Let's think step by step.",
-    #                                 question = row['question'])
-        
-    #     elif prompt_setting == 'basic':
-
-    #         return generate_message('Question: {question} \nOption A: Yes \nOption B: No \nBased on the question, which option is true? \nPick between options A and B. \nAnswer: ',
-    #                                 question = row['question'])         
-          
-    # elif task == 'shuffled_objects':
-
-    #     if prompt_setting == 'cot':
-
-    #         return generate_message("Question: {question} \nOption A: {a} \nOption B: {b} \nOption C: {c} \nBased on the question, which option is true? \nPick between options A, B and C. \nAnswer: Let's think step by step.",
-    #                                 question = row['input'],
-    #                                 a = row['A'],
-    #                                 b = row['B'],
-    #                                 c = row['C'])
-
-    #     elif prompt_setting == 'basic':
-            
-    #         return generate_message("Question: {question} \nOption A: {a} \nOption B: {b} \nOption C: {c} \nBased on the question, which option is true? \nPick between options A, B and C. \nAnswer: ",
-    #                                 question = row['input'],
-    #                                 a = row['A'],
-    #                                 b = row['B'],
-    #                                 c = row['C'])
+            return generate_message(instructions.loc[instr_lang]['bnli'],
+                                    premise = row['premise'], 
+                                    hypothesis = row['hypothesis'])
 
 def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenizer,name):
     """
@@ -385,7 +361,7 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
                                             repetition_penalty=1.18, # penalize the model for repeating itself
                                             num_return_sequences=1,
                                             eos_token_id=tokenizer.eos_token_id,
-                                            max_new_tokens=500, # max 6 exemplars + question?
+                                            max_new_tokens=20, 
                                             return_full_text=False)
         
         for seq in sequences:
@@ -404,14 +380,12 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
     elif task == 'msvamp':
         title = name + '_msvamp_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
 
-    # elif task == 'coinflip':
-    #     title = name + '_coinflip_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
-
-    # elif task == 'shuffled_objects':
-    #     title = name + '_shuffled_objects_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
-
     elif task == 'xstorycloze':
         title = name + '_xstorycloze_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
+
+    elif task == 'bnli':
+
+        title = name + '_bnli_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
 
     response.to_csv('results/' + title, sep=';', index=False, header=False)
 
@@ -465,24 +439,6 @@ def calculate_accuracy(df1,df2,task):
 
         return accuracy
 
-    # elif task == 'coinflip':
-
-    #     correct_answerlist = df1['answer_ab'].tolist()
-
-    #     nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if x == y)
-    #     accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
-
-    #     return accuracy
-    
-    # elif task == 'shuffled_objects':
-
-    #     correct_answerlist = df1['answer_abc'].tolist()
-
-    #     nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if x == y)
-    #     accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
-
-    #     return accuracy
-    
 def extract_numeric_answer(inputstring):
     """
     Finds the numeric answer in the model's response.

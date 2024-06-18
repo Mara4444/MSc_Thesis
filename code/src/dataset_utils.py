@@ -265,6 +265,12 @@ def get_translated_dataset_df(name,lang):
 
         return df
     
+    elif name == 'bnli':
+
+        df = pd.read_csv('./datasets/bnli/' + lang + '.csv',sep=',') 
+
+        return df
+    
     else:
         print("Dataset name is not correctly specified. Please input 'mgsm' or 'xcopa'.")
 
@@ -326,18 +332,6 @@ def get_dataset_df(name,lang):
         
         return df
     
-    elif name == "coinflip":
-        
-        dataset = pd.read_csv('./datasets/coinflip/coinflip_' + lang + '.csv', sep=';')
-        
-        return dataset 
-
-    elif name == "shuffled_objects":
-
-        dataset = pd.read_csv('./datasets/shuffled_objects/shuffled_objects_' + lang + '.csv', sep=';')
-        
-        return dataset
-    
     elif name == "xstorycloze":
 
         dataset = load_dataset("juletxara/xstory_cloze",lang)
@@ -349,6 +343,17 @@ def get_dataset_df(name,lang):
                                 'sentence_quiz1' : dataset["eval"]["sentence_quiz1"],
                                 'sentence_quiz2' : dataset["eval"]["sentence_quiz2"],
                                 'answer_right_ending' : dataset["eval"]["answer_right_ending"]
+                                })
+        
+        return df
+    
+    elif name == "bnli":
+
+        dataset = load_dataset("xnli",lang)
+
+        df = pd.DataFrame(data={'premise' : dataset["test"]["premise"],
+                                'hypothesis' : dataset["test"]["hypothesis"],
+                                'label' : dataset["test"]["label"]
                                 })
         
         return df

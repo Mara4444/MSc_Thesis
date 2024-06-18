@@ -845,7 +845,7 @@ D) 52块饼干和55块蛋糕
  27 pens per column x 11 columns = 297 pens (all are wooden pens) So, there are a total of 310 + 297 = 597 pens in the table.
 "
 
-From the problem statement, we know that Fei has 30 pens and wants to put them in rows with 5 pens each. However, there is no possible way for her to do this because she only has 30 pens in total. Therefore, the answer is ""none of the above."""
+From the problem statement, we know that Fei has 30 pens and wants to put them in rows with 5 pens each. However, there is no possible way for her to do this because she only has 30 pens in total. Therefore, the answer is ""none of the above.""
 沒有  我們先來一步一步思考. 菲放了一些铅笔平均分成2行，那么每行放了几支铅笔。  Since there are 6 pens in total, and each row has an equal number of pens, the number of pens in each row is 6/2 = 3. So, there are 3 pens in each row.
 沒有  我們先來一步一步思考.  First, let's count the number of rows that can be made with 35 packages of pencils. Each package contains 4 pencils, so we have 35 x 4 = 140 pencils in total. Now, let's divide the total number of pencils by the number of pencils in each row, which is 2. We get 140 / 2 = 70 rows. Therefore, there are 70 rows that can be made with 35 packages of pencils.
  31 packages x 6 pens per package = 186 pens. So, there are 186 pens in total.

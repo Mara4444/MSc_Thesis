@@ -319,6 +319,11 @@ def get_prompt(row,task,prompt_setting,instr_lang):
                                     sentence_quiz1 = row['sentence_quiz1'],
                                     sentence_quiz2 = row['sentence_quiz2'],
                                     cot = cot)
+    elif task == 'bnli':
+
+        return generate_message(instructions.loc[instr_lang]['bnli2'],
+                                    premise = row['premise'], 
+                                    hypothesis = row['hypothesis'])
         
 def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenizer,name):
     """
@@ -340,13 +345,17 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
 
     promptlist = []
     responselist = []
+    
+    if task == 'bnli':
+
+        df = df[df['label'] != 1]
 
     for index, row in df.iterrows():
         promptlist.append(get_prompt(row,task,prompt_setting,instr_lang))
     
     # print(promptlist)
 
-    batch_size = 128
+    batch_size = 16
 
     for i in range(0, len(promptlist), batch_size):
         batch_prompts = promptlist[i:i + batch_size]
@@ -360,7 +369,7 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
                                         repetition_penalty=1.18,  # penalize the model for repeating itself
                                         num_return_sequences=1,
                                         eos_token_id=tokenizer.eos_token_id,
-                                        max_new_tokens=500)
+                                        max_new_tokens=20)
 
         batch_responses = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
         print(batch_responses)
@@ -382,10 +391,11 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
         """
         before, separator, after = text.rpartition(':')
         return after  
-
+    
     response[0] = response[0].apply(split_at_last_colon) 
-        
+
     if task == 'xcopa':
+
         
         title = name + '_xcopa_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
 
@@ -400,6 +410,10 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
     elif task == 'xstorycloze':
 
         title = name + '_xstorycloze_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
+
+    elif task == 'bnli':
+
+        title = name + '_bnli_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
 
     response.to_csv('results/' + title, sep=';', index=False, header=False)
 
@@ -452,24 +466,18 @@ def calculate_accuracy(df1,df2,task):
         accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
 
         return accuracy
-
-    # elif task == 'coinflip':
-
-    #     correct_answerlist = df1['answer_ab'].tolist()
-
-    #     nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if x == y)
-    #     accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
-
-    #     return accuracy
     
-    # elif task == 'shuffled_objects':
+    elif task == 'bnli':
+        
+        correct_answerlist = df1['label'].tolist()
 
-    #     correct_answerlist = df1['answer_abc'].tolist()
+        map_label = {0: 'yes', 1: 'no', 2: 'no'}
 
-    #     nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if x == y)
-    #     accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
+        nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if map_label[x] == y)
+        accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
 
-    #     return accuracy
+        return accuracy
+
     
 # def extract_numeric_answer(inputstring):
 #     """
@@ -536,7 +544,7 @@ def extract_numeric_answer(inputstring):
             else:
                 return 0.0
     
-def extract_abc_answer(inputstring):
+def extract_ab_answer(inputstring):
     """
     Finds the multiple choice answer (A, B or C) in the model's response.
     
@@ -548,7 +556,7 @@ def extract_abc_answer(inputstring):
     """
     if isinstance(inputstring, str):
 
-        matches = re.findall(r'\b[A|B|C]\b', inputstring)
+        matches = re.findall(r'\b[A|B]\b', inputstring)
         
         if len(matches) != 0:
             return matches[0]
@@ -575,10 +583,10 @@ def get_results(df,task,response_loc):
 
     answer_list = []
 
-    if task == 'xcopa' or task == 'xstorycloze' or task == 'coinflip' or task == 'shuffled_objects':
+    if task == 'xcopa' or task == 'xstorycloze':
 
         for i in range(len(response)):
-            answer = extract_abc_answer(response.iloc[i,0])
+            answer = extract_ab_answer(response.iloc[i,0])
             answer_list.append(answer)
 
         response['answer'] = answer_list
@@ -593,5 +601,298 @@ def get_results(df,task,response_loc):
 
         response['answer'] = answer_list
 
-        return calculate_accuracy(df,response,task)
 
+def extract_yesno_answer(inputstring,lang):
+    """
+    Finds the multiple choice answer (yes or no) in the model's response.
+    
+    Parameters:
+    inputstring: The model's response.
+
+    Returns:
+    String value of the multiple choice answer.
+    """
+    if isinstance(inputstring, str):
+        word_map = {
+            'Afrikaans': ['ja', 'nee', 'yes', 'no'],
+            'Arabic': ['نعم', 'لا', 'yes', 'no'],
+            'Armenian': ['այո', 'ոչ', 'yes', 'no'],
+            'Balinese': ['ya', 'tidak', 'yes', 'no'],
+            'Basque': ['bai', 'ez', 'yes', 'no'],
+            'Belarusian': ['так', 'не', 'yes', 'no'],
+            'Bengali': ['হ্যাঁ', 'না', 'yes', 'no'],
+            'Bosnian': ['da', 'ne', 'yes', 'no'],
+            'Bulgarian': ['да', 'не', 'yes', 'no'],
+            'Burmese': ['ဟုတ်ကဲ့', 'မဟုတ်', 'yes', 'no'],
+            'Cantonese': ['係', '唔係', 'yes', 'no'],
+            'Catalan': ['sí', 'no', 'yes'],
+            'Chinese': ['是', '不是', 'yes', 'no'],
+            'Croatian': ['da', 'ne', 'yes', 'no'],
+            'Czech': ['ano', 'ne', 'yes', 'no'],
+            'Danish': ['ja', 'nej', 'yes', 'no'],
+            'Dutch': ['ja', 'nee', 'yes', 'no'],
+            'English': ['yes', 'no'],
+            'Estonian': ['jah', 'ei', 'yes', 'no'],
+            'Finnish': ['kyllä', 'ei', 'yes', 'no'],
+            'French': ['oui', 'non', 'yes', 'no'],
+            'German': ['ja', 'nein', 'yes', 'no'],
+            'Greek': ['ναι', 'όχι', 'yes', 'no'],
+            'Haitian': ['wi', 'non', 'yes', 'no'],
+            'Hebrew': ['כן', 'לא', 'yes', 'no'],
+            'Hindi': ['हाँ', 'नहीं', 'yes', 'no'],
+            'Hungarian': ['igen', 'nem', 'yes', 'no'],
+            'Indonesian': ['ya', 'tidak', 'yes', 'no'],
+            'Italian': ['sì', 'no', 'yes'],
+            'Javanese': ['ya', 'ora', 'yes', 'no'],
+            'Japanese': ['はい', 'いいえ', 'yes', 'no'],
+            'Khmer': ['បាទ', 'ទេ', 'yes', 'no'],
+            'Korean': ['네', '아니요', 'yes', 'no'],
+            'Lao': ['ແມ່ນ', 'ບໍ່', 'yes', 'no'],
+            'Maithili': ['हाँ', 'न', 'yes', 'no'],
+            'Malay': ['ya', 'tidak', 'yes', 'no'],
+            'Malayalam': ['അതെ', 'അല്ല', 'yes', 'no'],
+            'Marathi': ['होय', 'नाही', 'yes', 'no'],
+            'Nepali': ['हो', 'होइन', 'yes', 'no'],
+            'Norwegian': ['ja', 'nei', 'yes', 'no'],
+            'Polish': ['tak', 'nie', 'yes', 'no'],
+            'Portuguese': ['sim', 'não', 'yes', 'no'],
+            'Quechuan': ['arí', 'mana', 'yes', 'no'],
+            'Romanian': ['da', 'nu', 'yes', 'no'],
+            'Russian': ['да', 'нет', 'yes', 'no'],
+            'Serbian': ['да', 'не', 'yes', 'no'],
+            'Slovak': ['áno', 'nie', 'yes', 'no'],
+            'Slovenian': ['ja', 'ne', 'yes', 'no'],
+            'Spanish': ['sí', 'no', 'yes'],
+            'Swahili': ['ndiyo', 'hapana', 'yes', 'no'],
+            'Swedish': ['ja', 'nej', 'yes', 'no'],
+            'Tagalog': ['oo', 'hindi', 'yes', 'no'],
+            'Tamil': ['ஆம்', 'இல்லை', 'yes', 'no'],
+            'Telugu': ['అవును', 'కాదు', 'yes', 'no'],
+            'Thai': ['ใช่', 'ไม่', 'yes', 'no'],
+            'Tibetan': ['ཨེ', 'མིན', 'yes', 'no'],
+            'Turkish': ['evet', 'hayır', 'yes', 'no'],
+            'Ukrainian': ['так', 'ні', 'yes', 'no'],
+            'Urdu': ['ہاں', 'نہیں', 'yes', 'no'],
+            'Vietnamese': ['có', 'không', 'yes', 'no'],
+            'Zulu': ['yebo', 'cha', 'yes', 'no']
+            }
+
+        words = word_map.get(lang, ['yes', 'no'])  # Default to English if language not found
+        pattern = r'\b(?:' + '|'.join(map(re.escape, words)) + r')\b'
+
+        matches = re.findall(pattern, inputstring, re.IGNORECASE)
+        
+        if len(matches) != 0:
+            return matches[0]
+        else: 
+            return ''
+    else:
+        return ''
+    
+def extract_yesno_answer(inputstring,lang):
+    """
+    Finds the multiple choice answer (yes or no) in the model's response.
+    
+    Parameters:
+    inputstring: The model's response.
+
+    Returns:
+    String value of the multiple choice answer.
+    """
+    if isinstance(inputstring, str):
+        word_map = {
+            'Afrikaans': ['ja', 'nee', 'yes', 'no'],
+            'Arabic': ['نعم', 'لا', 'yes', 'no'],
+            'Armenian': ['այո', 'ոչ', 'yes', 'no'],
+            'Balinese': ['ya', 'tidak', 'yes', 'no'],
+            'Basque': ['bai', 'ez', 'yes', 'no'],
+            'Belarusian': ['так', 'не', 'yes', 'no'],
+            'Bengali': ['হ্যাঁ', 'না', 'yes', 'no'],
+            'Bosnian': ['da', 'ne', 'yes', 'no'],
+            'Bulgarian': ['да', 'не', 'yes', 'no'],
+            'Burmese': ['ဟုတ်ကဲ့', 'မဟုတ်', 'yes', 'no'],
+            'Cantonese': ['係', '唔係', 'yes', 'no'],
+            'Catalan': ['sí', 'no', 'yes'],
+            'Chinese': ['是', '不', 'yes', 'no'],
+            'Croatian': ['da', 'ne', 'yes', 'no'],
+            'Czech': ['ano', 'ne', 'yes', 'no'],
+            'Danish': ['ja', 'nej', 'yes', 'no'],
+            'Dutch': ['ja', 'nee', 'yes', 'no'],
+            'English': ['yes', 'no'],
+            'Estonian': ['jah', 'ei', 'yes', 'no'],
+            'Finnish': ['kyllä', 'ei', 'yes', 'no'],
+            'French': ['oui', 'non', 'yes', 'no'],
+            'German': ['ja', 'nein', 'yes', 'no'],
+            'Greek': ['ναι', 'όχι', 'yes', 'no'],
+            'Haitian': ['wi', 'non', 'yes', 'no'],
+            'Hebrew': ['כן', 'לא', 'yes', 'no'],
+            'Hindi': ['हाँ', 'नहीं', 'yes', 'no'],
+            'Hungarian': ['igen', 'nem', 'yes', 'no'],
+            'Indonesian': ['ya', 'tidak', 'yes', 'no'],
+            'Italian': ['sì', 'no', 'yes'],
+            'Javanese': ['ya', 'ora', 'yes', 'no'],
+            'Japanese': ['はい', 'いいえ', 'yes', 'no'],
+            'Khmer': ['បាទ', 'ទេ', 'yes', 'no'],
+            'Korean': ['네', '아니요', 'yes', 'no'],
+            'Lao': ['ແມ່ນ', 'ບໍ່', 'yes', 'no'],
+            'Maithili': ['हाँ', 'न', 'yes', 'no'],
+            'Malay': ['ya', 'tidak', 'yes', 'no'],
+            'Malayalam': ['അതെ', 'അല്ല', 'yes', 'no'],
+            'Marathi': ['होय', 'नाही', 'yes', 'no'],
+            'Nepali': ['हो', 'होइन', 'yes', 'no'],
+            'Norwegian': ['ja', 'nei', 'yes', 'no'],
+            'Polish': ['tak', 'nie', 'yes', 'no'],
+            'Portuguese': ['sim', 'não', 'yes', 'no'],
+            'Quechuan': ['arí', 'mana', 'yes', 'no'],
+            'Romanian': ['da', 'nu', 'yes', 'no'],
+            'Russian': ['да', 'нет', 'yes', 'no'],
+            'Serbian': ['да', 'не', 'yes', 'no'],
+            'Slovak': ['áno', 'nie', 'yes', 'no'],
+            'Slovenian': ['ja', 'ne', 'yes', 'no'],
+            'Spanish': ['sí', 'no', 'yes'],
+            'Swahili': ['ndiyo', 'hapana', 'yes', 'no'],
+            'Swedish': ['ja', 'nej', 'yes', 'no'],
+            'Tagalog': ['oo', 'hindi', 'yes', 'no'],
+            'Tamil': ['ஆம்', 'இல்லை', 'yes', 'no'],
+            'Telugu': ['అవును', 'కాదు', 'yes', 'no'],
+            'Thai': ['ใช่', 'ไม่', 'yes', 'no'],
+            'Tibetan': ['ཨེ', 'མིན', 'yes', 'no'],
+            'Turkish': ['evet', 'hayır', 'yes', 'no'],
+            'Ukrainian': ['так', 'ні', 'yes', 'no'],
+            'Urdu': ['ہاں', 'نہیں', 'yes', 'no'],
+            'Vietnamese': ['có', 'không', 'yes', 'no'],
+            'Zulu': ['yebo', 'cha', 'yes', 'no']
+            }
+
+        words = word_map.get(lang, ['yes', 'no'])  # Default to English if language not found
+        pattern = r'(?:' + '|'.join(map(re.escape, words)) + r')'
+
+        matches = re.findall(pattern, inputstring, re.IGNORECASE)
+        
+        if len(matches) != 0:
+            return matches[0]
+        else: 
+            return ''
+    else:
+        return ''
+    
+def calculate_accuracy_bnli(df1,df2,task,lang):
+    """
+    Calculate the accuracy (% correct answers) from two input dfs.
+    
+    Parameters:
+    df1: orginial task English file with correct answer column.
+    df2: response task file with predicted answer column.
+    task: task name.
+
+    Returns:
+    Accuracy score (% of correct answers).
+    """
+
+    predicted_answerlist = df2['answer'].tolist()
+    # print(predicted_answerlist)
+
+    correct_answerlist = df1['label'].tolist()
+    # print(correct_answerlist)
+
+    label_map = {
+    'Afrikaans': {'ja': 0, 'nee': 2, 'yes': 0, 'no': 2},
+    'Arabic': {'نعم': 0, 'لا': 2, 'yes': 0, 'no': 2},
+    'Armenian': {'այո': 0, 'ոչ': 2, 'yes': 0, 'no': 2},
+    'Balinese': {'ya': 0, 'tidak': 2, 'yes': 0, 'no': 2},
+    'Basque': {'bai': 0, 'ez': 2, 'yes': 0, 'no': 2},
+    'Belarusian': {'так': 0, 'не': 2, 'yes': 0, 'no': 2},
+    'Bengali': {'হ্যাঁ': 0, 'না': 2, 'yes': 0, 'no': 2},
+    'Bosnian': {'da': 0, 'ne': 2, 'yes': 0, 'no': 2},
+    'Bulgarian': {'да': 0, 'не': 2, 'yes': 0, 'no': 2},
+    'Burmese': {'ဟုတ်ကဲ့': 0, 'မဟုတ်': 2, 'yes': 0, 'no': 2},
+    'Cantonese': {'係': 0, '唔係': 2, 'yes': 0, 'no': 2},
+    'Catalan': {'sí': 0, 'no': 2, 'yes': 0, 'no': 2},
+    'Chinese': {'是': 0, '不': 2, 'yes': 0, 'no': 2},
+    'Croatian': {'da': 0, 'ne': 2, 'yes': 0, 'no': 2},
+    'Czech': {'ano': 0, 'ne': 2, 'yes': 0, 'no': 2},
+    'Danish': {'ja': 0, 'nej': 2, 'yes': 0, 'no': 2},
+    'Dutch': {'ja': 0, 'nee': 2, 'yes': 0, 'no': 2},
+    'English': {'yes': 0, 'no': 2},
+    'Estonian': {'jah': 0, 'ei': 2, 'yes': 0, 'no': 2},
+    'Finnish': {'kyllä': 0, 'ei': 2, 'yes': 0, 'no': 2},
+    'French': {'oui': 0, 'non': 2, 'yes': 0, 'no': 2},
+    'German': {'ja': 0, 'nein': 2, 'yes': 0, 'no': 2},
+    'Greek': {'ναι': 0, 'όχι': 2, 'yes': 0, 'no': 2},
+    'Haitian': {'wi': 0, 'non': 2, 'yes': 0, 'no': 2},
+    'Hebrew': {'כן': 0, 'לא': 2, 'yes': 0, 'no': 2},
+    'Hindi': {'हाँ': 0, 'नहीं': 2, 'yes': 0, 'no': 2},
+    'Hungarian': {'igen': 0, 'nem': 2, 'yes': 0, 'no': 2},
+    'Indonesian': {'ya': 0, 'tidak': 2, 'yes': 0, 'no': 2},
+    'Italian': {'sì': 0, 'no': 2, 'yes': 0, 'no': 2},
+    'Javanese': {'ya': 0, 'ora': 2, 'yes': 0, 'no': 2},
+    'Japanese': {'はい': 0, 'いいえ': 2, 'yes': 0, 'no': 2},
+    'Khmer': {'បាទ': 0, 'ទេ': 2, 'yes': 0, 'no': 2},
+    'Korean': {'네': 0, '아니요': 2, 'yes': 0, 'no': 2},
+    'Lao': {'ແມ່ນ': 0, 'ບໍ່': 2, 'yes': 0, 'no': 2},
+    'Maithili': {'हाँ': 0, 'न': 2, 'yes': 0, 'no': 2},
+    'Malay': {'ya': 0, 'tidak': 2, 'yes': 0, 'no': 2},
+    'Malayalam': {'അതെ': 0, 'അല്ല': 2, 'yes': 0, 'no': 2},
+    'Marathi': {'होय': 0, 'नाही': 2, 'yes': 0, 'no': 2},
+    'Nepali': {'हो': 0, 'होइन': 2, 'yes': 0, 'no': 2},
+    'Norwegian': {'ja': 0, 'nei': 2, 'yes': 0, 'no': 2},
+    'Polish': {'tak': 0, 'nie': 2, 'yes': 0, 'no': 2},
+    'Portuguese': {'sim': 0, 'não': 2, 'yes': 0, 'no': 2},
+    'Quechua': {'arí': 0, 'mana': 2, 'yes': 0, 'no': 2},
+    'Romanian': {'da': 0, 'nu': 2, 'yes': 0, 'no': 2},
+    'Russian': {'да': 0, 'нет': 2, 'yes': 0, 'no': 2},
+    'Serbian': {'да': 0, 'не': 2, 'yes': 0, 'no': 2},
+    'Slovak': {'áno': 0, 'nie': 2, 'yes': 0, 'no': 2},
+    'Slovenian': {'ja': 0, 'ne': 2, 'yes': 0, 'no': 2},
+    'Spanish': {'sí': 0, 'no': 2, 'yes': 0, 'no': 2},
+    'Swahili': {'ndiyo': 0, 'hapana': 2, 'yes': 0, 'no': 2},
+    'Swedish': {'ja': 0, 'nej': 2, 'yes': 0, 'no': 2},
+    'Tagalog': {'oo': 0, 'hindi': 2, 'yes': 0, 'no': 2},
+    'Tamil': {'ஆம்': 0, 'இல்லை': 2, 'yes': 0, 'no': 2},
+    'Telugu': {'అవును': 0, 'కాదు': 2, 'yes': 0, 'no': 2},
+    'Thai': {'ใช่': 0, 'ไม่': 2, 'yes': 0, 'no': 2},
+    'Tibetan': {'ཨེ': 0, 'མིན': 2, 'yes': 0, 'no': 2},
+    'Turkish': {'evet': 0, 'hayır': 2, 'yes': 0, 'no': 2},
+    'Ukrainian': {'так': 0, 'ні': 2, 'yes': 0, 'no': 2},
+    'Urdu': {'ہاں': 0, 'نہیں': 2, 'yes': 0, 'no': 2},
+    'Vietnamese': {'có': 0, 'không': 2, 'yes': 0, 'no': 2},
+    'Zulu': {'yebo': 0, 'cha': 2, 'yes': 0, 'no': 2}
+}
+
+    nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if y and x == label_map[lang].get(y.lower(), 1))
+    accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
+
+    return accuracy
+    
+def get_results_bnli(df,task,response_loc,lang):
+    """
+    Reads the response csv and calculates the accuracy for a model on a task.
+    
+    Parameters:
+    df: orginial task English file with correct answer column.
+    task: task name
+    response_loc: string location of the response csv file.
+
+    Returns:
+    Accuracy score (%)
+    """
+    response = pd.read_csv(response_loc,sep=';',header=None)
+    response.rename(columns={0:'response'},inplace=True)
+    response = response.map(lambda x: x.replace('\n', ' ') if isinstance(x, str) else x)
+
+    answer_list = []
+
+    if task == 'bnli':
+
+        for i in range(len(response)):
+            # print(response.iloc[i,0])
+            answer = extract_yesno_answer(response.iloc[i,0],lang)
+            answer_list.append(answer)
+
+        response['answer'] = answer_list
+        # print(response)
+        if task == 'bnli':
+
+            df = df[df['label'] != 1]
+
+        return calculate_accuracy_bnli(df,response,task,lang)

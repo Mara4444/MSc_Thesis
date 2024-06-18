@@ -19,8 +19,4 @@ model = AutoModelForSeq2SeqLM.from_pretrained(model_name,token=True)
 # "tgl_Latn", 'tha_Thai',"tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn",""eus_Latn""]
 
 
-translate_dataset(get_dataset_df('mgsm','en'),"mgsm","eus_Latn",model,tokenizer)
-
-translate_dataset(get_dataset_df('xcopa','en'),"xcopa","eus_Latn",model,tokenizer)
-
-translate_dataset(get_dataset_df('msvamp','en'),"msvamp","eus_Latn",model,tokenizer)
+translate_dataset(get_dataset_df('bnli','en'),"bnli","bod_Tibt",model,tokenizer)
