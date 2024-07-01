@@ -546,7 +546,7 @@ def extract_numeric_answer(inputstring):
     
 def extract_ab_answer(inputstring):
     """
-    Finds the multiple choice answer (A, B or C) in the model's response.
+    Finds the multiple choice answer (A, B) in the model's response.
     
     Parameters:
     inputstring: The model's response.

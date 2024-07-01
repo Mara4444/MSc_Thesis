@@ -14,11 +14,22 @@ model = LlamaForCausalLM.from_pretrained(model_name)
 tokenizer.pad_token = "[PAD]"
 tokenizer.padding_side = "left"
 
-mt_langs = ['Tibetan']
+dataset = get_dataset_df("xstorycloze",'en')
+        
+generate_response(df = dataset,
+                  task = "xstorycloze",
+                  task_lang = "English",
+                  instr_lang = "English",
+                  prompt_setting = "cot",
+                  model = model,
+                  tokenizer = tokenizer,
+                  name = "llama-7b")
 
-for lang in mt_langs:
+# mt_langs = ['Tibetan']
 
-    dataset = get_translated_dataset_df("xstorycloze",lang)
+# for lang in mt_langs:
+
+#     dataset = get_translated_dataset_df("xstorycloze",lang)
         
     # generate_response(df = dataset,
     #               task = "xstorycloze",
@@ -29,14 +40,14 @@ for lang in mt_langs:
     #               tokenizer = tokenizer,
     #               name = "llama-7b")
     
-    generate_response(df = dataset,
-                  task = "xstorycloze",
-                  task_lang = lang,
-                  instr_lang ="English",
-                  prompt_setting = "basic",
-                  model = model,
-                  tokenizer = tokenizer,
-                  name = "llama-7b")
+    # generate_response(df = dataset,
+    #               task = "xstorycloze",
+    #               task_lang = lang,
+    #               instr_lang ="English",
+    #               prompt_setting = "basic",
+    #               model = model,
+    #               tokenizer = tokenizer,
+    #               name = "llama-7b")
     
     # xstorycloze_langs = {'ru' : 'Russian',
 #                 'es' : 'Spanish',
